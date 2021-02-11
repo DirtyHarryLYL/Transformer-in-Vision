@@ -22,6 +22,8 @@ Some recent Transformer-based CV works. Welcome to comment or contribute!
 
 - [dk-liang/Awesome-Visual-Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer)
 
+- [yuewang-cuhk/awesome-vision-language-pretraining-papers](https://github.com/yuewang-cuhk/awesome-vision-language-pretraining-papers)
+
 ## Surery: 
 - (arXiv 2020.9) Efficient Transformers: A Survey, [PDF](https://arxiv.org/pdf/2009.06732.pdf)
 
@@ -31,6 +33,8 @@ Some recent Transformer-based CV works. Welcome to comment or contribute!
 - (ICLR'21) UPDET: UNIVERSAL MULTI-AGENT REINFORCEMENT LEARNING VIA POLICY DECOUPLING WITH TRANSFORMERS, [Paper](https://arxiv.org/pdf/2101.08001.pdf), [Code](https://github.com/hhhusiyi-monash/UPDeT)
 
 - (ICLR'21) Deformable DETR: Deformable Transformers for End-to-End Object Detection, [Paper](https://arxiv.org/pdf/2010.04159), [Code](https://github.com/fundamentalvision/Deformable-DETR)
+
+- (ICLR'21) LAMBDANETWORKS: MODELING LONG-RANGE INTERACTIONS WITHOUT ATTENTION, [Paper](https://openreview.net/pdf?id=xTJEN-ggl1b), [Code](https://github.com/lucidrains/lambda-networks)
 
 - (ICLR'21) SUPPORT-SET BOTTLENECKS FOR VIDEO-TEXT REPRESENTATION LEARNING, [Paper](https://arxiv.org/pdf/2010.02824.pdf)
 
@@ -70,6 +74,8 @@ Some recent Transformer-based CV works. Welcome to comment or contribute!
 
 - (arXiv 2021.01) CPTR: FULL TRANSFORMER NETWORK FOR IMAGE CAPTIONING, [Paper](https://arxiv.org/pdf/2101.10804.pdf)
 
+- (arXiv 2021.01) Trans2Seg: Transparent Object Segmentation with Transformer, [Paper](https://arxiv.org/pdf/2101.08461), [Code](https://github.com/xieenze/Trans2Seg)
+
 - (arXiv 2021.01) Scheduled Sampling in Vision-Language Pretraining with Decoupled Encoder-Decoder Network, [Paper](https://arxiv.org/pdf/2101.11562.pdf), [Code](https://github.com/YehLi/TDEN)
 
 - (arXiv 2021.01) Trear: Transformer-based RGB-D Egocentric Action Recognition, [Paper](https://arxiv.org/pdf/2101.03904.pdf)
@@ -84,16 +90,74 @@ Some recent Transformer-based CV works. Welcome to comment or contribute!
 
 - (arXiv 2021.01) Bottleneck Transformers for Visual Recognition, [Paper](https://arxiv.org/pdf/2101.11605.pdf)
 
+- (arXiv 2021.01) Investigating the Vision Transformer Model for Image Retrieval Tasks, [Paper](https://arxiv.org/pdf/2101.03771)
+
 - (arXiv 2021.01) ADDRESSING SOME LIMITATIONS OF TRANSFORMERS WITH FEEDBACK MEMORY, [Paper](https://arxiv.org/pdf/2002.09402.pdf)
 
 - (arXiv 2021.01) Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet, [Paper](https://arxiv.org/pdf/2101.11986.pdf), [Code](https://github.com/yitu-opensource/T2T-ViT)
+
+- (arXiv 2021.01) TrackFormer: Multi-Object Tracking with Transformers, [Paper](https://arxiv.org/pdf/2101.02702)
+
+- (arXiv 2021.01) VisualSparta: Sparse Transformer Fragment-level Matching for Large-scale Text-to-Image Search, [Paper](https://arxiv.org/pdf/2101.00265)
+
+- (arXiv 2021.01) Line Segment Detection Using Transformers without Edges, [Paper](https://arxiv.org/pdf/2101.01909)
 
 - (arXiv 2021.01) Decoupling the Role of Data, Attention, and Losses in Multimodal Transformers, [Paper](https://arxiv.org/pdf/2102.00529.pdf)
 
 - (arXiv 2020.12) Accurate Word Representations with Universal Visual Guidance, [Paper](https://arxiv.org/pdf/2012.15086.pdf)
 
+- (arXiv 2020.12) DETR for Pedestrian Detection, [Paper](https://arxiv.org/pdf/2012.06785)
+
+- (arXiv 2020.12) Transformer Interpretability Beyond Attention Visualization, [Paper](https://arxiv.org/pdf/2012.09838), [Code](https://github.com/hila-chefer/Transformer-Explainability)
+
+- (arXiv 2020.12) PCT: Point Cloud Transformer, [Paper](https://arxiv.org/pdf/2012.09688)
+
+- (arXiv 2020.12) TransPose: Towards Explainable Human Pose Estimation by Transformer, [Paper](https://arxiv.org/pdf/2012.14214)
+
+- (arXiv 2020.12) Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers, [Paper](https://arxiv.org/pdf/2012.15840), [Code](https://github.com/fudan-zvg/SETR)
+
+- () Transformer Guided Geometry Model for Flow-Based Unsupervised Visual Odometry, [Paper](https://arxiv.org/pdf/2101.02143)
+
+- (arXiv 2020.12) Transformer for Image Quality Assessment, [Paper](https://arxiv.org/pdf/2101.01097), [Code](https://github.com/junyongyou/triq)
+
+- (arXiv 2020.12) TransTrack: Multiple-Object Tracking with Transformer, [Paper](https://arxiv.org/pdf/2012.15460), [Code](https://github.com/PeizeSun/TransTrack)
+
+- (arXiv 2020.12) 3D Object Detection with Pointformer, [Paper](https://arxiv.org/pdf/2012.11409)
+
+- (arXiv 2020.12) Training data-efficient image transformers & distillation through attention, [Paper](https://arxiv.org/pdf/2012.12877)
+
+- (arXiv 2020.12) Toward Transformer-Based Object Detection, [Paper](https://arxiv.org/pdf/2012.09958)
+
+- (arXiv 2020.12) SceneFormer: Indoor Scene Generation with Transformers, [Paper](https://arxiv.org/pdf/2012.09793)
+
+- (arXiv 2020.12) Point Transformer, [Paper](https://arxiv.org/pdf/2012.09164)
+
+- (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [Paper](https://arxiv.org/pdf/2012.09760)
+
 - (arXiv 2020.12) Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting, [Paper](https://arxiv.org/pdf/2012.07436.pdf)
+
+- (arXiv 2020.12) Pre-Trained Image Processing Transformer, [Paper](https://arxiv.org/pdf/2012.00364)
 
 - (arXiv 2020.12) Taming Transformers for High-Resolution Image Synthesis, [Paper](https://arxiv.org/pdf/2012.09841.pdf), [Code](https://github.com/CompVis/taming-transformers)
 
+- (arXiv 2020.11) End-to-end Lane Shape Prediction with Transformers, [Paper](https://arxiv.org/pdf/2011.04233), [Code](https://github.com/liuruijin17/LSTR)
+
+- (arXiv 2020.11) UP-DETR: Unsupervised Pre-training for Object Detection with Transformers, [Paper](https://arxiv.org/pdf/2011.09094)
+
+- (arXiv 2020.11) End-to-End Video Instance Segmentation with Transformers, [Paper](https://arxiv.org/pdf/2011.14503)
+
+- (arXiv 2020.11) Rethinking Transformer-based Set Prediction for Object Detection, [Paper](https://arxiv.org/pdf/2011.10881)
+
+- (arXiv 2020.11) General Multi-label Image Classification with Transformers, [Paper](https://arxiv.org/pdf/2011.14027}
+
+- (arXiv 2020.11) End-to-End Object Detection with Adaptive Clustering Transformer, [Paper](https://arxiv.org/pdf/2011.09315)
+
+- (arXiv 2020.10) An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale, [Paper](https://arxiv.org/pdf/2010.11929), [Code](https://github.com/google-research/vision_transformer)
+
 - (arXiv 2020.07) Oscar: Object-Semantics Aligned Pre-training for Vision-and-Language Tasks, [Paper](https://arxiv.org/pdf/2004.06165.pdf), [Code](https://github.com/microsoft/Oscar)
+
+- (arXiv 2020.07) Feature Pyramid Transformer, [Paper](https://arxiv.org/pdf/2007.09451), [Code](https://github.com/ZHANGDONG-NJUST/FPT)
+
+- (arXiv 2020.06) Visual Transformers: Token-based Image Representation and Processing for Computer Vision, [Paper](https://arxiv.org/pdf/2006.03677)
+
+- (arXiv 2019.08) LXMERT: Learning Cross-Modality Encoder Representations from Transformers, [Paper](https://arxiv.org/pdf/1908.07490.pdf), [Code](https://github.com/airsplay/lxmert)
