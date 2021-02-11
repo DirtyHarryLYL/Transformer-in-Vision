@@ -1,6 +1,8 @@
 # Transformer-in-Vision
 Some recent Transformer-based CV works. Welcome to comment or contribute!
 
+Updating.
+
 ## Resource
 - Attention is all you need, [Paper](https://arxiv.org/pdf/1706.03762.pdf)
 
@@ -161,3 +163,6 @@ Some recent Transformer-based CV works. Welcome to comment or contribute!
 - (arXiv 2020.06) Visual Transformers: Token-based Image Representation and Processing for Computer Vision, [Paper](https://arxiv.org/pdf/2006.03677)
 
 - (arXiv 2019.08) LXMERT: Learning Cross-Modality Encoder Representations from Transformers, [Paper](https://arxiv.org/pdf/1908.07490.pdf), [Code](https://github.com/airsplay/lxmert)
+
+## TODO
+- [ ] V-L representation learning
