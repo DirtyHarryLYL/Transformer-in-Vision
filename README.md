@@ -118,7 +118,7 @@ Updating.
 
 - (arXiv 2020.12) Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers, [Paper](https://arxiv.org/pdf/2012.15840), [Code](https://github.com/fudan-zvg/SETR)
 
-- () Transformer Guided Geometry Model for Flow-Based Unsupervised Visual Odometry, [Paper](https://arxiv.org/pdf/2101.02143)
+- (arXiv 2020.12) Transformer Guided Geometry Model for Flow-Based Unsupervised Visual Odometry, [Paper](https://arxiv.org/pdf/2101.02143)
 
 - (arXiv 2020.12) Transformer for Image Quality Assessment, [Paper](https://arxiv.org/pdf/2101.01097), [Code](https://github.com/junyongyou/triq)
 
