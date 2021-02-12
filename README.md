@@ -60,6 +60,8 @@ Updating.
 
 - (EMNLP'19) Effective Use of Transformer Networks for Entity Tracking, [[Paper]](https://arxiv.org/pdf/1909.02635), [[Code]](https://github.com/aditya2211/transformer-entity-tracking)
 
+- (arXiv 2021.02) Is Space-Time Attention All You Need for Video Understanding? [[Paper]](https://arxiv.org/pdf/2102.05095.pdf)
+
 - (arXiv 2021.02) Less is More: CLIPBERT for Video-and-Language Learning via Sparse Sampling, [[Paper]](https://arxiv.org/pdf/2102.06183.pdf), [[Code]](https://github.com/jayleicn/ClipBERT)
 
 - (arXiv 2021.02) Video Transformer Network, [[Paper]](https://arxiv.org/pdf/2102.00719.pdf)
