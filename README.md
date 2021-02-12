@@ -1,5 +1,5 @@
 # Transformer-in-Vision
-Some recent Transformer-based CV works. Welcome to comment or contribute!
+Some recent Transformer-based CV works. Welcome to comment/contribute!
 
 Updating.
 
