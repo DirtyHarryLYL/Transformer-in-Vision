@@ -28,7 +28,7 @@ Updating.
 
 - [yuewang-cuhk/awesome-vision-language-pretraining-papers](https://github.com/yuewang-cuhk/awesome-vision-language-pretraining-papers)
 
-## Surery: 
+## Survery: 
 - (arXiv 2020.9) Efficient Transformers: A Survey, [PDF](https://arxiv.org/pdf/2009.06732.pdf)
 
 - (arXiv 2020.1) Transformers in Vision: A Survey, [PDF](https://arxiv.org/pdf/2101.01169.pdf)
