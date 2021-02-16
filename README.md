@@ -60,6 +60,8 @@ Updating.
 
 - (EMNLP'19) Effective Use of Transformer Networks for Entity Tracking, [[Paper]](https://arxiv.org/pdf/1909.02635), [[Code]](https://github.com/aditya2211/transformer-entity-tracking)
 
+- (arXiv 2021.02) TransGAN: Two Transformers Can Make One Strong GAN, [[Paper]](https://arxiv.org/pdf/2102.07074.pdf), [[Code]](https://github.com/VITA-Group/TransGAN)
+
 - (arXiv 2021.02) END-TO-END AUDIO-VISUAL SPEECH RECOGNITION WITH CONFORMERS, [[Paper]](https://arxiv.org/pdf/2102.06657.pdf)
 
 - (arXiv 2021.02) Is Space-Time Attention All You Need for Video Understanding? [[Paper]](https://arxiv.org/pdf/2102.05095.pdf)
