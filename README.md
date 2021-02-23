@@ -34,31 +34,10 @@ Updating.
 - (arXiv 2020.1) Transformers in Vision: A Survey, [PDF](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
-- (ICLR'21) UPDET: UNIVERSAL MULTI-AGENT REINFORCEMENT LEARNING VIA POLICY DECOUPLING WITH TRANSFORMERS, [[Paper]](https://arxiv.org/pdf/2101.08001.pdf), [[Code]](https://github.com/hhhusiyi-monash/UPDeT)
 
-- (ICLR'21) Deformable DETR: Deformable Transformers for End-to-End Object Detection, [[Paper]](https://arxiv.org/pdf/2010.04159), [[Code]](https://github.com/fundamentalvision/Deformable-DETR)
+- (arXiv 2021.02) Transformer is All You Need: Multimodal Multitask Learning with a Unified Transformer, [[Paper]](https://arxiv.org/pdf/2102.10772.pdf), [[Project]](https://mmf.sh/), [[Code]](https://github.com/facebookresearch/mmf)
 
-- (ICLR'21) LAMBDANETWORKS: MODELING LONG-RANGE INTERACTIONS WITHOUT ATTENTION, [[Paper]](https://openreview.net/pdf?id=xTJEN-ggl1b), [[Code]](https://github.com/lucidrains/lambda-networks)
-
-- (ICLR'21) SUPPORT-SET BOTTLENECKS FOR VIDEO-TEXT REPRESENTATION LEARNING, [[Paper]](https://arxiv.org/pdf/2010.02824.pdf)
-
-- (ICLR'21) COLORIZATION TRANSFORMER, [[Paper]](https://arxiv.org/pdf/2102.04432.pdf), [[Code]](https://github.com/google-research/google-research/tree/master/coltran)
-
-- (ECCV'20) Multi-modal Transformer for Video Retrieval, [[Paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490205.pdf)
-
-- (ECCV'20) Connecting Vision and Language with Localized Narratives, [[Paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500630.pdf)
-
-- (ECCV'20) DETR: End-to-End Object Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2005.12872), [[Code]](https://github.com/facebookresearch/detr)
-
-- (CVPR'20) Multi-Modality Cross Attention Network for Image and Sentence Matching, [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wei_Multi-Modality_Cross_Attention_Network_for_Image_and_Sentence_Matching_CVPR_2020_paper.pdf), [[Page]](https://www.robots.ox.ac.uk/~vgg/research/speech2action/)
-
-- (CVPR'20) Learning Texture Transformer Network for Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2006.04139), [[Code]](https://github.com/researchmm/TTSR)
-
-- (CVPR'20) Speech2Action: Cross-modal Supervision for Action Recognition, [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Nagrani_Speech2Action_Cross-Modal_Supervision_for_Action_Recognition_CVPR_2020_paper.pdf)
-
-- (ICPR'20) Transformer Encoder Reasoning Network, [[Paper]](https://arxiv.org/pdf/2004.09144.pdf), [[Code]](https://github.com/mesnico/TERN)
-
-- (EMNLP'19) Effective Use of Transformer Networks for Entity Tracking, [[Paper]](https://arxiv.org/pdf/1909.02635), [[Code]](https://github.com/aditya2211/transformer-entity-tracking)
+- (arXiv 2021.02) Centroid Transformer: Learning to Abstract with Attention, [[Paper]](https://arxiv.org/pdf/2102.08606.pdf)
 
 - (arXiv 2021.02) Conceptual 12M: Pushing Web-Scale Image-Text Pre-Training To Recognize Long-Tail Visual Concepts, [[Paper]](https://arxiv.org/pdf/2102.08981.pdf)
 
@@ -175,6 +154,32 @@ Updating.
 - (arXiv 2020.06) Visual Transformers: Token-based Image Representation and Processing for Computer Vision, [[Paper]](https://arxiv.org/pdf/2006.03677)
 
 - (arXiv 2019.08) LXMERT: Learning Cross-Modality Encoder Representations from Transformers, [[Paper]](https://arxiv.org/pdf/1908.07490.pdf), [[Code]](https://github.com/airsplay/lxmert)
+
+- (ICLR'21) UPDET: UNIVERSAL MULTI-AGENT REINFORCEMENT LEARNING VIA POLICY DECOUPLING WITH TRANSFORMERS, [[Paper]](https://arxiv.org/pdf/2101.08001.pdf), [[Code]](https://github.com/hhhusiyi-monash/UPDeT)
+
+- (ICLR'21) Deformable DETR: Deformable Transformers for End-to-End Object Detection, [[Paper]](https://arxiv.org/pdf/2010.04159), [[Code]](https://github.com/fundamentalvision/Deformable-DETR)
+
+- (ICLR'21) LAMBDANETWORKS: MODELING LONG-RANGE INTERACTIONS WITHOUT ATTENTION, [[Paper]](https://openreview.net/pdf?id=xTJEN-ggl1b), [[Code]](https://github.com/lucidrains/lambda-networks)
+
+- (ICLR'21) SUPPORT-SET BOTTLENECKS FOR VIDEO-TEXT REPRESENTATION LEARNING, [[Paper]](https://arxiv.org/pdf/2010.02824.pdf)
+
+- (ICLR'21) COLORIZATION TRANSFORMER, [[Paper]](https://arxiv.org/pdf/2102.04432.pdf), [[Code]](https://github.com/google-research/google-research/tree/master/coltran)
+
+- (ECCV'20) Multi-modal Transformer for Video Retrieval, [[Paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490205.pdf)
+
+- (ECCV'20) Connecting Vision and Language with Localized Narratives, [[Paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500630.pdf)
+
+- (ECCV'20) DETR: End-to-End Object Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2005.12872), [[Code]](https://github.com/facebookresearch/detr)
+
+- (CVPR'20) Multi-Modality Cross Attention Network for Image and Sentence Matching, [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wei_Multi-Modality_Cross_Attention_Network_for_Image_and_Sentence_Matching_CVPR_2020_paper.pdf), [[Page]](https://www.robots.ox.ac.uk/~vgg/research/speech2action/)
+
+- (CVPR'20) Learning Texture Transformer Network for Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2006.04139), [[Code]](https://github.com/researchmm/TTSR)
+
+- (CVPR'20) Speech2Action: Cross-modal Supervision for Action Recognition, [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Nagrani_Speech2Action_Cross-Modal_Supervision_for_Action_Recognition_CVPR_2020_paper.pdf)
+
+- (ICPR'20) Transformer Encoder Reasoning Network, [[Paper]](https://arxiv.org/pdf/2004.09144.pdf), [[Code]](https://github.com/mesnico/TERN)
+
+- (EMNLP'19) Effective Use of Transformer Networks for Entity Tracking, [[Paper]](https://arxiv.org/pdf/1909.02635), [[Code]](https://github.com/aditya2211/transformer-entity-tracking)
 
 ## TODO
 - [ ] V-L representation learning
