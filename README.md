@@ -8,7 +8,7 @@ Updating.
 
 - OpenAI CLIP [[Page]](https://openai.com/blog/clip/), [[Paper]](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language_Supervision.pdf), [[Code]](https://github.com/openai/CLIP)
 
-- OpenAI DALL·E [[Page]](https://openai.com/blog/dall-e/)
+- OpenAI DALL·E [[Page]](https://openai.com/blog/dall-e/), [[Code]](https://github.com/openai/DALL-E), [[Paper]](https://arxiv.org/pdf/2102.12092.pdf)
 
 - [huggingface/transformers](https://github.com/huggingface/transformers)
 
