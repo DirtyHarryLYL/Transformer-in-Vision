@@ -6,7 +6,7 @@ Updating.
 ## Resource
 - Attention is all you need, [[Paper]](https://arxiv.org/pdf/1706.03762.pdf)
 
-- OpenAI CLIP [[Page]](https://openai.com/blog/clip/), [[Paper]](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language_Supervision.pdf), [[Code]](https://github.com/openai/CLIP)
+- OpenAI CLIP [[Page]](https://openai.com/blog/clip/), [[Paper]](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language_Supervision.pdf), [[Code]](https://github.com/openai/CLIP), [[arXiv]](https://arxiv.org/pdf/2103.00020.pdf)
 
 - OpenAI DALL·E [[Page]](https://openai.com/blog/dall-e/), [[Code]](https://github.com/openai/DALL-E), [[Paper]](https://arxiv.org/pdf/2102.12092.pdf)
 
@@ -34,6 +34,14 @@ Updating.
 - (arXiv 2020.1) Transformers in Vision: A Survey, [PDF](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
+
+- (arXiv 2021.03) Transformer in Transformer, [[Paper]](https://arxiv.org/pdf/2103.00112.pdf), [[Code]](https://github.com/huawei-noah/noah-research/tree/master/TNT)
+
+- (arXiv 2021.03) Generative Adversarial Transformers, [[Paper]](https://arxiv.org/pdf/2103.01209.pdf), [[Code]](https://github.com/dorarad/gansformer)
+
+- (arXiv 2021.03) OmniNet: Omnidirectional Representations from Transformers, [[Paper]](https://arxiv.org/pdf/2103.01075.pdf)
+
+- (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
 
 - (arXiv 2021.02) Linear Transformers Are Secretly Fast Weight Memory Systems, [[Paper]](https://arxiv.org/pdf/2102.11174.pdf)
 
