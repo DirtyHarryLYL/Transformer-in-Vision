@@ -35,6 +35,8 @@ Updating.
 
 ## Recent Papers
 
+- (arXiv 2021.02) Linear Transformers Are Secretly Fast Weight Memory Systems, [[Paper]](https://arxiv.org/pdf/2102.11174.pdf)
+
 - (arXiv.2021.02) POSITION INFORMATION IN TRANSFORMERS: AN OVERVIEW, [[Paper]](https://arxiv.org/pdf/2102.11090.pdf)
 
 - (arXiv 2021.02) Transformer is All You Need: Multimodal Multitask Learning with a Unified Transformer, [[Paper]](https://arxiv.org/pdf/2102.10772.pdf), [[Project]](https://mmf.sh/), [[Code]](https://github.com/facebookresearch/mmf)
