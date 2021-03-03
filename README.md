@@ -45,7 +45,7 @@ Updating.
 
 - (arXiv.2021.02) Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions, [[Paper]](https://arxiv.org/pdf/2102.12122.pdf), [[Code]](https://github.com/whai362/PVT)
 
-- VisualGPT: Data-efficient Image Captioning by Balancing Visual Input and Linguistic Knowledge from Pretraining, [[Paper]](https://arxiv.org/pdf/2102.10407.pdf), [[Code]](https://github.com/Vision-CAIR/VisualGPT)
+- (arXiv.2021.02) VisualGPT: Data-efficient Image Captioning by Balancing Visual Input and Linguistic Knowledge from Pretraining, [[Paper]](https://arxiv.org/pdf/2102.10407.pdf), [[Code]](https://github.com/Vision-CAIR/VisualGPT)
 
 - (arXiv.2021.02) Towards Accurate and Compact Architectures via Neural Architecture Transformer, [[Paper]](https://arxiv.org/pdf/2102.10301.pdf)
 
