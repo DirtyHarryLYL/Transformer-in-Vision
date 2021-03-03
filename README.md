@@ -43,6 +43,10 @@ Updating.
 
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
 
+- Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions, [[Paper]](https://arxiv.org/pdf/2102.12122.pdf), [[Code]](https://github.com/whai362/PVT)
+
+- Centroid Transformer: Learning to Abstract with Attention, [[Paper]](https://arxiv.org/pdf/2102.08606.pdf)
+
 - (arXiv 2021.02) Linear Transformers Are Secretly Fast Weight Memory Systems, [[Paper]](https://arxiv.org/pdf/2102.11174.pdf)
 
 - (arXiv.2021.02) POSITION INFORMATION IN TRANSFORMERS: AN OVERVIEW, [[Paper]](https://arxiv.org/pdf/2102.11090.pdf)
