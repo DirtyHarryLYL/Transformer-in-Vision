@@ -35,6 +35,8 @@ Updating.
 
 ## Recent Papers
 
+- (arXiv 2021.03) Perceiver: General Perception with Iterative Attention, [[Paper]](https://arxiv.org/pdf/2103.03206.pdf)
+
 - (arXiv 2021.03) Transformer in Transformer, [[Paper]](https://arxiv.org/pdf/2103.00112.pdf), [[Code]](https://github.com/huawei-noah/noah-research/tree/master/TNT)
 
 - (arXiv 2021.03) Generative Adversarial Transformers, [[Paper]](https://arxiv.org/pdf/2103.01209.pdf), [[Code]](https://github.com/dorarad/gansformer)
