@@ -199,6 +199,8 @@ Updating.
 
 - (ECCV'20) DETR: End-to-End Object Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2005.12872), [[Code]](https://github.com/facebookresearch/detr)
 
+- (CVPR'20) PaStaNet: Toward Human Activity Knowledge Engine, [[Paper]](https://arxiv.org/pdf/2004.00945.pdf), [[Code]](https://github.com/DirtyHarryLYL/HAKE-Action)
+
 - (CVPR'20) Multi-Modality Cross Attention Network for Image and Sentence Matching, [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wei_Multi-Modality_Cross_Attention_Network_for_Image_and_Sentence_Matching_CVPR_2020_paper.pdf), [[Page]](https://www.robots.ox.ac.uk/~vgg/research/speech2action/)
 
 - (CVPR'20) Learning Texture Transformer Network for Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2006.04139), [[Code]](https://github.com/researchmm/TTSR)
