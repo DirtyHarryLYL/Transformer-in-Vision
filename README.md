@@ -35,6 +35,12 @@ Updating.
 
 ## Recent Papers
 
+- (arXiv 2021.03) QPIC: Query-Based Pairwise Human-Object Interaction Detection with Image-Wide Contextual Information, [[Paper]](https://arxiv.org/pdf/2103.05399), [[Code]](https://github.com/hitachi-rd-cv/qpic)
+
+- (arXiv 2021.03) Reformulating HOI Detection as Adaptive Set Prediction, [[Paper]](https://arxiv.org/pdf/2103.05983), [[Code]](https://github.com/yoyomimi/AS-Net)
+
+- (arXiv 2021.03) End-to-End Human Object Interaction Detection with HOI Transformer, [[Paper]](https://arxiv.org/pdf/2103.04503), [[Code]](https://github.com/bbepoch/HoiTransformer)
+
 - (arXiv 2021.03) Perceiver: General Perception with Iterative Attention, [[Paper]](https://arxiv.org/pdf/2103.03206.pdf)
 
 - (arXiv 2021.03) Transformer in Transformer, [[Paper]](https://arxiv.org/pdf/2103.00112.pdf), [[Code]](https://github.com/huawei-noah/noah-research/tree/master/TNT)
