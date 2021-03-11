@@ -29,9 +29,11 @@ Updating.
 - [yuewang-cuhk/awesome-vision-language-pretraining-papers](https://github.com/yuewang-cuhk/awesome-vision-language-pretraining-papers)
 
 ## Survery: 
-- (arXiv 2020.9) Efficient Transformers: A Survey, [PDF](https://arxiv.org/pdf/2009.06732.pdf)
+- (arXiv 2021.03) Perspectives and Prospects on Transformer Architecture for Cross-Modal Tasks with Language and Vision, [[Paper]](https://arxiv.org/pdf/2103.04037.pdf)
 
-- (arXiv 2020.1) Transformers in Vision: A Survey, [PDF](https://arxiv.org/pdf/2101.01169.pdf)
+- (arXiv 2020.9) Efficient Transformers: A Survey, [[Paper]](https://arxiv.org/pdf/2009.06732.pdf)
+
+- (arXiv 2020.1) Transformers in Vision: A Survey, [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
 
