@@ -37,6 +37,8 @@ Updating.
 
 ## Recent Papers
 
+- (arXiv 2021.03) Attention is not all you need: pure attention loses rank doubly exponentially with depth, [[Paper]](https://arxiv.org/pdf/2103.03404v1.pdf)
+
 - (arXiv 2021.03) QPIC: Query-Based Pairwise Human-Object Interaction Detection with Image-Wide Contextual Information, [[Paper]](https://arxiv.org/pdf/2103.05399), [[Code]](https://github.com/hitachi-rd-cv/qpic)
 
 - (arXiv 2021.03) Reformulating HOI Detection as Adaptive Set Prediction, [[Paper]](https://arxiv.org/pdf/2103.05983), [[Code]](https://github.com/yoyomimi/AS-Net)
