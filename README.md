@@ -189,6 +189,8 @@ Updating.
 
 - (arXiv 2019.08) LXMERT: Learning Cross-Modality Encoder Representations from Transformers, [[Paper]](https://arxiv.org/pdf/1908.07490.pdf), [[Code]](https://github.com/airsplay/lxmert)
 
+- (ICLR'21) IOT: INSTANCE-WISE LAYER REORDERING FOR TRANSFORMER STRUCTURES, [[Paper]](https://arxiv.org/pdf/2103.03457.pdf), [[Code]](https://github.com/instance-wise-ordered-transformer/IOT)
+
 - (ICLR'21) UPDET: UNIVERSAL MULTI-AGENT REINFORCEMENT LEARNING VIA POLICY DECOUPLING WITH TRANSFORMERS, [[Paper]](https://arxiv.org/pdf/2101.08001.pdf), [[Code]](https://github.com/hhhusiyi-monash/UPDeT)
 
 - (ICLR'21) Deformable DETR: Deformable Transformers for End-to-End Object Detection, [[Paper]](https://arxiv.org/pdf/2010.04159), [[Code]](https://github.com/fundamentalvision/Deformable-DETR)
