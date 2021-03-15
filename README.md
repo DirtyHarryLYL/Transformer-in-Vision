@@ -37,6 +37,8 @@ Updating.
 
 ## Recent Papers
 
+- (arXiv 2021.03) Continuous 3D Multi-Channel Sign Language Production via Progressive Transformers and Mixture Density Networks, [[Paper]](https://arxiv.org/pdf/2103.06982.pdf)
+
 - (arXiv 2021.03) WenLan: Bridging Vision and Language by Large-Scale Multi-Modal Pre-Training, [[Paper]](https://arxiv.org/pdf/2103.06561.pdf)
 
 - (arXiv 2021.03) Attention is not all you need: pure attention loses rank doubly exponentially with depth, [[Paper]](https://arxiv.org/pdf/2103.03404v1.pdf)
