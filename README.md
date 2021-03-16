@@ -62,7 +62,9 @@ Updating.
 
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
 
-- A Straightforward Framework For Video Retrieval Using CLIP, [[Paper]](https://arxiv.org/pdf/2102.12443.pdf), [[Code]](https://github.com/Deferf/CLIP_Video_Representation)
+- (arXiv.2021.02) Do We Really Need Explicit Position Encodings for Vision Transformers? [[Paper]](https://arxiv.org/pdf/2102.10882.pdf), [[Code]](https://github.com/Meituan-AutoML/CPVT)
+
+- (arXiv.2021.02) A Straightforward Framework For Video Retrieval Using CLIP, [[Paper]](https://arxiv.org/pdf/2102.12443.pdf), [[Code]](https://github.com/Deferf/CLIP_Video_Representation)
 
 - (arXiv.2021.02) Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions, [[Paper]](https://arxiv.org/pdf/2102.12122.pdf), [[Code]](https://github.com/whai362/PVT)
 
