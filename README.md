@@ -84,7 +84,7 @@ Updating.
 
 - (arXiv 2021.02) END-TO-END AUDIO-VISUAL SPEECH RECOGNITION WITH CONFORMERS, [[Paper]](https://arxiv.org/pdf/2102.06657.pdf)
 
-- (arXiv 2021.02) Is Space-Time Attention All You Need for Video Understanding? [[Paper]](https://arxiv.org/pdf/2102.05095.pdf)
+- (arXiv 2021.02) Is Space-Time Attention All You Need for Video Understanding? [[Paper]](https://arxiv.org/pdf/2102.05095.pdf), [[Code]](https://github.com/lucidrains/TimeSformer-pytorch)
 
 - (arXiv 2021.02) Less is More: CLIPBERT for Video-and-Language Learning via Sparse Sampling, [[Paper]](https://arxiv.org/pdf/2102.06183.pdf), [[Code]](https://github.com/jayleicn/ClipBERT)
 
