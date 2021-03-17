@@ -36,7 +36,9 @@ Updating.
 - (arXiv 2020.1) Transformers in Vision: A Survey, [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
-- TransFG: A Transformer Architecture for Fine-grained Recognition, [[Paper]](https://arxiv.org/pdf/2103.07976.pdf)
+- (arXiv 2021.03) Multilingual Multimodal Pre-training for Zero-Shot Cross-Lingual Transfer of Vision-Language Models, [[Paper]](https://arxiv.org/pdf/2103.08849.pdf), [[Code]](http://github.com/berniebear/Mutli-HT100M)
+
+- (arXiv 2021.03) TransFG: A Transformer Architecture for Fine-grained Recognition, [[Paper]](https://arxiv.org/pdf/2103.07976.pdf)
 
 - (arXiv 2021.03) Causal Attention for Vision-Language Tasks, [[Paper]](https://arxiv.org/pdf/2103.03493.pdf), [[Code]](https://github.com/yangxuntu/catt)
 
