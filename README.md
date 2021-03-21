@@ -29,6 +29,8 @@ Updating.
 - [yuewang-cuhk/awesome-vision-language-pretraining-papers](https://github.com/yuewang-cuhk/awesome-vision-language-pretraining-papers)
 
 ## Survery: 
+- (arXiv 2021.03) Decoupled Spatial Temporal Graphs for Generic Visual Grounding, [[Paper]](https://arxiv.org/pdf/2103.10191.pdf)
+
 - (arXiv 2021.03) Perspectives and Prospects on Transformer Architecture for Cross-Modal Tasks with Language and Vision, [[Paper]](https://arxiv.org/pdf/2103.04037.pdf)
 
 - (arXiv 2020.9) Efficient Transformers: A Survey, [[Paper]](https://arxiv.org/pdf/2009.06732.pdf)
