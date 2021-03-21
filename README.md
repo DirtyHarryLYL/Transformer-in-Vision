@@ -29,10 +29,6 @@ Updating.
 - [yuewang-cuhk/awesome-vision-language-pretraining-papers](https://github.com/yuewang-cuhk/awesome-vision-language-pretraining-papers)
 
 ## Survery: 
-- (arXiv 2021.03) DanceNet3D: Music Based Dance Generation with Parametric Motion Transformer, [[Paper]](https://arxiv.org/pdf/2103.10206.pdf)
-
-- (arXiv 2021.03) Decoupled Spatial Temporal Graphs for Generic Visual Grounding, [[Paper]](https://arxiv.org/pdf/2103.10191.pdf)
-
 - (arXiv 2021.03) Perspectives and Prospects on Transformer Architecture for Cross-Modal Tasks with Language and Vision, [[Paper]](https://arxiv.org/pdf/2103.04037.pdf)
 
 - (arXiv 2020.9) Efficient Transformers: A Survey, [[Paper]](https://arxiv.org/pdf/2009.06732.pdf)
@@ -40,6 +36,12 @@ Updating.
 - (arXiv 2020.1) Transformers in Vision: A Survey, [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
+- (arXiv 2021.03) Enhancing Transformer for Video Understanding Using Gated Multi-Level Attention and Temporal Adversarial Training, [[Paper]](https://arxiv.org/pdf/2103.10043.pdf)
+
+- (arXiv 2021.03) DanceNet3D: Music Based Dance Generation with Parametric Motion Transformer, [[Paper]](https://arxiv.org/pdf/2103.10206.pdf)
+
+- (arXiv 2021.03) Decoupled Spatial Temporal Graphs for Generic Visual Grounding, [[Paper]](https://arxiv.org/pdf/2103.10191.pdf)
+
 - (arXiv 2021.03) Space-Time Crop & Attend: Improving Cross-modal Video Representation Learning, [[Paper]](https://arxiv.org/pdf/2103.10211.pdf)
 
 - (arXiv 2021.03) Multilingual Multimodal Pre-training for Zero-Shot Cross-Lingual Transfer of Vision-Language Models, [[Paper]](https://arxiv.org/pdf/2103.08849.pdf), [[Code]](http://github.com/berniebear/Mutli-HT100M)
