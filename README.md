@@ -75,6 +75,8 @@ Updating.
 
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
 
+- (arXiv 2021.02) Investigating the Limitations of Transformers with Simple Arithmetic Tasks, [[Paper]](https://arxiv.org/pdf/2102.13019.pdf), [[Code]](https://github.com/castorini/transformers-arithmetic)
+
 - (arXiv 2021.02) Do Transformer Modifications Transfer Across Implementations and Applications? [[Paper]](https://arxiv.org/pdf/2102.11972.pdf)
 
 - (arXiv.2021.02) Do We Really Need Explicit Position Encodings for Vision Transformers? [[Paper]](https://arxiv.org/pdf/2102.10882.pdf), [[Code]](https://github.com/Meituan-AutoML/CPVT)
