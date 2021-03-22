@@ -77,6 +77,8 @@ Updating.
 
 - (arXiv 2021.02) Evolving Attention with Residual Convolutions, [[Paper]](https://arxiv.org/pdf/2102.12895.pdf)
 
+- (arXiv 2021.02) GEM: Glare or Gloom, I Can Still See You – End-to-End Multimodal Object Detector, [[Paper]](https://arxiv.org/pdf/2102.12319.pdf)
+
 - (arXiv 2021.02) SparseBERT: Rethinking the Importance Analysis in Self-attention, [[Paper]](https://arxiv.org/pdf/2102.12871.pdf)
 
 - (arXiv 2021.02) Investigating the Limitations of Transformers with Simple Arithmetic Tasks, [[Paper]](https://arxiv.org/pdf/2102.13019.pdf), [[Code]](https://github.com/castorini/transformers-arithmetic)
