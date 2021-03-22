@@ -37,6 +37,10 @@ Updating.
 
 ## Recent Papers
 
+- (arXiv 2021.03) ConViT: Improving Vision Transformers ith Soft Convolutional Inductive Biases, [[Paper]](https://arxiv.org/pdf/2103.10697.pdf), [[Code]](https://github.com/facebookresearch/convit)
+
+- (arXiv 2021.03) MDMMT: Multidomain Multimodal Transformer for Video Retrieval, [[Paper]](https://arxiv.org/pdf/2103.10699.pdf)
+
 - (arXiv 2021.03) On the Sentence Embeddings from Pre-trained Language Models, [[Paper]](https://arxiv.org/pdf/2011.05864.pdf)
 
 - (arXiv 2021.03) Enhancing Transformer for Video Understanding Using Gated Multi-Level Attention and Temporal Adversarial Training, [[Paper]](https://arxiv.org/pdf/2103.10043.pdf)
