@@ -36,6 +36,8 @@ Updating.
 - (arXiv 2020.1) Transformers in Vision: A Survey, [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
+- (arXiv 2021.03) On the Sentence Embeddings from Pre-trained Language Models, [[Paper]](https://arxiv.org/pdf/2011.05864.pdf)
+
 - (arXiv 2021.03) Enhancing Transformer for Video Understanding Using Gated Multi-Level Attention and Temporal Adversarial Training, [[Paper]](https://arxiv.org/pdf/2103.10043.pdf)
 
 - (arXiv 2021.03) DanceNet3D: Music Based Dance Generation with Parametric Motion Transformer, [[Paper]](https://arxiv.org/pdf/2103.10206.pdf)
