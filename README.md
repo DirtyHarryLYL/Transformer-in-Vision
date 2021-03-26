@@ -36,6 +36,7 @@ Updating.
 - (arXiv 2020.1) Transformers in Vision: A Survey, [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
+- (arXiv 2021.03) 3D Human Pose Estimation with Spatial and Temporal Transformers, [[Paper]](https://arxiv.org/pdf/2103.10455.pdf), [[Code]](https://github.com/zczcwh/PoseFormer)
 
 - (arXiv 2021.03) ConViT: Improving Vision Transformers ith Soft Convolutional Inductive Biases, [[Paper]](https://arxiv.org/pdf/2103.10697.pdf), [[Code]](https://github.com/facebookresearch/convit)
 
