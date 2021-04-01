@@ -36,6 +36,8 @@ Updating.
 - (arXiv 2020.1) Transformers in Vision: A Survey, [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
+- (arXiv 2021.03) Scalable Visual Transformers with Hierarchical Pooling, [[Paper]](https://arxiv.org/pdf/2103.10619.pdf)
+
 - (arXiv 2021.03) AgentFormer: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting, [[Paper]](https://arxiv.org/pdf/2103.14023.pdf), [[Code]](https://github.com/Khrylx/AgentFormer)
 
 - (arXiv 2021.03) Vision Transformers for Dense Prediction, [[Paper]](https://arxiv.org/pdf/2103.13413.pdf), [[Code]](https://github.com/intel-isl/DPT)
