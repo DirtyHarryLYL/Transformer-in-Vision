@@ -38,6 +38,8 @@ Updating.
 - (arXiv 2020.1) Transformers in Vision: A Survey, [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
+- (arXiv 2021.03) Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking, [[Paper]](https://arxiv.org/pdf/2103.11681.pdf), [[Code]](https://github.com/594422814/TransformerTrack)
+
 - (arXiv 2021.03) DeepViT: Towards Deeper Vision Transformer, [[Paper]](https://arxiv.org/pdf/2103.11886.pdf), [[Code]](https://github.com/zhoudaquan/dvit_repo)
 
 - (arXiv 2021.03) Incorporating Convolution Designs into Visual Transformers, [[Paper]](https://arxiv.org/pdf/2103.11816.pdf)
