@@ -36,6 +36,8 @@ Updating.
 - (arXiv 2020.1) Transformers in Vision: A Survey, [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
+- (arXiv 2021.03) Paying Attention to Multiscale Feature Maps in Multimodal Image Matching, [[Paper]](https://arxiv.org/pdf/2103.11247.pdf)
+
 - (arXiv 2021.03) Learning Multi-Scene Absolute Pose Regression with Transformers, [[Paper]](https://arxiv.org/pdf/2103.11468.pdf)
 
 - (arXiv 2021.03) HOPPER: MULTI-HOP TRANSFORMER FOR SPATIOTEMPORAL REASONING, [[Paper]](https://arxiv.org/pdf/2103.10574.pdf), [[Code]](https://github.com/necla-ml/cater-h)
