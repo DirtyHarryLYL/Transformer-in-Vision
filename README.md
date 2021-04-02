@@ -38,6 +38,8 @@ Updating.
 - (arXiv 2020.1) Transformers in Vision: A Survey, [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
+- (arXiv 2021.03) DeepViT: Towards Deeper Vision Transformer, [[Paper]](https://arxiv.org/pdf/2103.11886.pdf), [[Code]](https://github.com/zhoudaquan/dvit_repo)
+
 - (arXiv 2021.03) Incorporating Convolution Designs into Visual Transformers, [[Paper]](https://arxiv.org/pdf/2103.11816.pdf)
 
 - (arXiv 2021.03) Multimodal Motion Prediction with Stacked Transformers, [[Paper]](https://arxiv.org/pdf/2103.11624.pdf), [[Code]](https://github.com/decisionforce/mmTransformer)
