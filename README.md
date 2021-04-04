@@ -38,6 +38,8 @@ Updating.
 - (arXiv 2020.1) Transformers in Vision: A Survey, [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
+- (arXiv 2021.03) Composable Augmentation Encoding for Video Representation Learning, [[Paper]](https://arxiv.org/pdf/2104.00616.pdf)
+
 - (arXiv 2021.03) Meta-DETR: Few-Shot Object Detection via Unified Image-Level Meta-Learning, [[Paper]](https://arxiv.org/pdf/2103.11731.pdf)
 
 - (arXiv 2021.03) Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking, [[Paper]](https://arxiv.org/pdf/2103.11681.pdf), [[Code]](https://github.com/594422814/TransformerTrack)
