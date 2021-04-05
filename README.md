@@ -1,7 +1,7 @@
 # Transformer-in-Vision
 Some recent Transformer-based CV works. Welcome to comment/contribute!
 
-Updating.
+Keep update.
 
 ## Resource
 - Attention is all you need, [[Paper]](https://arxiv.org/pdf/1706.03762.pdf)
