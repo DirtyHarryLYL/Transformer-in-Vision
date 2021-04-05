@@ -38,6 +38,8 @@ Keep update.
 - (arXiv 2020.1) Transformers in Vision: A Survey, [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
+- (arXiv 2021.04) Multitarget Tracking with Transformers, [[Paper]](https://arxiv.org/pdf/2104.00734.pdf)
+
 - (arXiv 2021.04) TFill: Image Completion via a Transformer-Based Architecture, [[Paper]](https://arxiv.org/pdf/2104.00845.pdf), [[Code]](https://github.com/lyndonzheng/TFill)
 
 - (arXiv 2021.04) AAformer: Auto-Aligned Transformer for Person Re-Identification, [[Paper]](https://arxiv.org/pdf/2104.00921.pdf)
