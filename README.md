@@ -38,6 +38,16 @@ Updating.
 - (arXiv 2020.1) Transformers in Vision: A Survey, [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
+- (arXiv 2021.04) AAformer: Auto-Aligned Transformer for Person Re-Identification, [[Paper]](https://arxiv.org/pdf/2104.00921.pdf)
+
+- (arXiv 2021.04) VisQA: X-raying Vision and Language Reasoning in Transformers, [[Paper]](https://arxiv.org/pdf/2104.00926.pdf)
+
+- (arXiv 2021.04) TubeR: Tube-Transformer for Action Detection, [[Paper]](https://arxiv.org/pdf/2104.00969.pdf)
+
+- (arXiv 2021.04) Language-based Video Editing via Multi-Modal Multi-Level Transformer, [[Paper]](https://arxiv.org/pdf/2104.01122.pdf)
+
+- (arXiv 2021.04) LeViT: a Vision Transformer in ConvNet’s Clothing for Faster Inference, [[Paper]](https://arxiv.org/pdf/2104.01136.pdf)
+
 - (arXiv 2021.04) LoFTR: Detector-Free Local Feature Matching with Transformers, [[Paper]](https://arxiv.org/pdf/2104.00680.pdf), [[Code]](https://zju3dv.github.io/loftr/)
 
 - (arXiv 2021.04) Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis, [[Paper]](https://arxiv.org/pdf/2104.00677.pdf), [[Project]](https://www.ajayj.com/dietnerf)
