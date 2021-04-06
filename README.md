@@ -38,6 +38,12 @@ Keep update.
 - (arXiv 2020.1) Transformers in Vision: A Survey, [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
+- (arXiv 2021.04) Efficient DETR: Improving End-to-End Object Detector with Dense Prior, [[Paper]](https://arxiv.org/pdf/2104.01318.pdf)
+
+- (arXiv 2021.04) A Video Is Worth Three Views: Trigeminal Transformers for Video-based Person Re-identification, [[Paper]](https://arxiv.org/pdf/2104.01745.pdf)
+
+- (arXiv 2021.04) An Empirical Study of Training Self-Supervised Visual Transformers, [[Paper]](https://arxiv.org/pdf/2104.02057.pdf)
+
 - (arXiv 2021.04) Multitarget Tracking with Transformers, [[Paper]](https://arxiv.org/pdf/2104.00734.pdf)
 
 - (arXiv 2021.04) TFill: Image Completion via a Transformer-Based Architecture, [[Paper]](https://arxiv.org/pdf/2104.00845.pdf), [[Code]](https://github.com/lyndonzheng/TFill)
