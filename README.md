@@ -69,6 +69,8 @@ Keep update.
 
 - (arXiv 2021.04) Composable Augmentation Encoding for Video Representation Learning, [[Paper]](https://arxiv.org/pdf/2104.00616.pdf)
 
+- (arXiv 2021.03) Kaleido-BERT: Vision-Language Pre-training on Fashion Domain, [[Paper]](https://arxiv.org/pdf/2103.16110.pdf), [[Code]](http://dpfan.net/Kaleido-BERT)
+
 - (arXiv 2021.03) End-to-End Trainable Multi-Instance Pose Estimation with Transformers, [[Paper]](https://arxiv.org/pdf/2103.12115.pdf)
 
 - (arXiv 2021.03) Transformers Solve the Limited Receptive Field for Monocular Depth Prediction, [[Paper]](https://arxiv.org/pdf/2103.12091.pdf), [[Code]](https://github.com/ygjwd12345/TransDepth)
@@ -318,4 +320,4 @@ Keep update.
 - (EMNLP'19) Effective Use of Transformer Networks for Entity Tracking, [[Paper]](https://arxiv.org/pdf/1909.02635), [[Code]](https://github.com/aditya2211/transformer-entity-tracking)
 
 ## TODO
-- [ ] V-L representation learning
+- [ ] V-L representation learning (https://arxiv.org/pdf/2103.16110.pdf has provided a detailed table)
