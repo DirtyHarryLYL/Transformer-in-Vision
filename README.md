@@ -38,7 +38,6 @@ Keep update.
 - (arXiv 2020.1) Transformers in Vision: A Survey, [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
-- (arXiv 2021.04) Transformers Solve the Limited Receptive Field for Monocular Depth Prediction, [[Paper]](https://arxiv.org/pdf/2103.12091.pdf), [[Code]](https://github.com/ygjwd12345/TransDepth)
 
 - (arXiv 2021.04) Efficient DETR: Improving End-to-End Object Detector with Dense Prior, [[Paper]](https://arxiv.org/pdf/2104.01318.pdf)
 
@@ -69,6 +68,10 @@ Keep update.
 - (arXiv 2021.04) Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval, [[Paper]](https://arxiv.org/pdf/2104.00650.pdf)
 
 - (arXiv 2021.04) Composable Augmentation Encoding for Video Representation Learning, [[Paper]](https://arxiv.org/pdf/2104.00616.pdf)
+
+- (arXiv 2021.03) End-to-End Trainable Multi-Instance Pose Estimation with Transformers, [[Paper]](https://arxiv.org/pdf/2103.12115.pdf)
+
+- (arXiv 2021.03) Transformers Solve the Limited Receptive Field for Monocular Depth Prediction, [[Paper]](https://arxiv.org/pdf/2103.12091.pdf), [[Code]](https://github.com/ygjwd12345/TransDepth)
 
 - (arXiv 2021.03) Meta-DETR: Few-Shot Object Detection via Unified Image-Level Meta-Learning, [[Paper]](https://arxiv.org/pdf/2103.11731.pdf)
 
