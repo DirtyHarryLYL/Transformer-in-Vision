@@ -38,6 +38,8 @@ Keep update.
 - (arXiv 2020.1) Transformers in Vision: A Survey, [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
+- (arXiv 2021.04) Transformers Solve the Limited Receptive Field for Monocular Depth Prediction, [[Paper]](https://arxiv.org/pdf/2103.12091.pdf), [[Code]](https://github.com/ygjwd12345/TransDepth)
+
 - (arXiv 2021.04) Efficient DETR: Improving End-to-End Object Detector with Dense Prior, [[Paper]](https://arxiv.org/pdf/2104.01318.pdf)
 
 - (arXiv 2021.04) A Video Is Worth Three Views: Trigeminal Transformers for Video-based Person Re-identification, [[Paper]](https://arxiv.org/pdf/2104.01745.pdf)
