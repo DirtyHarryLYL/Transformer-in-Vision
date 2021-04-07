@@ -39,6 +39,16 @@ Keep update.
 
 ## Recent Papers
 
+- (arXiv 2021.04) Compressing Visual-linguistic Model via Knowledge Distillation, [[Paper]](https://arxiv.org/pdf/2104.02096.pdf)
+
+- (arXiv 2021.04) When Pigs Fly: Contextual Reasoning in Synthetic and Natural Scenes, [[Paper]](https://arxiv.org/pdf/2104.02215.pdf)
+
+- (arXiv 2021.04) Variational Transformer Networks for Layout Generation, [[Paper]](https://arxiv.org/pdf/2104.02416.pdf)
+
+- (arXiv 2021.04) Few-Shot Transformation of Common Actions into Time and Space, [[Paper]](https://arxiv.org/pdf/2104.02439.pdf)
+
+- (arXiv 2021.04) Fourier Image Transformer, [[Paper]](https://arxiv.org/pdf/2104.02555.pdf)
+
 - (arXiv 2021.04) Efficient DETR: Improving End-to-End Object Detector with Dense Prior, [[Paper]](https://arxiv.org/pdf/2104.01318.pdf)
 
 - (arXiv 2021.04) A Video Is Worth Three Views: Trigeminal Transformers for Video-based Person Re-identification, [[Paper]](https://arxiv.org/pdf/2104.01745.pdf)
@@ -68,6 +78,8 @@ Keep update.
 - (arXiv 2021.04) Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval, [[Paper]](https://arxiv.org/pdf/2104.00650.pdf)
 
 - (arXiv 2021.04) Composable Augmentation Encoding for Video Representation Learning, [[Paper]](https://arxiv.org/pdf/2104.00616.pdf)
+
+- (arXiv 2021.03) On the Robustness of Vision Transformers to Adversarial Examples, [[Paper]](https://arxiv.org/pdf/2104.02610.pdf)
 
 - (arXiv 2021.03) Kaleido-BERT: Vision-Language Pre-training on Fashion Domain, [[Paper]](https://arxiv.org/pdf/2103.16110.pdf), [[Code]](http://dpfan.net/Kaleido-BERT)
 
