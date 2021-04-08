@@ -81,6 +81,8 @@ Keep update.
 
 - (arXiv 2021.04) Composable Augmentation Encoding for Video Representation Learning, [[Paper]](https://arxiv.org/pdf/2104.00616.pdf)
 
+- (arXiv 2021.03) Can Vision Transformers Learn without Natural Images? [[Paper]](https://arxiv.org/pdf/2103.13023.pdf)
+
 - (arXiv 2021.03) On the Robustness of Vision Transformers to Adversarial Examples, [[Paper]](https://arxiv.org/pdf/2104.02610.pdf)
 
 - (arXiv 2021.03) Kaleido-BERT: Vision-Language Pre-training on Fashion Domain, [[Paper]](https://arxiv.org/pdf/2103.16110.pdf), [[Code]](http://dpfan.net/Kaleido-BERT)
