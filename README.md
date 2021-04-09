@@ -39,6 +39,8 @@ Keep update.
 
 ## Recent Papers
 
+- (arXiv 2021.04) SiT: Self-supervised vIsion Transformer, [[Paper]](https://arxiv.org/pdf/2104.03602.pdf)
+
 - (arXiv 2021.04) EFFICIENT TRANSFORMERS IN REINFORCEMENT LEARNING USING ACTOR-LEARNER DISTILLATION, [[Paper]](https://arxiv.org/pdf/2104.01655.pdf)
 
 - (arXiv 2021.04) Compressing Visual-linguistic Model via Knowledge Distillation, [[Paper]](https://arxiv.org/pdf/2104.02096.pdf)
