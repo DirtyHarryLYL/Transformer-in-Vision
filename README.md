@@ -85,6 +85,8 @@ Keep update.
 
 - (arXiv 2021.04) Composable Augmentation Encoding for Video Representation Learning, [[Paper]](https://arxiv.org/pdf/2104.00616.pdf)
 
+- (arXiv 2021.03) Swin Transformer: Hierarchical Vision Transformer using Shifted Windows, [[Paper]](https://arxiv.org/pdf/2103.14030.pdf), [[Code]](https://github.com/microsoft/Swin-Transformer)
+
 - (arXiv 2021.03) Revamping Cross-Modal Recipe Retrieval with Hierarchical Transformers and Self-supervised Learning, [[Paper]](https://arxiv.org/pdf/2103.13061.pdf), [[Code]](https://github.com/amzn/image-to-recipe-transformers)
 
 - (arXiv 2021.03) Multi-view 3D Reconstruction with Transformer, [[Paper]](https://arxiv.org/pdf/2103.12957.pdf)
