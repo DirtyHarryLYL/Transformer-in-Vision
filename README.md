@@ -85,6 +85,8 @@ Keep update.
 
 - (arXiv 2021.04) Composable Augmentation Encoding for Video Representation Learning, [[Paper]](https://arxiv.org/pdf/2104.00616.pdf)
 
+- (arXiv 2021.03) An Image is Worth 16x16 Words, What is a Video Worth? [[Paper]](https://arxiv.org/pdf/2103.13915.pdf)
+
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
 
 - (arXiv 2021.03) Swin Transformer: Hierarchical Vision Transformer using Shifted Windows, [[Paper]](https://arxiv.org/pdf/2103.14030.pdf), [[Code]](https://github.com/microsoft/Swin-Transformer)
