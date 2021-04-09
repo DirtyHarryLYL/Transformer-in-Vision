@@ -85,6 +85,8 @@ Keep update.
 
 - (arXiv 2021.04) Composable Augmentation Encoding for Video Representation Learning, [[Paper]](https://arxiv.org/pdf/2104.00616.pdf)
 
+- (arXiv 2021.03) Multi-view 3D Reconstruction with Transformer, [[Paper]](https://arxiv.org/pdf/2103.12957.pdf)
+
 - (arXiv 2021.03) Scene-Intuitive Agent for Remote Embodied Visual Grounding, [[Paper]](https://arxiv.org/pdf/2103.12944.pdf)
 
 - (arXiv 2021.03) Can Vision Transformers Learn without Natural Images? [[Paper]](https://arxiv.org/pdf/2103.13023.pdf)
