@@ -39,6 +39,8 @@ Keep update.
 
 ## Recent Papers
 
+- (arXiv 2021.04) Know What and Know Where: An Object-and-Room Informed Sequential BERT for Indoor Vision-Language Navigation, [[Paper]](https://arxiv.org/pdf/2104.04167.pdf)
+
 - (arXiv 2021.04) Handwriting Transformers, [[Paper]](https://arxiv.org/pdf/2104.03964.pdf)
 
 - (arXiv 2021.04) SiT: Self-supervised vIsion Transformer, [[Paper]](https://arxiv.org/pdf/2104.03602.pdf)
