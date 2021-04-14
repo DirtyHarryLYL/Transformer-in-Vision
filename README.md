@@ -38,6 +38,8 @@ Keep update.
 - (arXiv 2020.1) Transformers in Vision: A Survey, [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
+- (arXiv 2021.04) Action-Conditioned 3D Human Motion Synthesis with Transformer VAE, [[Paper]](https://arxiv.org/pdf/2104.05670.pdf), [[Project]](https://imagine.enpc.fr/~petrovim/actor)
+
 - (arXiv 2021.04) Escaping the Big Data Paradigm with Compact Transformers, [[Paper]](https://arxiv.org/pdf/2104.05704.pdf), [[Code]](https://github.com/SHI-Labs/Compact-Transformers)
 
 - (arXiv 2021.04) Know What and Know Where: An Object-and-Room Informed Sequential BERT for Indoor Vision-Language Navigation, [[Paper]](https://arxiv.org/pdf/2104.04167.pdf)
