@@ -94,6 +94,8 @@ Keep update.
 
 - (arXiv 2021.04) Composable Augmentation Encoding for Video Representation Learning, [[Paper]](https://arxiv.org/pdf/2104.00616.pdf)
 
+- (arXiv 2021.03) Rethinking Spatial Dimensions of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2103.16302.pdf), [[Code]](https://github.com/naver-ai/pit)
+
 - (arXiv 2021.03) Spatiotemporal Transformer for Video-based Person Re-identification, [[Paper]](https://arxiv.org/pdf/2103.16469.pdf)
 
 - (arXiv 2021.03) Read and Attend: Temporal Localisation in Sign Language Videos, [[Paper]](https://arxiv.org/pdf/2103.16481.pdf), [[Benchmark]](https://github.com/visipedia/newt)
