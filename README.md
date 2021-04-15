@@ -38,6 +38,8 @@ Keep update.
 - (arXiv 2020.1) Transformers in Vision: A Survey, [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
+- (arXiv 2021.04) Decoupled Spatial-Temporal Transformer for Video Inpainting, [[Paper]](https://arxiv.org/pdf/2104.06637.pdf), [[Code]](https://github.com/ruiliu-ai/DSTT)
+
 - (arXiv 2021.04) Pose Recognition with Cascade Transformers, [[Paper]](https://arxiv.org/pdf/2104.06976.pdf), [[Code]](https://github.com/mlpc-ucsd/PRTR)
 
 - (arXiv 2021.04) Action-Conditioned 3D Human Motion Synthesis with Transformer VAE, [[Paper]](https://arxiv.org/pdf/2104.05670.pdf), [[Project]](https://imagine.enpc.fr/~petrovim/actor)
