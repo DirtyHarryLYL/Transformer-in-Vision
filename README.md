@@ -94,6 +94,8 @@ Keep update.
 
 - (arXiv 2021.04) Composable Augmentation Encoding for Video Representation Learning, [[Paper]](https://arxiv.org/pdf/2104.00616.pdf)
 
+- (arXiv 2021.03) Read and Attend: Temporal Localisation in Sign Language Videos, [[Paper]](https://arxiv.org/pdf/2103.16481.pdf), [[Benchmark]](https://github.com/visipedia/newt)
+
 - (arXiv 2021.03) Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers, [[Paper]](https://arxiv.org/pdf/2103.16553.pdf)
 
 - (arXiv 2021.03) An Image is Worth 16x16 Words, What is a Video Worth? [[Paper]](https://arxiv.org/pdf/2103.13915.pdf)
