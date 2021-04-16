@@ -38,6 +38,8 @@ Keep update.
 - (arXiv 2020.1) Transformers in Vision: A Survey, [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
+- (arXiv 2021.04) Points as Queries: Weakly Semi-supervised Object Detection by Points, [[Paper]](https://arxiv.org/pdf/2104.07434.pdf)
+
 - (arXiv 2021.04) Geometry-Free View Synthesis: Transformers and no 3D Priors, [[Paper]](https://arxiv.org/pdf/2104.07652.pdf), [[Code]](https://git.io/JOnwn)
 
 - (arXiv 2021.04) Self-supervised Video Object Segmentation by Motion Grouping, [[Paper]](https://arxiv.org/pdf/2104.07658.pdf), [[Project]](https://charigyang.github.io/motiongroup/)
