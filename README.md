@@ -100,6 +100,8 @@ Keep update.
 
 - (arXiv 2021.04) Composable Augmentation Encoding for Video Representation Learning, [[Paper]](https://arxiv.org/pdf/2104.00616.pdf)
 
+- (arXiv 2021.03) TFPose: Direct Human Pose Estimation with Transformers, [[Paper]](https://arxiv.org/pdf/2103.15320.pdf), [[Code]](https://git.io/AdelaiDet)
+
 - (arXiv 2021.03) Multi-Scale Vision Longformer: A New Vision Transformer for High-Resolution Image Encoding, [[Paper]](https://arxiv.org/pdf/2103.15358.pdf)
 
 - (arXiv 2021.03) Transformer Tracking, [[Paper]](https://arxiv.org/pdf/2103.15436.pdf), [[Code]](https://github.com/chenxin-dlut/TransT)
