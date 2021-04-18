@@ -100,6 +100,8 @@ Keep update.
 
 - (arXiv 2021.04) Composable Augmentation Encoding for Video Representation Learning, [[Paper]](https://arxiv.org/pdf/2104.00616.pdf)
 
+- (arXiv 2021.03) Transformer Tracking, [[Paper]](https://arxiv.org/pdf/2103.15436.pdf), [[Code]](https://github.com/chenxin-dlut/TransT)
+
 - (arXiv 2021.03) ViViT: A Video Vision Transformer, [[Paper]](https://arxiv.org/pdf/2103.15691.pdf)
 
 - (arXiv 2021.03) CvT: Introducing Convolutions to Vision Transformers, [[Paper]](https://arxiv.org/pdf/2103.15808.pdf), [[Code]](https://github.com/leoxiaobin/CvT)
