@@ -38,6 +38,8 @@ Keep update.
 - (arXiv 2020.1) Transformers in Vision: A Survey, [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
+- (arXiv 2021.04) Cross-Modal Retrieval Augmentation for Multi-Modal Classification, [[Paper]](https://arxiv.org/pdf/2104.08108.pdf)
+
 - (arXiv 2021.04) Point-Based Modeling of Human Clothing, [[Paper]](https://arxiv.org/pdf/2104.08230.pdf)
 
 - (arXiv 2021.04) Points as Queries: Weakly Semi-supervised Object Detection by Points, [[Paper]](https://arxiv.org/pdf/2104.07434.pdf)
