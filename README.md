@@ -38,6 +38,8 @@ Keep update.
 - (arXiv 2020.1) Transformers in Vision: A Survey, [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
+- (arXiv 2021.04) VGNMN: Video-grounded Neural Module Network to Video-Grounded Language Tasks, [[Paper]](https://arxiv.org/pdf/2104.07921.pdf)
+
 - (arXiv 2021.04) Self-supervised Video Retrieval Transformer Network, [[Paper]](https://arxiv.org/pdf/2104.07993.pdf)
 
 - (arXiv 2021.04) Cross-Modal Retrieval Augmentation for Multi-Modal Classification, [[Paper]](https://arxiv.org/pdf/2104.08108.pdf)
