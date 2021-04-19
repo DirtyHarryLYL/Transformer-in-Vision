@@ -38,6 +38,8 @@ Keep update.
 - (arXiv 2020.1) Transformers in Vision: A Survey, [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
+- (arXiv 2021.04) Point-Based Modeling of Human Clothing, [[Paper]](https://arxiv.org/pdf/2104.08230.pdf)
+
 - (arXiv 2021.04) Points as Queries: Weakly Semi-supervised Object Detection by Points, [[Paper]](https://arxiv.org/pdf/2104.07434.pdf)
 
 - (arXiv 2021.04) Geometry-Free View Synthesis: Transformers and no 3D Priors, [[Paper]](https://arxiv.org/pdf/2104.07652.pdf), [[Code]](https://git.io/JOnwn)
@@ -301,6 +303,8 @@ Keep update.
 - (arXiv 2021.01) Line Segment Detection Using Transformers without Edges, [[Paper]](https://arxiv.org/pdf/2101.01909)
 
 - (arXiv 2021.01) Decoupling the Role of Data, Attention, and Losses in Multimodal Transformers, [[Paper]](https://arxiv.org/pdf/2102.00529.pdf)
+
+- (arXiv 2020.12) Cloud Transformers, [[Paper]](https://arxiv.org/pdf/2007.11679.pdf)
 
 - (arXiv 2020.12) Accurate Word Representations with Universal Visual Guidance, [[Paper]](https://arxiv.org/pdf/2012.15086.pdf)
 
