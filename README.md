@@ -116,6 +116,8 @@ Keep update.
 
 - (arXiv 2021.04) Composable Augmentation Encoding for Video Representation Learning, [[Paper]](https://arxiv.org/pdf/2104.00616.pdf)
 
+- (arXiv 2021.03) CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification, [[Paper]](https://arxiv.org/pdf/2103.14899.pdf)
+
 - (arXiv 2021.03) Looking Beyond Two Frames: End-to-End Multi-Object Tracking Using Spatial and Temporal Transformers, [[Paper]](https://arxiv.org/pdf/2103.14829.pdf)
 
 - (arXiv 2021.03) HiT: Hierarchical Transformer with Momentum Contrast for Video-Text Retrieval, [[Paper]](https://arxiv.org/pdf/2103.15049.pdf)
