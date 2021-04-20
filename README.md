@@ -38,6 +38,8 @@ Keep update.
 - (arXiv 2020.1) Transformers in Vision: A Survey, [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
+- (arXiv 2021.04) Lifting Transformer for 3D Human Pose Estimation in Video, [[Paper]](https://arxiv.org/pdf/2103.14304.pdf)
+
 - (arXiv 2021.04) Demystifying the Better Performance of Position Encoding Variants for Transformer, [[Paper]](https://arxiv.org/pdf/2104.08698.pdf)
 
 - (arXiv 2021.04) Consistent Accelerated Inference via Confident Adaptive Transformers, [[Paper]](https://arxiv.org/pdf/2104.08803.pdf), [[Code]](https://github.com/TalSchuster/CATs)
