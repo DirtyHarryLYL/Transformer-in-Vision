@@ -116,6 +116,8 @@ Keep update.
 
 - (arXiv 2021.04) Composable Augmentation Encoding for Video Representation Learning, [[Paper]](https://arxiv.org/pdf/2104.00616.pdf)
 
+- (arXiv 2021.03) COTR: Correspondence Transformer for Matching Across Images, [[Paper]](https://arxiv.org/pdf/2103.14167.pdf)
+
 - (arXiv 2021.03) nderstanding Robustness of Transformers for Image Classification, [[Paper]](https://arxiv.org/pdf/2103.14586.pdf)
 
 - (arXiv 2021.03) CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification, [[Paper]](https://arxiv.org/pdf/2103.14899.pdf)
