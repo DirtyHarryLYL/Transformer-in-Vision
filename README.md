@@ -44,6 +44,8 @@ Keep update.
 
 - (arXiv 2021.04) VideoGPT: Video Generation using VQ-VAE and Transformers, [[Paper]](https://arxiv.org/pdf/2104.10157.pdf), [[Code]](https://wilson1yan.github.io/videogpt/index.html)
 
+- (arXiv 2021.04) DODRIO: Exploring Transformer Models with Interactive Visualization, [[Paper]](https://arxiv.org/pdf/2103.14625.pdf), [[Code]](https://poloclub.github.io/dodrio/)
+
 - (arXiv 2021.04) Lifting Transformer for 3D Human Pose Estimation in Video, [[Paper]](https://arxiv.org/pdf/2103.14304.pdf)
 
 - (arXiv 2021.04) Demystifying the Better Performance of Position Encoding Variants for Transformer, [[Paper]](https://arxiv.org/pdf/2104.08698.pdf)
