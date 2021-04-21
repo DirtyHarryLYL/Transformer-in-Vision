@@ -38,6 +38,8 @@ Keep update.
 - (arXiv 2020.1) Transformers in Vision: A Survey, [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
+- (arXiv 2021.04) ROFORMER: ENHANCED TRANSFORMER WITH ROTARY POSITION EMBEDDING, [[Paper]](https://arxiv.org/pdf/2104.09864.pdf)
+
 - (arXiv 2021.04) VideoGPT: Video Generation using VQ-VAE and Transformers, [[Paper]](https://arxiv.org/pdf/2104.10157.pdf), [[Code]](https://wilson1yan.github.io/videogpt/index.html)
 
 - (arXiv 2021.04) Lifting Transformer for 3D Human Pose Estimation in Video, [[Paper]](https://arxiv.org/pdf/2103.14304.pdf)
