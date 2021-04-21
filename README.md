@@ -1,5 +1,5 @@
 # Transformer-in-Vision
-Some recent Transformer-based CV works. Welcome to comment/contribute!
+Recent Transformer-based CV and related works. Welcome to comment/contribute!
 
 Keep update.
 
@@ -38,6 +38,8 @@ Keep update.
 - (arXiv 2020.1) Transformers in Vision: A Survey, [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
+- (arXiv 2021.04) EFFICIENT PRE-TRAINING OBJECTIVES FOR TRANSFORMERS, [[Paper]](https://arxiv.org/pdf/2104.09694.pdf), [[Code]](https://github.com/iKernels/efficient-pre-training-objectives-for-transformers)
+
 - (arXiv 2021.04) ROFORMER: ENHANCED TRANSFORMER WITH ROTARY POSITION EMBEDDING, [[Paper]](https://arxiv.org/pdf/2104.09864.pdf)
 
 - (arXiv 2021.04) VideoGPT: Video Generation using VQ-VAE and Transformers, [[Paper]](https://arxiv.org/pdf/2104.10157.pdf), [[Code]](https://wilson1yan.github.io/videogpt/index.html)
