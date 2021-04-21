@@ -29,7 +29,7 @@ Keep update.
 - [yuewang-cuhk/awesome-vision-language-pretraining-papers](https://github.com/yuewang-cuhk/awesome-vision-language-pretraining-papers)
 
 ## Survery: 
-- (arXiv 2021.03) Multimodal Motion Prediction with Stacked Transformers, [[Paper]](https://arxiv.org/pdf/2103.11624.pdf), [[Code]](https://github.com/decisionforce/mmTransformer)
+- (arXiv 2021.03) A Practical Survey on Faster and Lighter Transformers, [[Paper]](https://arxiv.org/pdf/2103.14636.pdf)
 
 - (arXiv 2021.03) Perspectives and Prospects on Transformer Architecture for Cross-Modal Tasks with Language and Vision, [[Paper]](https://arxiv.org/pdf/2103.04037.pdf)
 
@@ -121,6 +121,8 @@ Keep update.
 - (arXiv 2021.04) Group-Free 3D Object Detection via Transformers, [[Paper]](https://arxiv.org/pdf/2104.00678.pdf), [[Code]](https://github.com/zeliu98/Group-Free-3D)
 
 - (arXiv 2021.04) Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval, [[Paper]](https://arxiv.org/pdf/2104.00650.pdf)
+
+- (arXiv 2021.03) Multimodal Motion Prediction with Stacked Transformers, [[Paper]](https://arxiv.org/pdf/2103.11624.pdf), [[Code]](https://github.com/decisionforce/mmTransformer)
 
 - (arXiv 2021.04) Composable Augmentation Encoding for Video Representation Learning, [[Paper]](https://arxiv.org/pdf/2104.00616.pdf)
 
