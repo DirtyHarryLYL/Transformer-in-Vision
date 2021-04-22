@@ -126,6 +126,8 @@ Keep update.
 
 - (arXiv 2021.04) Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval, [[Paper]](https://arxiv.org/pdf/2104.00650.pdf)
 
+- (arXiv 2021.03) DA-DETR: Domain Adaptive Detection Transformer by Hybrid Attention, [[Paper]](https://arxiv.org/pdf/2103.17084.pdf)
+
 - (arXiv 2021.03) Learning Spatio-Temporal Transformer for Visual Tracking, [[Paper]](https://arxiv.org/pdf/2103.17154.pdf), [[Code]](https://github.com/researchmm/Stark)
 
 - (arXiv 2021.03) StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery, [[Paper]](https://arxiv.org/pdf/2103.17249.pdf), [[Code]](https://github.com/orpatashnik/StyleCLIP)
