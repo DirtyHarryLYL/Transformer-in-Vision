@@ -38,6 +38,8 @@ Keep update.
 - (arXiv 2020.1) Transformers in Vision: A Survey, [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
+- (arXiv 2021.04) VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text, [[Paper]](https://arxiv.org/pdf/2104.11178.pdf)
+
 - (arXiv 2021.04) Going deeper with Image Transformers, [[Paper]](https://arxiv.org/pdf/2103.17239.pdf)
 
 - (arXiv 2021.04) EFFICIENT PRE-TRAINING OBJECTIVES FOR TRANSFORMERS, [[Paper]](https://arxiv.org/pdf/2104.09694.pdf), [[Code]](https://github.com/iKernels/efficient-pre-training-objectives-for-transformers)
