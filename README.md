@@ -38,6 +38,8 @@ Keep update.
 - (arXiv 2020.1) Transformers in Vision: A Survey, [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
+- (arXiv 2021.04) TRAJEVAE - Controllable Human Motion Generation from Trajectories, [[Paper]](https://arxiv.org/pdf/2104.00351.pdf)
+
 - (arXiv 2021.04) UC^2: Universal Cross-lingual Cross-modal Vision-and-Language Pre-training, [[Paper]](https://arxiv.org/pdf/2104.00332.pdf)
 
 - (arXiv 2021.04) Learning to Cluster Faces via Transformer, [[Paper]](https://arxiv.org/pdf/2104.11502.pdf)
