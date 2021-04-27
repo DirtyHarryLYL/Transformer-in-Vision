@@ -38,6 +38,8 @@ Keep update.
 - (arXiv 2020.1) Transformers in Vision: A Survey, [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
+- (arXiv 2021.04) Visual Saliency Transformer, [[Paper]](https://arxiv.org/pdf/2104.12099.pdf)
+
 - (arXiv 2021.04) Improve Vision Transformers Training by Suppressing Over-smoothing, [[Paper]](https://arxiv.org/pdf/2104.12753.pdf), [[Code]](https://github.com/ChengyueGongR/PatchVisionTransformer)
 
 - (arXiv 2021.04) Visformer: The Vision-friendly Transformer, [[Paper]](https://arxiv.org/pdf/2104.12533.pdf), [[Code]](https://github.com/danczs/Visformer)
