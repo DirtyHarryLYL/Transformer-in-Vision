@@ -38,6 +38,8 @@ Keep update.
 - (arXiv 2020.1) Transformers in Vision: A Survey, [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
+- (arXiv 2021.04) Inpainting Transformer for Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2104.13897.pdf)
+
 - (arXiv 2021.04) Shot Contrastive Self-Supervised Learning for Scene Boundary Detection, [[Paper]](https://arxiv.org/pdf/2104.13537.pdf)
 
 - (arXiv 2021.04) HOTR: End-to-End Human-Object Interaction Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2104.13682.pdf)
