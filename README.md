@@ -38,6 +38,12 @@ Keep update.
 - (arXiv 2020.1) Transformers in Vision: A Survey, [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
+- (arXiv 2021.04) ConTNet: Why not use convolution and transformer at the same time? [[Paper]](https://arxiv.org/pdf/2104.13497.pdf), [[Code]](https://github.com/yan-hao-tian/ConTNet)
+
+- (arXiv 2021.04) Point Cloud Learning with Transformer, [[Paper]](https://arxiv.org/pdf/2104.13636.pdf)
+
+- (arXiv 2021.04) Twins: Revisiting the Design of Spatial Attention in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2104.13840.pdf), [[Code]](https://github.com/Meituan-AutoML/Twins)
+
 - (arXiv 2021.04) Inpainting Transformer for Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2104.13897.pdf)
 
 - (arXiv 2021.04) Shot Contrastive Self-Supervised Learning for Scene Boundary Detection, [[Paper]](https://arxiv.org/pdf/2104.13537.pdf)
