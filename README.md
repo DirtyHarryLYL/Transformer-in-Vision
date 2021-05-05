@@ -38,6 +38,8 @@ Keep update.
 - (arXiv 2020.1) Transformers in Vision: A Survey, [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
+- (arXiv 2021.04) Seeing Out of tHe bOx: End-to-End Pre-training for Vision-Language Representation Learning, [[Paper]](https://arxiv.org/pdf/2104.03135.pdf)
+
 - (arXiv 2021.04) Facial Attribute Transformers for Precise and Robust Makeup Transfer, [[Paper]](https://arxiv.org/pdf/2104.02894.pdf)
 
 - (arXiv 2021.04) Emerging Properties in Self-Supervised Vision Transformers, [[Paper]](https://arxiv.org/pdf/2104.14294.pdf), [[Code]](https://github.com/facebookresearch/dino?fbclid=IwAR3tq8GzNrR4BaZjjSqGyWe6qsFK1XenBZNIZCCgjJmMi0ghettvIiDRAxM)
