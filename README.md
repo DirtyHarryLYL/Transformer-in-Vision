@@ -38,6 +38,8 @@ Keep update.
 - (arXiv 2020.1) Transformers in Vision: A Survey, [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
+- (arXiv 2021.04) Cloth Interactive Transformer for Virtual Try-On, [[Paper]](https://arxiv.org/pdf/2104.05519.pdf), [[Code]](https://github.com/Amazingren/CIT)
+
 - (arXiv 2021.04) LocalViT: Bringing Locality to Vision Transformers, [[Paper]](https://arxiv.org/pdf/2104.05707.pdf), [[Code]](https://github.com/ofsoundof/LocalViT)
 
 - (arXiv 2021.04) Seeing Out of tHe bOx: End-to-End Pre-training for Vision-Language Representation Learning, [[Paper]](https://arxiv.org/pdf/2104.03135.pdf)
