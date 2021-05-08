@@ -29,6 +29,7 @@ Keep update.
 - [yuewang-cuhk/awesome-vision-language-pretraining-papers](https://github.com/yuewang-cuhk/awesome-vision-language-pretraining-papers)
 
 ## Survery: 
+
 - (arXiv 2021.03) A Practical Survey on Faster and Lighter Transformers, [[Paper]](https://arxiv.org/pdf/2103.14636.pdf)
 
 - (arXiv 2021.03) Perspectives and Prospects on Transformer Architecture for Cross-Modal Tasks with Language and Vision, [[Paper]](https://arxiv.org/pdf/2103.04037.pdf)
@@ -42,6 +43,8 @@ Keep update.
 - (arXiv 2021.05) TransHash: Transformer-based Hamming Hashing for Efficient Image Retrieval, [[Paper]](https://arxiv.org/pdf/2105.01823.pdf)
 
 - (arXiv 2021.05) Visual Composite Set Detection Using Part-and-Sum Transformers, [[Paper]](https://arxiv.org/pdf/2105.02170.pdf)
+
+- (arXiv 2021.04) CLIP4Clip: An Empirical Study of CLIP for End to End Video Clip Retrieval, [[Paper]](https://arxiv.org/pdf/2104.08860.pdf), [[Code]](https://github.com/ArrowLuo/CLIP4Clip)
 
 - (arXiv 2021.04) Lessons on Parameter Sharing across Layers in Transformers, [[Paper]](https://arxiv.org/pdf/2104.06022.pdf)
 
