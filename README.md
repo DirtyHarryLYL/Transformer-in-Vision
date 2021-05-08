@@ -181,6 +181,8 @@ Keep update.
 
 - (arXiv 2021.04) Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval, [[Paper]](https://arxiv.org/pdf/2104.00650.pdf)
 
+- (arXiv 2021.03) PixelTransformer: Sample Conditioned Signal Generation, [[Paper]](https://arxiv.org/pdf/2103.15813.pdf), [[Code]](https://shubhtuls.github.io/PixelTransformer/)
+
 - (arXiv 2021.03) Augmented Transformer with Adaptive Graph for Temporal Action Proposal Generation, [[Paper]](https://arxiv.org/pdf/2103.16024.pdf)
 
 - (arXiv 2021.03) DA-DETR: Domain Adaptive Detection Transformer by Hybrid Attention, [[Paper]](https://arxiv.org/pdf/2103.17084.pdf)
