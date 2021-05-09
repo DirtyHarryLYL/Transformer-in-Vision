@@ -44,6 +44,8 @@ Keep update.
 
 - (arXiv 2021.05) Visual Composite Set Detection Using Part-and-Sum Transformers, [[Paper]](https://arxiv.org/pdf/2105.02170.pdf)
 
+- (arXiv 2021.04) Visual Transformer Pruning, [[Paper]](https://arxiv.org/pdf/2104.08500.pdf)
+
 - (arXiv 2021.04) Higher Order Recurrent Space-Time Transformer, [[Paper]](https://arxiv.org/pdf/2104.08665.pdf), [[Code]](https://github.com/CorcovadoMing/HORST)
 
 - (arXiv 2021.04) CLIP4Clip: An Empirical Study of CLIP for End to End Video Clip Retrieval, [[Paper]](https://arxiv.org/pdf/2104.08860.pdf), [[Code]](https://github.com/ArrowLuo/CLIP4Clip)
