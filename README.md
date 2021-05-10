@@ -44,6 +44,8 @@ Keep update.
 
 - (arXiv 2021.05) Visual Composite Set Detection Using Part-and-Sum Transformers, [[Paper]](https://arxiv.org/pdf/2105.02170.pdf)
 
+- (arXiv 2021.04) T2VLAD: Global-Local Sequence Alignment for Text-Video Retrieval, [[Paper]](https://arxiv.org/pdf/2104.10054.pdf)
+
 - (arXiv 2021.04) VT-ADL: A Vision Transformer Network for Image Anomaly Detection and Localization, [[Paper]](https://arxiv.org/pdf/2104.10036.pdf)
 
 - (arXiv 2021.04) Multi-Modal Fusion Transformer for End-to-End Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2104.09224.pdf), [[Code]](https://github.com/autonomousvision/transfuser)
