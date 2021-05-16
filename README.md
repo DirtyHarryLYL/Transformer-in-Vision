@@ -40,6 +40,8 @@ Keep update.
 
 ## Recent Papers
 
+- (arXiv 2021.05) FNet: Mixing Tokens with Fourier Transforms, [[Paper]](https://arxiv.org/pdf/2105.03824.pdf)
+
 - (arXiv 2021.05) Segmenter: Transformer for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2105.05633.pdf), [[Code]](https://github.com/rstrudel/segmenter)
 
 - (arXiv 2021.05) TransHash: Transformer-based Hamming Hashing for Efficient Image Retrieval, [[Paper]](https://arxiv.org/pdf/2105.01823.pdf)
