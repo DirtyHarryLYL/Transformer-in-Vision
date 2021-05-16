@@ -48,6 +48,8 @@ Keep update.
 
 - (arXiv 2021.05) Visual Composite Set Detection Using Part-and-Sum Transformers, [[Paper]](https://arxiv.org/pdf/2105.02170.pdf)
 
+- (arXiv 2021.04) Multiscale Vision Transformers, [[Paper]](https://arxiv.org/pdf/2104.11227.pdf), [[Code]](https://github.com/facebookresearch/SlowFast)
+
 - (arXiv 2021.04) M2TR: Multi-modal Multi-scale Transformers for Deepfake Detection, [[Paper]](https://arxiv.org/pdf/2104.09770.pdf)
 
 - (arXiv 2021.04) Transformer Transforms Salient Object Detection and Camouflaged Object Detection, [[Paper]](https://arxiv.org/pdf/2104.10127.pdf)
