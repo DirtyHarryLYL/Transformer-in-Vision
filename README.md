@@ -48,6 +48,10 @@ Keep update.
 
 - (arXiv 2021.05) Visual Composite Set Detection Using Part-and-Sum Transformers, [[Paper]](https://arxiv.org/pdf/2105.02170.pdf)
 
+- (arXiv 2021.04) Playing Lottery Tickets with Vision and Language, [[Paper]](https://arxiv.org/pdf/2104.11832.pdf)
+
+- (arXiv 2021.04) M3DETR: Multi-representation, Multi-scale, Mutual-relation 3D Object Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2104.11896.pdf)
+
 - (arXiv 2021.04) RelTransformer: Balancing the Visual Relationship Detection from Local Context, Scene and Memory, [[Paper]](https://arxiv.org/pdf/2104.11934.pdf), [[Code]](https://github.com/Vision-CAIR/RelTransformer)
 
 - (arXiv 2021.04) MDETR-Modulated Detection for End-to-End Multi-Modal Understanding, [[Paper]](https://arxiv.org/pdf/2104.12763.pdf), [[Code]](https://github.com/ashkamath/mdetr)
