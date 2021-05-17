@@ -48,6 +48,8 @@ Keep update.
 
 - (arXiv 2021.05) Visual Composite Set Detection Using Part-and-Sum Transformers, [[Paper]](https://arxiv.org/pdf/2105.02170.pdf)
 
+- (arXiv 2021.04) Effect of Vision-and-Language Extensions on Natural Language Understanding in Vision-and-Language Models, [[Paper]](https://arxiv.org/pdf/2104.08066.pdf)
+
 - (arXiv 2021.04) Token Labeling: Training an 85.4% Top-1 Accuracy Vision Transformer with 56M Parameters on ImageNet, [[Paper]](https://arxiv.org/pdf/2104.10858.pdf), [[Code]](https://github.com/zihangJiang/TokenLabeling)
 
 - (arXiv 2021.04) So-ViT: Mind Visual Tokens for Vision Transforme, [[Paper]](https://arxiv.org/pdf/2104.10935.pdf)
