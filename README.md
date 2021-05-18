@@ -40,6 +40,8 @@ Keep update.
 
 ## Recent Papers
 
+- (arXiv 2021.05) Are Convolutional Neural Networks or Transformers more like human vision? [[Paper]](https://arxiv.org/pdf/2105.07197.pdf)
+
 - (arXiv 2021.05) FNet: Mixing Tokens with Fourier Transforms, [[Paper]](https://arxiv.org/pdf/2105.03824.pdf)
 
 - (arXiv 2021.05) Segmenter: Transformer for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2105.05633.pdf), [[Code]](https://github.com/rstrudel/segmenter)
