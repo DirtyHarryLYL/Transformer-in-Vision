@@ -40,6 +40,14 @@ Keep update.
 
 ## Recent Papers
 
+- (arXiv 2021.05) Do You Even Need Attention? A Stack of Feed-Forward Layers Does Surprisingly Well on ImageNet, [[Paper]](https://arxiv.org/pdf/2105.02723v1.pdf), [[Code]](https://github.com/lukemelas/do-you-even-need-attention)
+
+- (arXiv 2021.05) Pay Attention to MLPs, [[Paper]](https://arxiv.org/pdf/2105.08050.pdf)
+
+- (arXiv 2021.05) ResMLP: Feedforward networks for image classification with data-efficient training, [[Paper]](https://arxiv.org/pdf/2105.03404v1.pdf)
+
+- (arXiv 2021.05) RepMLP: Re-parameterizing Convolutions into Fully-connected Layers for Image Recognition, [[Paper]](https://arxiv.org/pdf/2105.01883v1.pdf), [[Code]](https://github.com/DingXiaoH/RepMLP)
+
 - (arXiv 2021.05) Are Convolutional Neural Networks or Transformers more like human vision? [[Paper]](https://arxiv.org/pdf/2105.07197.pdf)
 
 - (arXiv 2021.05) FNet: Mixing Tokens with Fourier Transforms, [[Paper]](https://arxiv.org/pdf/2105.03824.pdf)
