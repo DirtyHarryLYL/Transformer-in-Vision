@@ -39,6 +39,7 @@ Keep update.
 - (arXiv 2020.1) Transformers in Vision: A Survey, [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
+- (arXiv 2021.05) Perceptual Image Quality Assessment with Transformers, [[Paper]](https://arxiv.org/pdf/2104.14730.pdf)
 
 - (arXiv 2021.05) Do You Even Need Attention? A Stack of Feed-Forward Layers Does Surprisingly Well on ImageNet, [[Paper]](https://arxiv.org/pdf/2105.02723v1.pdf), [[Code]](https://github.com/lukemelas/do-you-even-need-attention)
 
