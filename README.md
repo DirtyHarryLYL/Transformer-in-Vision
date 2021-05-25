@@ -58,6 +58,8 @@ Keep update.
 
 - (arXiv 2021.05) Visual Composite Set Detection Using Part-and-Sum Transformers, [[Paper]](https://arxiv.org/pdf/2105.02170.pdf)
 
+- (arXiv 2021.04) CAT: Cross-Attention Transformer for One-Shot Object Detection, [[Paper]](https://arxiv.org/pdf/2104.14984.pdf)
+
 - (arXiv 2021.04) Dual Transformer for Point Cloud Analysis, [[Paper]](https://arxiv.org/pdf/2104.13044.pdf)
 
 - (arXiv 2021.04) Playing Lottery Tickets with Vision and Language, [[Paper]](https://arxiv.org/pdf/2104.11832.pdf)
