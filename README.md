@@ -40,6 +40,8 @@ Keep update.
 
 ## Recent Papers
 
+- (arXiv 2021.05) Learning Better Visual Dialog Agents with Pretrained Visual-Linguistic Representation, [[Paper]](https://arxiv.org/pdf/2105.11541.pdf), [[Code]](https://github.com/amazon-research/read-up)
+
 - (arXiv 2021.05) Perceptual Image Quality Assessment with Transformers, [[Paper]](https://arxiv.org/pdf/2104.14730.pdf)
 
 - (arXiv 2021.05) Do You Even Need Attention? A Stack of Feed-Forward Layers Does Surprisingly Well on ImageNet, [[Paper]](https://arxiv.org/pdf/2105.02723v1.pdf), [[Code]](https://github.com/lukemelas/do-you-even-need-attention)
