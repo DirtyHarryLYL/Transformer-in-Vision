@@ -39,6 +39,9 @@ Keep update.
 - (arXiv 2020.1) Transformers in Vision: A Survey, [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
+
+- (arXiv 2021.05) BELT: Blockwise Missing Embedding Learning Transfomer, [[Paper]](https://arxiv.org/pdf/2105.10360.pdf)
+
 - (arXiv 2021.05) End-to-End Video Object Detection with Spatial-Temporal Transformers, [[Paper]](https://arxiv.org/pdf/2105.10920.pdf), [[Code]](https://github.com/SJTU-LuHe/TransVOD)
 
 - (arXiv 2021.05) SAT: 2D Semantics Assisted Training for 3D Visual Grounding, [[Paper]](https://arxiv.org/pdf/2105.11450.pdf)
