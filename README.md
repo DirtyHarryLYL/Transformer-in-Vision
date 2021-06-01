@@ -40,6 +40,8 @@ Keep update.
 
 ## Recent Papers
 
+- (arXiv 2021.05) VLM: Task-agnostic Video-Language Model Pre-training for Video Understanding, [[Paper]](https://arxiv.org/pdf/2105.09996.pdf)
+
 - (arXiv 2021.05) Improving Generation and Evaluation of Visual Stories via Semantic Consistency, [[Paper]](https://arxiv.org/pdf/2105.10026.pdf), [[Code]](https://github.com/adymaharana/StoryViz)
 
 - (arXiv 2021.05) BELT: Blockwise Missing Embedding Learning Transfomer, [[Paper]](https://arxiv.org/pdf/2105.10360.pdf)
