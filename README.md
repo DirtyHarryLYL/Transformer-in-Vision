@@ -39,6 +39,10 @@ Keep update.
 - (arXiv 2020.1) Transformers in Vision: A Survey, [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
+- (arXiv 2021.06) DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsification, [[Paper]](https://arxiv.org/pdf/2106.02034.pdf), [[Code]](https://github.com/raoyongming/DynamicViT)
+
+- (arXiv 2021.06) Anticipative Video Transformer, [[Paper]](https://arxiv.org/pdf/2106.02036.pdf), [[Project]](https://facebookresearch.github.io/AVT/)
+
 - (arXiv 2021.06) When Vision Transformers Outperform ResNets without Pretraining or Strong Data Augmentations, [[Paper]](https://arxiv.org/pdf/2106.01548.pdf)
 
 - (2021.06) Reinforcement Learning as One Big Sequence Modeling Problem, [[Paper]](https://people.eecs.berkeley.edu/~janner/trajectory-transformer/files/trajectory-transformer.pdf), [[Project]](https://trajectory-transformer.github.io/)
