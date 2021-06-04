@@ -39,6 +39,8 @@ Keep update.
 - (arXiv 2020.1) Transformers in Vision: A Survey, [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
+- (arXiv 2021.06) When Vision Transformers Outperform ResNets without Pretraining or Strong Data Augmentations, [[Paper]](https://arxiv.org/pdf/2106.01548.pdf)
+
 - (2021.06) Reinforcement Learning as One Big Sequence Modeling Problem, [[Paper]](https://people.eecs.berkeley.edu/~janner/trajectory-transformer/files/trajectory-transformer.pdf), [[Project]](https://trajectory-transformer.github.io/)
 
 - (arXiv 2021.05) Beyond Self-attention: External Attention using Two Linear Layers for Visual Tasks, [[Paper]](https://arxiv.org/pdf/2105.02358.pdf), [[Code]](https://github.com/MenghaoGuo/-EANet)
