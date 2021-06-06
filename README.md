@@ -1,7 +1,7 @@
 # Transformer-in-Vision
 Recent Transformer-based CV and related works. Welcome to comment/contribute!
 
-Keep update.
+Keep updated.
 
 ## Resource
 - Attention is all you need, [[Paper]](https://arxiv.org/pdf/1706.03762.pdf)
@@ -28,7 +28,7 @@ Keep update.
 
 - [yuewang-cuhk/awesome-vision-language-pretraining-papers](https://github.com/yuewang-cuhk/awesome-vision-language-pretraining-papers)
 
-## Survery: 
+## Survey: 
 
 - (arXiv 2021.03) A Practical Survey on Faster and Lighter Transformers, [[Paper]](https://arxiv.org/pdf/2103.14636.pdf)
 
@@ -46,6 +46,8 @@ Keep update.
 - (arXiv 2021.06) When Vision Transformers Outperform ResNets without Pretraining or Strong Data Augmentations, [[Paper]](https://arxiv.org/pdf/2106.01548.pdf)
 
 - (2021.06) Reinforcement Learning as One Big Sequence Modeling Problem, [[Paper]](https://people.eecs.berkeley.edu/~janner/trajectory-transformer/files/trajectory-transformer.pdf), [[Project]](https://trajectory-transformer.github.io/)
+
+- (arXiv 2021.05) An Attention Free Transformer, [[Paper]](https://arxiv.org/pdf/2105.14103.pdf)
 
 - (arXiv 2021.05) Beyond Self-attention: External Attention using Two Linear Layers for Visual Tasks, [[Paper]](https://arxiv.org/pdf/2105.02358.pdf), [[Code]](https://github.com/MenghaoGuo/-EANet)
 
