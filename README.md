@@ -47,6 +47,8 @@ Keep updated.
 
 - (2021.06) Reinforcement Learning as One Big Sequence Modeling Problem, [[Paper]](https://people.eecs.berkeley.edu/~janner/trajectory-transformer/files/trajectory-transformer.pdf), [[Project]](https://trajectory-transformer.github.io/)
 
+- (arXiv 2021.05) Single-Layer Vision Transformers for More Accurate Early Exits with Less Overhead, [[Paper]](https://arxiv.org/pdf/2105.09121.pdf)
+
 - (arXiv 2021.05) An Attention Free Transformer, [[Paper]](https://arxiv.org/pdf/2105.14103.pdf)
 
 - (arXiv 2021.05) Beyond Self-attention: External Attention using Two Linear Layers for Visual Tasks, [[Paper]](https://arxiv.org/pdf/2105.02358.pdf), [[Code]](https://github.com/MenghaoGuo/-EANet)
