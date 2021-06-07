@@ -47,6 +47,8 @@ Keep updated.
 
 - (2021.06) Reinforcement Learning as One Big Sequence Modeling Problem, [[Paper]](https://people.eecs.berkeley.edu/~janner/trajectory-transformer/files/trajectory-transformer.pdf), [[Project]](https://trajectory-transformer.github.io/)
 
+- (arXiv 2021.05) Relative Positional Encoding for Transformers with Linear Complexity, [[Paper]](https://arxiv.org/pdf/2105.08399.pdf)
+
 - (arXiv 2021.05) VTNET: VISUAL TRANSFORMER NETWORK FOR OBJECT GOAL NAVIGATION, [[Paper]](https://arxiv.org/pdf/2105.09447.pdf)
 
 - (arXiv 2021.05) DeepCAD: A Deep Generative Network for Computer-Aided Design Models, [[Paper]](https://arxiv.org/pdf/2105.09492.pdf)
