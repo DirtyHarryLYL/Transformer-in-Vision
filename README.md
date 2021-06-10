@@ -39,6 +39,8 @@ Keep updated.
 - (arXiv 2020.1) Transformers in Vision: A Survey, [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
+- (arXiv 2021.06) Towards Training Stronger Video Vision Transformers for EPIC-KITCHENS-100 Action Recognition, [[Paper]](https://arxiv.org/pdf/2106.05058.pdf)
+
 - (arXiv 2021.06) Semi-Supervised 3D Hand-Object Poses Estimation with Interactions in Time, [[Paper]](https://arxiv.org/pdf/2106.05266.pdf), [[Code]](https://stevenlsw.github.io/Semi-Hand-Object)
 
 - (arXiv 2021.06) DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsification, [[Paper]](https://arxiv.org/pdf/2106.02034.pdf), [[Code]](https://github.com/raoyongming/DynamicViT)
