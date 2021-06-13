@@ -289,6 +289,8 @@ Keep updated.
 
 - (arXiv 2021.04) Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval, [[Paper]](https://arxiv.org/pdf/2104.00650.pdf)
 
+- (arXiv 2021.04) Composable Augmentation Encoding for Video Representation Learning, [[Paper]](https://arxiv.org/pdf/2104.00616.pdf)
+
 - (arXiv 2021.03) TransCenter: Transformers with Dense Queries for Multiple-Object Tracking, [[Paper]](https://arxiv.org/pdf/2103.15145.pdf)
 
 - (arXiv 2021.03) PixelTransformer: Sample Conditioned Signal Generation, [[Paper]](https://arxiv.org/pdf/2103.15813.pdf), [[Code]](https://shubhtuls.github.io/PixelTransformer/)
@@ -302,8 +304,6 @@ Keep updated.
 - (arXiv 2021.03) StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery, [[Paper]](https://arxiv.org/pdf/2103.17249.pdf), [[Code]](https://github.com/orpatashnik/StyleCLIP)
 
 - (arXiv 2021.03) Multimodal Motion Prediction with Stacked Transformers, [[Paper]](https://arxiv.org/pdf/2103.11624.pdf), [[Code]](https://github.com/decisionforce/mmTransformer)
-
-- (arXiv 2021.04) Composable Augmentation Encoding for Video Representation Learning, [[Paper]](https://arxiv.org/pdf/2104.00616.pdf)
 
 - (arXiv 2021.03) Robust Facial Expression Recognition with Convolutional Visual Transformers, [[Paper]](https://arxiv.org/pdf/2103.16854.pdf)
 
