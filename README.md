@@ -111,6 +111,8 @@ Keep updated.
 
 - (arXiv 2021.05) Visual Composite Set Detection Using Part-and-Sum Transformers, [[Paper]](https://arxiv.org/pdf/2105.02170.pdf)
 
+- (arXiv 2021.04) HandsFormer: Keypoint Transformer for Monocular 3D Pose Estimation of Hands and Object in Interaction, [[Paper]](https://arxiv.org/pdf/2104.14639.pdf)
+
 - (arXiv 2021.04) Chop Chop BERT: Visual Question Answering by Chopping VisualBERT’s Heads, [[Paper]](https://arxiv.org/pdf/2104.14741.pdf)
 
 - (arXiv 2021.04) CoSformer: Detecting Co-Salient Object with Transformers, [[Paper]](https://arxiv.org/pdf/2104.14729.pdf)
