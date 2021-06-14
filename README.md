@@ -53,6 +53,8 @@ Keep updated.
 
 - (2021.06) Reinforcement Learning as One Big Sequence Modeling Problem, [[Paper]](https://people.eecs.berkeley.edu/~janner/trajectory-transformer/files/trajectory-transformer.pdf), [[Project]](https://trajectory-transformer.github.io/)
 
+- (arXiv 2021.05) Rethinking Skip Connection with Layer Normalization in Transformers and ResNets, [[Paper]](https://arxiv.org/pdf/2105.07205.pdf)
+
 - (arXiv 2021.05) IntFormer: Predicting pedestrian intention with the aid of the Transformer architecture, [[Paper]](https://arxiv.org/pdf/2105.08647.pdf)
 
 - (arXiv 2021.05) Parallel Attention Network with Sequence Matching for Video Grounding, [[Paper]](https://arxiv.org/pdf/2105.08481.pdf), [[Code]](https://github.com/IsaacChanghau/SeqPAN)
