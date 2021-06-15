@@ -55,6 +55,8 @@ Keep updated.
 
 - (2021.06) Reinforcement Learning as One Big Sequence Modeling Problem, [[Paper]](https://people.eecs.berkeley.edu/~janner/trajectory-transformer/files/trajectory-transformer.pdf), [[Project]](https://trajectory-transformer.github.io/)
 
+- (arXiv 2021.05) Episodic Transformer for Vision-and-Language Navigation, [[Paper]](https://arxiv.org/pdf/2105.06453.pdf)
+
 - (arXiv 2021.05) Towards Robust Vision Transformer, [[Paper]](https://arxiv.org/pdf/2105.07926.pdf), [[Code]](https://git.io/Jswdk)
 
 - (arXiv 2021.05) Vision Transformers are Robust Learners, [[Paper]](https://arxiv.org/pdf/2105.07581.pdf), [[Code]](https://git.io/J3VO0)
