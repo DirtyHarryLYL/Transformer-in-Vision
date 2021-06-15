@@ -30,6 +30,8 @@ Keep updated.
 
 ## Survey: 
 
+- (arXiv 2021.06) Pre-Trained Models: Past, Present and Future, [[Paper]](https://arxiv.org/pdf/2106.07139.pdf)
+
 - (arXiv 2021.03) A Practical Survey on Faster and Lighter Transformers, [[Paper]](https://arxiv.org/pdf/2103.14636.pdf)
 
 - (arXiv 2021.03) Perspectives and Prospects on Transformer Architecture for Cross-Modal Tasks with Language and Vision, [[Paper]](https://arxiv.org/pdf/2103.04037.pdf)
