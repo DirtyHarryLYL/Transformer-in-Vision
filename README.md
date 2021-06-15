@@ -55,6 +55,8 @@ Keep updated.
 
 - (2021.06) Reinforcement Learning as One Big Sequence Modeling Problem, [[Paper]](https://people.eecs.berkeley.edu/~janner/trajectory-transformer/files/trajectory-transformer.pdf), [[Project]](https://trajectory-transformer.github.io/)
 
+- (arXiv 2021.05) Vision Transformers are Robust Learners, [[Paper]](https://arxiv.org/pdf/2105.07581.pdf), [[Code]](https://git.io/J3VO0)
+
 - (arXiv 2021.05) ISTR: End-to-End Instance Segmentation with Transformers, [[Paper]](https://arxiv.org/pdf/2105.00637.pdf), [[Code]](https://github.com/hujiecpp/ISTR)
 
 - (arXiv 2021.05) SVT-Net: Super Light-Weight Sparse Voxel Transformer for Large Scale Place Recognition, [[Paper]](https://arxiv.org/pdf/2105.00149.pdf)
