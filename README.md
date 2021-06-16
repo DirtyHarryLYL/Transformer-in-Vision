@@ -41,6 +41,8 @@ Keep updated.
 - (arXiv 2020.1) Transformers in Vision: A Survey, [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
+- (arXiv 2021.06) BEIT: BERT Pre-Training of Image Transformers, [[Paper]](https://arxiv.org/pdf/2106.08254.pdf), [[Code]](https://aka.ms/beit)
+
 - (arXiv 2021.06) Scaling Vision with Sparse Mixture of Experts, [[Paper]](https://arxiv.org/pdf/2106.05974.pdf)
 
 - (arXiv 2021.06) Towards Training Stronger Video Vision Transformers for EPIC-KITCHENS-100 Action Recognition, [[Paper]](https://arxiv.org/pdf/2106.05058.pdf)
