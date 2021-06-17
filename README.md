@@ -61,6 +61,8 @@ Keep updated.
 
 - (2021.06) Reinforcement Learning as One Big Sequence Modeling Problem, [[Paper]](https://people.eecs.berkeley.edu/~janner/trajectory-transformer/files/trajectory-transformer.pdf), [[Project]](https://trajectory-transformer.github.io/)
 
+- (arXiv 2021.05) Computer-Aided Design as Language, [[Paper]](https://arxiv.org/pdf/2105.02769.pdf)
+
 - (arXiv 2021.05) FLEX: Parameter-free Multi-view 3D Human Motion Reconstruction, [[Paper]](https://arxiv.org/pdf/2105.01937.pdf), [[Project]](https://briang13.github.io/FLEX/)
 
 - (arXiv 2021.05) TransHash: Transformer-based Hamming Hashing for Efficient Image Retrieval, [[Paper]](https://arxiv.org/pdf/2105.01823.pdf)
