@@ -61,6 +61,8 @@ Keep updated.
 
 - (2021.06) Reinforcement Learning as One Big Sequence Modeling Problem, [[Paper]](https://people.eecs.berkeley.edu/~janner/trajectory-transformer/files/trajectory-transformer.pdf), [[Project]](https://trajectory-transformer.github.io/)
 
+- (arXiv 2021.05) Attention for Image Registration (AiR): an unsupervised Transformer approach, [[Paper]](https://arxiv.org/pdf/2105.02282.pdf), [[Code]](https://gitlab.inria.fr/zihwang/transformer-for-image-registration)
+
 - (arXiv 2021.05) EXPLORING EXPLICIT AND IMPLICIT VISUAL RELATIONSHIPS FOR IMAGE CAPTIONING, [[Paper]](https://arxiv.org/pdf/2105.02391.pdf)
 
 - (arXiv 2021.05) Computer-Aided Design as Language, [[Paper]](https://arxiv.org/pdf/2105.02769.pdf)
