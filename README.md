@@ -41,6 +41,9 @@ Keep updated.
 - (arXiv 2020.1) Transformers in Vision: A Survey, [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
+
+- (arXiv 2021.06) ResMLP: Feedforward networks for image classification with data-efficient training, [[Paper]](https://arxiv.org/pdf/2105.03404.pdf)
+
 - (arXiv 2021.06) Multi-head or Single-head? An Empirical Comparison for Transformer Training, [[Paper]](https://arxiv.org/pdf/2106.09650.pdf)
 
 - (arXiv 2021.06) Dynamic Head: Unifying Object Detection Heads with Attentions, [[Paper]](https://arxiv.org/pdf/2106.08322v1.pdf), [[Code]](https://github.com/microsoft/DynamicHead)
