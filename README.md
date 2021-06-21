@@ -68,6 +68,8 @@ Keep updated.
 
 - (2021.06) Reinforcement Learning as One Big Sequence Modeling Problem, [[Paper]](https://people.eecs.berkeley.edu/~janner/trajectory-transformer/files/trajectory-transformer.pdf), [[Project]](https://trajectory-transformer.github.io/)
 
+- (arXiv 2021.05) Visual Grounding with Transformers, [[Paper]](https://arxiv.org/pdf/2105.04281.pdf)
+
 - (arXiv 2021.05) Self-Supervised Learning with Swin Transformers, [[Paper]](https://arxiv.org/pdf/2105.04553.pdf), [[Code]](https://github.com/SwinTransformer/Transformer-SSL)
 
 - (arXiv 2021.05) Are Pre-trained Convolutions Better than Pre-trained Transformers? [[Paper]](https://arxiv.org/pdf/2105.03322.pdf)
