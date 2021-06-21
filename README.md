@@ -60,6 +60,8 @@ Keep updated.
 
 - (arXiv 2021.06) DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsification, [[Paper]](https://arxiv.org/pdf/2106.02034.pdf), [[Code]](https://github.com/raoyongming/DynamicViT)
 
+- (arXiv 2021.06) SCTN: Sparse Convolution-Transformer Network for Scene Flow Estimation, [[Paper]](https://arxiv.org/pdf/2105.04447.pdf)
+
 - (arXiv 2021.06) Anticipative Video Transformer, [[Paper]](https://arxiv.org/pdf/2106.02036.pdf), [[Project]](https://facebookresearch.github.io/AVT/)
 
 - (arXiv 2021.06) When Vision Transformers Outperform ResNets without Pretraining or Strong Data Augmentations, [[Paper]](https://arxiv.org/pdf/2106.01548.pdf)
