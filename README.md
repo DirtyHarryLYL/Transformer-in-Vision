@@ -44,6 +44,8 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.06) Stable, Fast and Accurate: Kernelized Attention with Relative Positional Encoding, [[Paper]](https://arxiv.org/pdf/2106.12566.pdf)
+
 - (arXiv 2021.06) MODETR: Moving Object Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2106.11422.pdf)
 
 - (arXiv 2021.06) ResMLP: Feedforward networks for image classification with data-efficient training, [[Paper]](https://arxiv.org/pdf/2105.03404.pdf)
