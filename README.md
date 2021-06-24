@@ -44,6 +44,8 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.06) Co-advise: Cross Inductive Bias Distillation, [[Paper]](https://arxiv.org/pdf/2106.12378.pdf)
+
 - (arXiv 2021.06) Team PyKale (xy9) Submission to the EPIC-Kitchens 2021 Unsupervised Domain Adaptation Challenge for Action Recognition, [[Paper]](https://arxiv.org/pdf/2106.12023.pdf)
 
 - (arXiv 2021.06) P2T: Pyramid Pooling Transformer for Scene Understanding, [[Paper]](https://arxiv.org/pdf/2106.12011.pdf), [[Code]](https://github.com/yuhuan-wu/P2T)
