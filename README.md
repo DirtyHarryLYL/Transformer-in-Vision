@@ -44,6 +44,8 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.06) LegoFormer: Transformers for Block-by-Block Multi-view 3D Reconstruction, [[Paper]](https://arxiv.org/pdf/2106.12102.pdf)
+
 - (arXiv 2021.06) Stable, Fast and Accurate: Kernelized Attention with Relative Positional Encoding, [[Paper]](https://arxiv.org/pdf/2106.12566.pdf)
 
 - (arXiv 2021.06) MODETR: Moving Object Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2106.11422.pdf)
