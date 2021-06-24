@@ -44,6 +44,8 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.06) VISION PERMUTATOR: A PERMUTABLE MLP-LIKE ARCHITECTURE FOR VISUAL RECOGNITION, [[Paper]](https://arxiv.org/pdf/2106.12368.pdf), [[Code]](https://github.com/Andrew-Qibin/VisionPermutator)
+
 - (arXiv 2021.06) Co-advise: Cross Inductive Bias Distillation, [[Paper]](https://arxiv.org/pdf/2106.12378.pdf)
 
 - (arXiv 2021.06) Team PyKale (xy9) Submission to the EPIC-Kitchens 2021 Unsupervised Domain Adaptation Challenge for Action Recognition, [[Paper]](https://arxiv.org/pdf/2106.12023.pdf)
