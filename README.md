@@ -44,6 +44,8 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.06) IA-RED^2: Interpretability-Aware Redundancy Reduction for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2106.12620.pdf), [[Code]](http://people.csail.mit.edu/bpan/ia-red/)
+
 - (arXiv 2021.06) AudioCLIP: Extending CLIP to Image, Text and Audio, [[Paper]](https://arxiv.org/pdf/2106.13043.pdf)
 
 - (arXiv 2021.06) VISION PERMUTATOR: A PERMUTABLE MLP-LIKE ARCHITECTURE FOR VISUAL RECOGNITION, [[Paper]](https://arxiv.org/pdf/2106.12368.pdf), [[Code]](https://github.com/Andrew-Qibin/VisionPermutator)
