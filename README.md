@@ -44,6 +44,10 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.06) VOLO: Vision Outlooker for Visual Recognition, [[Paper]](https://arxiv.org/pdf/2106.13112.pdf), [[Code]](https://github.com/sail-sg/volo)
+
+- (arXiv 2021.06) Exploring Corruption Robustness: Inductive Biases in Vision Transformers and MLP-Mixers, [[Paper]](https://arxiv.org/pdf/2106.13122.pdf)
+
 - (arXiv 2021.06) Video Swin Transformer, [[Paper]](https://arxiv.org/pdf/2106.13230.pdf), [[Code]](https://github.com/SwinTransformer/Video-Swin-Transformer)
 
 - (arXiv 2021.06) IA-RED^2: Interpretability-Aware Redundancy Reduction for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2106.12620.pdf), [[Code]](http://people.csail.mit.edu/bpan/ia-red/)
