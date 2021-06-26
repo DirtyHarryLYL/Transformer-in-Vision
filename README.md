@@ -44,6 +44,8 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.06) Video Swin Transformer, [[Paper]](https://arxiv.org/pdf/2106.13230.pdf), [[Code]](https://github.com/SwinTransformer/Video-Swin-Transformer)
+
 - (arXiv 2021.06) IA-RED^2: Interpretability-Aware Redundancy Reduction for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2106.12620.pdf), [[Code]](http://people.csail.mit.edu/bpan/ia-red/)
 
 - (arXiv 2021.06) AudioCLIP: Extending CLIP to Image, Text and Audio, [[Paper]](https://arxiv.org/pdf/2106.13043.pdf)
