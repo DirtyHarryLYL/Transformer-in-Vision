@@ -30,8 +30,6 @@ Keep updated.
 
 ## Survey: 
 
-- (arXiv 2021.06) Spatio-Temporal Multi-Task Learning Transformer for Joint Moving Object Detection and Segmentation, [[Paper]](https://arxiv.org/pdf/2106.11401.pdf)
-
 - (arXiv 2021.06) Pre-Trained Models: Past, Present and Future, [[Paper]](https://arxiv.org/pdf/2106.07139.pdf)
 
 - (arXiv 2021.03) A Practical Survey on Faster and Lighter Transformers, [[Paper]](https://arxiv.org/pdf/2103.14636.pdf)
@@ -43,6 +41,8 @@ Keep updated.
 - (arXiv 2020.1) Transformers in Vision: A Survey, [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
+
+- (arXiv 2021.06) Spatio-Temporal Multi-Task Learning Transformer for Joint Moving Object Detection and Segmentation, [[Paper]](https://arxiv.org/pdf/2106.11401.pdf)
 
 - (arXiv 2021.06) Exploring Vision Transformers for Fine-grained Classification, [[Paper]](https://arxiv.org/pdf/2106.10587.pdf), [[Code]](https://github.com/mv-lab/ViT-FGVC8)
 
