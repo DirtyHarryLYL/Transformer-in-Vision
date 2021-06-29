@@ -42,6 +42,8 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.06) Multimodal Few-Shot Learning with Frozen Language Models, [[Paper]](https://arxiv.org/pdf/2106.13884.pdf)
+
 - (arXiv 2021.06) Spatio-Temporal Multi-Task Learning Transformer for Joint Moving Object Detection and Segmentation, [[Paper]](https://arxiv.org/pdf/2106.11401.pdf)
 
 - (arXiv 2021.06) Exploring Vision Transformers for Fine-grained Classification, [[Paper]](https://arxiv.org/pdf/2106.10587.pdf), [[Code]](https://github.com/mv-lab/ViT-FGVC8)
