@@ -42,6 +42,8 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.06) Improving the Efficiency of Transformers for Resource-Constrained Devices, [[Paper]](https://arxiv.org/pdf/2106.16006.pdf)
+
 - (arXiv 2021.06) Multimodal Few-Shot Learning with Frozen Language Models, [[Paper]](https://arxiv.org/pdf/2106.13884.pdf)
 
 - (arXiv 2021.06) Spatio-Temporal Multi-Task Learning Transformer for Joint Moving Object Detection and Segmentation, [[Paper]](https://arxiv.org/pdf/2106.11401.pdf)
