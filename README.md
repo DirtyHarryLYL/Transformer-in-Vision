@@ -42,6 +42,8 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.07) OPT: Omni-Perception Pre-Trainer for Cross-Modal Understanding and Generation, [[Paper]](https://arxiv.org/pdf/2107.00249.pdf)
+
 - (arXiv 2021.07) TransSC: Transformer-based Shape Completion for Grasp Evaluation, [[Paper]](https://arxiv.org/pdf/2107.00511.pdf)
 
 - (arXiv 2021.07) Action Transformer: A Self-Attention Model for Short-Time Human Action Recognition, [[Paper]](https://arxiv.org/pdf/2107.00606.pdf)
