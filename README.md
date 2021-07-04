@@ -42,6 +42,10 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.07) CLIP-It! Language-Guided Video Summarization, [[Paper]](https://arxiv.org/pdf/2107.00650.pdf), [[Code]](https://medhini.github.io/clip_it)
+
+- (arXiv 2021.07) AutoFormer: Searching Transformers for Visual Recognition, [[Paper]](https://arxiv.org/pdf/2107.00651.pdf), [[Code]](https://github.com/microsoft/AutoML)
+
 - (arXiv 2021.07) Focal Self-attention for Local-Global Interactions in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2107.00641.pdf)
 
 - (arXiv 2021.07) Global Filter Networks for Image Classification, [[Paper]](https://arxiv.org/pdf/2107.00645.pdf), [[Code]](https://github.com/raoyongming/GFNet)
