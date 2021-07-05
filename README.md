@@ -42,6 +42,8 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.07) Case Relation Transformer: A Crossmodal Language Generation Model for Fetching Instructions, [[Paper]](https://arxiv.org/pdf/2107.00789.pdf)
+
 - (arXiv 2021.07) CSWin Transformer: A General Vision Transformer Backbone with Cross-Shaped Windows, [[Paper]](https://arxiv.org/pdf/2107.00652.pdf), [[Code]](https://github.com/microsoft/CSWin-Transformer.)
 
 - (arXiv 2021.07) CLIP-It! Language-Guided Video Summarization, [[Paper]](https://arxiv.org/pdf/2107.00650.pdf), [[Code]](https://medhini.github.io/clip_it)
