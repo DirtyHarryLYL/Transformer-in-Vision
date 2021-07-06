@@ -72,6 +72,8 @@ Keep updated.
 
 - (arXiv 2021.07) Action Transformer: A Self-Attention Model for Short-Time Human Action Recognition, [[Paper]](https://arxiv.org/pdf/2107.00606.pdf)
 
+- (arXiv 2021.06) Post-Training Quantization for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2106.14156.pdf)
+
 - (arXiv 2021.06) Attention Bottlenecks for Multimodal Fusion, [[Paper]](https://arxiv.org/pdf/2107.00135.pdf)
 
 - (arXiv 2021.06) Improving the Efficiency of Transformers for Resource-Constrained Devices, [[Paper]](https://arxiv.org/pdf/2106.16006.pdf)
