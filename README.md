@@ -42,6 +42,8 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.07) What Makes for Hierarchical Vision Transformer? [[Paper]](https://arxiv.org/pdf/2107.02174.pdf)
+
 - (arXiv 2021.07) Efficient Vision Transformers via Fine-Grained Manifold Distillation, [[Paper]](https://arxiv.org/pdf/2107.01378.pdf)
 
 - (arXiv 2021.07) Visual Relationship Forecasting in Videos, [[Paper]](https://arxiv.org/pdf/2107.01181.pdf)
