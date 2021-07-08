@@ -42,6 +42,8 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.07) LEARNING VISION TRANSFORMER WITH SQUEEZE AND EXCITATION FOR FACIAL EXPRESSION RECOGNITION, [[Paper]](https://arxiv.org/pdf/2107.03107.pdf)
+
 - (arXiv 2021.07) Trans4Trans: Efficient Transformer for Transparent Object Segmentation to Help Visually Impaired People Navigate in the Real World, [[Paper]](https://arxiv.org/pdf/2107.03172.pdf)
 
 - (arXiv 2021.07) Long Short-Term Transformer for Online Action Detection, [[Paper]](https://arxiv.org/pdf/2107.03377.pdf)
