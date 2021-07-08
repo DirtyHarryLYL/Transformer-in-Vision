@@ -90,6 +90,8 @@ Keep updated.
 
 - (arXiv 2021.07) Action Transformer: A Self-Attention Model for Short-Time Human Action Recognition, [[Paper]](https://arxiv.org/pdf/2107.00606.pdf)
 
+- (arXiv 2021.06) Rethinking Token-Mixing MLP for MLP-based Vision Backbone, [[Paper]](https://arxiv.org/pdf/2106.14882.pdf)
+
 - (arXiv 2021.06) Augmented Shortcuts for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2106.15941.pdf)
 
 - (arXiv 2021.06) Post-Training Quantization for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2106.14156.pdf)
