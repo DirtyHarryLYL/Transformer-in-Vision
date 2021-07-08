@@ -42,6 +42,8 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.07) VIDLANKD: Improving Language Understanding via Video-Distilled Knowledge Transfer, [[Paper]](https://arxiv.org/pdf/2107.02681.pdf), [[Code]](https://github.com/zinengtang/VidLanKD)
+
 - (arXiv 2021.07) GLiT: Neural Architecture Search for Global and Local Image Transformer, [[Paper]](https://arxiv.org/pdf/2107.02960.pdf)
 
 - (arXiv 2021.07) LEARNING VISION TRANSFORMER WITH SQUEEZE AND EXCITATION FOR FACIAL EXPRESSION RECOGNITION, [[Paper]](https://arxiv.org/pdf/2107.03107.pdf)
