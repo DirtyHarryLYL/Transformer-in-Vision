@@ -42,6 +42,8 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.07) EEG-CONVTRANSFORMER FOR SINGLE-TRIAL EEG BASED VISUAL STIMULI CLASSIFICATION, [[Paper]](https://arxiv.org/pdf/2107.03983.pdf)
+
 - (arXiv 2021.07) Feature Fusion Vision Transformer for Fine-Grained Visual Categorization, [[Paper]](https://arxiv.org/pdf/2107.02341.pdf)
 
 - (arXiv 2021.07) Long-Short Transformer: Efficient Transformers for Language and Vision, [[Paper]](https://arxiv.org/pdf/2107.02192.pdf)
