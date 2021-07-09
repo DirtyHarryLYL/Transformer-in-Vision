@@ -42,6 +42,8 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.07) Learning Vision-Guided Quadrupedal Locomotion End-to-End with Cross-Modal Transformers, [[Paper]](https://arxiv.org/pdf/2107.03996.pdf), [[Code]](https://rchalyang.github.io/LocoTransformer)
+
 - (arXiv 2021.07) LanguageRefer: Spatial-Language Model for 3D Visual Grounding, [[Paper]](https://arxiv.org/pdf/2107.03438.pdf)
 
 - (arXiv 2021.07) EEG-CONVTRANSFORMER FOR SINGLE-TRIAL EEG BASED VISUAL STIMULI CLASSIFICATION, [[Paper]](https://arxiv.org/pdf/2107.03983.pdf)
