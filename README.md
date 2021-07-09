@@ -98,6 +98,8 @@ Keep updated.
 
 - (arXiv 2021.07) Action Transformer: A Self-Attention Model for Short-Time Human Action Recognition, [[Paper]](https://arxiv.org/pdf/2107.00606.pdf)
 
+- (arXiv 2021.06) Vision Transformer Architecture Search, [[Paper]](https://arxiv.org/pdf/2106.13700.pdf), [[Code]](https://github.com/xiusu/ViTAS)
+
 - (arXiv 2021.06) Unified Questioner Transformer for Descriptive Question Generation in Goal-Oriented Visual Dialogue, [[Paper]](https://arxiv.org/pdf/2106.15550.pdf)
 
 - (arXiv 2021.06) Multi-Exit Vision Transformer for Dynamic Inference, [[Paper]](https://arxiv.org/pdf/2106.15183.pdf)
