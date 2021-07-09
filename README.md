@@ -98,6 +98,22 @@ Keep updated.
 
 - (arXiv 2021.07) Action Transformer: A Self-Attention Model for Short-Time Human Action Recognition, [[Paper]](https://arxiv.org/pdf/2107.00606.pdf)
 
+- (arXiv 2021.06) CLIP2Video: Mastering Video-Text Retrieval via Image CLIP, [[Paper]](https://arxiv.org/pdf/2106.11097.pdf), [[Code]](https://github.com/CryhanFang/CLIP2Video)
+
+- (arXiv 2021.06) OadTR: Online Action Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2106.11149.pdf), [[Code]](https://github.com/wangxiang1230/OadTR)
+
+- (arXiv 2021.06) VIMPAC: Video Pre-Training via Masked Token Prediction and Contrastive Learning, [[Paper]](https://arxiv.org/pdf/2106.11250.pdf), [[Code]](https://github.com/airsplay/vimpac)
+
+- (arXiv 2021.06) Towards Long-Form Video Understanding, [[Paper]](https://arxiv.org/pdf/2106.11310.pdf), [[Code]](https://github.com/chaoyuaw/lvu)
+
+- (arXiv 2021.06) TokenLearner: What Can 8 Learned Tokens Do for Images and Videos? [[Paper]](https://arxiv.org/pdf/2106.11297.pdf)
+
+- (arXiv 2021.06) More than Encoder: Introducing Transformer Decoder to Upsample, [[Paper]](https://arxiv.org/pdf/2106.10637.pdf)
+
+- (arXiv 2021.06) A Picture May Be Worth a Hundred Words for Visual Question Answering, [[Paper]](https://arxiv.org/pdf/2106.13445.pdf)
+
+- (arXiv 2021.06) Probing Inter-modality: Visual Parsing with Self-Attention for Vision-Language Pre-training, [[Paper]](https://arxiv.org/pdf/2106.13488.pdf)
+
 - (arXiv 2021.06) Shape registration in the time of transformers, [[Paper]](https://arxiv.org/pdf/2106.13679.pdf)
 
 - (arXiv 2021.06) Vision Transformer Architecture Search, [[Paper]](https://arxiv.org/pdf/2106.13700.pdf), [[Code]](https://github.com/xiusu/ViTAS)
