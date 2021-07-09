@@ -96,6 +96,8 @@ Keep updated.
 
 - (arXiv 2021.07) Action Transformer: A Self-Attention Model for Short-Time Human Action Recognition, [[Paper]](https://arxiv.org/pdf/2107.00606.pdf)
 
+- (arXiv 2021.06) Multi-Exit Vision Transformer for Dynamic Inference, [[Paper]](https://arxiv.org/pdf/2106.15183.pdf)
+
 - (arXiv 2021.06) Early Convolutions Help Transformers See Better, [[Paper]](https://arxiv.org/pdf/2106.14881.pdf)
 
 - (arXiv 2021.06) Rethinking Token-Mixing MLP for MLP-based Vision Backbone, [[Paper]](https://arxiv.org/pdf/2106.14882.pdf)
