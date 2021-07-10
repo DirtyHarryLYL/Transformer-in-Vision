@@ -98,6 +98,8 @@ Keep updated.
 
 - (arXiv 2021.07) Action Transformer: A Self-Attention Model for Short-Time Human Action Recognition, [[Paper]](https://arxiv.org/pdf/2107.00606.pdf)
 
+- (arXiv 2021.06) Efficient Self-supervised Vision Transformers for Representation Learning, [[Paper]](https://arxiv.org/pdf/2106.09785.pdf)
+
 - (arXiv 2021.06) CLIP2Video: Mastering Video-Text Retrieval via Image CLIP, [[Paper]](https://arxiv.org/pdf/2106.11097.pdf), [[Code]](https://github.com/CryhanFang/CLIP2Video)
 
 - (arXiv 2021.06) OadTR: Online Action Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2106.11149.pdf), [[Code]](https://github.com/wangxiang1230/OadTR)
