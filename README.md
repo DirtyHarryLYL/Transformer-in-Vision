@@ -98,6 +98,10 @@ Keep updated.
 
 - (arXiv 2021.07) Action Transformer: A Self-Attention Model for Short-Time Human Action Recognition, [[Paper]](https://arxiv.org/pdf/2107.00606.pdf)
 
+- (arXiv 2021.06) How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2106.10270.pdf), [[Code]](https://github.com/google-research/vision_transformer), [[Model]](https://github.com/rwightman/pytorch-image-models)
+
+- (arXiv 2021.06) End-to-end Temporal Action Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2106.10271.pdf), [[Code]](https://github.com/xlliu7/TadTR)
+
 - (arXiv 2021.06) Efficient Self-supervised Vision Transformers for Representation Learning, [[Paper]](https://arxiv.org/pdf/2106.09785.pdf)
 
 - (arXiv 2021.06) CLIP2Video: Mastering Video-Text Retrieval via Image CLIP, [[Paper]](https://arxiv.org/pdf/2106.11097.pdf), [[Code]](https://github.com/CryhanFang/CLIP2Video)
