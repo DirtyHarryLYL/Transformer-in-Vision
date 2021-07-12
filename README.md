@@ -198,6 +198,8 @@ Keep updated.
 
 - (2021.06) Reinforcement Learning as One Big Sequence Modeling Problem, [[Paper]](https://people.eecs.berkeley.edu/~janner/trajectory-transformer/files/trajectory-transformer.pdf), [[Project]](https://trajectory-transformer.github.io/)
 
+- (arXiv 2021.05) Sequence Parallelism: Making 4D Parallelism Possible, [[Paper]](https://arxiv.org/pdf/2105.13120.pdf)
+
 - (arXiv 2021.05) CogView: Mastering Text-to-Image Generation via Transformers, [[Paper]](https://arxiv.org/pdf/2105.13290.pdf), [[Code]](https://github.com/THUDM/CogView)
 
 - (arXiv 2021.05) TrTr: Visual Tracking with Transformer, [[Paper]](https://arxiv.org/pdf/2105.03817.pdf), [[Code]](https://github.com/tongtybj/TrTr)
