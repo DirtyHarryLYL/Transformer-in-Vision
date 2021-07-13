@@ -108,6 +108,8 @@ Keep updated.
 
 - (arXiv 2021.07) Action Transformer: A Self-Attention Model for Short-Time Human Action Recognition, [[Paper]](https://arxiv.org/pdf/2107.00606.pdf)
 
+- (arXiv 2021.06) Thinking Like Transformers, [[Paper]](https://arxiv.org/pdf/2106.06981.pdf)
+
 - (arXiv 2021.06) **Kernel Identification** Through Transformers, [[Pper]](https://arxiv.org/pdf/2106.08185.pdf)
 
 - (arXiv 2021.06) XCiT: Cross-Covariance Image Transformers, [[Paper]](https://arxiv.org/pdf/2106.09681.pdf)
