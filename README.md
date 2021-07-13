@@ -108,6 +108,8 @@ Keep updated.
 
 - (arXiv 2021.07) Action Transformer: A Self-Attention Model for Short-Time Human Action Recognition, [[Paper]](https://arxiv.org/pdf/2107.00606.pdf)
 
+- (arXiv 2021.06) Video Super-Resolution Transformer, [[Paper]](https://arxiv.org/pdf/2106.06847.pdf), [[Code]](https://github.com/caojiezhang/VSR-Transformer)
+
 - (arXiv 2021.06) Thinking Like Transformers, [[Paper]](https://arxiv.org/pdf/2106.06981.pdf)
 
 - (arXiv 2021.06) **Kernel Identification** Through Transformers, [[Pper]](https://arxiv.org/pdf/2106.08185.pdf)
