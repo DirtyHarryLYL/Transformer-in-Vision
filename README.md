@@ -214,6 +214,8 @@ Keep updated.
 
 - (arXiv 2021.06) When Vision Transformers Outperform ResNets without Pretraining or Strong Data Augmentations, [[Paper]](https://arxiv.org/pdf/2106.01548.pdf)
 
+- (2021.06) THG:Transformer with Hyperbolic Geometry, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2106/2106.07350.pdf)
+
 - (2021.06) Reinforcement Learning as One Big Sequence Modeling Problem, [[Paper]](https://people.eecs.berkeley.edu/~janner/trajectory-transformer/files/trajectory-transformer.pdf), [[Project]](https://trajectory-transformer.github.io/)
 
 - (arXiv 2021.05) Vision Transformers are Robust Learners, [[Paper]](https://arxiv.org/pdf/2105.07581.pdf), [[Code]](https://git.io/J3VO0)
