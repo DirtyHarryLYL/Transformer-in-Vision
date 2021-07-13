@@ -210,6 +210,8 @@ Keep updated.
 
 - (arXiv 2021.06) Anticipative Video Transformer, [[Paper]](https://arxiv.org/pdf/2106.02036.pdf), [[Project]](https://facebookresearch.github.io/AVT/)
 
+- (arXiv 2021.06) Pay Attention to MLPs, [[Paper]](https://arxiv.org/pdf/2105.08050.pdf)
+
 - (arXiv 2021.06) When Vision Transformers Outperform ResNets without Pretraining or Strong Data Augmentations, [[Paper]](https://arxiv.org/pdf/2106.01548.pdf)
 
 - (2021.06) Reinforcement Learning as One Big Sequence Modeling Problem, [[Paper]](https://people.eecs.berkeley.edu/~janner/trajectory-transformer/files/trajectory-transformer.pdf), [[Project]](https://trajectory-transformer.github.io/)
