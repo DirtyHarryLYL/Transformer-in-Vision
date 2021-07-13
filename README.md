@@ -42,6 +42,8 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.07) Local-to-Global Self-Attention in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2107.04735.pdf), [[Code]](https://github.com/ljpadam/LG-Transformer)
+
 - (arXiv 2021.07) Scenes and Surroundings: Scene Graph Generation using Relation Transformer, [[Paper]](https://arxiv.org/pdf/2107.05448.pdf)
 
 - (arXiv 2021.07) ViTGAN: Training GANs with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2107.04589.pdf)
