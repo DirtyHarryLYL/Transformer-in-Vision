@@ -42,6 +42,10 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.07) Learning Multi-Scene **Absolute Pose Regression** with Transformers, [[Paper]](https://arxiv.org/pdf/2103.11468.pdf)
+
+- (arXiv 2021.07) CMT: **Convolutional** Neural Networks Meet Vision Transformers, [[Paper]](https://arxiv.org/pdf/2107.06263.pdf)
+
 - (arXiv 2021.07) HAT: Hierarchical Aggregation Transformers for **Person Re-identification**, [[Paper]](https://arxiv.org/pdf/2107.05946.pdf), [[Code]](https://github.com/AI-Zhpp/HAT)
 
 - (arXiv 2021.07) THE **BROWNIAN MOTION** IN THE TRANSFORMER MODEL, [[Paper]](https://arxiv.org/pdf/2107.05264.pdf)
