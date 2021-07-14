@@ -42,6 +42,8 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.07) Per-Pixel Classification is Not All You Need for Semantic **Segmentation**, [[Paper]](https://arxiv.org/pdf/2107.06278.pdf), [[Project]](https://bowenc0221.github.io/maskformer)
+
 - (arXiv 2021.07) Learning Multi-Scene **Absolute Pose Regression** with Transformers, [[Paper]](https://arxiv.org/pdf/2103.11468.pdf)
 
 - (arXiv 2021.07) CMT: **Convolutional** Neural Networks Meet Vision Transformers, [[Paper]](https://arxiv.org/pdf/2107.06263.pdf)
