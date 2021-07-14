@@ -112,7 +112,7 @@ Keep updated.
 
 - (arXiv 2021.06) Thinking Like Transformers, [[Paper]](https://arxiv.org/pdf/2106.06981.pdf)
 
-- (arXiv 2021.06) **Kernel Identification** Through Transformers, [[Pper]](https://arxiv.org/pdf/2106.08185.pdf)
+- (arXiv 2021.06) **Kernel Identification** Through Transformers, [[Paper]](https://arxiv.org/pdf/2106.08185.pdf)
 
 - (arXiv 2021.06) XCiT: Cross-Covariance Image Transformers, [[Paper]](https://arxiv.org/pdf/2106.09681.pdf)
 
