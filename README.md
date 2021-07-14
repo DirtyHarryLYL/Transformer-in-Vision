@@ -42,6 +42,10 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.07) Visual Parser: Representing **Part-whole Hierarchies** with Transformers, [[Paper]](https://arxiv.org/pdf/2107.05790.pdf), [[Code]](https://github.com/kevin-ssy/ViP)
+
+- (arXiv 2021.07) Combiner: Full Attention Transformer with **Sparse** Computation Cost, [[Paper]](https://arxiv.org/pdf/2107.05768.pdf)
+
 - (arXiv 2021.07) Per-Pixel Classification is Not All You Need for Semantic **Segmentation**, [[Paper]](https://arxiv.org/pdf/2107.06278.pdf), [[Project]](https://bowenc0221.github.io/maskformer)
 
 - (arXiv 2021.07) Learning Multi-Scene **Absolute Pose Regression** with Transformers, [[Paper]](https://arxiv.org/pdf/2103.11468.pdf)
