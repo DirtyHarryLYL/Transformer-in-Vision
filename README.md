@@ -42,6 +42,8 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.07) HAT: Hierarchical Aggregation Transformers for Person Re-identification, [[Paper]](https://arxiv.org/pdf/2107.05946.pdf), [[Code]](https://github.com/AI-Zhpp/HAT)
+
 - (arXiv 2021.07) THE BROWNIAN MOTION IN THE TRANSFORMER MODEL, [[Paper]](https://arxiv.org/pdf/2107.05264.pdf)
 
 - (arXiv 2021.07) Local-to-Global Self-Attention in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2107.04735.pdf), [[Code]](https://github.com/ljpadam/LG-Transformer)
