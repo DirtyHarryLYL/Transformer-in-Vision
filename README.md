@@ -42,6 +42,8 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.07) Transformer with Peak Suppression and Knowledge Guidance for Fine-grained Image **Recognition**, [[Paper]](https://arxiv.org/pdf/2107.06538.pdf)
+
 - (arXiv 2021.07) How Much Can **CLIP** Benefit Vision-and-Language Tasks? [[Paper]](https://arxiv.org/pdf/2107.06383.pdf)
 
 - (arXiv 2021.07) Locally **Enhanced Self-Attention**: Rethinking Self-Attention as Local and Context Terms, [[Paper]](https://arxiv.org/pdf/2107.05637.pdf), [[Code]](https://github.com/Chenglin-Yang/LESA)
