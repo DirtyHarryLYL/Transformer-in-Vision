@@ -42,7 +42,9 @@ Keep updated.
 
 ## Recent Papers
 
-- (arXiv 2021.07) Transformer with Peak Suppression and Knowledge Guidance for Fine-grained Image **Recognition**, [[Paper]](https://arxiv.org/pdf/2107.06538.pdf)
+- (arXiv 2021.07) STAR: Sparse Transformer-based **Action Recognition**, [[Paper]](https://arxiv.org/pdf/2107.07089.pdf)
+
+- (arXiv 2021.07) Transformer with Peak Suppression and Knowledge Guidance for **Fine-grained Image Recognition**, [[Paper]](https://arxiv.org/pdf/2107.06538.pdf)
 
 - (arXiv 2021.07) How Much Can **CLIP** Benefit Vision-and-Language Tasks? [[Paper]](https://arxiv.org/pdf/2107.06383.pdf)
 
@@ -52,7 +54,7 @@ Keep updated.
 
 - (arXiv 2021.07) Combiner: Full Attention Transformer with **Sparse** Computation Cost, [[Paper]](https://arxiv.org/pdf/2107.05768.pdf)
 
-- (arXiv 2021.07) Per-Pixel Classification is Not All You Need for Semantic **Segmentation**, [[Paper]](https://arxiv.org/pdf/2107.06278.pdf), [[Project]](https://bowenc0221.github.io/maskformer)
+- (arXiv 2021.07) Per-Pixel Classification is Not All You Need for **Semantic Segmentation**, [[Paper]](https://arxiv.org/pdf/2107.06278.pdf), [[Project]](https://bowenc0221.github.io/maskformer)
 
 - (arXiv 2021.07) Learning Multi-Scene **Absolute Pose Regression** with Transformers, [[Paper]](https://arxiv.org/pdf/2103.11468.pdf)
 
@@ -68,23 +70,23 @@ Keep updated.
 
 - (arXiv 2021.07) ViTGAN: Training **GANs** with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2107.04589.pdf)
 
-- (arXiv 2021.07) Long-Short Temporal Contrastive Learning of **Video** Transformers, [[Paper]](https://arxiv.org/pdf/2106.09212.pdf)
+- (arXiv 2021.07) Long-Short Temporal **Contrastive Learning** of **Video** Transformers, [[Paper]](https://arxiv.org/pdf/2106.09212.pdf)
 
 - (arXiv 2021.07) PVTv2: Improved Baselines with **Pyramid** Vision Transformer, [[Paper]](https://arxiv.org/pdf/2106.13797.pdf), [[Code]](https://github.com/whai362/PVT)
 
 - (arXiv 2021.07) Learning **Vision-Guided Quadrupedal Locomotion** End-to-End with Cross-Modal Transformers, [[Paper]](https://arxiv.org/pdf/2107.03996.pdf), [[Code]](https://rchalyang.github.io/LocoTransformer)
 
-- (arXiv 2021.07) LanguageRefer: Spatial-Language Model for 3D Visual **Grounding**, [[Paper]](https://arxiv.org/pdf/2107.03438.pdf)
+- (arXiv 2021.07) LanguageRefer: Spatial-Language Model for **3D Visual Grounding**, [[Paper]](https://arxiv.org/pdf/2107.03438.pdf)
 
 - (arXiv 2021.07) EEG-CONVTRANSFORMER FOR SINGLE-TRIAL **EEG** BASED VISUAL STIMULI CLASSIFICATION, [[Paper]](https://arxiv.org/pdf/2107.03983.pdf)
 
-- (arXiv 2021.07) Feature Fusion Vision Transformer for Fine-Grained **Visual Categorization**, [[Paper]](https://arxiv.org/pdf/2107.02341.pdf)
+- (arXiv 2021.07) Feature Fusion Vision Transformer for **Fine-Grained Visual Categorization**, [[Paper]](https://arxiv.org/pdf/2107.02341.pdf)
 
 - (arXiv 2021.07) Long-Short Transformer: **Efficient** Transformers for Language and Vision, [[Paper]](https://arxiv.org/pdf/2107.02192.pdf)
 
 - (arXiv 2021.07) TransformerFusion: Monocular RGB **Scene Reconstruction** using Transformers, [[Paper]](https://arxiv.org/pdf/2107.02191.pdf)
 
-- (arXiv 2021.07) VIDLANKD: Improving **Language** Understanding via Video-Distilled Knowledge Transfer, [[Paper]](https://arxiv.org/pdf/2107.02681.pdf), [[Code]](https://github.com/zinengtang/VidLanKD)
+- (arXiv 2021.07) VIDLANKD: Improving **Language Understanding** via Video-Distilled Knowledge Transfer, [[Paper]](https://arxiv.org/pdf/2107.02681.pdf), [[Code]](https://github.com/zinengtang/VidLanKD)
 
 - (arXiv 2021.07) GLiT: Neural **Architecture Search** for Global and Local Image Transformer, [[Paper]](https://arxiv.org/pdf/2107.02960.pdf)
 
