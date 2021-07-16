@@ -252,6 +252,18 @@ Keep updated.
 
 - (arXiv 2021.06) SegFormer: Simple and Efficient Design for **Semantic Segmentation** with Transformers, [[Paper]](https://arxiv.org/pdf/2105.15203.pdf), [[Code]](https://github.com/NVlabs/SegFormer)
 
+- (arXiv 2021.05) Memory-Efficient Differentiable Transformer **Architecture Search**, [[Paper]](https://arxiv.org/pdf/2105.14669.pdf)
+
+- (arXiv 2021.05) An **Attention Free** Transformer, [[Paper]](https://arxiv.org/pdf/2105.14103.pdf)
+
+- (arXiv 2021.05) On the Bias Against **Inductive Biases**, [[Paper]](https://arxiv.org/pdf/2105.14077.pdf)
+
+- (arXiv 2021.05) MixerGAN: An MLP-Based Architecture for **Unpaired Image-to-Image Translation**, [[Paper]](https://arxiv.org/pdf/2105.14110.pdf)
+
+- (arXiv 2021.05) Transformer-Based Source-Free **Domain Adaptation**, [[Paper]](https://arxiv.org/pdf/2105.14138.pdf), [[Code]](https://github.com/ygjwd12345/TransDA)
+
+- (arXiv 2021.05) FoveaTer: Foveated Transformer for **Image Classification**, [[Paper]](https://arxiv.org/pdf/2105.14173.pdf)
+
 - (arXiv 2021.05) UFC-BERT: Unifying Multi-Modal Controls for Conditional **Image Synthesis**, [[Paper]](https://arxiv.org/pdf/2105.14211.pdf)
 
 - (arXiv 2021.05) **Gaze Estimation** using Transformer, [[Paper]](https://arxiv.org/pdf/2105.14424.pdf), [[Code]](https://github.com/yihuacheng/GazeTR)
