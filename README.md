@@ -32,6 +32,8 @@ Keep updated.
 
 - (arXiv 2021.06) Pre-Trained Models: Past, Present and Future, [[Paper]](https://arxiv.org/pdf/2106.07139.pdf)
 
+- (arXiv 2021.05) Can Attention Enable MLPs To Catch Up With CNNs? [[Paper]](https://arxiv.org/pdf/2105.15078.pdf)
+
 - (arXiv 2021.03) A Practical Survey on Faster and Lighter Transformers, [[Paper]](https://arxiv.org/pdf/2103.14636.pdf)
 
 - (arXiv 2021.03) Perspectives and Prospects on Transformer Architecture for Cross-Modal Tasks with Language and Vision, [[Paper]](https://arxiv.org/pdf/2103.04037.pdf)
@@ -245,6 +247,10 @@ Keep updated.
 - (2021.06) **Reinforcement Learning** as One Big Sequence Modeling Problem, [[Paper]](https://people.eecs.berkeley.edu/~janner/trajectory-transformer/files/trajectory-transformer.pdf), [[Project]](https://trajectory-transformer.github.io/)
 
 - (arXiv 2021.06) SegFormer: Simple and Efficient Design for **Semantic Segmentation** with Transformers, [[Paper]](https://arxiv.org/pdf/2105.15203.pdf), [[Code]](https://github.com/NVlabs/SegFormer)
+
+- (arXiv 2021.05) Not All Images are Worth 16x16 Words: Dynamic Vision Transformers with **Adaptive Sequence Length**, [[Paper]](https://arxiv.org/pdf/2105.15075.pdf)
+
+- (arXiv 2021.05) Analogous to **Evolutionary Algorithm**: Designing a Unified Sequence Model, [[Paper]](https://arxiv.org/pdf/2105.15089.pdf)
 
 - (arXiv 2021.05) MSG-Transformer: Exchanging **Local Spatial Information** by Manipulating Messenger Tokens, [[Paper]](https://arxiv.org/pdf/2105.15168.pdf), [[Code]](https://github.com/hustvl/MSG-Transformer)
 
