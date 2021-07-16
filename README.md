@@ -240,9 +240,13 @@ Keep updated.
 
 - (arXiv 2021.06) When Vision Transformers Outperform **ResNets** without Pretraining or Strong Data Augmentations, [[Paper]](https://arxiv.org/pdf/2106.01548.pdf)
 
-- (2021.06) THG:Transformer with **Hyperbolic Geometry**, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2106/2106.07350.pdf)
+- (arXiv 2021.06) THG:Transformer with **Hyperbolic Geometry**, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2106/2106.07350.pdf)
 
 - (2021.06) **Reinforcement Learning** as One Big Sequence Modeling Problem, [[Paper]](https://people.eecs.berkeley.edu/~janner/trajectory-transformer/files/trajectory-transformer.pdf), [[Project]](https://trajectory-transformer.github.io/)
+
+- (arXiv 2021.06) SegFormer: Simple and Efficient Design for **Semantic Segmentation** with Transformers, [[Paper]](https://arxiv.org/pdf/2105.15203.pdf), [[Code]](https://github.com/NVlabs/SegFormer)
+
+- (arXiv 2021.05) MSG-Transformer: Exchanging **Local Spatial Information** by Manipulating Messenger Tokens, [[Paper]](https://arxiv.org/pdf/2105.15168.pdf), [[Code]](https://github.com/hustvl/MSG-Transformer)
 
 - (arXiv 2021.05) Sequence Parallelism: Making 4D **Parallelism** Possible, [[Paper]](https://arxiv.org/pdf/2105.13120.pdf)
 
