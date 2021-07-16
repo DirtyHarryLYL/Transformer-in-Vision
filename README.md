@@ -242,11 +242,21 @@ Keep updated.
 
 - (arXiv 2021.06) When Vision Transformers Outperform **ResNets** without Pretraining or Strong Data Augmentations, [[Paper]](https://arxiv.org/pdf/2106.01548.pdf)
 
+- (arXiv 2021.06) StyTr^2: Unbiased Image **Style Transfer** with Transformers, [[Paper]](https://arxiv.org/pdf/2105.14576.pdf)
+
 - (arXiv 2021.06) THG:Transformer with **Hyperbolic Geometry**, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2106/2106.07350.pdf)
 
 - (2021.06) **Reinforcement Learning** as One Big Sequence Modeling Problem, [[Paper]](https://people.eecs.berkeley.edu/~janner/trajectory-transformer/files/trajectory-transformer.pdf), [[Project]](https://trajectory-transformer.github.io/)
 
+- (arXiv 2021.06) Less is More: Pay Less **Attention** in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2105.14217.pdf), [[Code]](https://github.com/MonashAI/LIT)
+
 - (arXiv 2021.06) SegFormer: Simple and Efficient Design for **Semantic Segmentation** with Transformers, [[Paper]](https://arxiv.org/pdf/2105.15203.pdf), [[Code]](https://github.com/NVlabs/SegFormer)
+
+- (arXiv 2021.05) UFC-BERT: Unifying Multi-Modal Controls for Conditional **Image Synthesis**, [[Paper]](https://arxiv.org/pdf/2105.14211.pdf)
+
+- (arXiv 2021.05) **Gaze Estimation** using Transformer, [[Paper]](https://arxiv.org/pdf/2105.14424.pdf), [[Code]](https://github.com/yihuacheng/GazeTR)
+
+- (arXiv 2021.05) Transformer-Based Deep Image Matching for Generalizable Person Re-identification, [[Paper]](https://arxiv.org/pdf/2105.14432.pdf), [[Project]](https://liaosc.wordpress.com/)
 
 - (arXiv 2021.05) Not All Images are Worth 16x16 Words: Dynamic Vision Transformers with **Adaptive Sequence Length**, [[Paper]](https://arxiv.org/pdf/2105.15075.pdf)
 
