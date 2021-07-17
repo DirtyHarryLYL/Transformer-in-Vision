@@ -246,6 +246,10 @@ Keep updated.
 
 - (arXiv 2021.06) THG:Transformer with **Hyperbolic Geometry**, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2106/2106.07350.pdf)
 
+- (arXiv 2021.06) You Only Look at One Sequence: Rethinking Transformer in Vision through Object **Detection**, [[Paper]](https://arxiv.org/pdf/2106.00666.pdf), [[Code]](https://github.com/hustvl/YOLOS)
+
+- (arXiv 2021.06) TransVOS: **Video Object Segmentation** with Transformers, [[Paper]](https://arxiv.org/pdf/2106.00588.pdf)
+
 - (2021.06) **Reinforcement Learning** as One Big Sequence Modeling Problem, [[Paper]](https://people.eecs.berkeley.edu/~janner/trajectory-transformer/files/trajectory-transformer.pdf), [[Project]](https://trajectory-transformer.github.io/)
 
 - (arXiv 2021.06) Less is More: Pay Less **Attention** in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2105.14217.pdf), [[Code]](https://github.com/MonashAI/LIT)
