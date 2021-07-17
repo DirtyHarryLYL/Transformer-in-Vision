@@ -256,6 +256,8 @@ Keep updated.
 
 - (arXiv 2021.06) SegFormer: Simple and Efficient Design for **Semantic Segmentation** with Transformers, [[Paper]](https://arxiv.org/pdf/2105.15203.pdf), [[Code]](https://github.com/NVlabs/SegFormer)
 
+- (arXiv 2021.05) KVT: k-NN **Attention** for Boosting Vision Transformers, [[Paper]](https://arxiv.org/pdf/2106.00515.pdf)
+
 - (arXiv 2021.05) Memory-Efficient Differentiable Transformer **Architecture Search**, [[Paper]](https://arxiv.org/pdf/2105.14669.pdf)
 
 - (arXiv 2021.05) An **Attention Free** Transformer, [[Paper]](https://arxiv.org/pdf/2105.14103.pdf)
