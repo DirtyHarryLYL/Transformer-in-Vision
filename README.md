@@ -30,6 +30,8 @@ Keep updated.
 
 ## Survey: 
 
+- (arXiv 2021.06) Attention mechanisms and deep learning for machine vision: A survey of the state of the art, [[Paper]](https://arxiv.org/pdf/2106.07550.pdf)
+
 - (arXiv 2021.06) Pre-Trained Models: Past, Present and Future, [[Paper]](https://arxiv.org/pdf/2106.07139.pdf)
 
 - (arXiv 2021.05) Can Attention Enable MLPs To Catch Up With CNNs? [[Paper]](https://arxiv.org/pdf/2105.15078.pdf)
@@ -154,9 +156,27 @@ Keep updated.
 
 - (arXiv 2021.06) CLIP2Video: Mastering Video-Text **Retrieval** via Image CLIP, [[Paper]](https://arxiv.org/pdf/2106.11097.pdf), [[Code]](https://github.com/CryhanFang/CLIP2Video)
 
+- (arXiv 2021.06) Keeping Your Eye on the Ball: **Trajectory Attention** in Video Transformers, [[Paper]](https://arxiv.org/pdf/2106.05392.pdf), [[Code]](https://github.com/facebookresearch/Motionformer)
+
+- (arXiv 2021.06) MlTr: **Multi-label Classification** with Transformer, [[Paper]](https://arxiv.org/pdf/2106.06195.pdf), [[Code]](https://github.com/starmemda/MlTr/)
+
+- (arXiv 2021.06) Going Beyond **Linear** Transformers with Recurrent Fast Weight Programmers, [[Paper]](https://arxiv.org/pdf/2106.06295.pdf), [[Code]](https://github.com/IDSIA/recurrent-fwp)
+
+- (arXiv 2021.06) MST: Masked Self-Supervised Transformer for **Visual Representation**, [[Paper]](https://arxiv.org/pdf/2106.05656.pdf)
+
+- (arXiv 2021.06) Space-time Mixing **Attention** for Video Transformer, [[Paper]](https://arxiv.org/pdf/2106.05968.pdf)
+
+- (arXiv 2021.06) VIT-INCEPTION-GAN FOR **IMAGE COLOURISING**, [[Paper]](https://arxiv.org/pdf/2106.06321.pdf)
+
+- (arXiv 2021.06) HYBRID **GENERATIVE-CONTRASTIVE REPRESENTATION** LEARNING, [[Paper]](https://arxiv.org/pdf/2106.06162.pdf), [[Code]](https://github.com/kakaobrain/gcrl)
+
 - (arXiv 2021.06) OadTR: Online **Action Detection** with Transformers, [[Paper]](https://arxiv.org/pdf/2106.11149.pdf), [[Code]](https://github.com/wangxiang1230/OadTR)
 
 - (arXiv 2021.06) VIMPAC: **Video** Pre-Training via Masked Token Prediction and Contrastive Learning, [[Paper]](https://arxiv.org/pdf/2106.11250.pdf), [[Code]](https://github.com/airsplay/vimpac)
+
+- (arXiv 2021.06) Delving Deep into the **Generalization** of Vision Transformers under **Distribution Shifts**, [[Paper]](https://arxiv.org/pdf/2106.07617.pdf), [[Code]](https://github.com/Phoenix1153/ViT_OOD_generalization)
+
+- (arXiv 2021.06) Improved Transformer for **High-Resolution GANs**, [[Paper]](https://arxiv.org/pdf/2106.07631.pdf)
 
 - (arXiv 2021.06) Towards Long-Form **Video** Understanding, [[Paper]](https://arxiv.org/pdf/2106.11310.pdf), [[Code]](https://github.com/chaoyuaw/lvu)
 
@@ -193,6 +213,10 @@ Keep updated.
 - (arXiv 2021.06) Spatio-Temporal Multi-Task Learning Transformer for Joint Moving Object **Detection** and **Segmentation**, [[Paper]](https://arxiv.org/pdf/2106.11401.pdf)
 
 - (arXiv 2021.06) Exploring Vision Transformers for Fine-grained **Classification**, [[Paper]](https://arxiv.org/pdf/2106.10587.pdf), [[Code]](https://github.com/mv-lab/ViT-FGVC8)
+
+- (arXiv 2021.06) S^2-MLP: Spatial-Shift **MLP** Architecture for Vision, [[Paper]](https://arxiv.org/pdf/2106.07477.pdf)
+
+- (arXiv 2021.06) Styleformer: Transformer based **Generative Adversarial Networks** with Style Vector, [[Paper]](https://arxiv.org/pdf/2106.07023.pdf), [[Code]](https://github.com/Jeeseung-Park/Styleformer)
 
 - (arXiv 2021.06) ViTAE: Vision Transformer Advanced by Exploring **Intrinsic Inductive Bias**, [[Paper]](https://arxiv.org/pdf/2106.03348.pdf), [[Code]](https://github.com/Annbless/ViTAE)
 
