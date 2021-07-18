@@ -132,6 +132,8 @@ Keep updated.
 
 - (arXiv 2021.07) Action Transformer: A Self-Attention Model for Short-Time Human **Action Recognition**, [[Paper]](https://arxiv.org/pdf/2107.00606.pdf)
 
+- (arXiv 2021.06) Associating Objects with Transformers for **Video Object Segmentation**, [[Paper]](https://arxiv.org/pdf/2106.02638.pdf), [[Code]](https://github.com/z-x-yang/AOT)
+
 - (arXiv 2021.06) Video **Super-Resolution** Transformer, [[Paper]](https://arxiv.org/pdf/2106.06847.pdf), [[Code]](https://github.com/caojiezhang/VSR-Transformer)
 
 - (arXiv 2021.06) **Thinking** Like Transformers, [[Paper]](https://arxiv.org/pdf/2106.06981.pdf)
@@ -192,7 +194,13 @@ Keep updated.
 
 - (arXiv 2021.06) Exploring Vision Transformers for Fine-grained **Classification**, [[Paper]](https://arxiv.org/pdf/2106.10587.pdf), [[Code]](https://github.com/mv-lab/ViT-FGVC8)
 
+- (arXiv 2021.06) Personalizing **Pre-trained Models**, [[Paper]](https://arxiv.org/pdf/2106.01499.pdf), [[Code]](https://github.com/PAL-ML/CLIPPER)
+
+- (arXiv 2021.06) E2E-VLP: End-to-End **Vision-Language Pre-training** Enhanced by Visual Learning, [[Paper]](https://arxiv.org/pdf/2106.01804.pdf)
+
 - (arXiv 2021.06) VOLO: Vision Outlooker for Visual **Recognition**, [[Paper]](https://arxiv.org/pdf/2106.13112.pdf), [[Code]](https://github.com/sail-sg/volo)
+
+- (arXiv 2021.06) Container: **Context Aggregation** Network, [[Paper]](https://arxiv.org/pdf/2106.01401.pdf)
 
 - (arXiv 2021.06) Exploring Corruption **Robustness**: Inductive Biases in Vision Transformers and MLP-Mixers, [[Paper]](https://arxiv.org/pdf/2106.13122.pdf)
 
