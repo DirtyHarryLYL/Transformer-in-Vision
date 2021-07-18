@@ -194,6 +194,28 @@ Keep updated.
 
 - (arXiv 2021.06) Exploring Vision Transformers for Fine-grained **Classification**, [[Paper]](https://arxiv.org/pdf/2106.10587.pdf), [[Code]](https://github.com/mv-lab/ViT-FGVC8)
 
+- (arXiv 2021.06) ViTAE: Vision Transformer Advanced by Exploring **Intrinsic Inductive Bias**, [[Paper]](https://arxiv.org/pdf/2106.03348.pdf), [[Code]](https://github.com/Annbless/ViTAE)
+
+- (arXiv 2021.06) Shuffle Transformer: Rethinking **Spatial Shuffle** for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2106.03650.pdf)
+
+- (arXiv 2021.06) Refiner: **Refining Self-attention** for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2106.03714.pdf), [[Code]](https://github.com/zhoudaquan/Refiner_ViT)
+
+- (arXiv 2021.06) Person **Re-Identification** with a Locally Aware Transformer, [[Paper]](https://arxiv.org/pdf/2106.03720.pdf)
+
+- (arXiv 2021.06) **Efficient** Training of Visual Transformers with **Small-Size Datasets**, [[Paper]](https://arxiv.org/pdf/2106.03746.pdf)
+
+- (arXiv 2021.06) **Glance-and-Gaze** Vision Transformer, [[Paper]](https://arxiv.org/pdf/2106.02277.pdf), [[Code]](https://github.com/yucornetto/GG-Transformer)
+
+- (arXiv 2021.06) **Few-Shot Segmentation** via Cycle-Consistent Transformer, [[Paper]](https://arxiv.org/pdf/2106.02320.pdf)
+
+- (arXiv 2021.06) Semantic **Correspondence** with Transformers, [[Paper]](https://arxiv.org/pdf/2106.02520.pdf), [[Code]](https://github.com/SunghwanHong/CATs)
+
+- (arXiv 2021.06) THE **IMAGE LOCAL AUTOREGRESSIVE** TRANSFORMER, [[Paper]](https://arxiv.org/pdf/2106.02514.pdf)
+
+- (arXiv 2021.06) MERLOT: Multimodal **Neural Script Knowledge** Models, [[Paper]](https://arxiv.org/pdf/2106.02636.pdf), [[Project]](https://rowanzellers.com/merlot)
+
+- (arXiv 2021.06) SOLQ: **Segmenting** Objects by Learning Queries, [[Paper]](https://arxiv.org/pdf/2106.02351.pdf), [[Code]](https://github.com/megvii-research/SOLQ)
+
 - (arXiv 2021.06) Personalizing **Pre-trained Models**, [[Paper]](https://arxiv.org/pdf/2106.01499.pdf), [[Code]](https://github.com/PAL-ML/CLIPPER)
 
 - (arXiv 2021.06) E2E-VLP: End-to-End **Vision-Language Pre-training** Enhanced by Visual Learning, [[Paper]](https://arxiv.org/pdf/2106.01804.pdf)
