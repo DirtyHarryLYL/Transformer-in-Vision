@@ -30,6 +30,8 @@ Keep updated.
 
 ## Survey: 
 
+- (arXiv 2021.06) A Survey of Transformers, [[Paper]](https://arxiv.org/pdf/2106.04554.pdf)
+
 - (arXiv 2021.06) Attention mechanisms and deep learning for machine vision: A survey of the state of the art, [[Paper]](https://arxiv.org/pdf/2106.07550.pdf)
 
 - (arXiv 2021.06) Pre-Trained Models: Past, Present and Future, [[Paper]](https://arxiv.org/pdf/2106.07139.pdf)
@@ -201,6 +203,8 @@ Keep updated.
 - (arXiv 2021.06) Rethinking Token-Mixing **MLP** for MLP-based Vision Backbone, [[Paper]](https://arxiv.org/pdf/2106.14882.pdf)
 
 - (arXiv 2021.06) Augmented **Shortcuts** for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2106.15941.pdf)
+
+- (arXiv 2021.06) CAT: **Cross Attention** in Vision Transformer, [[Paper]](https://arxiv.org/pdf/2106.05786.pdf), [[Code]](https://github.com/linhezheng19/CAT)
 
 - (arXiv 2021.06) Post-Training **Quantization** for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2106.14156.pdf)
 
