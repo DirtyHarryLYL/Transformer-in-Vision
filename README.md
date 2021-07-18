@@ -160,9 +160,51 @@ Keep updated.
 
 - (arXiv 2021.06) Keeping Your Eye on the Ball: **Trajectory Attention** in Video Transformers, [[Paper]](https://arxiv.org/pdf/2106.05392.pdf), [[Code]](https://github.com/facebookresearch/Motionformer)
 
+- (arXiv 2021.06) Transformed **ROIs** for Capturing Visual Transformations in Videos, [[Paper]](https://arxiv.org/pdf/2106.03162.pdf)
+
+- (arXiv 2021.06) Transformer in **Convolutional** Neural Networks, [[Paper]](https://arxiv.org/pdf/2106.03180.pdf), [[Code]](https://github.com/yun-liu/TransCNN)
+
+- (arXiv 2021.06) **Video Instance Segmentation** using Inter-Frame Communication Transformers, [[Paper]](https://arxiv.org/pdf/2106.03299.pdf)
+
+- (arXiv 2021.06) Patch Slimming for **Efficient** Vision Transformers, [[Paper]](https://arxiv.org/pdf/2106.02852.pdf)
+
+- (arXiv 2021.06) CAPE: Encoding Relative **Positions** with Continuous Augmented Positional Embeddings, [[Paper]](https://arxiv.org/pdf/2106.03143.pdf)
+
+- (arXiv 2021.06) RegionViT: **Regional-to-Local Attention** for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2106.02689.pdf)
+
+- (arXiv 2021.06) **Motion Planning** Transformers: One Model to Plan Them All, [[Paper]](https://arxiv.org/pdf/2106.02791.pdf)
+
+- (arXiv 2021.06) Oriented Object **Detection** with Transformer, [[Paper]](https://arxiv.org/pdf/2106.03146.pdf)
+
+- (arXiv 2021.06) Referring Transformer: A One-step Approach to Multi-task **Visual Grounding**, [[Paper]](https://arxiv.org/pdf/2106.03089.pdf)
+
+- (arXiv 2021.06) Grounding **inductive biases** in natural images: invariance stems from variations in data, [[Paper]](https://arxiv.org/pdf/2106.05121.pdf)
+
+- (arXiv 2021.06) CoAtNet: Marrying **Convolution and Attention** for All Data Sizes, [[Paper]](https://arxiv.org/pdf/2106.04803.pdf)
+
+- (arXiv 2021.06) **Scaling** Vision Transformers, [[Paper]](https://arxiv.org/pdf/2106.04560.pdf)
+
+- (arXiv 2021.06) Uformer: A General U-Shaped Transformer for **Image Restoration**, [[Paper]](https://arxiv.org/pdf/2106.03106.pdf), [[Code]](https://github.com/ZhendongWang6/Uformer)
+
+- (arXiv 2021.06) Visual Transformer for Task-aware **Active Learning**, [[Paper]](https://arxiv.org/pdf/2106.03801.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
+
+- (arXiv 2021.06) Chasing **Sparsity** in Vision Transformers: An End-to-End Exploration, [[Paper]](https://arxiv.org/pdf/2106.04533.pdf), [[Code]](https://github.com/VITA-Group/SViTE)
+
+- (arXiv 2021.06) DETReg: Unsupervised Pretraining with Region Priors for Object **Detection**, [[Paper]](https://arxiv.org/pdf/2106.04550.pdf), [[Code]](https://amirbar.net/detreg)
+
+- (arXiv 2021.06) MVT: MASK VISION TRANSFORMER FOR FACIAL **EXPRESSION** RECOGNITION IN THE WILD, [[Paper]](https://arxiv.org/pdf/2106.04520.pdf)
+
+- (arXiv 2021.06) **Demystifying** Local Vision Transformer: Sparse Connectivity, Weight Sharing, and Dynamic Weight, [[Paper]](https://arxiv.org/pdf/2106.04263.pdf)
+
+- (arXiv 2021.06) Diverse Part Discovery: Occluded Person **Re-identification** with Part-Aware Transformer, [[Paper]](https://arxiv.org/pdf/2106.04095.pdf)
+
 - (arXiv 2021.06) MlTr: **Multi-label Classification** with Transformer, [[Paper]](https://arxiv.org/pdf/2106.06195.pdf), [[Code]](https://github.com/starmemda/MlTr/)
 
 - (arXiv 2021.06) Going Beyond **Linear** Transformers with Recurrent Fast Weight Programmers, [[Paper]](https://arxiv.org/pdf/2106.06295.pdf), [[Code]](https://github.com/IDSIA/recurrent-fwp)
+
+- (arXiv 2021.06) On Improving **Adversarial Transferability** of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2106.04169.pdf), [[Code]](https://git.io/JZmG3)
+
+- (arXiv 2021.06) Fully Transformer Networks for Semantic Image **Segmentation**, [[Paper]](https://arxiv.org/pdf/2106.04108.pdf)
 
 - (arXiv 2021.06) MST: Masked Self-Supervised Transformer for **Visual Representation**, [[Paper]](https://arxiv.org/pdf/2106.05656.pdf)
 
