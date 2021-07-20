@@ -48,6 +48,14 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.07) PICASO: Permutation-Invariant Cascaded Attentional Set Operator, [[Paper]](https://arxiv.org/pdf/2107.08305.pdf), [[Code]](https://github.com/samzare/PICASO)
+
+- (arXiv 2021.07) RAMS-Trans: Recurrent Attention Multi-scale Transformer for **Fine-grained Image Recognition**, [[Paper]](https://arxiv.org/pdf/2107.08192.pdf)
+
+- (arXiv 2021.07) OODformer: **Out-Of-Distribution Detection** Transformer, [[Paper]](https://arxiv.org/pdf/2107.08976.pdf), [[Code]](https://github.com/rajatkoner08/oodformer)
+
+- (arXiv 2021.07) **Image Fusion** Transformer, [[Paper]](https://arxiv.org/pdf/2107.09011.pdf), [[Code]](https://github.com/Vibashan/Image-Fusion-Transformer)
+
 - (arXiv 2021.07) ResT: An Efficient Transformer for **Visual Recognition**, [[Paper]](https://arxiv.org/pdf/2105.13677.pdf), [[Code]](https://github.com/wofmanaf/ResT)
 
 - (arXiv 2021.07) STAR: Sparse Transformer-based **Action Recognition**, [[Paper]](https://arxiv.org/pdf/2107.07089.pdf), [[Code]](https://github.com/imj2185/STAR)
