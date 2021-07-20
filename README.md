@@ -50,7 +50,7 @@ Keep updated.
 
 - (arXiv 2021.07) ResT: An Efficient Transformer for **Visual Recognition**, [[Paper]](https://arxiv.org/pdf/2105.13677.pdf), [[Code]](https://github.com/wofmanaf/ResT)
 
-- (arXiv 2021.07) STAR: Sparse Transformer-based **Action Recognition**, [[Paper]](https://arxiv.org/pdf/2107.07089.pdf)
+- (arXiv 2021.07) STAR: Sparse Transformer-based **Action Recognition**, [[Paper]](https://arxiv.org/pdf/2107.07089.pdf), [[Code]](https://github.com/imj2185/STAR)
 
 - (arXiv 2021.07) Transformer with Peak Suppression and Knowledge Guidance for **Fine-grained Image Recognition**, [[Paper]](https://arxiv.org/pdf/2107.06538.pdf)
 
