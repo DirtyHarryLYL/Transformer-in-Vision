@@ -48,6 +48,8 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.07) Generative **Video** Transformer: Can Objects be the Words? [[Paper]](https://arxiv.org/pdf/2107.09240.pdf)
+
 - (arXiv 2021.07) QVHIGHLIGHTS: Detecting Moments and Highlights in **Videos** via **Natural Language Queries**, [[Paper]](https://arxiv.org/pdf/2107.09609.pdf), [[Code]](https://github.com/jayleicn/moment_detr)
 
 - (arXiv 2021.07) PICASO: Permutation-Invariant Cascaded Attentional Set Operator, [[Paper]](https://arxiv.org/pdf/2107.08305.pdf), [[Code]](https://github.com/samzare/PICASO)
