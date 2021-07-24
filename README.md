@@ -48,6 +48,10 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.07) Query2Label: A Simple Transformer Way to **Multi-Label Classification**, [[Paper]](https://arxiv.org/pdf/2107.10834.pdf), [[Code]](https://github.com/SlongLiu/query2labels)
+
+- (arXiv 2021.07) EAN: Event Adaptive Network for Enhanced **Action Recognition**, [[Paper]](https://arxiv.org/pdf/2107.10771.pdf), [[Code]](https://github.com/tianyuan168326/EAN-Pytorch)
+
 - (arXiv 2021.07) CycleMLP: A **MLP**-like Architecture for Dense Prediction, [[Paper]](https://arxiv.org/pdf/2107.10224.pdf), [[Code]](https://github.com/ShoufaChen/CycleMLP)
 
 - (arXiv 2021.07) Generative **Video** Transformer: Can Objects be the Words? [[Paper]](https://arxiv.org/pdf/2107.09240.pdf)
