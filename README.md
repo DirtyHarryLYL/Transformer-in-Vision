@@ -48,6 +48,8 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.07) **Contextual** Transformer Networks for Visual **Recognition**, [[Paper]](https://arxiv.org/pdf/2107.12292.pdf), [[Code]](https://github.com/JDAI-CV/CoTNet)
+
 - (arXiv 2021.07) Mixed SIGNals: **Sign Language Production** via a Mixture of Motion Primitives, [[Paper]](https://arxiv.org/pdf/2107.11317.pdf)
 
 - (arXiv 2021.07) Query2Label: A Simple Transformer Way to **Multi-Label Classification**, [[Paper]](https://arxiv.org/pdf/2107.10834.pdf), [[Code]](https://github.com/SlongLiu/query2labels)
