@@ -48,6 +48,8 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.07) Go **Wider** Instead of Deeper, [[Paper]](https://arxiv.org/pdf/2107.11817.pdf)
+
 - (arXiv 2021.07) **Contextual** Transformer Networks for Visual **Recognition**, [[Paper]](https://arxiv.org/pdf/2107.12292.pdf), [[Code]](https://github.com/JDAI-CV/CoTNet)
 
 - (arXiv 2021.07) Mixed SIGNals: **Sign Language Production** via a Mixture of Motion Primitives, [[Paper]](https://arxiv.org/pdf/2107.11317.pdf)
