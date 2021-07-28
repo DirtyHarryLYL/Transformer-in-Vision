@@ -48,6 +48,8 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.07) Exploring Sequence Feature Alignment for **Domain Adaptive Detection** Transformers, [[Paper]](https://arxiv.org/pdf/2107.12636.pdf), [[Code]](https://github.com/encounter1997/SFA)
+
 - (arXiv 2021.07) Go **Wider** Instead of Deeper, [[Paper]](https://arxiv.org/pdf/2107.11817.pdf)
 
 - (arXiv 2021.07) **Contextual** Transformer Networks for Visual **Recognition**, [[Paper]](https://arxiv.org/pdf/2107.12292.pdf), [[Code]](https://github.com/JDAI-CV/CoTNet)
