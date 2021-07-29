@@ -48,6 +48,10 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.07) Is Object Detection Necessary for **Human-Object Interaction** Recognition? [[Paper]](https://arxiv.org/pdf/2107.13083.pdf)
+
+- (arXiv 2021.07) Exceeding the Limits of **Visual-Linguistic** Multi-Task Learning, [[Paper]](https://arxiv.org/pdf/2107.13054.pdf)
+
 - (arXiv 2021.07) Don’t Sweep your Learning Rate under the Rug: A Closer Look at **Cross-modal Transfer** of Pretrained Transformers, [[Paper]](https://arxiv.org/pdf/2107.12460.pdf)
 
 - (arXiv 2021.07) Exploring Sequence Feature Alignment for **Domain Adaptive Detection** Transformers, [[Paper]](https://arxiv.org/pdf/2107.12636.pdf), [[Code]](https://github.com/encounter1997/SFA)
