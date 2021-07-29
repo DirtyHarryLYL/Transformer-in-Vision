@@ -48,6 +48,8 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.07) **Statistically** Meaningful Approximation: a Case Study on **Approximating Turing Machines** with Transformers, [[Paper]](https://arxiv.org/pdf/2107.13163.pdf)
+
 - (arXiv 2021.07) PlaneTR: Structure-Guided Transformers for **3D Plane Recovery**, [[Paper]](https://arxiv.org/pdf/2107.13108.pdf), [[Code]](https://git.io/PlaneTR)
 
 - (arXiv 2021.07) Is Object Detection Necessary for **Human-Object Interaction** Recognition? [[Paper]](https://arxiv.org/pdf/2107.13083.pdf)
