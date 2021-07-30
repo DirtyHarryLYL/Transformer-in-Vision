@@ -48,6 +48,12 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.07) PPT Fusion: Pyramid Patch Transformer for a Case Study in **Image Fusion**, [[Paper]](https://arxiv.org/pdf/2107.13967.pdf)
+
+- (arXiv 2021.07) ReFormer: The Relational Transformer for Image **Captioning**, [[Paper]](https://arxiv.org/pdf/2107.14178.pdf)
+
+- (arXiv 2021.07) Rethinking and Improving **Relative Position Encoding** for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2107.14222.pdf), [[Code]](https://github.com/microsoft/Cream/tree/main/iRPE)
+
 - (arXiv 2021.07) **Statistically** Meaningful Approximation: a Case Study on **Approximating Turing Machines** with Transformers, [[Paper]](https://arxiv.org/pdf/2107.13163.pdf)
 
 - (arXiv 2021.07) PlaneTR: Structure-Guided Transformers for **3D Plane Recovery**, [[Paper]](https://arxiv.org/pdf/2107.13108.pdf), [[Code]](https://git.io/PlaneTR)
