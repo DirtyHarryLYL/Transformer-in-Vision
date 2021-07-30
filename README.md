@@ -48,6 +48,8 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.07) A Unified Efficient Pyramid Transformer for **Semantic Segmentation**, [[Paper]](https://arxiv.org/pdf/2107.14209.pdf)
+
 - (arXiv 2021.07) PPT Fusion: Pyramid Patch Transformer for a Case Study in **Image Fusion**, [[Paper]](https://arxiv.org/pdf/2107.13967.pdf)
 
 - (arXiv 2021.07) ReFormer: The Relational Transformer for Image **Captioning**, [[Paper]](https://arxiv.org/pdf/2107.14178.pdf)
