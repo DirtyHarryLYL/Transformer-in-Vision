@@ -48,6 +48,8 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.07) Exceeding the Limits of **Visual-Linguistic Multi-Task Learning**, [[Paper]](https://arxiv.org/pdf/2107.13054.pdf)
+
 - (arXiv 2021.07) UIBert: Learning Generic Multimodal Representations for **UI Understanding**, [[Paper]](https://arxiv.org/pdf/2107.13731.pdf)
 
 - (arXiv 2021.07) Convolutional Transformer based Dual Discriminator Generative Adversarial Networks for **Video Anomaly Detection**, [[Paper]](https://arxiv.org/pdf/2107.13720.pdf)
