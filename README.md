@@ -48,6 +48,8 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.07) Product1M: Towards Weakly Supervised Instance-Level **Product Retrieval** via **Cross-modal Pretraining**, [[Paper]](https://arxiv.org/pdf/2107.14572.pdf)
+
 - (arXiv 2021.07) Exceeding the Limits of **Visual-Linguistic Multi-Task Learning**, [[Paper]](https://arxiv.org/pdf/2107.13054.pdf)
 
 - (arXiv 2021.07) UIBert: Learning Generic Multimodal Representations for **UI Understanding**, [[Paper]](https://arxiv.org/pdf/2107.13731.pdf)
