@@ -48,6 +48,8 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.07) Perceiver IO: A **General Architecture** for Structured Inputs & Outputs, [[Paper]](https://arxiv.org/pdf/2107.14795.pdf), [[Code]](https://dpmd.ai/perceiver-code)
+
 - (arXiv 2021.07) DPT: **Deformable Patch**-based Transformer for Visual Recognition, [[Paper]](https://arxiv.org/pdf/2107.14467.pdf), [[Code]](https://github.com/CASIA-IVA-Lab/DPT)
 
 - (arXiv 2021.07) Product1M: Towards Weakly Supervised Instance-Level **Product Retrieval** via **Cross-modal Pretraining**, [[Paper]](https://arxiv.org/pdf/2107.14572.pdf)
