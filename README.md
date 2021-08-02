@@ -48,6 +48,8 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.07) DPT: **Deformable Patch**-based Transformer for Visual Recognition, [[Paper]](https://arxiv.org/pdf/2107.14467.pdf), [[Code]](https://github.com/CASIA-IVA-Lab/DPT)
+
 - (arXiv 2021.07) Product1M: Towards Weakly Supervised Instance-Level **Product Retrieval** via **Cross-modal Pretraining**, [[Paper]](https://arxiv.org/pdf/2107.14572.pdf)
 
 - (arXiv 2021.07) Exceeding the Limits of **Visual-Linguistic Multi-Task Learning**, [[Paper]](https://arxiv.org/pdf/2107.13054.pdf)
