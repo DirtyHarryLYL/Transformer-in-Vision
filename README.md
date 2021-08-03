@@ -50,6 +50,14 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.08) S^2-MLPV2: IMPROVED SPATIAL-SHIFT **MLP** ARCHITECTURE FOR VISION, [[Paper]](https://arxiv.org/pdf/2108.01072.pdf)
+
+- (arXiv 2021.08) Congested **Crowd Instance Localization** with Dilated Convolutional Swin Transformer, [[Paper]](https://arxiv.org/pdf/2108.00584.pdf)
+
+- (arXiv 2021.08) Multi-Head Self-Attention via Vision Transformer for **Zero-Shot Learning**, [[Paper]](https://arxiv.org/pdf/2108.00045.pdf)
+
+- (arXiv 2021.08) CROSSFORMER: A VERSATILE VISION TRANSFORMER BASED ON **CROSS-SCALE ATTENTION**, [[Paper]](https://arxiv.org/pdf/2108.00154.pdf), [[Code]](https://github.com/cheerss/CrossFormer)
+
 - (arXiv 2021.08) Word2Pix: Word to Pixel Cross Attention Transformer in **Visual Grounding**, [[Paper]](https://arxiv.org/pdf/2108.00205.pdf)
 
 - (arXiv 2021.08) Transformer-based deep **imitation learning** for dual-arm robot manipulation, [[Paper]](https://arxiv.org/pdf/2108.00385.pdf)
