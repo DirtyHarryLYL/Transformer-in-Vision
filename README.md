@@ -50,6 +50,8 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.08) Word2Pix: Word to Pixel Cross Attention Transformer in **Visual Grounding**, [[Paper]](https://arxiv.org/pdf/2108.00205.pdf)
+
 - (arXiv 2021.08) Transformer-based deep **imitation learning** for dual-arm robot manipulation, [[Paper]](https://arxiv.org/pdf/2108.00385.pdf)
 
 - (arXiv 2021.08) GTNet:Guided Transformer Network for Detecting **Human-Object Interactions**, [[Paper]](https://arxiv.org/pdf/2108.00596.pdf), [[Code]](https://github.com/ASMIftekhar/GTNet)
