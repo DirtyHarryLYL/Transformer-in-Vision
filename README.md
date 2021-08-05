@@ -50,6 +50,8 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.08) Armour: **Generalizable Compact Self-Attention** for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2108.01778.pdf)
+
 - (arXiv 2021.08) Evo-ViT: Slow-Fast Token Evolution for **Dynamic** Vision Transformer, [[Paper]](https://arxiv.org/pdf/2108.01390.pdf)
 
 - (arXiv 2021.08) S^2-MLPV2: IMPROVED SPATIAL-SHIFT **MLP** ARCHITECTURE FOR VISION, [[Paper]](https://arxiv.org/pdf/2108.01072.pdf)
