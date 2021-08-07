@@ -50,6 +50,8 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.08) Unifying Global-Local Representations in **Salient Object Detection** with Transformer, [[Paper]](https://arxiv.org/pdf/2108.02759.pdf), [[Code]](https://github.com/OliverRensu/GLSTR)
+
 - (arXiv 2021.08) Boosting **Few-shot Semantic Segmentation** with Transformers, [[Paper]](https://arxiv.org/pdf/2108.02266.pdf), [[Code]](https://github.com/GuoleiSun/TRFS)
 
 - (arXiv 2021.08) Vision Transformer with **Progressive Sampling**, [[Paper]](https://arxiv.org/pdf/2108.01684.pdf), [[Code]](https://github.com/yuexy/PS-ViT)
@@ -70,7 +72,7 @@ Keep updated.
 
 - (arXiv 2021.08) Transformer-based deep **imitation learning** for dual-arm robot manipulation, [[Paper]](https://arxiv.org/pdf/2108.00385.pdf)
 
-- (arXiv 2021.08) GTNet:Guided Transformer Network for Detecting **Human-Object Interactions**, [[Paper]](https://arxiv.org/pdf/2108.00596.pdf), [[Code]](https://github.com/ASMIftekhar/GTNet)
+- (arXiv 2021.08) GTNet:Guided Transformer Network for Detecting **Human-Object Interactions**, [[Paper]](https://arxiv.org/pdf/2108.00596.pdf), [[Code]](https://github.com/UCSB-VRL/GTNet)
 
 - (arXiv 2021.07) Perceiver IO: A **General Architecture** for Structured Inputs & Outputs, [[Paper]](https://arxiv.org/pdf/2107.14795.pdf), [[Code]](https://dpmd.ai/perceiver-code)
 
