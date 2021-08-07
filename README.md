@@ -50,7 +50,7 @@ Keep updated.
 
 ## Recent Papers
 
-- (arXiv 2021.08) Boosting Few-shot Semantic Segmentation with Transformers, [[Paper]](https://arxiv.org/pdf/2108.02266.pdf), [[Code]](https://github.com/GuoleiSun/TRFS)
+- (arXiv 2021.08) Boosting **Few-shot Semantic Segmentation** with Transformers, [[Paper]](https://arxiv.org/pdf/2108.02266.pdf), [[Code]](https://github.com/GuoleiSun/TRFS)
 
 - (arXiv 2021.08) Vision Transformer with **Progressive Sampling**, [[Paper]](https://arxiv.org/pdf/2108.01684.pdf), [[Code]](https://github.com/yuexy/PS-ViT)
 
