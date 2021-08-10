@@ -50,6 +50,10 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.08) The Right to Talk: An **Audio-Visual** Transformer Approach, [[Paper]](https://arxiv.org/pdf/2108.03256.pdf)
+
+- (arXiv 2021.08) PSViT: Better Vision Transformer via **Token Pooling** and **Attention Sharing**, [[Paper]](https://arxiv.org/pdf/2108.03428.pdf)
+
 - (arXiv 2021.08) Unifying Global-Local Representations in **Salient Object Detection** with Transformer, [[Paper]](https://arxiv.org/pdf/2108.02759.pdf), [[Code]](https://github.com/OliverRensu/GLSTR)
 
 - (arXiv 2021.08) Boosting **Few-shot Semantic Segmentation** with Transformers, [[Paper]](https://arxiv.org/pdf/2108.02266.pdf), [[Code]](https://github.com/GuoleiSun/TRFS)
