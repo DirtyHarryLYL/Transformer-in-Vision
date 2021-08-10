@@ -50,6 +50,16 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.08) Optimizing Latency for **Online Video Captioning** Using Audio-Visual Transformers, [[Paper]](https://arxiv.org/pdf/2108.02147.pdf)
+
+- (arXiv 2021.08) TransRefer3D: Entity-and-Relation Aware Transformer for **Fine-Grained 3D Visual Grounding**, [[Paper]](https://arxiv.org/pdf/2108.02388.pdf)
+
+- (arXiv 2021.08) Fast **Convergence** of **DETR** with Spatially Modulated Co-Attention. [[Paper]](https://arxiv.org/pdf/2108.02404.pdf), [[Code]](https://github.com/gaopengcuhk/SMCA-DETR)
+
+- (arXiv 2021.08) Token Shift Transformer for **Video Classification**, [[Paper]](https://arxiv.org/pdf/2108.02432.pdf), [[Code]](https://github.com/VideoNetworks/TokShift-Transformer)
+
+- (arXiv 2021.08) Simpler is Better: **Few-shot Semantic Segmentation** with Classifier Weight Transformer, [[Paper]](https://arxiv.org/pdf/2108.03032.pdf), [[Code]](https://github.com/zhiheLu/CWT-for-FSS)
+
 - (arXiv 2021.08) Joint Inductive and Transductive Learning for **Video Object Segmentation**, [[Paper]](https://arxiv.org/pdf/2108.03679.pdf), [[Code]](https://github.com/maoyunyao/JOINT)
 
 - (arXiv 2021.08) OVIS: **Open-Vocabulary Visual Instance Search** via Visual-Semantic Aligned Representation Learning, [[Paper]](https://arxiv.org/pdf/2108.03704.pdf)
