@@ -50,7 +50,17 @@ Keep updated.
 
 ## Recent Papers
 
-- **Image Retrieval** on Real-life Images with Pre-trained Vision-and-Language Models, [[Paper]](https://arxiv.org/pdf/2108.04024.pdf), [[Code]](https://cuberick-orion.github.io/CIRR/)
+- (arXiv 2021.08) Joint Inductive and Transductive Learning for **Video Object Segmentation**, [[Paper]](https://arxiv.org/pdf/2108.03679.pdf), [[Code]](https://github.com/maoyunyao/JOINT)
+
+- (arXiv 2021.08) OVIS: **Open-Vocabulary Visual Instance Search** via Visual-Semantic Aligned Representation Learning, [[Paper]](https://arxiv.org/pdf/2108.03704.pdf)
+
+- (arXiv 2021.08) Paint Transformer: Feed Forward Neural Painting with Stroke Prediction, [[Paper]](https://arxiv.org/pdf/2108.03798.pdf), [[Code-1]](https://github.com/PaddlePaddle/PaddleGAN), [[Code-2]](https://github.com/Huage001/PaintTransformer)
+
+- (arXiv 2021.08) TransForensics: **Image Forgery Localization** with Dense Self-Attention, [[Paper]](https://arxiv.org/pdf/2108.03871.pdf)
+
+- (arXiv 2021.08) TriTransNet: **RGB-D Salient Object Detection** with a Triplet Transformer Embedding Network, [[Paper]](https://arxiv.org/pdf/2108.03990.pdf)
+
+- (arXiv 2021.08) **Image Retrieval** on Real-life Images with Pre-trained Vision-and-Language Models, [[Paper]](https://arxiv.org/pdf/2108.04024.pdf), [[Code]](https://cuberick-orion.github.io/CIRR/)
 
 - (arXiv 2021.08) The Right to Talk: An **Audio-Visual** Transformer Approach, [[Paper]](https://arxiv.org/pdf/2108.03256.pdf)
 
