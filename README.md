@@ -50,6 +50,8 @@ Keep updated.
 
 ## Recent Papers
 
+- **Image Retrieval** on Real-life Images with Pre-trained Vision-and-Language Models, [[Paper]](https://arxiv.org/pdf/2108.04024.pdf), [[Code]](https://cuberick-orion.github.io/CIRR/)
+
 - (arXiv 2021.08) The Right to Talk: An **Audio-Visual** Transformer Approach, [[Paper]](https://arxiv.org/pdf/2108.03256.pdf)
 
 - (arXiv 2021.08) PSViT: Better Vision Transformer via **Token Pooling** and **Attention Sharing**, [[Paper]](https://arxiv.org/pdf/2108.03428.pdf)
