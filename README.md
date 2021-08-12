@@ -50,6 +50,12 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.08) Embodied BERT: A Transformer Model for **Embodied**, Language-guided Visual Task Completion, [[Paper]](https://arxiv.org/pdf/2108.04927.pdf), [[Code]](https://github.com/amazon-research/embert)
+
+- (arXiv 2021.08) Video Transformer for **Deepfake Detection** with Incremental Learning, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2108/2108.05307.pdf)
+
+- (arXiv 2021.08) **ConvNets vs. Transformers**: Whose Visual Representations are More **Transferable**? [[Paper]](https://arxiv.org/pdf/2108.05305.pdf)
+
 - (arXiv 2021.08) A Transformer-based Math Language Model for **Handwritten Math Expression Recognition**, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2108/2108.05002.pdf)
 
 - (arXiv 2021.08) Optimizing Latency for **Online Video Captioning** Using Audio-Visual Transformers, [[Paper]](https://arxiv.org/pdf/2108.02147.pdf)
