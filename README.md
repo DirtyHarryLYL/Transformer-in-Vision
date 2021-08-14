@@ -50,6 +50,8 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.08) Vision-Language Transformer and Query Generation for **Referring Segmentation**, [[Paper]](https://arxiv.org/pdf/2108.05565.pdf), [[Code]](https://github.com/henghuiding/Vision-Language-Transformer)
+
 - (arXiv 2021.08) Mobile-Former: Bridging **MobileNet** and Transformer, [[Paper]](https://arxiv.org/pdf/2108.05895.pdf)
 
 - (arXiv 2021.08) **Multiview Detection** with Shadow Transformer (and View-Coherent Data Augmentation), [[Paper]](https://arxiv.org/pdf/2108.05888.pdf), [[Code]](https://github.com/hou-yz/MVDeTr)
