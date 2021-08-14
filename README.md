@@ -50,6 +50,8 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.08) **Billion-Scale Pretraining** with Vision Transformers for Multi-Task Visual Representations, [[Paper]](https://arxiv.org/pdf/2108.05887.pdf)
+
 - (arXiv 2021.08) Embodied BERT: A Transformer Model for **Embodied**, Language-guided Visual Task Completion, [[Paper]](https://arxiv.org/pdf/2108.04927.pdf), [[Code]](https://github.com/amazon-research/embert)
 
 - (arXiv 2021.08) Video Transformer for **Deepfake Detection** with Incremental Learning, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2108/2108.05307.pdf)
