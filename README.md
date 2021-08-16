@@ -50,6 +50,10 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.08) TVT: Transferable Vision Transformer for **Unsupervised Domain Adaptation**, [[Paper]](https://arxiv.org/pdf/2108.05988.pdf)
+
+- (arXiv 2021.08) MUSIQ: Multi-scale **Image Quality** Transformer, [[Paper]](https://arxiv.org/pdf/2108.05997.pdf)
+
 - (arXiv 2021.08) **Point-Voxel** Transformer: An Efficient Approach To 3D Deep Learning, [[Paper]](https://arxiv.org/pdf/2108.06076.pdf), [[Code]](https://github.com/2020zhangcheng/PVT)
 
 - (arXiv 2021.08) Conditional **DETR** for **Fast** Training Convergence, [[Paper]](https://arxiv.org/pdf/2108.06152.pdf), [[Code]](https://git.io/ConditionalDETR)
