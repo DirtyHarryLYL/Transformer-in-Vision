@@ -50,6 +50,10 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.08) **Point-Voxel** Transformer: An Efficient Approach To 3D Deep Learning, [[Paper]](https://arxiv.org/pdf/2108.06076.pdf), [[Code]](https://github.com/2020zhangcheng/PVT)
+
+- (arXiv 2021.08) Conditional **DETR** for **Fast** Training Convergence, [[Paper]](https://arxiv.org/pdf/2108.06152.pdf), [[Code]](https://git.io/ConditionalDETR)
+
 - (arXiv 2021.08) Vision-Language Transformer and Query Generation for **Referring Segmentation**, [[Paper]](https://arxiv.org/pdf/2108.05565.pdf), [[Code]](https://github.com/henghuiding/Vision-Language-Transformer)
 
 - (arXiv 2021.08) Mobile-Former: Bridging **MobileNet** and Transformer, [[Paper]](https://arxiv.org/pdf/2108.05895.pdf)
