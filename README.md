@@ -50,6 +50,10 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.08) PoinTr: Diverse **Point Cloud Completion** with Geometry-Aware Transformers, [[Paper]](https://arxiv.org/pdf/2108.08839.pdf), [[Code]](https://github.com/yuxumin/PoinTr)
+
+- (arXiv 2021.08) ImageBART: Bidirectional Context with Multinomial Diffusion for **Autoregressive Image Synthesis**, [[Paper]](https://arxiv.org/pdf/2108.08827.pdf), [[Project]](https://compvis.github.io/imagebart/)
+
 - (arXiv 2021.08) Do Vision Transformers **See Like Convolutional Neural Networks?** [[Paper]](https://arxiv.org/pdf/2108.08810.pdf)
 
 - (arXiv 2021.08) TVT: Transferable Vision Transformer for **Unsupervised Domain Adaptation**, [[Paper]](https://arxiv.org/pdf/2108.05988.pdf)
