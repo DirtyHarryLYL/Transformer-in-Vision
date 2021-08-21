@@ -50,6 +50,8 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.08) Do Vision Transformers **See Like Convolutional Neural Networks?** [[Paper]](https://arxiv.org/pdf/2108.08810.pdf)
+
 - (arXiv 2021.08) TVT: Transferable Vision Transformer for **Unsupervised Domain Adaptation**, [[Paper]](https://arxiv.org/pdf/2108.05988.pdf)
 
 - (arXiv 2021.08) MUSIQ: Multi-scale **Image Quality** Transformer, [[Paper]](https://arxiv.org/pdf/2108.05997.pdf)
