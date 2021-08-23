@@ -50,6 +50,8 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.08) Trans4Trans: **Efficient** Transformer for Transparent Object and Semantic Scene Segmentation in Real-World **Navigation** Assistance, [[Paper]](https://arxiv.org/pdf/2108.09174.pdf)
+
 - (arXiv 2021.08) **Video Relation Detection** via Tracklet based Visual Transformer, [[Paper]](https://arxiv.org/pdf/2108.08669.pdf), [[Code]](https://github.com/Dawn-LX/VidVRD-tracklets)
 
 - (arXiv 2021.08) PoinTr: Diverse **Point Cloud Completion** with Geometry-Aware Transformers, [[Paper]](https://arxiv.org/pdf/2108.08839.pdf), [[Code]](https://github.com/yuxumin/PoinTr)
