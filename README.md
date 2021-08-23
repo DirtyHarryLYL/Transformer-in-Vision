@@ -50,6 +50,14 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.08) No-Reference **Image Quality Assessment** via Transformers, Relative Ranking, and Self-Consistency, [[Paper]](https://arxiv.org/pdf/2108.06858.pdf), [[Code]](https://github.com/isalirezag/TReS)
+
+- (arXiv 2021.08) SOTR: **Segmenting** Objects with Transformers, [[Paper]](https://arxiv.org/pdf/2108.06747.pdf), [[Code]](https://github.com/easton-cau/SOTR)
+
+- (arXiv 2021.08) ROSITA: Enhancing **Vision-and-Language** Semantic Alignments via Cross- and Intra-modal Knowledge Integration, [[Paper]](https://arxiv.org/pdf/2108.07073.pdf), [[Code]](https://github.com/MILVLG/rosita)
+
+- (arXiv 2021.08) Escaping the **Gradient Vanishing**: Periodic Alternatives of Softmax in Attention Mechanism, [[Paper]](https://arxiv.org/pdf/2108.07153.pdf), [[Code]](https://github.com/slwang9353/Period-alternatives-of-Softmax)
+
 - (arXiv 2021.08) End-to-End Dense **Video Captioning** with Parallel Decoding, [[Paper]](https://arxiv.org/pdf/2108.07781.pdf), [[Code]](https://github.com/ttengwang/PDVC)
 
 - (arXiv 2021.08) Trans4Trans: **Efficient** Transformer for Transparent Object and Semantic Scene Segmentation in Real-World **Navigation** Assistance, [[Paper]](https://arxiv.org/pdf/2108.09174.pdf)
