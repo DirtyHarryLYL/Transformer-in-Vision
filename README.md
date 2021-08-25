@@ -50,6 +50,8 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.08) Improving **3D Object Detection** with Channel-wise Transformer, [[Paper]](https://arxiv.org/pdf/2108.10723.pdf)
+
 - (arXiv 2021.08) No-Reference **Image Quality Assessment** via Transformers, Relative Ranking, and Self-Consistency, [[Paper]](https://arxiv.org/pdf/2108.06858.pdf), [[Code]](https://github.com/isalirezag/TReS)
 
 - (arXiv 2021.08) SOTR: **Segmenting** Objects with Transformers, [[Paper]](https://arxiv.org/pdf/2108.06747.pdf), [[Code]](https://github.com/easton-cau/SOTR)
