@@ -50,6 +50,8 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.08) TACo: Token-aware Cascade Contrastive Learning for **Video-Text Alignment**, [[Paper]](https://arxiv.org/pdf/2108.09980.pdf)
+
 - (arXiv 2021.08) MM-ViT: Multi-Modal Video Transformer for **Compressed Video Action Recognition**, [[Paper]](https://arxiv.org/pdf/2108.09322.pdf)
 
 - (arXiv 2021.08) SwinIR: **Image Restoration** Using Swin Transformer, [[Paper]](https://arxiv.org/pdf/2108.10257.pdf), [[Code]](https://github.com/JingyunLiang/SwinIR)
