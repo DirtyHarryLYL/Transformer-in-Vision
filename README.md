@@ -50,6 +50,10 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.08) MM-ViT: Multi-Modal Video Transformer for **Compressed Video Action Recognition**, [[Paper]](https://arxiv.org/pdf/2108.09322.pdf)
+
+- (arXiv 2021.08) SwinIR: **Image Restoration** Using Swin Transformer, [[Paper]](https://arxiv.org/pdf/2108.10257.pdf), [[Code]](https://github.com/JingyunLiang/SwinIR)
+
 - (arXiv 2021.08) Grid-VLP: Revisiting Grid Features for **Vision-Language** Pre-training, [[Paper]](https://arxiv.org/pdf/2108.09479.pdf)
 
 - (arXiv 2021.08) Improving **3D Object Detection** with Channel-wise Transformer, [[Paper]](https://arxiv.org/pdf/2108.10723.pdf)
