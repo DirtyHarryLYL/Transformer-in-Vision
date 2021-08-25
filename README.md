@@ -50,6 +50,8 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.08) Grid-VLP: Revisiting Grid Features for **Vision-Language** Pre-training, [[Paper]](https://arxiv.org/pdf/2108.09479.pdf)
+
 - (arXiv 2021.08) Improving **3D Object Detection** with Channel-wise Transformer, [[Paper]](https://arxiv.org/pdf/2108.10723.pdf)
 
 - (arXiv 2021.08) No-Reference **Image Quality Assessment** via Transformers, Relative Ranking, and Self-Consistency, [[Paper]](https://arxiv.org/pdf/2108.06858.pdf), [[Code]](https://github.com/isalirezag/TReS)
