@@ -50,6 +50,14 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.08) Guiding Query Position and Performing Similar Attention for Transformer-Based **Detection** Heads, [[Paper]](https://arxiv.org/pdf/2108.09691.pdf)
+
+- (arXiv 2021.08) SIMVLM: SIMPLE **VISUAL LANGUAGE** MODEL PRETRAINING WITH WEAK SUPERVISION, [[Paper]](https://arxiv.org/pdf/2108.10904.pdf)
+
+- (arXiv 2021.08) TransFER: Learning Relation-aware **Facial Expression Representations** with Transformers, [[Paper]](https://arxiv.org/pdf/2108.11116.pdf)
+
+- (arXiv 2021.08) Efficient Transformer for Single Image **Super-Resolution**, [[Paper]](https://arxiv.org/pdf/2108.11084.pdf)
+
 - (arXiv 2021.08) Discovering Spatial Relationships by Transformers for **Domain Generalization**, [[Paper]](https://arxiv.org/pdf/2108.10046.pdf)
 
 - (arXiv 2021.08) TACo: Token-aware Cascade Contrastive Learning for **Video-Text Alignment**, [[Paper]](https://arxiv.org/pdf/2108.09980.pdf)
