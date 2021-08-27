@@ -166,6 +166,7 @@ Keep updated.
 
 - (arXiv 2021.08) GTNet:Guided Transformer Network for Detecting **Human-Object Interactions**, [[Paper]](https://arxiv.org/pdf/2108.00596.pdf), [[Code]](https://github.com/UCSB-VRL/GTNet)
 
+### 2021.07
 - (arXiv 2021.07) Perceiver IO: A **General Architecture** for Structured Inputs & Outputs, [[Paper]](https://arxiv.org/pdf/2107.14795.pdf), [[Code]](https://dpmd.ai/perceiver-code)
 
 - (arXiv 2021.07) DPT: **Deformable Patch**-based Transformer for Visual Recognition, [[Paper]](https://arxiv.org/pdf/2107.14467.pdf), [[Code]](https://github.com/CASIA-IVA-Lab/DPT)
@@ -310,6 +311,7 @@ Keep updated.
 
 - (arXiv 2021.07) Action Transformer: A Self-Attention Model for Short-Time Human **Action Recognition**, [[Paper]](https://arxiv.org/pdf/2107.00606.pdf)
 
+### 2021.06
 - (arXiv 2021.06) Associating Objects with Transformers for **Video Object Segmentation**, [[Paper]](https://arxiv.org/pdf/2106.02638.pdf), [[Code]](https://github.com/z-x-yang/AOT)
 
 - (arXiv 2021.06) Video **Super-Resolution** Transformer, [[Paper]](https://arxiv.org/pdf/2106.06847.pdf), [[Code]](https://github.com/caojiezhang/VSR-Transformer)
@@ -530,6 +532,7 @@ Keep updated.
 
 - (arXiv 2021.06) SegFormer: Simple and Efficient Design for **Semantic Segmentation** with Transformers, [[Paper]](https://arxiv.org/pdf/2105.15203.pdf), [[Code]](https://github.com/NVlabs/SegFormer)
 
+### 2021.05
 - (arXiv 2021.05) KVT: k-NN **Attention** for Boosting Vision Transformers, [[Paper]](https://arxiv.org/pdf/2106.00515.pdf)
 
 - (arXiv 2021.05) Memory-Efficient Differentiable Transformer **Architecture Search**, [[Paper]](https://arxiv.org/pdf/2105.14669.pdf)
@@ -652,6 +655,7 @@ Keep updated.
 
 - (arXiv 2021.05) Visual **Composite Set Detection** Using Part-and-Sum Transformers, [[Paper]](https://arxiv.org/pdf/2105.02170.pdf)
 
+### 2021.04
 - (arXiv 2021.04) HandsFormer: Keypoint Transformer for Monocular 3D **Pose** Estimation of Hands and Object in Interaction, [[Paper]](https://arxiv.org/pdf/2104.14639.pdf)
 
 - (arXiv 2021.04) Chop Chop BERT: **Visual Question Answering** by Chopping VisualBERT’s Heads, [[Paper]](https://arxiv.org/pdf/2104.14741.pdf)
@@ -838,6 +842,7 @@ Keep updated.
 
 - (arXiv 2021.04) Composable Augmentation Encoding for Video **Representation** Learning, [[Paper]](https://arxiv.org/pdf/2104.00616.pdf)
 
+### 2021.03
 - (arXiv 2021.03) TransCenter: Transformers with Dense Queries for Multiple-Object **Tracking**, [[Paper]](https://arxiv.org/pdf/2103.15145.pdf)
 
 - (arXiv 2021.03) PixelTransformer: Sample Conditioned **Signal Generation**, [[Paper]](https://arxiv.org/pdf/2103.15813.pdf), [[Code]](https://shubhtuls.github.io/PixelTransformer/)
@@ -976,6 +981,7 @@ Keep updated.
 
 - (arXiv 2021.03) Single-Shot **Motion Completion** with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
 
+### 2021.02
 - (arXiv 2021.02) Evolving Attention with **Residual** Convolutions, [[Paper]](https://arxiv.org/pdf/2102.12895.pdf)
 
 - (arXiv 2021.02) GEM: Glare or Gloom, I Can Still See You – End-to-End Multimodal Object **Detector**, [[Paper]](https://arxiv.org/pdf/2102.12319.pdf)
@@ -1026,6 +1032,7 @@ Keep updated.
 
 - (arXiv 2021.02) Improving Visual **Reasoning** by Exploiting The Knowledge in Texts, [[Paper]](https://arxiv.org/pdf/2102.04760.pdf)
 
+### 2021.01
 - (arXiv 2021.01) **Fast** Convergence of DETR with Spatially Modulated Co-Attention, [[Paper]](https://arxiv.org/pdf/2101.07448.pdf)
 
 - (arXiv 2021.01) Dual-Level Collaborative Transformer for Image **Captioning**, [[Paper]](https://arxiv.org/pdf/2101.06462.pdf)
@@ -1064,6 +1071,7 @@ Keep updated.
 
 - (arXiv 2021.01) Decoupling the Role of Data, Attention, and Losses in **Multimodal** Transformers, [[Paper]](https://arxiv.org/pdf/2102.00529.pdf)
 
+### 2020.12
 - (arXiv 2020.12) **Cloud** Transformers, [[Paper]](https://arxiv.org/pdf/2007.11679.pdf)
 
 - (arXiv 2020.12) Accurate Word **Representations** with Universal Visual Guidance, [[Paper]](https://arxiv.org/pdf/2012.15086.pdf)
@@ -1102,6 +1110,7 @@ Keep updated.
 
 - (arXiv 2020.12) Taming Transformers for High-Resolution **Image Synthesis**, [[Paper]](https://arxiv.org/pdf/2012.09841.pdf), [[Code]](https://github.com/CompVis/taming-transformers)
 
+### 2020.11
 - (arXiv 2020.11) End-to-end **Lane Shape Prediction** with Transformers, [[Paper]](https://arxiv.org/pdf/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
 
 - (arXiv 2020.11) UP-DETR: Unsupervised Pre-training for Object **Detection** with Transformers, [[Paper]](https://arxiv.org/pdf/2011.09094)
@@ -1114,6 +1123,7 @@ Keep updated.
 
 - (arXiv 2020.11) End-to-End Object **Detection** with Adaptive Clustering Transformer, [[Paper]](https://arxiv.org/pdf/2011.09315)
 
+### before 2020.11
 - (arXiv 2020.10) An Image is Worth 16x16 Words: Transformers for **Image Recognition** at Scale, [[Paper]](https://arxiv.org/pdf/2010.11929), [[Code]](https://github.com/google-research/vision_transformer)
 
 - (arXiv 2020.07) Oscar: Object-Semantics Aligned Pre-training for **Vision-and-Language** Tasks, [[Paper]](https://arxiv.org/pdf/2004.06165.pdf), [[Code]](https://github.com/microsoft/Oscar)
