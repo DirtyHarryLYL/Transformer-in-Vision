@@ -28,7 +28,7 @@ Keep updated.
 
 - [yuewang-cuhk/awesome-vision-language-pretraining-papers](https://github.com/yuewang-cuhk/awesome-vision-language-pretraining-papers)
 
-## Survey: 
+## Survey
 
 - (arXiv 2021.06) A Survey of Transformers, [[Paper]](https://arxiv.org/pdf/2106.04554.pdf)
 
