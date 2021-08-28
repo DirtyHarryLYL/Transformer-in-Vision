@@ -50,6 +50,8 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.08) Shifted Chunk Transformer for **Spatio-Temporal** Representational Learning, [[Paper]](https://arxiv.org/pdf/2108.11575.pdf)
+
 - (arXiv 2021.08) SASRA: Semantically-aware Spatio-temporal Reasoning Agent for **Vision-and-Language Navigation** in Continuous Environments, [[Paper]](https://arxiv.org/pdf/2108.11945.pdf)
 
 - (arXiv 2021.08) LocTex: Learning **Data-Efficient** Visual **Representations** from Localized Textual Supervision, [[Paper]](https://arxiv.org/pdf/2108.11950.pdf), [[Project]](https://loctex.mit.edu/)
