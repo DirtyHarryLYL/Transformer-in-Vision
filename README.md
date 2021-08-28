@@ -50,6 +50,8 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.08) Cross-category **Video Highlight Detection** via Set-based Learning, [[Paper]](https://arxiv.org/pdf/2108.11770.pdf), [[Code]](https://github.com/ChrisAllenMing/Cross_Category_Video_Highlight)
+
 - (arXiv 2021.08) Shifted Chunk Transformer for **Spatio-Temporal** Representational Learning, [[Paper]](https://arxiv.org/pdf/2108.11575.pdf)
 
 - (arXiv 2021.08) SASRA: Semantically-aware Spatio-temporal Reasoning Agent for **Vision-and-Language Navigation** in Continuous Environments, [[Paper]](https://arxiv.org/pdf/2108.11945.pdf)
