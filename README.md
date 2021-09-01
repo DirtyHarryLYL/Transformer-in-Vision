@@ -50,6 +50,8 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.08) Exploring and Improving **Mobile** Level Vision Transformers, [[Paper]](https://arxiv.org/pdf/2108.13015.pdf)
+
 - (arXiv 2021.08) Cross-category **Video Highlight Detection** via Set-based Learning, [[Paper]](https://arxiv.org/pdf/2108.11770.pdf), [[Code]](https://github.com/ChrisAllenMing/Cross_Category_Video_Highlight)
 
 - (arXiv 2021.08) Shifted Chunk Transformer for **Spatio-Temporal** Representational Learning, [[Paper]](https://arxiv.org/pdf/2108.11575.pdf)
