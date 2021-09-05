@@ -50,6 +50,9 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.09) Joint Graph Learning and Matching for **Semantic Feature Correspondence**, [[Paper]](https://arxiv.org/pdf/2109.00240.pdf)
+
+### 2021.08
 - (arXiv 2021.08) **Searching** for Efficient Multi-Stage Vision Transformers, [[Paper]](https://arxiv.org/pdf/2109.00642.pdf), [[Code]](https://github.com/yilunliao/vit-search)
 
 - (arXiv 2021.08) Exploring and Improving **Mobile** Level Vision Transformers, [[Paper]](https://arxiv.org/pdf/2108.13015.pdf)
