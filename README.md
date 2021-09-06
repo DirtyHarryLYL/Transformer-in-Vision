@@ -55,6 +55,8 @@ Keep updated.
 - (arXiv 2021.08) **Searching** for Efficient Multi-Stage Vision Transformers, [[Paper]](https://arxiv.org/pdf/2109.00642.pdf), [[Code]](https://github.com/yilunliao/vit-search)
 
 ### 2021.08
+- (arXiv 2021.08) GroupFormer: **Group Activity Recognition** with Clustered Spatial-Temporal Transformer, [[Paper]](https://arxiv.org/pdf/2108.12630.pdf), [[Code]](https://github.com/xueyee/GroupFormer)
+
 - (arXiv 2021.08) **A Battle of Network Structures**: An Empirical Study of CNN, Transformer, and MLP, [[Paper]](https://arxiv.org/pdf/2108.13002.pdf)
 
 - (arXiv 2021.08) Exploring and Improving **Mobile** Level Vision Transformers, [[Paper]](https://arxiv.org/pdf/2108.13015.pdf)
