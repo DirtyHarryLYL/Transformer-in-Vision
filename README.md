@@ -55,6 +55,8 @@ Keep updated.
 - (arXiv 2021.08) **Searching** for Efficient Multi-Stage Vision Transformers, [[Paper]](https://arxiv.org/pdf/2109.00642.pdf), [[Code]](https://github.com/yilunliao/vit-search)
 
 ### 2021.08
+- (arXiv 2021.08) **A Battle of Network Structures**: An Empirical Study of CNN, Transformer, and MLP, [[Paper]](https://arxiv.org/pdf/2108.13002.pdf)
+
 - (arXiv 2021.08) Exploring and Improving **Mobile** Level Vision Transformers, [[Paper]](https://arxiv.org/pdf/2108.13015.pdf)
 
 - (arXiv 2021.08) Cross-category **Video Highlight Detection** via Set-based Learning, [[Paper]](https://arxiv.org/pdf/2108.11770.pdf), [[Code]](https://github.com/ChrisAllenMing/Cross_Category_Video_Highlight)
