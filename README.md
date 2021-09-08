@@ -50,6 +50,8 @@ Keep updated.
 
 ## Recent Papers
 
+- (ICCV 2021.09) **3D Human Texture Estimation** from a Single Image with Transformers, [[Paper]](http://personal.ie.cuhk.edu.hk/~ccloy/files/iccv_2021_texformer.pdf), [[Code]](https://github.com/xuxy09/Texformer)
+
 - (arXiv 2021.09) Encoder-decoder with Multi-level Attention for **3D Human Shape and Pose Estimation**, [[Paper]](https://arxiv.org/pdf/2109.02303.pdf), [[Code]](https://github.com/ziniuwan/maed)
 
 - (arXiv 2021.09) Joint Graph Learning and Matching for **Semantic Feature Correspondence**, [[Paper]](https://arxiv.org/pdf/2109.00240.pdf)
