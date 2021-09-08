@@ -50,6 +50,8 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.09) Encoder-decoder with Multi-level Attention for **3D Human Shape and Pose Estimation**, [[Paper]](https://arxiv.org/pdf/2109.02303.pdf), [[Code]](https://github.com/ziniuwan/maed)
+
 - (arXiv 2021.09) Joint Graph Learning and Matching for **Semantic Feature Correspondence**, [[Paper]](https://arxiv.org/pdf/2109.00240.pdf)
 
 - (arXiv 2021.09) **Searching** for Efficient Multi-Stage Vision Transformers, [[Paper]](https://arxiv.org/pdf/2109.00642.pdf), [[Code]](https://github.com/yilunliao/vit-search)
