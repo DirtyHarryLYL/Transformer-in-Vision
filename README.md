@@ -50,6 +50,10 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.09) The Animation Transformer: Visual **Correspondence** via Segment Matching, [[Paper]](https://arxiv.org/pdf/2109.02614.pdf)
+
+- (arXiv 2021.09) Voxel Transformer for **3D Object Detection**, [[Paper]](https://arxiv.org/pdf/2109.02497.pdf)
+
 - (ICCV 2021.09) **3D Human Texture Estimation** from a Single Image with Transformers, [[Paper]](http://personal.ie.cuhk.edu.hk/~ccloy/files/iccv_2021_texformer.pdf), [[Code]](https://github.com/xuxy09/Texformer)
 
 - (arXiv 2021.09) Encoder-decoder with Multi-level Attention for **3D Human Shape and Pose Estimation**, [[Paper]](https://arxiv.org/pdf/2109.02303.pdf), [[Code]](https://github.com/ziniuwan/maed)
