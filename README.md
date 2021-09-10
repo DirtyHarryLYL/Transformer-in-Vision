@@ -50,6 +50,8 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.09) **Sparse**-MLP: A Fully-**MLP** Architecture with Conditional Computation, [[Paper]](https://arxiv.org/pdf/2109.02008.pdf)
+
 - (arXiv 2021.09) SORNet: Spatial Object-Centric Representations for Sequential **Manipulation**, [[Paper]](https://arxiv.org/pdf/2109.03891.pdf), [[Project]](https://wentaoyuan.github.io/sornet)
 
 - (arXiv 2021.09) Audio-Visual Transformer Based **Crowd Counting**, [[Paper]](https://arxiv.org/pdf/2109.01926.pdf)
