@@ -50,6 +50,10 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.09) CTRL-C: **Camera calibration** TRansformer with Line-Classification, [[Paper]](https://arxiv.org/pdf/2109.02259.pdf), [[Code]](https://github.com/jwlee-vcl/CTRL-C)
+
+- (arXiv 2021.09) Learning to Generate **Scene Graph** from Natural Language Supervision, [[Paper]](https://arxiv.org/pdf/2109.02227.pdf), [[Code]](https://github.com/YiwuZhong/SGG_from_NLS)
+
 - (arXiv 2021.09) The Animation Transformer: Visual **Correspondence** via Segment Matching, [[Paper]](https://arxiv.org/pdf/2109.02614.pdf)
 
 - (arXiv 2021.09) Voxel Transformer for **3D Object Detection**, [[Paper]](https://arxiv.org/pdf/2109.02497.pdf)
