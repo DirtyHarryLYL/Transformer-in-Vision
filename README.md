@@ -50,6 +50,12 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.09) Audio-Visual Transformer Based **Crowd Counting**, [[Paper]](https://arxiv.org/pdf/2109.01926.pdf)
+
+- (arXiv 2021.09) Weakly Supervised Relative Spatial Reasoning for **Visual Question Answering**, [[Paper]](https://arxiv.org/pdf/2109.01934.pdf), [[Code]](https://github.com/pratyay-banerjee/weak_sup_vqa)
+
+- (arXiv 2021.09) FUSFORMER: A TRANSFORMER-BASED FUSION APPROACH FOR HYPERSPECTRAL IMAGE **SUPER-RESOLUTION**, [[Paper]](https://arxiv.org/pdf/2109.02079.pdf)
+
 - (arXiv 2021.09) CTRL-C: **Camera calibration** TRansformer with Line-Classification, [[Paper]](https://arxiv.org/pdf/2109.02259.pdf), [[Code]](https://github.com/jwlee-vcl/CTRL-C)
 
 - (arXiv 2021.09) Learning to Generate **Scene Graph** from Natural Language Supervision, [[Paper]](https://arxiv.org/pdf/2109.02227.pdf), [[Code]](https://github.com/YiwuZhong/SGG_from_NLS)
