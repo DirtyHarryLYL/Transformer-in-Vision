@@ -50,6 +50,8 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.09) SORNet: Spatial Object-Centric Representations for Sequential **Manipulation**, [[Paper]](https://arxiv.org/pdf/2109.03891.pdf), [[Project]](https://wentaoyuan.github.io/sornet)
+
 - (arXiv 2021.09) Audio-Visual Transformer Based **Crowd Counting**, [[Paper]](https://arxiv.org/pdf/2109.01926.pdf)
 
 - (arXiv 2021.09) Weakly Supervised Relative Spatial Reasoning for **Visual Question Answering**, [[Paper]](https://arxiv.org/pdf/2109.01934.pdf), [[Code]](https://github.com/pratyay-banerjee/weak_sup_vqa)
