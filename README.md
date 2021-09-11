@@ -50,6 +50,10 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.09) ConvMLP: Hierarchical Convolutional **MLPs** for Vision, [[Paper]](https://arxiv.org/pdf/2109.04454.pdf), [[Code]](https://github.com/SHI-Labs/Convolutional-MLPs)
+
+- (arXiv 2021.09) TxT: **Crossmodal** End-to-End Learning with Transformers, [[Paper]](https://arxiv.org/pdf/2109.04422.pdf)
+
 - (arXiv 2021.09) Vision-and-Language or Vision-for-Language? On **Cross-Modal Influence** in Multimodal Transformers, [[Paper]](https://arxiv.org/pdf/2109.04448.pdf)
 
 - (arXiv 2021.09) **Sparse**-MLP: A Fully-**MLP** Architecture with Conditional Computation, [[Paper]](https://arxiv.org/pdf/2109.02008.pdf)
