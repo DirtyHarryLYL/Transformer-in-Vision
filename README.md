@@ -50,6 +50,12 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.09) An Empirical Study of GPT-3 for Few-Shot Knowledge-Based **VQA**, [[Paper]](https://arxiv.org/pdf/2109.05014.pdf)
+
+- (arXiv 2021.09) PlaTe: **Visually-Grounded Planning** with Transformers in Procedural Tasks, [[Paper]](https://arxiv.org/pdf/2109.04869.pdf), [[Project]](https://www.pair.toronto.edu/plate-planner/)
+
+- (arXiv 2021.09) **EfficientCLIP**: Efficient Cross-Modal Pre-training by Ensemble Confident Learning and Language Modeling, [[Paper]](https://arxiv.org/pdf/2109.04699.pdf)
+
 - (arXiv 2021.09) **Scaled ReLU** Matters for **Training** Vision Transformers, [[Paper]](https://arxiv.org/pdf/2109.03810.pdf)
 
 - (arXiv 2021.09) FuseFormer: Fusing Fine-Grained Information in Transformers for **Video Inpainting**, [[Paper]](https://arxiv.org/pdf/2109.02974.pdf), [[Code]](https://github.com/ruiliu-ai/FuseFormer)
