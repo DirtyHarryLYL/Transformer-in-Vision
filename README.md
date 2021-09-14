@@ -50,6 +50,18 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.09) IS ATTENTION BETTER THAN **MATRIX DECOMPOSITION**? [[Paper]](https://arxiv.org/pdf/2109.04553.pdf), [[Code]](https://github.com/Gsunshine/Enjoy-Hamburger)
+
+- (arXiv 2021.09) Temporal Pyramid Transformer with Multimodal Interaction for **Video Question Answering**, [[Paper]](https://arxiv.org/pdf/2109.04735.pdf)
+
+- (arXiv 2021.09) Line as a Visual Sentence: Context-aware **Line Descriptor** for Visual Localization, [[Paper]](https://arxiv.org/pdf/2109.04753.pdf)
+
+- (arXiv 2021.09) Negative Sample Matters: A Renaissance of Metric Learning for **Temporal Grounding**, [[Paper]](https://arxiv.org/pdf/2109.04872.pdf)
+
+- (arXiv 2021.09) LAViTeR: Learning Aligned **Visual and Textual** Representations Assisted by Image and Caption Generation, [[Paper]](https://arxiv.org/pdf/2109.04993.pdf), [[Code]](https://github.com/mshaikh2/LaViTeR)
+
+- (arXiv 2021.09) Panoptic Narrative **Grounding**, [[Paper]](https://arxiv.org/pdf/2109.04988.pdf)
+
 - (arXiv 2021.09) An Empirical Study of GPT-3 for Few-Shot Knowledge-Based **VQA**, [[Paper]](https://arxiv.org/pdf/2109.05014.pdf)
 
 - (arXiv 2021.09) PlaTe: **Visually-Grounded Planning** with Transformers in Procedural Tasks, [[Paper]](https://arxiv.org/pdf/2109.04869.pdf), [[Project]](https://www.pair.toronto.edu/plate-planner/)
