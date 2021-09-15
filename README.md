@@ -50,6 +50,8 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.09) CDTrans: Cross-domain Transformer for **Unsupervised Domain Adaptation**, [[Paper]](https://arxiv.org/pdf/2109.06165.pdf)
+
 - (arXiv 2021.09) IS ATTENTION BETTER THAN **MATRIX DECOMPOSITION**? [[Paper]](https://arxiv.org/pdf/2109.04553.pdf), [[Code]](https://github.com/Gsunshine/Enjoy-Hamburger)
 
 - (arXiv 2021.09) Temporal Pyramid Transformer with Multimodal Interaction for **Video Question Answering**, [[Paper]](https://arxiv.org/pdf/2109.04735.pdf)
