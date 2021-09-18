@@ -50,6 +50,8 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.09) Neural Human Performer: Learning Generalizable Radiance Fields for **Human Performance Rendering**, [[Paper]](https://arxiv.org/pdf/2109.07448.pdf), [[Code]](https://youngjoongunc.github.io/nhp/)
+
 - (arXiv 2021.09) **Anchor DETR**: Query Design for Transformer-Based Detector, [[Paper]](https://arxiv.org/pdf/2109.07107.pdf), [[Code]](https://github.com/megvii-model/AnchorDETR)
 
 - (arXiv 2021.09) An End-to-End Transformer Model for **3D Object Detection**, [[Paper]](https://arxiv.org/pdf/2109.08141.pdf), [[Code]](https://facebookresearch.github.io/3detr)
