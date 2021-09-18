@@ -50,7 +50,9 @@ Keep updated.
 
 ## Recent Papers
 
--  (arXiv 2021.09) PnP-DETR: Towards **Efficient** Visual Analysis with Transformers, [[Paper]](https://arxiv.org/pdf/2109.07036.pdf), [[Code]](https://github.com/twangnh/pnp-detr)
+- (arXiv 2021.09) Pose Transformers (POTR): **Human Motion Prediction** with Non-Autoregressive Transformers, [[Paper]](https://arxiv.org/pdf/2109.07531.pdf), [[Code]](https://github.com/idiap/potr)
+
+- (arXiv 2021.09) PnP-DETR: Towards **Efficient** Visual Analysis with Transformers, [[Paper]](https://arxiv.org/pdf/2109.07036.pdf), [[Code]](https://github.com/twangnh/pnp-detr)
 
 - (arXiv 2021.09) Learning to **Ground** Visual Objects for Visual Dialog, [[Paper]](https://arxiv.org/pdf/2109.06013.pdf)
 
