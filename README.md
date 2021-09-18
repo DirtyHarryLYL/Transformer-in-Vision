@@ -50,6 +50,12 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.09) **Anchor DETR**: Query Design for Transformer-Based Detector, [[Paper]](https://arxiv.org/pdf/2109.07107.pdf), [[Code]](https://github.com/megvii-model/AnchorDETR)
+
+- (arXiv 2021.09) An End-to-End Transformer Model for **3D Object Detection**, [[Paper]](https://arxiv.org/pdf/2109.08141.pdf), [[Code]](https://facebookresearch.github.io/3detr)
+
+- (arXiv 2021.09) Hybrid Local-Global Transformer for **Image Dehazing**, [[Paper]](https://arxiv.org/pdf/2109.07100.pdf)
+
 - (arXiv 2021.09) Semi-Supervised Wide-Angle **Portraits Correction** by Multi-Scale Transformer, [[Paper]](https://arxiv.org/pdf/2109.08024.pdf)
 
 - (arXiv 2021.09) Label-Attention Transformer with Geometrically Coherent Objects for Image **Captioning**, [[Paper]](https://arxiv.org/pdf/2109.07799.pdf)
