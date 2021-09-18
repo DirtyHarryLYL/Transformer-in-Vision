@@ -50,6 +50,8 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.09) Semi-Supervised Wide-Angle **Portraits Correction** by Multi-Scale Transformer, [[Paper]](https://arxiv.org/pdf/2109.08024.pdf)
+
 - (arXiv 2021.09) Label-Attention Transformer with Geometrically Coherent Objects for Image **Captioning**, [[Paper]](https://arxiv.org/pdf/2109.07799.pdf)
 
 - (arXiv 2021.09) Pose Transformers (POTR): **Human Motion Prediction** with Non-Autoregressive Transformers, [[Paper]](https://arxiv.org/pdf/2109.07531.pdf), [[Code]](https://github.com/idiap/potr)
