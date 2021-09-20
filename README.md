@@ -50,6 +50,8 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.09) ActionCLIP: A New Paradigm for **Video Action Recognition**, [[Paper]](https://arxiv.org/pdf/2109.08472.pdf)
+
 - (arXiv 2021.09) BGT-Net: Bidirectional GRU Transformer Network for **Scene Graph Generation**, [[Paper]](https://arxiv.org/pdf/2109.05346.pdf)
 
 - (arXiv 2021.09) Neural Human Performer: Learning Generalizable Radiance Fields for **Human Performance Rendering**, [[Paper]](https://arxiv.org/pdf/2109.07448.pdf), [[Code]](https://youngjoongunc.github.io/nhp/)
