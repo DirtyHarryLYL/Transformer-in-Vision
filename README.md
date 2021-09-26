@@ -50,6 +50,8 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.09) SDTP: Semantic-aware Decoupled Transformer Pyramid for **Dense Image Prediction**, [[Paper]](https://arxiv.org/pdf/2109.08963.pdf)
+
 - (arXiv 2021.09) KD-VLP: Improving End-to-End **Vision-and-Language Pretraining** with Object Knowledge Distillation, [[Paper]](https://arxiv.org/pdf/2109.10504.pdf)
 
 - (arXiv 2021.09) T6D-Direct: Transformers for Multi-Object 6D Pose Direct Regression, [[Paper]](https://arxiv.org/pdf/2109.10948.pdf)
