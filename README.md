@@ -53,6 +53,12 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.09) GraFormer: Graph Convolution Transformer for **3D Pose Estimation**, [[Paper]](https://arxiv.org/pdf/2109.08364.pdf), [[Code]](https://github.com/Graformer/GraFormer)
+
+- (arXiv 2021.09) Multimodal Incremental Transformer with Visual Grounding for **Visual Dialogue Generation**, [[Paper]](https://arxiv.org/pdf/2109.08478.pdf)
+
+- (arXiv 2021.09) Expression Snippet Transformer for Robust Video-based **Facial Expression Recognition**, [[Paper]](https://arxiv.org/pdf/2109.08409.pdf), [[Code]](https://anonymous.4open.science/r/ATSE-C58B)
+
 - (arXiv 2021.09) LOTR: **Face Landmark Localization** Using Localization Transformer, [[Paper]](https://arxiv.org/pdf/2109.10057.pdf)
 
 - (arXiv 2021.09) Dyadformer: A **Multi-modal** Transformer for Long-Range Modeling of Dyadic Interactions, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2109/2109.09487.pdf)
