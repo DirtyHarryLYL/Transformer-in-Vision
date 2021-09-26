@@ -4,6 +4,7 @@ Recent Transformer-based CV and related works. Welcome to comment/contribute!
 Keep updated.
 
 ## Resource
+
 - Attention is all you need, [[Paper]](https://arxiv.org/pdf/1706.03762.pdf)
 
 - OpenAI CLIP [[Page]](https://openai.com/blog/clip/), [[Paper]](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language_Supervision.pdf), [[Code]](https://github.com/openai/CLIP), [[arXiv]](https://arxiv.org/pdf/2103.00020.pdf)
@@ -51,6 +52,8 @@ Keep updated.
 - (arXiv 2020.1) Transformers in Vision: A Survey, [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
+
+- (arXiv 2021.09) LOTR: **Face Landmark Localization** Using Localization Transformer, [[Paper]](https://arxiv.org/pdf/2109.10057.pdf)
 
 - (arXiv 2021.09) Dyadformer: A **Multi-modal** Transformer for Long-Range Modeling of Dyadic Interactions, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2109/2109.09487.pdf)
 
