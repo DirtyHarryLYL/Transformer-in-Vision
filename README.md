@@ -30,6 +30,8 @@ Keep updated.
 
 ## Survey
 
+- (arXiv 2021.09) Survey: Transformer based Video-Language Pre-training, [[Paper]](https://arxiv.org/pdf/2109.09920.pdf)
+
 - (arXiv 2021.06) A Survey of Transformers, [[Paper]](https://arxiv.org/pdf/2106.04554.pdf)
 
 - (arXiv 2021.06) Attention mechanisms and deep learning for machine vision: A survey of the state of the art, [[Paper]](https://arxiv.org/pdf/2106.07550.pdf)
@@ -49,6 +51,8 @@ Keep updated.
 - (arXiv 2020.1) Transformers in Vision: A Survey, [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
+
+- (arXiv 2021.09) Dyadformer: A **Multi-modal** Transformer for Long-Range Modeling of Dyadic Interactions, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2109/2109.09487.pdf)
 
 - (arXiv 2021.09) SDTP: Semantic-aware Decoupled Transformer Pyramid for **Dense Image Prediction**, [[Paper]](https://arxiv.org/pdf/2109.08963.pdf)
 
