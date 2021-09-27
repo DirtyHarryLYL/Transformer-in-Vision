@@ -53,6 +53,8 @@ Keep updated.
 
 ## Recent Papers
 
+- (arXiv 2021.09) CLIPORT: What and Where Pathways for **Robotic Manipulation**, [[Paper]](https://arxiv.org/pdf/2109.12098.pdf), [[Project]](https://cliport.github.io/), [[Code]](https://github.com/cliport/cliport)
+
 - (arXiv 2021.09) GraFormer: Graph Convolution Transformer for **3D Pose Estimation**, [[Paper]](https://arxiv.org/pdf/2109.08364.pdf), [[Code]](https://github.com/Graformer/GraFormer)
 
 - (arXiv 2021.09) Multimodal Incremental Transformer with Visual Grounding for **Visual Dialogue Generation**, [[Paper]](https://arxiv.org/pdf/2109.08478.pdf)
