@@ -53,7 +53,11 @@ Keep updated.
 
 ## Recent Papers
 
-- (arXiv 2021.09) Localizing ∞-shaped fishes:** Sketch-guided object localization** in the wild, [[Paper]](https://arxiv.org/pdf/2109.11874.pdf), [[Code]](https://github.com/priba/sgol_wild)
+- (arXiv 2021.09) Dense Contrastive **Visual-Linguistic** Pretraining, [[Paper]](https://arxiv.org/pdf/2109.11778.pdf)
+
+- (arXiv 2021.09) CPT: COLORFUL **PROMPT TUNING** FOR PRE-TRAINED VISION-LANGUAGE MODELS, [[Paper]](https://arxiv.org/pdf/2109.11797.pdf)
+
+- (arXiv 2021.09) Localizing ∞-shaped fishes: **Sketch-guided object localization** in the wild, [[Paper]](https://arxiv.org/pdf/2109.11874.pdf), [[Code]](https://github.com/priba/sgol_wild)
 
 - (arXiv 2021.09) CLIPORT: What and Where Pathways for **Robotic Manipulation**, [[Paper]](https://arxiv.org/pdf/2109.12098.pdf), [[Project]](https://cliport.github.io/), [[Code]](https://github.com/cliport/cliport)
 
