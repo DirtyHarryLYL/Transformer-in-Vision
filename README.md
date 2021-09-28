@@ -184,7 +184,7 @@ Keep updated.
 
 - (arXiv 2021.09) Joint Graph Learning and Matching for **Semantic Feature Correspondence**, [[Paper]](https://arxiv.org/pdf/2109.00240.pdf)
 
-- (arXiv 2021.09) **Searching** for Efficient Multi-Stage Vision Transformers, [[Paper]](https://arxiv.org/pdf/2109.00642.pdf), [[Code]](https://github.com/yilunliao/vit-search)
+- (arXiv 2021.09) Searching for **Efficient** Multi-Stage Vision Transformers, [[Paper]](https://arxiv.org/pdf/2109.00642.pdf), [[Code]](https://github.com/yilunliao/vit-search)
 
 ### 2021.08
 - (arXiv 2021.08) SIGN: Spatial-information Incorporated Generative Network for **Generalized Zero-shot Semantic Segmentation**, [[Paper]](https://arxiv.org/pdf/2108.12517.pdf)
