@@ -52,6 +52,17 @@ Keep updated.
 - (arXiv 2020.1) Transformers in Vision: A Survey, [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
+<!-- - (arXiv 2021.09) , [[Paper]]() -->
+
+- (arXiv 2021.09) MFEVIT: A ROBUST LIGHTWEIGHT TRANSFORMER-BASED NETWORK FOR MULTIMODAL 2D+3D **FACIAL EXPRESSION RECOGNITION**, [[Paper]](https://arxiv.org/pdf/2109.13086.pdf)
+
+- (arXiv 2021.09) Sparse Spatial Transformers for **Few-Shot Learning**, [[Paper]](https://arxiv.org/pdf/2109.12932.pdf), [[Code]](https://github.com/chenhaoxing/SSFormers)
+
+- (arXiv 2021.09) Vision Transformer Hashing for **Image Retrieval**, [[Paper]](https://arxiv.org/pdf/2109.12564.pdf)
+
+- (arXiv 2021.09) PETA: **Photo Albums Event Recognition** using Transformers Attention, [[Paper]](https://arxiv.org/pdf/2109.12499.pdf)
+
+- (arXiv 2021.09) MLIM: **VISION-AND-LANGUAGE** MODEL PRE-TRAINING WITH MASKED LANGUAGE AND IMAGE MODELING, [[Paper]](https://arxiv.org/pdf/2109.12178.pdf)
 
 - (arXiv 2021.09) Dense Contrastive **Visual-Linguistic** Pretraining, [[Paper]](https://arxiv.org/pdf/2109.11778.pdf)
 
