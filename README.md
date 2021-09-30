@@ -54,6 +54,20 @@ Keep updated.
 ## Recent Papers
 <!-- - (arXiv 2021.09) , [[Paper]]() -->
 
+- (arXiv 2021.09) CCTrans: Simplifying and Improving **Crowd Counting** with Transformer, [[Paper]](https://arxiv.org/pdf/2109.14483.pdf)
+
+- (arXiv 2021.09) UFO-ViT: High Performance **Linear** Vision Transformer **without Softmax**, [[Paper]](https://arxiv.org/pdf/2109.14382.pdf)
+
+- (arXiv 2021.09) **Infrared Small-Dim Target Detection** with Transformer under Complex Backgrounds, [[Paper]](https://arxiv.org/pdf/2109.14379.pdf)
+
+- (arXiv 2021.09) **Localizing Objects** with Self-Supervised Transformers and no Labels, [[Paper]](https://arxiv.org/pdf/2109.14279.pdf), [[Code]](https://github.com/valeoai/LOST)
+
+- (arXiv 2021.09) Geometry-Entangled Visual Semantic Transformer for Image **Captioning**, [[Paper]](https://arxiv.org/pdf/2109.14137.pdf)
+
+- (arXiv 2021.09) VideoCLIP: Contrastive Pre-training for **Zero-shot Video-Text Understanding**, [[Paper]](https://arxiv.org/pdf/2109.14084.pdf), [[Code]](https://github.com/pytorch/fairseq/examples/MMPT)
+
+- (arXiv 2021.09) Fine-tuning Vision Transformers for the Prediction of **State Variables in Ising Models**, [[Paper]](https://arxiv.org/pdf/2109.13925.pdf)
+
 - (arXiv 2021.09) CLIP-It! Language-Guided **Video Summarization**, [[Paper]](https://arxiv.org/pdf/2107.00650.pdf), [[Project]](https://medhini.github.io/clip_it)
 
 - (arXiv 2021.09) MFEVIT: A ROBUST LIGHTWEIGHT TRANSFORMER-BASED NETWORK FOR MULTIMODAL 2D+3D **FACIAL EXPRESSION RECOGNITION**, [[Paper]](https://arxiv.org/pdf/2109.13086.pdf)
