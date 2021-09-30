@@ -54,6 +54,8 @@ Keep updated.
 ## Recent Papers
 <!-- - (arXiv 2021.09) , [[Paper]]() -->
 
+- (arXiv 2021.09) CLIP-It! Language-Guided **Video Summarization**, [[Paper]](https://arxiv.org/pdf/2107.00650.pdf), [[Project]](https://medhini.github.io/clip_it)
+
 - (arXiv 2021.09) MFEVIT: A ROBUST LIGHTWEIGHT TRANSFORMER-BASED NETWORK FOR MULTIMODAL 2D+3D **FACIAL EXPRESSION RECOGNITION**, [[Paper]](https://arxiv.org/pdf/2109.13086.pdf)
 
 - (arXiv 2021.09) Sparse Spatial Transformers for **Few-Shot Learning**, [[Paper]](https://arxiv.org/pdf/2109.12932.pdf), [[Code]](https://github.com/chenhaoxing/SSFormers)
