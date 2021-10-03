@@ -54,6 +54,10 @@ Keep updated.
 ## Recent Papers
 <!-- - (arXiv 2021.09) , [[Paper]]() -->
 
+- (arXiv 2021.09) Joint Multimedia **Event Extraction** from Video and Article, [[Paper]](https://arxiv.org/pdf/2109.12776.pdf)
+
+- (arXiv 2021.09) Long-Range Transformers for **Dynamic Spatiotemporal Forecasting**, [[Paper]](https://arxiv.org/pdf/2109.12218.pdf)
+
 - (arXiv 2021.09) **Visually Grounded Concept** Composition, [[Paper]](https://arxiv.org/pdf/2109.14115.pdf)
 
 - (arXiv 2021.09) CoSeg: Cognitively Inspired Unsupervised Generic **Event Segmentation**, [[Paper]](https://arxiv.org/pdf/2109.15170.pdf)
