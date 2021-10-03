@@ -54,6 +54,8 @@ Keep updated.
 ## Recent Papers
 <!-- - (arXiv 2021.09) , [[Paper]]() -->
 
+- (arXiv 2021.09) CoSeg: Cognitively Inspired Unsupervised Generic **Event Segmentation**, [[Paper]](https://arxiv.org/pdf/2109.15170.pdf)
+
 - (arXiv 2021.09) CCTrans: Simplifying and Improving **Crowd Counting** with Transformer, [[Paper]](https://arxiv.org/pdf/2109.14483.pdf)
 
 - (arXiv 2021.09) UFO-ViT: High Performance **Linear** Vision Transformer **without Softmax**, [[Paper]](https://arxiv.org/pdf/2109.14382.pdf)
