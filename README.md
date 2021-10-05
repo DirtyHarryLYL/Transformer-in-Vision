@@ -54,6 +54,8 @@ Keep updated.
 ## Recent Papers
 <!-- - (arXiv 2021.10) , [[Paper]]() -->
 
+- (arXiv 2021.10) Learning Structural Representations for **Recipe Generation** and **Food Retrieval**, [[Paper]](https://arxiv.org/pdf/2110.01209.pdf)
+
 - (arXiv 2021.10) A FREE LUNCH FROM VIT: ADAPTIVE ATTENTION MULTI-SCALE FUSION TRANSFORMER FOR **FINE-GRAINED VISUAL RECOGNITION**, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2110/2110.01240.pdf)
 
 ### 2021.09
