@@ -52,8 +52,11 @@ Keep updated.
 - (arXiv 2020.1) Transformers in Vision: A Survey, [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
-<!-- - (arXiv 2021.09) , [[Paper]]() -->
+<!-- - (arXiv 2021.10) , [[Paper]]() -->
 
+- (arXiv 2021.10) A FREE LUNCH FROM VIT: ADAPTIVE ATTENTION MULTI-SCALE FUSION TRANSFORMER FOR **FINE-GRAINED VISUAL RECOGNITION**, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2110/2110.01240.pdf)
+
+### 2021.09
 - (arXiv 2021.09) Joint Multimedia **Event Extraction** from Video and Article, [[Paper]](https://arxiv.org/pdf/2109.12776.pdf)
 
 - (arXiv 2021.09) Long-Range Transformers for **Dynamic Spatiotemporal Forecasting**, [[Paper]](https://arxiv.org/pdf/2109.12218.pdf)
