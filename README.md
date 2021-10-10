@@ -54,6 +54,10 @@ Keep updated.
 ## Recent Papers
 <!-- - (arXiv 2021.10) , [[Paper]]() -->
 
+- (arXiv 2021.10) **Visual Relationship Detection** Using Part-and-Sum Transformers with Composite Queries, [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Dong_Visual_Relationship_Detection_Using_Part-and-Sum_Transformers_With_Composite_Queries_ICCV_2021_paper.pdf)
+
+- (arXiv 2021.10) Discovering Human **Interactions** with Large-Vocabulary Objects via Query and Multi-Scale Detection, [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Discovering_Human_Interactions_With_Large-Vocabulary_Objects_via_Query_and_Multi-Scale_ICCV_2021_paper.pdf)
+
 - (arXiv 2021.10) Learning Structural Representations for **Recipe Generation** and **Food Retrieval**, [[Paper]](https://arxiv.org/pdf/2110.01209.pdf)
 
 - (arXiv 2021.10) A FREE LUNCH FROM VIT: ADAPTIVE ATTENTION MULTI-SCALE FUSION TRANSFORMER FOR **FINE-GRAINED VISUAL RECOGNITION**, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2110/2110.01240.pdf)
