@@ -54,6 +54,8 @@ Keep updated.
 ## Recent Papers
 <!-- - (arXiv 2021.10) , [[Paper]]() -->
 
+- (arXiv 2021.10) A CLIP-Enhanced Method for **Video-Language** Understanding, [[Paper]](https://arxiv.org/pdf/2110.07137.pdf)
+
 - (arXiv 2021.10) **Visual Relationship Detection** Using Part-and-Sum Transformers with Composite Queries, [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Dong_Visual_Relationship_Detection_Using_Part-and-Sum_Transformers_With_Composite_Queries_ICCV_2021_paper.pdf)
 
 - (arXiv 2021.10) Discovering Human **Interactions** with Large-Vocabulary Objects via Query and Multi-Scale Detection, [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Discovering_Human_Interactions_With_Large-Vocabulary_Objects_via_Query_and_Multi-Scale_ICCV_2021_paper.pdf)
