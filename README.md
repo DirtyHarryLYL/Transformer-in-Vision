@@ -54,6 +54,8 @@ Keep updated.
 ## Recent Papers
 <!-- - (arXiv 2021.10) , [[Paper]]() -->
 
+- (arXiv 2021.10) **Dynamic Inference** with Neural Interpreters, [[Paper]](https://arxiv.org/pdf/2110.06399.pdf)
+
 - (arXiv 2021.10) A CLIP-Enhanced Method for **Video-Language** Understanding, [[Paper]](https://arxiv.org/pdf/2110.07137.pdf)
 
 - (arXiv 2021.10) **Visual Relationship Detection** Using Part-and-Sum Transformers with Composite Queries, [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Dong_Visual_Relationship_Detection_Using_Part-and-Sum_Transformers_With_Composite_Queries_ICCV_2021_paper.pdf)
