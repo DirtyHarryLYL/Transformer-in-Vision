@@ -54,6 +54,8 @@ Keep updated.
 ## Recent Papers
 <!-- - (arXiv 2021.10) , [[Paper]]() -->
 
+- (arXiv 2021.10) **OBJECT**-REGION **VIDEO** TRANSFORMERS, [[Paper]](https://arxiv.org/pdf/2110.06915.pdf), [[Code]](https://roeiherz.github.io/ORViT/)
+
 - (arXiv 2021.10) LEVERAGING **REDUNDANCY** IN ATTENTION WITH REUSE TRANSFORMERS, [[Paper]](https://arxiv.org/pdf/2110.06821.pdf)
 
 - (arXiv 2021.10) **Dynamic Inference** with Neural Interpreters, [[Paper]](https://arxiv.org/pdf/2110.06399.pdf)
