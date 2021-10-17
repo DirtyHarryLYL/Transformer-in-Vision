@@ -54,6 +54,30 @@ Keep updated.
 ## Recent Papers
 <!-- - (arXiv 2021.10) , [[Paper]]() -->
 
+- (arXiv 2021.10) SignBERT: Pre-Training of Hand-Model-Aware Representation for **Sign Language Recognition**, [[Paper]](https://arxiv.org/pdf/2110.05382.pdf)
+
+- (arXiv 2021.10) Revitalizing CNN Attentions via Transformers in **Self-Supervised** Visual Representation Learning, [[Paper]](https://arxiv.org/pdf/2110.05340.pdf)
+
+- (arXiv 2021.10) Investigating **Transfer Learning Capabilities** of Vision Transformers and CNNs by Fine-Tuning a Single Trainable Block, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2110/2110.05270.pdf)
+
+- (arXiv 2021.10) SUPERVISION EXISTS EVERYWHERE: A DATA EFFICIENT CONTRASTIVE **LANGUAGE-IMAGE** PRE-TRAINING PARADIGM, [[Paper]](https://arxiv.org/pdf/2110.05208.pdf), [[Code]](https://github.com/Sense-GVT/)
+
+- (arXiv 2021.10) CLIP4Caption ++: Multi-CLIP for **Video Caption**, [[Paper]](https://arxiv.org/pdf/2110.05204.pdf)
+
+- (arXiv 2021.10) Transformer-based Dual Relation Graph for **Multi-label Image Recognition**, [[Paper]](https://arxiv.org/pdf/2110.04722.pdf)
+
+- (arXiv 2021.10) VECTOR-QUANTIZED **IMAGE MODELING** WITH IMPROVED VQGAN, [[Paper]](https://arxiv.org/pdf/2110.04627.pdf)
+
+- (arXiv 2021.10) Adaptively Multi-view and Temporal Fusing Transformer for **3D Human Pose Estimation**, [[Paper]](https://arxiv.org/pdf/2110.05092.pdf), [[Code]](https://github.com/lelexx/MTF-Transformer)
+
+- (arXiv 2021.10) NVIT: VISION TRANSFORMER **COMPRESSION** AND **PARAMETER REDISTRIBUTION**, [[Paper]](https://arxiv.org/pdf/2110.04869.pdf)
+
+- (arXiv 2021.10) 6D-ViT: Category-Level **6D Object Pose Estimation** via Transformer-based Instance Representation Learning, [[Paper]](https://arxiv.org/pdf/2110.04792.pdf)
+
+- (arXiv 2021.10) CLIP-Adapter: Better Vision-Language Models with Feature Adapters, [[Paper]](https://arxiv.org/pdf/2110.04544.pdf), [[Code]](https://github.com/gaopengcuhk/CLIP-Adapter)
+
+- (arXiv 2021.10) ATISS: Autoregressive Transformers for **Indoor Scene Synthesis**, [[Paper]](https://arxiv.org/pdf/2110.03675.pdf), [[Code]](https://nv-tlabs.github.io/ATISS)
+， 
 - (arXiv 2021.10) MOBILEVIT: LIGHT-WEIGHT, GENERAL-PURPOSE, AND **MOBILE**-FRIENDLY VISION TRANSFORMER, [[Paper]](https://arxiv.org/pdf/2110.02178.pdf)
 
 - (arXiv 2021.10) **TOKEN POOLING** IN VISION TRANSFORMERS, [[Paper]](https://arxiv.org/pdf/2110.03860.pdf)
