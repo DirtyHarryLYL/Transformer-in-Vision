@@ -54,6 +54,12 @@ Keep updated.
 ## Recent Papers
 <!-- - (arXiv 2021.10) , [[Paper]]() -->
 
+- (arXiv 2021.10) MOBILEVIT: LIGHT-WEIGHT, GENERAL-PURPOSE, AND **MOBILE**-FRIENDLY VISION TRANSFORMER, [[Paper]](https://arxiv.org/pdf/2110.02178.pdf)
+
+- (arXiv 2021.10) **TOKEN POOLING** IN VISION TRANSFORMERS, [[Paper]](https://arxiv.org/pdf/2110.03860.pdf)
+
+- (arXiv 2021.10) VIDT: AN EFFICIENT AND EFFECTIVE FULLY TRANSFORMER-BASED **OBJECT DETECTOR**, [[Paper]](https://arxiv.org/pdf/2110.03921.pdf), [[Code]](https://github.com/naver-ai/vidt)
+
 - (arXiv 2021.10) CLIP4Caption: CLIP for **Video Caption**, [[Paper]](https://arxiv.org/pdf/2110.06615.pdf)
 
 - (arXiv 2021.10) **OBJECT**-REGION **VIDEO** TRANSFORMERS, [[Paper]](https://arxiv.org/pdf/2110.06915.pdf), [[Code]](https://roeiherz.github.io/ORViT/)
