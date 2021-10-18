@@ -54,6 +54,12 @@ Keep updated.
 ## Recent Papers
 <!-- - (arXiv 2021.10) , [[Paper]]() -->
 
+- (arXiv 2021.10) DIFFUSIONCLIP: **TEXT-GUIDED IMAGE MANIPULATION** USING DIFFUSION MODELS, [[Paper]](https://arxiv.org/pdf/2110.02711.pdf)
+
+- (arXiv 2021.10) Adversarial **Robustness** Comparison of Vision Transformer and MLP-Mixer to CNNs, [[Paper]](https://arxiv.org/pdf/2110.02797.pdf), [[Code]](https://github.com/phibenz/robustness_comparison_vit_mlp-mixer_cnn)
+
+- (arXiv 2021.10) RIPPLE ATTENTION FOR VISUAL PERCEPTION WITH **SUB-QUADRATIC COMPLEXITY**, [[Paper]](https://arxiv.org/pdf/2110.02453.pdf)
+
 - (arXiv 2021.10) Certified Patch **Robustness** via Smoothed Vision Transformers, [[Paper]](https://arxiv.org/pdf/2110.07719.pdf), [[Code]](https://github.com/MadryLab/smoothed-vit)
 
 - (arXiv 2021.10) CLIP-Forge: Towards Zero-Shot **Text-to-Shape** Generation, [[Paper]](https://arxiv.org/pdf/2110.02624.pdf)
