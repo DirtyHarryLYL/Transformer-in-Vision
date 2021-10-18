@@ -54,6 +54,16 @@ Keep updated.
 ## Recent Papers
 <!-- - (arXiv 2021.10) , [[Paper]]() -->
 
+- (arXiv 2021.10) Certified Patch **Robustness** via Smoothed Vision Transformers, [[Paper]](https://arxiv.org/pdf/2110.07719.pdf), [[Code]](https://github.com/MadryLab/smoothed-vit)
+
+- (arXiv 2021.10) CLIP-Forge: Towards Zero-Shot **Text-to-Shape** Generation, [[Paper]](https://arxiv.org/pdf/2110.02624.pdf)
+
+- (arXiv 2021.10) Understanding and Improving **Robustness** of Vision Transformers through Patch-based Negative Augmentation, [[Paper]](https://arxiv.org/pdf/2110.07858.pdf)
+
+- (arXiv 2021.10) SPARSE MOES MEET **EFFICIENT ENSEMBLES**, [[Paper]](https://arxiv.org/pdf/2110.03360.pdf)
+
+- (arXiv 2021.10) Shared **Visual Representations** of Drawing for Communication: How do different **biases** affect human interpretability and intent? [[Paper]](https://arxiv.org/pdf/2110.08203.pdf)
+
 - (arXiv 2021.10) SignBERT: Pre-Training of Hand-Model-Aware Representation for **Sign Language Recognition**, [[Paper]](https://arxiv.org/pdf/2110.05382.pdf)
 
 - (arXiv 2021.10) Revitalizing CNN Attentions via Transformers in **Self-Supervised** Visual Representation Learning, [[Paper]](https://arxiv.org/pdf/2110.05340.pdf)
