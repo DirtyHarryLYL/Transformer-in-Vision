@@ -90,7 +90,7 @@ Keep updated.
 
 - (arXiv 2021.10) 6D-ViT: Category-Level **6D Object Pose Estimation** via Transformer-based Instance Representation Learning, [[Paper]](https://arxiv.org/pdf/2110.04792.pdf)
 
-- (arXiv 2021.10) CLIP-Adapter: Better Vision-Language Models with Feature Adapters, [[Paper]](https://arxiv.org/pdf/2110.04544.pdf), [[Code]](https://github.com/gaopengcuhk/CLIP-Adapter)
+- (arXiv 2021.10) CLIP-Adapter: Better **Vision-Language** Models with Feature Adapters, [[Paper]](https://arxiv.org/pdf/2110.04544.pdf), [[Code]](https://github.com/gaopengcuhk/CLIP-Adapter)
 
 - (arXiv 2021.10) ATISS: Autoregressive Transformers for **Indoor Scene Synthesis**, [[Paper]](https://arxiv.org/pdf/2110.03675.pdf), [[Code]](https://nv-tlabs.github.io/ATISS)
 ， 
