@@ -54,6 +54,8 @@ Keep updated.
 ## Recent Papers
 <!-- - (arXiv 2021.10) , [[Paper]]() -->
 
+- (arXiv 2021.10) Transformer with a Mixture of **Gaussian Keys**, [[Paper]](https://arxiv.org/pdf/2110.08678.pdf)
+
 - (arXiv 2021.10) DIFFUSIONCLIP: **TEXT-GUIDED IMAGE MANIPULATION** USING DIFFUSION MODELS, [[Paper]](https://arxiv.org/pdf/2110.02711.pdf)
 
 - (arXiv 2021.10) Adversarial **Robustness** Comparison of Vision Transformer and MLP-Mixer to CNNs, [[Paper]](https://arxiv.org/pdf/2110.02797.pdf), [[Code]](https://github.com/phibenz/robustness_comparison_vit_mlp-mixer_cnn)
