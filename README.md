@@ -54,6 +54,30 @@ Keep updated.
 ## Recent Papers
 <!-- - (arXiv 2021.10) , [[Paper]]() -->
 
+- (arXiv 2021.10) CMTR: Cross-modality Transformer for Visible-infrared **Person Re-identification**, [[Paper]](https://arxiv.org/pdf/2110.08994.pdf)
+
+- (arXiv 2021.10) 3D-RETR: End-to-End **Single and Multi-View 3D Reconstruction** with Transformers, [[Paper]](https://arxiv.org/pdf/2110.08861.pdf), [[Code]](https://github.com/FomalhautB/3D-RETR)
+
+- (arXiv 2021.10) HRFormer: **High-Resolution** Transformer for **Dense Prediction**, [[Paper]](https://arxiv.org/pdf/2110.09408.pdf), [[Code]](https://github.com/HRNet/HRFormer)
+
+- (arXiv 2021.10) Leveraging MoCap Data for **Human Mesh Recovery**, [[Paper]](https://arxiv.org/pdf/2110.09243.pdf)
+
+- (arXiv 2021.10) A Good **Prompt** Is Worth Millions of Parameters? Low-resource Prompt-based Learning for **Vision-Language** Models, [[Paper]](https://arxiv.org/pdf/2110.08484.pdf)
+
+- (arXiv 2021.10) ASFormer: Transformer for **Action Segmentation**, [[Paper]](https://arxiv.org/pdf/2110.08568.pdf), [[Code]](https://github.com/ChinaYi/ASFormer)
+
+- (arXiv 2021.10) Multimodal **Dialogue Response Generation**, [[Paper]](https://arxiv.org/pdf/2110.08515.pdf)
+
+- (arXiv 2021.10) Understanding **Procedural Knowledge** by Sequencing Multimodal Instructional Manuals, [[Paper]](https://arxiv.org/pdf/2110.08486.pdf)
+
+- (arXiv 2021.10) COMPOSITIONAL **ATTENTION**: DISENTANGLING SEARCH AND RETRIEVAL, [[Paper]](https://arxiv.org/pdf/2110.09419.pdf), [[Code]](https://github.com/sarthmit/Compositional-Attention)
+
+- (arXiv 2021.10) Spatial-Temporal Transformer for 3D **Point Cloud Sequences**, [[Paper]](https://arxiv.org/pdf/2110.09783.pdf)
+
+- (arXiv 2021.10) TransFusion: Cross-view Fusion with Transformer for **3D Human Pose Estimation**, [[Paper]](https://arxiv.org/pdf/2110.09554.pdf), [[Code]](https://github.com/HowieMa/TransFusion-Pose)
+
+- (arXiv 2021.10) Unifying Multimodal Transformer for **Bi-directional Image and Text Generation**, [[Paper]](https://arxiv.org/pdf/2110.09753.pdf)
+
 - (arXiv 2021.10) Transformer with a Mixture of **Gaussian Keys**, [[Paper]](https://arxiv.org/pdf/2110.08678.pdf)
 
 - (arXiv 2021.10) DIFFUSIONCLIP: **TEXT-GUIDED IMAGE MANIPULATION** USING DIFFUSION MODELS, [[Paper]](https://arxiv.org/pdf/2110.02711.pdf)
