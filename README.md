@@ -54,6 +54,16 @@ Keep updated.
 ## Recent Papers
 <!-- - (arXiv 2021.10) , [[Paper]]() -->
 
+- (arXiv 2021.10) AFTer-UNet: Axial Fusion Transformer UNet for **Medical Image Segmentation**, [[Paper]](https://arxiv.org/pdf/2110.10403.pdf)
+
+- (arXiv 2021.10) CLOOB: MODERN HOPFIELD NETWORKS WITH INFOLOOB OUTPERFORM **CLIP**, [[Paper]](https://arxiv.org/pdf/2110.11316.pdf), [[Code]](https://github.com/ml-jku/cloob)
+
+- (arXiv 2021.10) AniFormer: Data-driven **3D Animation** with Transformer, [[Paper]](https://arxiv.org/pdf/2110.10533.pdf), [[Code]](https://github.com/mikecheninoulu/AniFormer)
+
+- (arXiv 2021.10) **Few-Shot Temporal Action Localization** with Query Adaptive Transformer, [[Paper]](https://arxiv.org/pdf/2110.10552.pdf), [[Code]](https://github.com/sauradip/fewshotQAT)
+
+- (arXiv 2021.10) 3D-ANAS v2: Grafting Transformer Module on Automatically Designed ConvNet for **Hyperspectral Image Classification**, [[Paper]](https://arxiv.org/pdf/2110.11084.pdf), [[Code]](https://github.com/xmm/3D-ANAS-V2)
+
 - (arXiv 2021.10) CMTR: Cross-modality Transformer for Visible-infrared **Person Re-identification**, [[Paper]](https://arxiv.org/pdf/2110.08994.pdf)
 
 - (arXiv 2021.10) 3D-RETR: End-to-End **Single and Multi-View 3D Reconstruction** with Transformers, [[Paper]](https://arxiv.org/pdf/2110.08861.pdf), [[Code]](https://github.com/FomalhautB/3D-RETR)
