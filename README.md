@@ -54,6 +54,8 @@ Keep updated.
 ## Recent Papers
 <!-- - (arXiv 2021.10) , [[Paper]]() -->
 
+- (arXiv 2021.10) WAV2CLIP: LEARNING ROBUST **AUDIO REPRESENTATIONS** FROM **CLIP**, [[Paper]](https://arxiv.org/pdf/2110.11499.pdf), [[Code]](https://github.com/descriptinc/lyrebird-wav2clip)
+
 - (arXiv 2021.10) AFTer-UNet: Axial Fusion Transformer UNet for **Medical Image Segmentation**, [[Paper]](https://arxiv.org/pdf/2110.10403.pdf)
 
 - (arXiv 2021.10) CLOOB: MODERN HOPFIELD NETWORKS WITH INFOLOOB OUTPERFORM **CLIP**, [[Paper]](https://arxiv.org/pdf/2110.11316.pdf), [[Code]](https://github.com/ml-jku/cloob)
