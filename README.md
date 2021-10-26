@@ -54,6 +54,14 @@ Keep updated.
 ## Recent Papers
 <!-- - (arXiv 2021.10) , [[Paper]]() -->
 
+- (arXiv 2021.10) STRANSGAN: AN EMPIRICAL STUDY ON TRANSFORMER IN **GANS**, [[Paper]](https://arxiv.org/pdf/2110.13107.pdf), [[Code]](https://nbei.github.io/stransgan.html)
+
+- (arXiv 2021.10) MVT: Multi-view Vision Transformer for **3D Object Recognition**, [[Paper]](https://arxiv.org/pdf/2110.13083.pdf)
+
+- (arXiv 2021.10) DocTr: **Document Image** Transformer for Geometric Unwarping and Illumination Correction, [[Paper]](https://arxiv.org/pdf/2110.12942.pdf), [[Code]](https://github.com/fh2019ustc/DocTr)
+
+- (arXiv 2021.10) Bangla Image **Caption** Generation through CNN-Transformer based Encoder-Decoder Network, [[Paper]](https://arxiv.org/pdf/2110.12442.pdf)
+
 - (arXiv 2021.10) WAV2CLIP: LEARNING ROBUST **AUDIO REPRESENTATIONS** FROM **CLIP**, [[Paper]](https://arxiv.org/pdf/2110.11499.pdf), [[Code]](https://github.com/descriptinc/lyrebird-wav2clip)
 
 - (arXiv 2021.10) AFTer-UNet: Axial Fusion Transformer UNet for **Medical Image Segmentation**, [[Paper]](https://arxiv.org/pdf/2110.10403.pdf)
