@@ -55,6 +55,8 @@ Keep updated.
 <!-- ### 2021.11 -->
 <!-- - (arXiv 2021.11) , [[Paper]]() -->
 
+- (arXiv 2021.11) CAN VISION TRANSFORMERS PERFORM **CONVOLUTION**? [[Paper]](https://arxiv.org/pdf/2111.01353.pdf)
+
 - (arXiv 2021.11) HRViT: **Multi-Scale High-Resolution** Vision Transformer, [[Paper]](https://arxiv.org/pdf/2111.01236.pdf)
 
 ### 2021.10
