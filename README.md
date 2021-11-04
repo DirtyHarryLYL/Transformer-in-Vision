@@ -5,6 +5,8 @@ Keep updated.
 
 ## Resource
 
+- V-L joint learning study: [[METER]](https://arxiv.org/pdf/2111.02387.pdf), 
+
 - Attention is all you need, [[Paper]](https://arxiv.org/pdf/1706.03762.pdf)
 
 - OpenAI CLIP [[Page]](https://openai.com/blog/clip/), [[Paper]](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language_Supervision.pdf), [[Code]](https://github.com/openai/CLIP), [[arXiv]](https://arxiv.org/pdf/2103.00020.pdf)
@@ -31,7 +33,7 @@ Keep updated.
 
 ## Survey
 
-- (arXiv 2021.09) Survey: Transformer based Video-Language Pre-training, [[Paper]](https://arxiv.org/pdf/2109.09920.pdf)
+- (arXiv 2021.09) Survey: Transformer based Video-Language Pre-training, [[Paper]](https://arxiv.org/pdf/2109.09920.pdf), [[Kaleido-BERT]](https://arxiv.org/pdf/2103.16110.pdf)
 
 - (arXiv 2021.06) A Survey of Transformers, [[Paper]](https://arxiv.org/pdf/2106.04554.pdf)
 
@@ -1467,4 +1469,4 @@ Keep updated.
 - (EMNLP'19) Effective Use of Transformer Networks for **Entity Tracking**, [[Paper]](https://arxiv.org/pdf/1909.02635), [[Code]](https://github.com/aditya2211/transformer-entity-tracking)
 
 ## TODO
-- [ ] V-L representation learning (https://arxiv.org/pdf/2103.16110.pdf has provided a detailed table)
+- [x] V-L representation learning (https://arxiv.org/pdf/2103.16110.pdf has provided a detailed table)
