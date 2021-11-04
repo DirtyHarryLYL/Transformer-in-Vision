@@ -5,7 +5,7 @@ Keep updated.
 
 ## Resource
 
-- V-L joint learning study: [[METER]](https://arxiv.org/pdf/2111.02387.pdf), 
+- V-L joint learning study (with good tables): [[METER]](https://arxiv.org/pdf/2111.02387.pdf), [[Kaleido-BERT]](https://arxiv.org/pdf/2103.16110.pdf)
 
 - Attention is all you need, [[Paper]](https://arxiv.org/pdf/1706.03762.pdf)
 
@@ -33,7 +33,7 @@ Keep updated.
 
 ## Survey
 
-- (arXiv 2021.09) Survey: Transformer based Video-Language Pre-training, [[Paper]](https://arxiv.org/pdf/2109.09920.pdf), [[Kaleido-BERT]](https://arxiv.org/pdf/2103.16110.pdf)
+- (arXiv 2021.09) Survey: Transformer based Video-Language Pre-training, [[Paper]](https://arxiv.org/pdf/2109.09920.pdf)
 
 - (arXiv 2021.06) A Survey of Transformers, [[Paper]](https://arxiv.org/pdf/2106.04554.pdf)
 
