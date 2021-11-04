@@ -55,6 +55,12 @@ Keep updated.
 <!-- ### 2021.11 -->
 <!-- - (arXiv 2021.11) , [[Paper]]() -->
 
+- (arXiv 2021.11) VLMO: Unified **Vision-Language** Pre-Training with Mixture-of-Modality-Experts, [[Paper]](https://arxiv.org/pdf/2111.02358.pdf)
+
+- (arXiv 2021.11) LAION-400M: Open **Dataset** of **CLIP**-Filtered 400 Million **Image-Text** Pairs, [[Paper]](https://arxiv.org/pdf/2111.02114.pdf)
+
+- (arXiv 2021.11) An Empirical Study of **Training** End-to-End **Vision-and-Language** Transformers, [[Paper]](https://arxiv.org/pdf/2111.02387.pdf)
+
 - (arXiv 2021.11) CAN VISION TRANSFORMERS PERFORM **CONVOLUTION**? [[Paper]](https://arxiv.org/pdf/2111.01353.pdf)
 
 - (arXiv 2021.11) HRViT: **Multi-Scale High-Resolution** Vision Transformer, [[Paper]](https://arxiv.org/pdf/2111.01236.pdf)
