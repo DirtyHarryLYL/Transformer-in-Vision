@@ -57,6 +57,8 @@ Keep updated.
 <!-- ### 2021.11 -->
 <!-- - (arXiv 2021.11) , [[Paper]]() -->
 
+- (arXiv 2021.11) Improving Visual Quality of Image Synthesis by A Token-based Generator with Transformers, [[Paper]](https://arxiv.org/abs/2111.03481)
+
 - (arXiv 2021.11) VLMO: Unified **Vision-Language** Pre-Training with Mixture-of-Modality-Experts, [[Paper]](https://arxiv.org/pdf/2111.02358.pdf), [[Code]](https://aka.ms/vlmo)
 
 - (arXiv 2021.11) LAION-400M: Open **Dataset** of **CLIP**-Filtered 400 Million **Image-Text** Pairs, [[Paper]](https://arxiv.org/pdf/2111.02114.pdf), [[Project]](https://laion.ai/laion-400-open-dataset/)
