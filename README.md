@@ -57,6 +57,12 @@ Keep updated.
 <!-- ### 2021.11 -->
 <!-- - (arXiv 2021.11) , [[Paper]]() -->
 
+- (arXiv 2021.11) Are Transformers More **Robust** Than CNNs?, [[Paper]](https://arxiv.org/pdf/2111.05464.pdf), [[Code]](https://github.com/ytongbai/ViTs-vs-CNNs)
+
+- (arXiv 2021.11) CLIP2TV: An Empirical Study on Transformer-based Methods for **Video-Text Retrieval**, [[Paper]](https://arxiv.org/pdf/2111.05610.pdf)
+
+- (arXiv 2021.11) Multimodal Transformer with Variable-length Memory for **Vision-and-Language Navigation**, [[Paper]](https://arxiv.org/pdf/2111.05759.pdf)
+
 - (arXiv 2021.11) Improving **Visual Quality** of **Image Synthesis** by A Token-based Generator with Transformers, [[Paper]](https://arxiv.org/abs/2111.03481)
 
 - (arXiv 2021.11) VLMO: Unified **Vision-Language** Pre-Training with Mixture-of-Modality-Experts, [[Paper]](https://arxiv.org/pdf/2111.02358.pdf), [[Code]](https://aka.ms/vlmo)
