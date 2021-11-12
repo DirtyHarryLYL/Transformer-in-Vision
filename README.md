@@ -33,6 +33,8 @@ Keep updated.
 
 ## Survey
 
+- (arXiv 2021.11) A Survey of Visual Transformers, [[Paper]](https://arxiv.org/pdf/2111.06091.pdf)
+
 - (arXiv 2021.09) Survey: Transformer based Video-Language Pre-training, [[Paper]](https://arxiv.org/pdf/2109.09920.pdf)
 
 - (arXiv 2021.06) A Survey of Transformers, [[Paper]](https://arxiv.org/pdf/2106.04554.pdf)
