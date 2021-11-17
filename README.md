@@ -59,6 +59,10 @@ Keep updated.
 <!-- ### 2021.11 -->
 <!-- - (arXiv 2021.11) , [[Paper]]() -->
 
+- (arXiv 2021.11) IBOT: **IMAGE BERT PRE-TRAINING** WITH ONLINE TOKENIZER, [[Paper]](https://arxiv.org/pdf/2111.07832.pdf)
+
+- (arXiv 2021.11) **Masked Autoencoders** Are Scalable Vision Learners, [[Paper]](https://arxiv.org/pdf/2111.06377.pdf)
+
 - (arXiv 2021.11) Mask-guided Spectral-wise Transformer for Efficient **Hyperspectral Image Reconstruction**, [[Paper]](https://arxiv.org/pdf/2111.07910.pdf)
 
 - (arXiv 2021.11) Are Transformers More **Robust** Than CNNs?, [[Paper]](https://arxiv.org/pdf/2111.05464.pdf), [[Code]](https://github.com/ytongbai/ViTs-vs-CNNs)
