@@ -59,6 +59,8 @@ Keep updated.
 <!-- ### 2021.11 -->
 <!-- - (arXiv 2021.11) , [[Paper]]() -->
 
+- (arXiv 2021.11) Improved **Robustness** of Vision Transformer via PreLayerNorm in Patch Embedding, [[Paper]](https://arxiv.org/pdf/2111.08413.pdf)
+
 - (arXiv 2021.11) IBOT: **IMAGE BERT PRE-TRAINING** WITH ONLINE TOKENIZER, [[Paper]](https://arxiv.org/pdf/2111.07832.pdf)
 
 - (arXiv 2021.11) **Masked Autoencoders** Are Scalable Vision Learners, [[Paper]](https://arxiv.org/pdf/2111.06377.pdf)
