@@ -59,6 +59,8 @@ Keep updated.
 <!-- ### 2021.11 -->
 <!-- - (arXiv 2021.11) , [[Paper]]() -->
 
+- (arXiv 2021.11) Vis-TOP: Visual Transformer **Overlay Processor**, [[Paper]](https://arxiv.org/pdf/2110.10957.pdf)
+
 - (arXiv 2021.11) **Grounded Situation Recognition** with Transformers, [[Paper]](https://arxiv.org/pdf/2111.10135.pdf), [[Code]](https://github.com/jhcho99/gsrtr)
 
 - (arXiv 2021.11) Rethinking **Query, Key, and Value** Embedding in Vision Transformer under **Tiny Model** Constraints, [[Paper]](https://arxiv.org/pdf/2111.10017.pdf)
