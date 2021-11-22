@@ -59,6 +59,8 @@ Keep updated.
 <!-- ### 2021.11 -->
 <!-- - (arXiv 2021.11) , [[Paper]]() -->
 
+- (arXiv 2021.11) Simple but Effective: **CLIP** Embeddings for **Embodied AI**, [[Paper]](https://arxiv.org/pdf/2111.09888.pdf)
+
 - (arXiv 2021.11) Improved **Robustness** of Vision Transformer via PreLayerNorm in Patch Embedding, [[Paper]](https://arxiv.org/pdf/2111.08413.pdf)
 
 - (arXiv 2021.11) IBOT: **IMAGE BERT PRE-TRAINING** WITH ONLINE TOKENIZER, [[Paper]](https://arxiv.org/pdf/2111.07832.pdf)
