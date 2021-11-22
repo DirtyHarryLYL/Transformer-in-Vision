@@ -59,6 +59,10 @@ Keep updated.
 <!-- ### 2021.11 -->
 <!-- - (arXiv 2021.11) , [[Paper]]() -->
 
+- (arXiv 2021.11) EMScore: Evaluating **Video Captioning** via Coarse-Grained and Fine-Grained Embedding Matching, [[Paper]](https://arxiv.org/pdf/2111.08919.pdf), [[Code]](https://github.com/ShiYaya/emscore)
+
+- (arXiv 2021.11) Compositional Transformers for **Scene Generation**, [[Paper]](https://arxiv.org/pdf/2111.08960.pdf), [[Code]](https://github.com/dorarad/gansformer)
+
 - (arXiv 2021.11) Vis-TOP: Visual Transformer **Overlay Processor**, [[Paper]](https://arxiv.org/pdf/2110.10957.pdf)
 
 - (arXiv 2021.11) **Grounded Situation Recognition** with Transformers, [[Paper]](https://arxiv.org/pdf/2111.10135.pdf), [[Code]](https://github.com/jhcho99/gsrtr)
