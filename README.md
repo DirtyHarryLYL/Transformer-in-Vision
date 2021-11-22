@@ -59,6 +59,16 @@ Keep updated.
 <!-- ### 2021.11 -->
 <!-- - (arXiv 2021.11) , [[Paper]]() -->
 
+- (arXiv 2021.11) **Grounded Situation Recognition** with Transformers, [[Paper]](https://arxiv.org/pdf/2111.10135.pdf), [[Code]](https://github.com/jhcho99/gsrtr)
+
+- (arXiv 2021.11) Rethinking **Query, Key, and Value** Embedding in Vision Transformer under **Tiny Model** Constraints, [[Paper]](https://arxiv.org/pdf/2111.10017.pdf)
+
+- (arXiv 2021.11) UFO: A UniFied TransfOrmer for **Vision-Language** Representation Learning, [[Paper]](https://arxiv.org/pdf/2111.10023.pdf)
+
+- (arXiv 2021.11) Advancing High-Resolution **Video-Language** Representation with Large-Scale Video Transcriptions, [[Paper]](https://arxiv.org/pdf/2111.10337.pdf)
+
+- (arXiv 2021.11) Combined Scaling for **Zero-shot Transfer Learning**, [[Paper]](https://arxiv.org/pdf/2111.10050.pdf)
+
 - (arXiv 2021.11) Simple but Effective: **CLIP** Embeddings for **Embodied AI**, [[Paper]](https://arxiv.org/pdf/2111.09888.pdf)
 
 - (arXiv 2021.11) Improved **Robustness** of Vision Transformer via PreLayerNorm in Patch Embedding, [[Paper]](https://arxiv.org/pdf/2111.08413.pdf)
