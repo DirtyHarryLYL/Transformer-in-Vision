@@ -59,6 +59,24 @@ Keep updated.
 <!-- ### 2021.11 -->
 <!-- - (arXiv 2021.11) , [[Paper]]() -->
 
+- (arXiv 2021.11) A Lightweight Graph Transformer Network for **Human Mesh Reconstruction** from 2D Human Pose, [[Paper]](https://arxiv.org/pdf/2111.12696.pdf)
+
+- (arXiv 2021.11) MorphMLP: A Self-Attention Free, **MLP**-Like Backbone for Image and Video, [[Paper]](https://arxiv.org/pdf/2111.12527.pdf)
+
+- (arXiv 2021.11) Octree Transformer: Autoregressive **3D Shape Generation** on Hierarchically Structured Sequences, [[Paper]](https://arxiv.org/pdf/2111.12480.pdf)
+
+- (arXiv 2021.11) Hierarchical Modular Network for **Video Captioning**, [[Paper]](https://arxiv.org/pdf/2111.12476.pdf)
+
+- (arXiv 2021.11) NU¨ WA: **Visual Synthesis Pre-training** for Neural visUal World creAtion, [[Paper]](https://arxiv.org/pdf/2111.12417.pdf), [[Code]](https://github.com/microsoft/NUWA)
+
+- (arXiv 2021.11) An Image Patch is a Wave: Phase-Aware Vision **MLP**, [[Paper]](https://arxiv.org/pdf/2111.12294.pdf)
+
+- (arXiv 2021.11) PTQ4ViT: Post-Training **Quantization** Framework for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2111.12293.pdf)
+
+- (arXiv 2021.11) PU-Transformer: **Point Cloud Upsampling** Transformer, [[Paper]](https://arxiv.org/pdf/2111.12242.pdf)
+
+- (arXiv 2021.11) Scaling Up **Vision-Language Pre-training** for Image **Captioning**, [[Paper]](https://arxiv.org/pdf/2111.12233.pdf)
+
 - (arXiv 2021.11) Cerberus Transformer: Joint **Semantic, Affordance and Attribute Parsing**, [[Paper]](https://arxiv.org/pdf/2111.12608.pdf), [[Code]](https://github.com/OPEN-AIR-SUN/Cerberus)
 
 - (arXiv 2021.11) Efficient **Video** Transformers with Spatial-Temporal Token Selection, [[Paper]](https://arxiv.org/pdf/2111.11591.pdf)
