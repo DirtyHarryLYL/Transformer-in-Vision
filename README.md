@@ -59,6 +59,8 @@ Keep updated.
 <!-- ### 2021.11 -->
 <!-- - (arXiv 2021.11) , [[Paper]]() -->
 
+- (arXiv 2021.11) Cerberus Transformer: Joint **Semantic, Affordance and Attribute Parsing**, [[Paper]](https://arxiv.org/pdf/2111.12608.pdf), [[Code]](https://github.com/OPEN-AIR-SUN/Cerberus)
+
 - (arXiv 2021.11) Efficient **Video** Transformers with Spatial-Temporal Token Selection, [[Paper]](https://arxiv.org/pdf/2111.11591.pdf)
 
 - (arXiv 2021.11) RedCaps: Web-curated **image-text data** created by the people, for the people, [[Paper]](https://arxiv.org/pdf/2111.11431.pdf), [[Project]](https://redcaps.xyz/)
