@@ -59,6 +59,10 @@ Keep updated.
 <!-- ### 2021.11 -->
 <!-- - (arXiv 2021.11) , [[Paper]]() -->
 
+- (arXiv 2021.11) **Self-slimmed** Vision Transformer, [[Paper]](https://arxiv.org/pdf/2111.12624.pdf)
+
+- (arXiv 2021.11) VIOLET: End-to-End **Video-Language** Transformers with Masked Visual-token Modeling, [[Paper]](https://arxiv.org/pdf/2111.12681.pdf), [[Code]](https://github.com/tsujuifu/pytorch_violet)
+
 - (arXiv 2021.11) A Lightweight Graph Transformer Network for **Human Mesh Reconstruction** from 2D Human Pose, [[Paper]](https://arxiv.org/pdf/2111.12696.pdf)
 
 - (arXiv 2021.11) MorphMLP: A Self-Attention Free, **MLP**-Like Backbone for Image and Video, [[Paper]](https://arxiv.org/pdf/2111.12527.pdf)
