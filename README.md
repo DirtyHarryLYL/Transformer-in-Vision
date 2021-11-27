@@ -59,6 +59,8 @@ Keep updated.
 <!-- ### 2021.11 -->
 <!-- - (arXiv 2021.11) , [[Paper]]() -->
 
+- (arXiv 2021.11) Towards Tokenized **Human Dynamics** Representation, [[Paper]](https://arxiv.org/pdf/2111.11433.pdf), [[Code]](https://github.com/likenneth/acton)
+
 - (arXiv 2021.11) **Self-slimmed** Vision Transformer, [[Paper]](https://arxiv.org/pdf/2111.12624.pdf)
 
 - (arXiv 2021.11) VIOLET: End-to-End **Video-Language** Transformers with Masked Visual-token Modeling, [[Paper]](https://arxiv.org/pdf/2111.12681.pdf), [[Code]](https://github.com/tsujuifu/pytorch_violet)
