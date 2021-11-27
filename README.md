@@ -59,6 +59,12 @@ Keep updated.
 <!-- ### 2021.11 -->
 <!-- - (arXiv 2021.11) , [[Paper]]() -->
 
+- (arXiv 2021.11) MHFormer: Multi-Hypothesis Transformer for **3D Human Pose Estimation**, [[Paper]](https://arxiv.org/pdf/2111.12707.pdf), [[Code]](https://github.com/Vegetebird/MHFormer)
+
+- (arXiv 2021.11) PeCo: Perceptual Codebook for **BERT Pre-training** of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2111.12710.pdf), [[Code]](https://github.com/microsoft/PeCo)
+
+- (arXiv 2021.11) Unleashing Transformers: Parallel Token Prediction with Discrete Absorbing Diffusion for Fast **High-Resolution Image Generation** from Vector-Quantized Codes, [[Paper]](https://arxiv.org/pdf/2111.12701.pdf), [[COde]](https://github.com/samb-t/unleashing-transformers)
+
 - (arXiv 2021.11) Towards Tokenized **Human Dynamics** Representation, [[Paper]](https://arxiv.org/pdf/2111.11433.pdf), [[Code]](https://github.com/likenneth/acton)
 
 - (arXiv 2021.11) **Self-slimmed** Vision Transformer, [[Paper]](https://arxiv.org/pdf/2111.12624.pdf)
