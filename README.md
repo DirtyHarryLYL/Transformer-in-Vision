@@ -59,6 +59,10 @@ Keep updated.
 <!-- ### 2021.11 -->
 <!-- - (arXiv 2021.11) , [[Paper]]() -->
 
+- (arXiv 2021.11) , [[Paper]]()
+
+- (arXiv 2021.11) Mask Transfiner for High-Quality **Instance Segmentation**, [[Paper]](https://arxiv.org/pdf/2111.13673.pdf), [[Code]](http://vis.xyz/pub/transfiner)
+
 - (arXiv 2021.11) MHFormer: Multi-Hypothesis Transformer for **3D Human Pose Estimation**, [[Paper]](https://arxiv.org/pdf/2111.12707.pdf), [[Code]](https://github.com/Vegetebird/MHFormer)
 
 - (arXiv 2021.11) PeCo: Perceptual Codebook for **BERT Pre-training** of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2111.12710.pdf), [[Code]](https://github.com/microsoft/PeCo)
