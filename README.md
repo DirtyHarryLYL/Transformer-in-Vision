@@ -59,7 +59,35 @@ Keep updated.
 <!-- ### 2021.11 -->
 <!-- - (arXiv 2021.11) , [[Paper]]() -->
 
+<!-- - (arXiv 2021.11) , [[Paper]]()
+
 - (arXiv 2021.11) , [[Paper]]()
+
+- (arXiv 2021.11) , [[Paper]]() -->
+
+- (arXiv 2021.11) TransWeather: Transformer-based **Restoration of Images** Degraded by Adverse Weather Conditions, [[Paper]](https://arxiv.org/pdf/2111.14813.pdf), [[Code]](https://github.com/jeya-maria-jose/TransWeather)
+
+- (arXiv 2021.11) Searching the **Search Space** of Vision Transformer, [[Paper]](https://arxiv.org/pdf/2111.14725.pdf), [[Code]](https://github.com/microsoft/Cream)
+
+- (arXiv 2021.11) TransMVSNet: Global Context-aware **Multi-view Stereo** Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
+
+- (arXiv 2021.11) **Recurrent** Vision Transformer for Solving Visual **Reasoning** Problems, [[Paper]]()
+
+- (arXiv 2021.11) **Video Frame Interpolation** Transformer, [[Paper]](https://arxiv.org/pdf/2111.13817.pdf)
+
+- (arXiv 2021.11) FQ-ViT: Fully **Quantized** Vision Transformer without Retraining, [[Paper]](https://arxiv.org/pdf/2111.13824.pdf), [[Code]](https://github.com/linyang-zhh/FQ-ViT)
+
+- (arXiv 2021.11) LAFITE : Towards Language-Free Training for **Text-to-Image Generation**, [[Paper]](https://arxiv.org/pdf/2111.13792.pdf)
+
+- (arXiv 2021.11) SPARSE DETR: **EFFICIENT** END-TO-END OBJECT **DETECTION** WITH LEARNABLE SPARSITY, [[Paper]](https://arxiv.org/pdf/2111.14330.pdf), [[Code]](https://github.com/kakaobrain/sparse-detr)
+
+- (arXiv 2021.11) End-to-End **Referring Video Object Segmentation** with Multimodal Transformers, [[Paper]](https://arxiv.org/pdf/2111.14821.pdf), [[Code]](https://github.com/mttr2021/MTTR)
+
+- (arXiv 2021.11) Point-BERT: Pre-training 3D **Point Cloud** Transformers with Masked Point Modeling, [[Paper]](https://arxiv.org/pdf/2111.14819.pdf), [[Code]](https://github.com/lulutang0608/Point-BERT)
+
+- (arXiv 2021.11) Zero-Shot **Image-to-Text Generation** for Visual-Semantic Arithmetic, [[Paper]](https://arxiv.org/pdf/2111.14447.pdf), [[Code]](https://github.com/YoadTew/zero-shot-image-to-text)
+
+- (arXiv 2021.11) Blended Diffusion for **Text-driven Editing** of **Natural Images**, [[Paper]](https://arxiv.org/pdf/2111.14818.pdf), [[Code]](https://github.com/omriav/blended-diffusion)
 
 - (arXiv 2021.11) Mask Transfiner for High-Quality **Instance Segmentation**, [[Paper]](https://arxiv.org/pdf/2111.13673.pdf), [[Code]](http://vis.xyz/pub/transfiner)
 
