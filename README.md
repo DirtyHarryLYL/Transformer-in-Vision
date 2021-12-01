@@ -56,14 +56,39 @@ Keep updated.
 - (arXiv 2020.1) Transformers in Vision: A Survey, [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
-<!-- ### 2021.11 -->
+### 2021.12
+<!-- - (arXiv 2021.12) , [[Paper]]() -->
+
+### 2021.11
 <!-- - (arXiv 2021.11) , [[Paper]]() -->
 
 <!-- - (arXiv 2021.11) , [[Paper]]()
 
-- (arXiv 2021.11) , [[Paper]]()
-
 - (arXiv 2021.11) , [[Paper]]() -->
+
+- (arXiv 2021.11) HEAT: Holistic Edge Attention Transformer for **Structured Reconstruction**, [[Paper]](https://arxiv.org/pdf/2111.15143.pdf)
+
+- (arXiv 2021.11) A Unified **Pruning** Framework for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2111.15127.pdf)
+
+- (arXiv 2021.11) Pyramid **Adversarial Training** Improves ViT Performance, [[Paper]](https://arxiv.org/pdf/2111.15121.pdf)
+
+- (arXiv 2021.11) AssistSR: Affordance-centric Question-driven **Video Segment Retrieval**, [[Paper]](https://arxiv.org/pdf/2111.15050.pdf), [[Code & Data]](https://github.com/StanLei52/AQVSR)
+
+- (arXiv 2021.11) DAFormer: Improving Network Architectures and Training Strategies for **Domain-Adaptive Semantic Segmentation**, [[Paper]](https://arxiv.org/pdf/2111.14887.pdf), [[Code]](https://github.com/lhoyer/DAFormer)
+
+- (arXiv 2021.11) , [[Paper]](https://arxiv.org/pdf/2111.14887.pdf)
+
+- (arXiv 2021.11) AdaViT: Adaptive Vision Transformers for **Efficient** Image Recognition, [[Paper]](https://arxiv.org/pdf/2111.15668.pdf)
+
+- (arXiv 2021.11) ATS: Adaptive Token Sampling For **Efficient** Vision Transformers, [[Paper]](https://arxiv.org/pdf/2111.15667.pdf)
+
+- (arXiv 2021.11) **CLIP** Meets Video Captioners: Attribute-Aware Representation Learning Promotes Accurate **Captioning**, [[Paper]](https://arxiv.org/pdf/2111.15162.pdf)
+
+- (arXiv 2021.11) CRIS: **CLIP**-Driven Referring Image **Segmentation**, [[Paper]](https://arxiv.org/pdf/2111.15174.pdf)
+
+- (arXiv 2021.11) Shunted **Self-Attention** via Multi-Scale Token Aggregation, [[Paper]](https://arxiv.org/pdf/2111.15193.pdf), [[Code]](https://github.com/OliverRensu/Shunted-Transformer)
+
+- (arXiv 2021.11) MC-SSL0.0: Towards Multi-Concept **Self-Supervised** Learning, [[Paper]](https://arxiv.org/pdf/2111.15340.pdf)
 
 - (arXiv 2021.11) TransWeather: Transformer-based **Restoration of Images** Degraded by Adverse Weather Conditions, [[Paper]](https://arxiv.org/pdf/2111.14813.pdf), [[Code]](https://github.com/jeya-maria-jose/TransWeather)
 
