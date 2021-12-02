@@ -59,6 +59,20 @@ Keep updated.
 ### 2021.12
 <!-- - (arXiv 2021.12) , [[Paper]]() -->
 
+<!-- - (arXiv 2021.12) , [[Paper]]()
+
+- (arXiv 2021.12) , [[Paper]]()
+
+- (arXiv 2021.12) , [[Paper]]() -->
+
+- (arXiv 2021.12) **CLIP**styler: **Image Style Transfer** with a Single Text Condition, [[Paper]](https://arxiv.org/pdf/2112.00374.pdf)
+
+- (arXiv 2021.12) **Multi-View Stereo** with Transformer, [[Paper]](https://arxiv.org/pdf/2112.00336.pdf)
+
+- (arXiv 2021.12) VoRTX: **Volumetric 3D Reconstruction** With Transformers for Voxelwise View Selection and Fusion, [[Paper]](https://arxiv.org/pdf/2112.00236.pdf), [[Code]](https://noahstier.github.io/vortx)
+
+- (arXiv 2021.12) Object-aware **Video-language** Pre-training for Retrieval, [[Paper]](https://arxiv.org/pdf/2112.00656.pdf), [[Code]](https://github.com/FingerRec/OA-Transformer)
+
 ### 2021.11
 <!-- - (arXiv 2021.11) , [[Paper]]() -->
 
