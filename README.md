@@ -61,9 +61,11 @@ Keep updated.
 
 <!-- - (arXiv 2021.12) , [[Paper]]()
 
-- (arXiv 2021.12) , [[Paper]]()
-
 - (arXiv 2021.12) , [[Paper]]() -->
+
+- (arXiv 2021.12) **Human-Object Interaction Detection** via Weak Supervision, [[Paper]](https://arxiv.org/pdf/2112.00492.pdf)
+
+- (arXiv 2021.12) Learning Transformer Features for **Image Quality Assessment**, [[Paper]](https://arxiv.org/pdf/2112.00485.pdf)
 
 - (arXiv 2021.12) **CLIP**styler: **Image Style Transfer** with a Single Text Condition, [[Paper]](https://arxiv.org/pdf/2112.00374.pdf)
 
@@ -76,9 +78,7 @@ Keep updated.
 ### 2021.11
 <!-- - (arXiv 2021.11) , [[Paper]]() -->
 
-<!-- - (arXiv 2021.11) , [[Paper]]()
-
-- (arXiv 2021.11) , [[Paper]]() -->
+- (arXiv 2021.11) An implementation of the “**Guess who**?” game using CLIP, [[Paper]](https://arxiv.org/pdf/2112.00599.pdf), [[Code]](https://github.com/ArnauDIMAI/CLIP-GuessWho)
 
 - (arXiv 2021.11) HEAT: Holistic Edge Attention Transformer for **Structured Reconstruction**, [[Paper]](https://arxiv.org/pdf/2111.15143.pdf)
 
