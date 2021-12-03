@@ -59,6 +59,12 @@ Keep updated.
 ### 2021.12
 <!-- - (arXiv 2021.12) , [[Paper]]() -->
 
+<!-- - (arXiv 2021.12) , [[Paper]]()
+
+- (arXiv 2021.12) , [[Paper]]() -->
+
+- (arXiv 2021.12) Look at What I’m Doing: Self-Supervised **Spatial Grounding** of Narrations in Instructional Videos, [[Paper]](https://arxiv.org/pdf/2110.10596.pdf), [[Project]](https://cs-people.bu.edu/rxtan/projects/grounding_narrations/)
+
 - (arXiv 2021.12) Uni-Perceiver: Pre-training Unified Architecture for **Generic Perception** for **Zero-shot and Few-shot** Tasks, [[Paper]](https://arxiv.org/pdf/2112.01522.pdf)
 
 - (arXiv 2021.12) Dense**CLIP**: Language-Guided **Dense** Prediction with Context-Aware Prompting, [[Paper]](https://arxiv.org/pdf/2112.01518.pdf), [[Code]](https://github.com/raoyongming/DenseCLIP)
@@ -110,13 +116,21 @@ Keep updated.
 ### 2021.11
 <!-- - (arXiv 2021.11) , [[Paper]]() -->
 
-<!-- - (arXiv 2021.11) , [[Paper]]()
+<!-- - (arXiv 2021.11) , [[Paper]]() -->
 
-- (arXiv 2021.11) , [[Paper]]()
+- (arXiv 2021.11) Scene Representation Transformer: Geometry-Free **Novel View Synthesis** Through Set-Latent Scene Representations, [[Paper]](https://arxiv.org/pdf/2111.13152.pdf), [[Project]](https://srt-paper.github.io/)
 
-- (arXiv 2021.11) , [[Paper]]()
+- (arXiv 2021.11) **Global Interaction Modelling** in Vision Transformer via Super Tokens, [[Paper]](https://arxiv.org/pdf/2111.13156.pdf)
 
-- (arXiv 2021.11) , [[Paper]]() -->
+- (arXiv 2021.11) ML-Decoder: Scalable and Versatile **Classification Head**, [[Paper]](https://arxiv.org/pdf/2111.12933.pdf), [[Code]](https://github.com/Alibaba-MIIL/ML_Decoder)
+
+- (arXiv 2021.11) Exploiting Both Domain-specific and Invariant Knowledge via a Win-win Transformer for **Unsupervised Domain Adaptation**, [[Paper]](https://arxiv.org/pdf/2111.12941.pdf)
+
+- (arXiv 2021.11) SWINBERT: End-to-End Transformers with Sparse Attention for **Video Captioning**, [[Paper]](https://arxiv.org/pdf/2111.13196.pdf)
+
+- (arXiv 2021.11) Amortized Prompt: Lightweight Fine-Tuning for **CLIP** in **Domain Generalization**, [[Paper]](https://arxiv.org/pdf/2111.12853.pdf)
+
+- (arXiv 2021.11) Universal Captioner: Long-Tail **Vision-and-Language** Model Training through Content-Style Separation, [[Paper]](https://arxiv.org/pdf/2111.12727.pdf)
 
 - (arXiv 2021.11) **Sparse** is Enough in Scaling Transformers, [[Paper]](https://arxiv.org/pdf/2111.12763.pdf)
 
@@ -253,6 +267,13 @@ Keep updated.
 - (arXiv 2021.11) HRViT: **Multi-Scale High-Resolution** Vision Transformer, [[Paper]](https://arxiv.org/pdf/2111.01236.pdf)
 
 ### 2021.10
+
+- (arXiv 2021.10) CLOOB: MODERN **HOPFIELD** NETWORKS WITH INFOLOOB OUTPERFORM **CLIP**, [[Paper]](https://arxiv.org/pdf/2110.11316.pdf), [[Code]](https://github.com/ml-jku/cloob)
+
+- (arXiv 2021.10) Integrating Visuospatial, Linguistic and Commonsense Structure into **Story Visualization**, [[Paper]](https://arxiv.org/pdf/2110.10834.pdf)
+
+- (arXiv 2021.10) StructFormer: Learning Spatial Structure for **Language-Guided** Semantic **Rearrangement** of Novel Objects, [[Paper]](https://arxiv.org/pdf/2110.10189.pdf), [[Project]](https://sites.google.com/view/structformer)
+
 - (arXiv 2021.10) Gophormer: Ego-**Graph** Transformer for **Node Classification**, [[Paper]](https://arxiv.org/pdf/2110.13094.pdf)
 
 - (arXiv 2021.10) STRANSGAN: AN EMPIRICAL STUDY ON TRANSFORMER IN **GANS**, [[Paper]](https://arxiv.org/pdf/2110.13107.pdf), [[Code]](https://nbei.github.io/stransgan.html)
