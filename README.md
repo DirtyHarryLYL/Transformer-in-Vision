@@ -59,9 +59,41 @@ Keep updated.
 ### 2021.12
 <!-- - (arXiv 2021.12) , [[Paper]]() -->
 
-<!-- - (arXiv 2021.12) , [[Paper]]()
+- (arXiv 2021.12) Uni-Perceiver: Pre-training Unified Architecture for **Generic Perception** for **Zero-shot and Few-shot** Tasks, [[Paper]](https://arxiv.org/pdf/2112.01522.pdf)
 
-- (arXiv 2021.12) , [[Paper]]() -->
+- (arXiv 2021.12) Dense**CLIP**: Language-Guided **Dense** Prediction with Context-Aware Prompting, [[Paper]](https://arxiv.org/pdf/2112.01518.pdf), [[Code]](https://github.com/raoyongming/DenseCLIP)
+
+- (arXiv 2021.12) Self-supervised **Video** Transformer, [[Paper]](https://arxiv.org/pdf/2112.01514.pdf), [[Code]](https://git.io/J1juJ)
+
+- (arXiv 2021.12) OW-DETR: **Open-world Detection** Transformer, [[Paper]](https://arxiv.org/pdf/2112.01513.pdf)
+
+- (arXiv 2021.12) Zero-Shot **Text-Guided Object Generation** with Dream Fields, [[Paper]](https://arxiv.org/pdf/2112.01455.pdf), [[Project]](https://ajayj.com/dreamfields)
+
+- (arXiv 2021.12) **Video-Text** Pre-training with Learned Regions, [[Paper]](https://arxiv.org/pdf/2112.01194.pdf), [[Code]](https://github.com/ruiyan1995/Region_Learner)
+
+- (arXiv 2021.12) MTFNet: Mutual-Transformer Fusion Network for **RGB-D Salient Object Detection**, [[Paper]](https://arxiv.org/pdf/2112.01177.pdf)
+
+- (arXiv 2021.12) TCTN: A 3D-Temporal Convolutional Transformer Network for **Spatiotemporal** Predictive Learning, [[Paper]](https://arxiv.org/pdf/2112.01085.pdf)
+
+- (arXiv 2021.12) DenseCLIP: Extract Free **Dense** Labels from **CLIP**, [[Paper]](https://arxiv.org/pdf/2112.01071.pdf)
+
+- (arXiv 2021.12) TransMEF: A Transformer-Based **Multi-Exposure Image Fusion** Framework using Self-Supervised Multi-Task Learning, [[Paper]](https://arxiv.org/pdf/2112.01030.pdf)
+
+- (arXiv 2021.12) SwinTrack: A Simple and Strong Baseline for Transformer **Tracking**, [[Paper]](https://arxiv.org/pdf/2112.00995.pdf), [[Code]](https://github.com/LitingLin/SwinTrack)
+
+- (arXiv 2021.12) Object-Centric Unsupervised Image **Captioning**, [[Paper]](https://arxiv.org/pdf/2112.00969.pdf)
+
+- (arXiv 2021.12) Vision Pair Learning: An **Efficient** Training Framework for Image **Classification**, [[Paper]](https://arxiv.org/pdf/2112.00965.pdf)
+
+- (arXiv 2021.12) Visual-Semantic Transformer for **Scene Text Recognition**, [[Paper]](https://arxiv.org/pdf/2112.00948.pdf)
+
+- (arXiv 2021.12) Differentiable **Spatial Planning** using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
+
+- (arXiv 2021.12) Improved **Multiscale** Vision Transformers for **Classification** and **Detection**, [[Paper]](https://arxiv.org/pdf/2112.01526.pdf)
+
+- (arXiv 2021.12) Masked-attention Mask Transformer for Universal Image **Segmentation**, [[Paper]](https://arxiv.org/pdf/2112.01527.pdf), [[Code]](https://bowenc0221.github.io/mask2former)
+
+- (arXiv 2021.12) BEVT: BERT Pretraining of **Video** Transformers, [[Paper]](https://arxiv.org/pdf/2112.01529.pdf)
 
 - (arXiv 2021.12) **Human-Object Interaction Detection** via Weak Supervision, [[Paper]](https://arxiv.org/pdf/2112.00492.pdf)
 
@@ -77,6 +109,16 @@ Keep updated.
 
 ### 2021.11
 <!-- - (arXiv 2021.11) , [[Paper]]() -->
+
+<!-- - (arXiv 2021.11) , [[Paper]]()
+
+- (arXiv 2021.11) , [[Paper]]()
+
+- (arXiv 2021.11) , [[Paper]]()
+
+- (arXiv 2021.11) , [[Paper]]() -->
+
+- (arXiv 2021.11) **Sparse** is Enough in Scaling Transformers, [[Paper]](https://arxiv.org/pdf/2111.12763.pdf)
 
 - (arXiv 2021.11) An implementation of the “**Guess who**?” game using CLIP, [[Paper]](https://arxiv.org/pdf/2112.00599.pdf), [[Code]](https://github.com/ArnauDIMAI/CLIP-GuessWho)
 
