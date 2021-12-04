@@ -268,6 +268,8 @@ Keep updated.
 
 ### 2021.10
 
+- (arXiv 2021.10) Learning Text-Image Joint Embedding for Efficient **Cross-Modal Retrieval** with Deep Feature Engineering, [[Paper]](https://arxiv.org/pdf/2110.11592.pdf)
+
 - (arXiv 2021.10) SOFT: Softmax-free Transformer with **Linear Complexity**, [[Paper]](https://arxiv.org/pdf/2110.11945.pdf), [[Code]](https://fudan-zvg.github.io/SOFT)
 
 - (arXiv 2021.10) Deep Two-Stream Video Inference for Human Body **Pose** and **Shape Estimation**, [[Paper]](https://arxiv.org/pdf/2110.11680.pdf)
