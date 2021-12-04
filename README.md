@@ -268,6 +268,12 @@ Keep updated.
 
 ### 2021.10
 
+- (arXiv 2021.10) SOFT: Softmax-free Transformer with **Linear Complexity**, [[Paper]](https://arxiv.org/pdf/2110.11945.pdf), [[Code]](https://fudan-zvg.github.io/SOFT)
+
+- (arXiv 2021.10) Deep Two-Stream Video Inference for Human Body **Pose** and **Shape Estimation**, [[Paper]](https://arxiv.org/pdf/2110.11680.pdf)
+
+- (arXiv 2021.10) TRANSFORMER **ACCELERATION** WITH DYNAMIC SPARSE ATTENTION, [[Paper]](https://arxiv.org/pdf/2110.11299.pdf)
+
 - (arXiv 2021.10) CLOOB: MODERN **HOPFIELD** NETWORKS WITH INFOLOOB OUTPERFORM **CLIP**, [[Paper]](https://arxiv.org/pdf/2110.11316.pdf), [[Code]](https://github.com/ml-jku/cloob)
 
 - (arXiv 2021.10) Integrating Visuospatial, Linguistic and Commonsense Structure into **Story Visualization**, [[Paper]](https://arxiv.org/pdf/2110.10834.pdf)
