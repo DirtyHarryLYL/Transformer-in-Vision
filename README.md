@@ -118,6 +118,12 @@ Keep updated.
 ### 2021.11
 <!-- - (arXiv 2021.11) , [[Paper]]() -->
 
+<!-- - (arXiv 2021.11) , [[Paper]]()
+
+- (arXiv 2021.11) , [[Paper]]() -->
+
+- (arXiv 2021.11) IconQA: A New Benchmark for Abstract Diagram Understanding and **Visual Language Reasoning**, [[Paper]](https://arxiv.org/pdf/2110.13214.pdf), [[Project]](https://iconqa.github.io/)
+
 - (arXiv 2021.11) BoxeR: **Box-Attention** for 2D and 3D Transformers, [[Paper]](https://arxiv.org/pdf/2111.13087.pdf)
 
 - (arXiv 2021.11) VLDeformer: **Vision-Language** Decomposed Transformer for Fast **Cross-Modal Retrieval**, [[Paper]](https://arxiv.org/pdf/2110.11338.pdf)
