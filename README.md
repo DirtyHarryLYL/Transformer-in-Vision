@@ -276,6 +276,8 @@ Keep updated.
 
 <!-- - (arXiv 2021.10) , [[Paper]]() -->
 
+- (arXiv 2021.10) Bangla Image **Caption Generation** through CNN-Transformer based Encoder-Decoder Network, [[Paper]](https://arxiv.org/pdf/2110.12442.pdf)
+
 - (arXiv 2021.10) History Aware Multimodal Transformer for **Vision-and-Language Navigation**, [[Paper]](https://arxiv.org/pdf/2110.13309.pdf), [[Project]](https://cshizhe.github.io/projects/vln_hamt.html)
 
 - (arXiv 2021.10) TriBERT: Full-body Human-centric Audio-visual Representation Learning for **Visual Sound Separation**, [[Paper]](https://arxiv.org/pdf/2110.13412.pdf)
