@@ -5,6 +5,8 @@ Keep updated.
 
 ## Resource
 
+- SCENIC: A JAX Library for Computer Vision Research and Beyond, [[Code]](https://github.com/google-research/scenic)
+
 - V-L joint learning study (with good tables): [[METER]](https://arxiv.org/pdf/2111.02387.pdf), [[Kaleido-BERT]](https://arxiv.org/pdf/2103.16110.pdf)
 
 - Attention is all you need, [[Paper]](https://arxiv.org/pdf/1706.03762.pdf)
@@ -116,7 +118,11 @@ Keep updated.
 ### 2021.11
 <!-- - (arXiv 2021.11) , [[Paper]]() -->
 
-<!-- - (arXiv 2021.11) , [[Paper]]() -->
+- (arXiv 2021.11) BoxeR: **Box-Attention** for 2D and 3D Transformers, [[Paper]](https://arxiv.org/pdf/2111.13087.pdf)
+
+- (arXiv 2021.11) VLDeformer: **Vision-Language** Decomposed Transformer for Fast **Cross-Modal Retrieval**, [[Paper]](https://arxiv.org/pdf/2110.11338.pdf)
+
+- (arXiv 2021.11) Multi-Person **3D Motion Prediction** with Multi-Range Transformers, [[Paper]](https://arxiv.org/pdf/2111.12073.pdf), [[Code]](https://jiashunwang.github.io/MRT/)
 
 - (arXiv 2021.11) Scene Representation Transformer: Geometry-Free **Novel View Synthesis** Through Set-Latent Scene Representations, [[Paper]](https://arxiv.org/pdf/2111.13152.pdf), [[Project]](https://srt-paper.github.io/)
 
@@ -267,6 +273,18 @@ Keep updated.
 - (arXiv 2021.11) HRViT: **Multi-Scale High-Resolution** Vision Transformer, [[Paper]](https://arxiv.org/pdf/2111.01236.pdf)
 
 ### 2021.10
+
+<!-- - (arXiv 2021.10) , [[Paper]]() -->
+
+<!-- - (arXiv 2021.10) , [[Paper]]()
+
+- (arXiv 2021.10) , [[Paper]]() -->
+
+- (arXiv 2021.10) IMAGE-BASED **CLIP**-GUIDED ESSENCE TRANSFER, [[Paper]](https://arxiv.org/pdf/2110.12427.pdf), [[Code]](https://github.com/hila-chefer/TargetCLIP)
+
+- (arXiv 2021.10) Sinkformers: Transformers with Doubly Stochastic **Attention**, [[Paper]](https://arxiv.org/pdf/2110.11773.pdf)
+
+- (arXiv 2021.10) ILLITERATE **DALL·E** LEARNS TO COMPOSE, [[Paper]](https://arxiv.org/pdf/2110.11405.pdf), [[Project]](https://sites.google.com/view/slate-autoencoder), [[Code]](https://github.com/singhgautam/slate)
 
 - (arXiv 2021.10) Learning Text-Image Joint Embedding for Efficient **Cross-Modal Retrieval** with Deep Feature Engineering, [[Paper]](https://arxiv.org/pdf/2110.11592.pdf)
 
