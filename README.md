@@ -276,9 +276,15 @@ Keep updated.
 
 <!-- - (arXiv 2021.10) , [[Paper]]() -->
 
-<!-- - (arXiv 2021.10) , [[Paper]]()
+- (arXiv 2021.10) History Aware Multimodal Transformer for **Vision-and-Language Navigation**, [[Paper]](https://arxiv.org/pdf/2110.13309.pdf), [[Project]](https://cshizhe.github.io/projects/vln_hamt.html)
 
-- (arXiv 2021.10) , [[Paper]]() -->
+- (arXiv 2021.10) TriBERT: Full-body Human-centric Audio-visual Representation Learning for **Visual Sound Separation**, [[Paper]](https://arxiv.org/pdf/2110.13412.pdf)
+
+- (arXiv 2021.10) TNTC: TWO-STREAM NETWORK WITH TRANSFORMER-BASED COMPLEMENTARITY FOR GAIT-BASED **EMOTION RECOGNITION**, [[Paper]](https://arxiv.org/pdf/2110.13708.pdf)
+
+- (arXiv 2021.10) Contextual Similarity Aggregation with Self-attention for **Visual Re-ranking**, [[Paper]](https://arxiv.org/pdf/2110.13430.pdf), [[Code]](https://github.com/MCC-WH/CSA)
+
+- (arXiv 2021.10) IIP-Transformer: Intra-Inter-Part Transformer for **Skeleton-Based Action Recognition**, [[Paper]](https://arxiv.org/pdf/2110.13385.pdf), [[Code]](https://github.com/qtwang0035/IIP-Transformer)
 
 - (arXiv 2021.10) IMAGE-BASED **CLIP**-GUIDED ESSENCE TRANSFER, [[Paper]](https://arxiv.org/pdf/2110.12427.pdf), [[Code]](https://github.com/hila-chefer/TargetCLIP)
 
