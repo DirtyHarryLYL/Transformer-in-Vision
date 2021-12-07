@@ -63,7 +63,13 @@ Keep updated.
 
 <!-- - (arXiv 2021.12) , [[Paper]]()
 
+- (arXiv 2021.12) , [[Paper]]()
+
+- (arXiv 2021.12) , [[Paper]]()
+
 - (arXiv 2021.12) , [[Paper]]() -->
+
+- (arXiv 2021.12) LAVT: Language-Aware Vision Transformer for **Referring Image Segmentation**, [[Paper]](https://arxiv.org/pdf/2112.02244.pdf)
 
 - (arXiv 2021.12) Look at What I’m Doing: Self-Supervised **Spatial Grounding** of Narrations in Instructional Videos, [[Paper]](https://arxiv.org/pdf/2110.10596.pdf), [[Project]](https://cs-people.bu.edu/rxtan/projects/grounding_narrations/)
 
@@ -281,6 +287,12 @@ Keep updated.
 ### 2021.10
 
 <!-- - (arXiv 2021.10) , [[Paper]]() -->
+
+<!-- - (arXiv 2021.10) , [[Paper]]()
+
+- (arXiv 2021.10) , [[Paper]]() -->
+
+- (arXiv 2021.10) SOAT: A Scene- and Object-Aware Transformer for **Vision-and-Language Navigation**, [[Paper]](https://arxiv.org/pdf/2110.14143.pdf)
 
 - (arXiv 2021.10) Bangla Image **Caption Generation** through CNN-Transformer based Encoder-Decoder Network, [[Paper]](https://arxiv.org/pdf/2110.12442.pdf)
 
