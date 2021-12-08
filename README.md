@@ -65,9 +65,9 @@ Keep updated.
 
 - (arXiv 2021.12) , [[Paper]]()
 
-- (arXiv 2021.12) , [[Paper]]()
-
 - (arXiv 2021.12) , [[Paper]]() -->
+
+- (arXiv 2021.12) Embedding Arithmetic for **Text-driven Image Transformation**, [[Paper]](https://arxiv.org/pdf/2112.03162.pdf)
 
 - (arXiv 2021.12) LAVT: Language-Aware Vision Transformer for **Referring Image Segmentation**, [[Paper]](https://arxiv.org/pdf/2112.02244.pdf)
 
