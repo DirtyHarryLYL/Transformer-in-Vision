@@ -61,11 +61,21 @@ Keep updated.
 ### 2021.12
 <!-- - (arXiv 2021.12) , [[Paper]]() -->
 
-<!-- - (arXiv 2021.12) , [[Paper]]()
+<!-- - (arXiv 2021.12) , [[Paper]]() -->
 
-- (arXiv 2021.12) , [[Paper]]()
+- (arXiv 2021.12) Cross-Modality Fusion Transformer for **Multispectral Object Detection**, [[Paper]](https://arxiv.org/pdf/2111.00273.pdf)
 
-- (arXiv 2021.12) , [[Paper]]() -->
+- (arXiv 2021.12) PatchFormer: An **Efficient** **Point** Transformer with Patch Attention, [[Paper]](https://arxiv.org/pdf/2111.00207.pdf)
+
+- (arXiv 2021.12) Transformer-Based Approach for Joint **Handwriting** and **Named Entity Recognition** in Historical documents, [[Paper]](https://arxiv.org/pdf/2112.04189.pdf)
+
+- (arXiv 2021.12) **MLP** Architectures for **Vision-and-Language** Modeling: An Empirical Study, [[Paper]](https://arxiv.org/pdf/2112.04453.pdf), [[Code]](https://github.com/easonnie/mlp-vil)
+
+- (arXiv 2021.12) Everything at Once – Multi-modal Fusion Transformer for **Video Retrieval**, [[Paper]](https://arxiv.org/pdf/2112.04446.pdf)
+
+- (arXiv 2021.12) Prompting **Visual-Language** Models for Efficient Video Understanding, [[Paper]](https://arxiv.org/pdf/2112.04478.pdf), [[Project]](https://ju-chen.github.io/efficient-prompt/)
+
+- (arXiv 2021.12) FLAVA: A Foundational **Language And Vision** Alignment Model, [[Paper]](https://arxiv.org/pdf/2112.04482.pdf)
 
 - (arXiv 2021.12) Embedding Arithmetic for **Text-driven Image Transformation**, [[Paper]](https://arxiv.org/pdf/2112.03162.pdf)
 
@@ -124,9 +134,15 @@ Keep updated.
 ### 2021.11
 <!-- - (arXiv 2021.11) , [[Paper]]() -->
 
-<!-- - (arXiv 2021.11) , [[Paper]]()
+<!-- - (arXiv 2021.11) , [[Paper]]() -->
 
-- (arXiv 2021.11) , [[Paper]]() -->
+- (arXiv 2021.11) PatchGame: Learning to Signal Mid-level Patches in **Referential Games**, [[Paper]](https://arxiv.org/pdf/2111.01785.pdf), [[Code]](https://kampta.github.io/patch-game)
+
+- (arXiv 2021.11) CAN VISION TRANSFORMERS PERFORM **CONVOLUTION**? [[Paper]](https://arxiv.org/pdf/2111.01353.pdf)
+
+- (arXiv 2021.11) Livestock Monitoring with Transformer, [[Paper]](https://arxiv.org/pdf/2111.00801.pdf)
+
+- (arXiv 2021.11) With a Little Help from my Temporal Context: Multimodal **Egocentric Action Recognition**, [[Paper]](https://arxiv.org/pdf/2111.01024.pdf), [[Code]](https://github.com/ekazakos/MTCN)
 
 - (arXiv 2021.11) IconQA: A New Benchmark for Abstract Diagram Understanding and **Visual Language Reasoning**, [[Paper]](https://arxiv.org/pdf/2110.13214.pdf), [[Project]](https://iconqa.github.io/)
 
@@ -286,7 +302,11 @@ Keep updated.
 
 ### 2021.10
 
-<!-- - (arXiv 2021.10) , [[Paper]]() -->
+- (arXiv 2021.10) **Visual Keyword Spotting** with Attention, [[Paper]](https://arxiv.org/pdf/2110.15957.pdf), [[Project]](Visual Keyword Spotting with Attention)
+
+- (arXiv 2021.10) Learning **Co-segmentation** by Segment Swapping for Retrieval and Discovery, [[Paper]](https://arxiv.org/pdf/2110.15904.pdf), [[Data & Code]](http://imagine.enpc.fr/~shenx/SegSwap/)
+
+- (arXiv 2021.10) Visual Spatio-Temporal Relation-Enhanced Network for Cross-Modal **Text-Video Retrieval**, [[Paper]](https://arxiv.org/pdf/2110.15609.pdf), [[Code]](https://https//github.com/Lionel-Hing/VSR-Net)
 
 - (arXiv 2021.10) Dispensed Transformer Network for **Unsupervised Domain Adaptation**, [[Paper]](https://arxiv.org/pdf/2110.14944.pdf)
 
