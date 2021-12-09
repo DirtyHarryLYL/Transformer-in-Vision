@@ -288,9 +288,15 @@ Keep updated.
 
 <!-- - (arXiv 2021.10) , [[Paper]]() -->
 
-<!-- - (arXiv 2021.10) , [[Paper]]()
+- (arXiv 2021.10) Dispensed Transformer Network for **Unsupervised Domain Adaptation**, [[Paper]](https://arxiv.org/pdf/2110.14944.pdf)
 
-- (arXiv 2021.10) , [[Paper]]() -->
+- (arXiv 2021.10) Scatterbrain: Unifying **Sparse** and **Low-rank Attention** Approximation, [[Paper]](https://arxiv.org/pdf/2110.15343.pdf)
+
+- (arXiv 2021.10) **3D Object Tracking** with Transformer, [[Paper]](https://arxiv.org/pdf/2110.14921.pdf), [[Code]](https://github.com/3bobo/lttr)
+
+- (arXiv 2021.10) Blending **Anti-Aliasing** into Vision Transformer, [[Paper]](https://arxiv.org/pdf/2110.15156.pdf), [[Code]](https://github.com/amazon-research/anti-aliasing-transformer)
+
+- (arXiv 2021.10) UltraPose: **Synthesizing** Dense Pose with 1 Billion Points by **Human-body** Decoupling **3D** Model, [[Paper]](https://arxiv.org/pdf/2110.15267.pdf), [[Data & Code]](https://github.com/MomoAILab/ultrapose)
 
 - (arXiv 2021.10) SOAT: A Scene- and Object-Aware Transformer for **Vision-and-Language Navigation**, [[Paper]](https://arxiv.org/pdf/2110.14143.pdf)
 
