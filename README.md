@@ -240,7 +240,7 @@ Keep updated.
 
 - (arXiv 2021.11) Hierarchical Modular Network for **Video Captioning**, [[Paper]](https://arxiv.org/pdf/2111.12476.pdf)
 
-- (arXiv 2021.11) NU¨ WA: **Visual Synthesis Pre-training** for Neural visUal World creAtion, [[Paper]](https://arxiv.org/pdf/2111.12417.pdf), [[Code]](https://github.com/microsoft/NUWA)
+- (arXiv 2021.11) NU¨WA: **Visual Synthesis Pre-training** for Neural visUal World creAtion, [[Paper]](https://arxiv.org/pdf/2111.12417.pdf), [[Code]](https://github.com/microsoft/NUWA)
 
 - (arXiv 2021.11) An Image Patch is a Wave: Phase-Aware Vision **MLP**, [[Paper]](https://arxiv.org/pdf/2111.12294.pdf)
 
@@ -276,7 +276,7 @@ Keep updated.
 
 - (arXiv 2021.11) Improved **Robustness** of Vision Transformer via PreLayerNorm in Patch Embedding, [[Paper]](https://arxiv.org/pdf/2111.08413.pdf)
 
-- (arXiv 2021.11) IBOT: **IMAGE BERT PRE-TRAINING** WITH ONLINE TOKENIZER, [[Paper]](https://arxiv.org/pdf/2111.07832.pdf)
+- (arXiv 2021.11) IBOT: **IMAGE BERT PRE-TRAINING** WITH ONLINE TOKENIZER, [[Paper]](https://arxiv.org/pdf/2111.07832.pdf), [[Code]](https://github.com/bytedance/ibot)
 
 - (arXiv 2021.11) **Masked Autoencoders** Are Scalable Vision Learners, [[Paper]](https://arxiv.org/pdf/2111.06377.pdf)
 
