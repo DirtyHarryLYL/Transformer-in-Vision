@@ -134,7 +134,15 @@ Keep updated.
 ### 2021.11
 <!-- - (arXiv 2021.11) , [[Paper]]() -->
 
-<!-- - (arXiv 2021.11) , [[Paper]]() -->
+<!-- - (arXiv 2021.11) , [[Paper]]()
+
+- (arXiv 2021.11) , [[Paper]]()
+ -->
+- (arXiv 2021.11) Improving Visual Quality of **Image Synthesis** by A Token-based Generator with Transformers, [[Paper]](https://arxiv.org/pdf/2111.03481.pdf)
+
+- (arXiv 2021.11) Style**CLIP**Draw: Coupling Content and Style in **Text-to-Drawing Synthesis**, [[Paper]](https://arxiv.org/pdf/2111.03133.pdf), [[Code]](https://github.com/pschaldenbrand/StyleCLIPDraw)
+
+- (arXiv 2021.11) Revisiting **spatio-temporal** layouts for **compositional action recognition**, [[Paper]](https://arxiv.org/pdf/2111.01936.pdf), [[Code]](https://github.com/gorjanradevski/revisiting-spatial-temporal-layouts)
 
 - (arXiv 2021.11) PatchGame: Learning to Signal Mid-level Patches in **Referential Games**, [[Paper]](https://arxiv.org/pdf/2111.01785.pdf), [[Code]](https://kampta.github.io/patch-game)
 
