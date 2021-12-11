@@ -35,6 +35,8 @@ Keep updated.
 
 ## Survey
 
+- (arXiv 2021.11) ARE WE READY FOR A NEW PARADIGM SHIFT? A SURVEY ON VISUAL DEEP MLP, [[Paper]](https://arxiv.org/pdf/2111.04060.pdf)
+
 - (arXiv 2021.11) A Survey of Visual Transformers, [[Paper]](https://arxiv.org/pdf/2111.06091.pdf)
 
 - (arXiv 2021.09) Survey: Transformer based Video-Language Pre-training, [[Paper]](https://arxiv.org/pdf/2109.09920.pdf)
@@ -137,7 +139,27 @@ Keep updated.
 <!-- - (arXiv 2021.11) , [[Paper]]()
 
 - (arXiv 2021.11) , [[Paper]]()
- -->
+
+- (arXiv 2021.11) , [[Paper]]() -->
+
+- (arXiv 2021.11) Semantically Grounded Object Matching for Robust **Robotic Scene Rearrangement**, [[Paper]](https://arxiv.org/pdf/2111.07975.pdf), [[Code]](https://github.com/applied-ai-lab/object_matching)
+
+- (arXiv 2021.11) **Tracking** People with **3D** Representations, [[Paper]](https://arxiv.org/pdf/2111.07868.pdf), [[Code]](https://brjathu.github.io/T3DP)
+
+- (arXiv 2021.11) LiT: Zero-Shot Transfer with Locked-**image** **Text** **Tuning**, [[Paper]](https://arxiv.org/pdf/2111.07991.pdf)
+
+- (arXiv 2021.11) FILIP: FINE-GRAINED INTERACTIVE **LANGUAGE-IMAGE** PRE-TRAINING, [[Paper]](https://arxiv.org/pdf/2111.07783.pdf)
+
+- (arXiv 2021.11) Graph Relation Transformer: Incorporating **pairwise object features** into the Transformer architecture, [[Paper]](https://arxiv.org/pdf/2111.06075.pdf), [[Code]](https://github.com/derikclive/transformers)
+
+- (arXiv 2021.11) **Attention** Approximates Sparse Distributed Memory, [[Paper]](https://arxiv.org/pdf/2111.05498.pdf)
+
+- (arXiv 2021.11) SLICED **RECURSIVE** TRANSFORMER, [[Paper]](https://arxiv.org/pdf/2111.05297.pdf), [[Code]](https://github.com/szq0214/SReT)
+
+- (arXiv 2021.11) HYBRID **BYOL-VIT**: EFFICIENT APPROACH TO DEAL WITH **SMALL DATASETS**, [[Paper]](https://arxiv.org/pdf/2111.04845.pdf)
+
+- (arXiv 2021.11) Tip-Adapter: Training-free **CLIP**-Adapter for Better **Vision-Language** Modeling, [[Paper]](https://arxiv.org/pdf/2111.03930.pdf), [[Code]](https://github.com/gaopengcuhk/Tip-Adapter)
+
 - (arXiv 2021.11) Improving Visual Quality of **Image Synthesis** by A Token-based Generator with Transformers, [[Paper]](https://arxiv.org/pdf/2111.03481.pdf)
 
 - (arXiv 2021.11) Style**CLIP**Draw: Coupling Content and Style in **Text-to-Drawing Synthesis**, [[Paper]](https://arxiv.org/pdf/2111.03133.pdf), [[Code]](https://github.com/pschaldenbrand/StyleCLIPDraw)
