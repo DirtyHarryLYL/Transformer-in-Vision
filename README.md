@@ -63,11 +63,19 @@ Keep updated.
 ### 2021.12
 <!-- - (arXiv 2021.12) , [[Paper]]() -->
 
-<!-- - (arXiv 2021.12) , [[Paper]]()
+<!-- - (arXiv 2021.12) , [[Paper]]() -->
 
-- (arXiv 2021.12) , [[Paper]]()
+- (arXiv 2021.12) CMA-CLIP: Cross-Modality Attention **CLIP** for **Image-Text** Classification, [[Paper]](https://arxiv.org/pdf/2112.03562.pdf)
 
-- (arXiv 2021.12) , [[Paper]]() -->
+- (arXiv 2021.12) **Bootstrapping** ViTs: Towards Liberating Vision Transformers from Pre-training, [[Paper]](https://arxiv.org/pdf/2112.03552.pdf)
+
+- (arXiv 2021.12) Decision-based Black-box **Attack** Against Vision Transformers via Patch-wise Adversarial Removal, [[Paper]](https://arxiv.org/pdf/2112.03492.pdf), [[Code]](https://github.com/shiyuchengTJU/PAR)
+
+- (arXiv 2021.12) DoodleFormer: Creative **Sketch Drawing** with Transformers, [[Paper]](https://arxiv.org/pdf/2112.03258.pdf)
+
+- (arXiv 2021.12) Creating **Multimodal Interactive Agents** with Imitation and Self-Supervised Learning, [[Paper]](https://arxiv.org/pdf/2112.03763.pdf)
+
+- (arXiv 2021.12) **AUDIO-VISUAL** SYNCHRONISATION IN THE WILD, [[Paper]](https://arxiv.org/pdf/2112.04432.pdf), [[Project]](https://www.robots.ox.ac.uk/~vgg/research/avs)
 
 - (arXiv 2021.12) **Classification**-Then-**Grounding**: Reformulating **Video** Scene Graphs as Temporal Bipartite Graphs, [[Paper]](https://arxiv.org/pdf/2112.04222.pdf)
 
