@@ -63,7 +63,25 @@ Keep updated.
 ### 2021.12
 <!-- - (arXiv 2021.12) , [[Paper]]() -->
 
-<!-- - (arXiv 2021.12) , [[Paper]]() -->
+<!-- - (arXiv 2021.12) , [[Paper]]()
+
+- (arXiv 2021.12) , [[Paper]]()
+
+- (arXiv 2021.12) , [[Paper]]()
+
+- (arXiv 2021.12) , [[Paper]]()
+
+- (arXiv 2021.12) , [[Paper]]() -->
+
+- (arXiv 2021.12) A Bilingual, Open World Video Text **Dataset** and End-to-end **Video Text Spotter** with Transformer, [[Paper]](https://arxiv.org/pdf/2112.04888.pdf), [[Code]](https://github.com/weijiawu/TransVTSpotter), [[Dataset]](https://github.com/weijiawu/BOVText-Benchmark)
+
+- (arXiv 2021.12) DualFormer: Local-Global Stratified Transformer for **Efficient Video Recognition**, [[Paper]](https://arxiv.org/pdf/2112.04674.pdf), [[Code]](https://github.com/sail-sg/dualformer)
+
+- (arXiv 2021.12) Recurrent Glimpse-based Decoder for **Detection** with Transformer, [[Paper]](https://arxiv.org/pdf/2112.04632.pdf), [[Code]](https://github.com/zhechen/Deformable-DETR-REGO)
+
+- (arXiv 2021.12) Fast **Point** Transformer, [[Paper]](https://arxiv.org/pdf/2112.04702.pdf)
+
+- (arXiv 2021.12) Assistive Tele-op: Leveraging Transformers to **Collect Robotic Task Demonstrations**, [[Paper]](https://arxiv.org/pdf/2112.05129.pdf), [[Project]](https://sites.google.com/view/assistive-teleop)
 
 - (arXiv 2021.12) Cross-Modality Fusion Transformer for **Multispectral Object Detection**, [[Paper]](https://arxiv.org/pdf/2111.00273.pdf)
 
