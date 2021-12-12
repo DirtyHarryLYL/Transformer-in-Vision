@@ -67,11 +67,21 @@ Keep updated.
 
 - (arXiv 2021.12) , [[Paper]]()
 
-- (arXiv 2021.12) , [[Paper]]()
-
-- (arXiv 2021.12) , [[Paper]]()
-
 - (arXiv 2021.12) , [[Paper]]() -->
+
+- (arXiv 2021.12) **Classification**-Then-**Grounding**: Reformulating **Video** Scene Graphs as Temporal Bipartite Graphs, [[Paper]](https://arxiv.org/pdf/2112.04222.pdf)
+
+- (arXiv 2021.12) Garment4D: **Garment Reconstruction** from Point Cloud Sequences, [[Paper]](https://arxiv.org/pdf/2112.04159.pdf), [[Code]](https://github.com/hongfz16/Garment4D)
+
+- (arXiv 2021.12) Locally Shifted **Attention****** With Early Global Integration, [[Paper]](https://arxiv.org/pdf/2112.05080.pdf), [[Code]](https://github.com/shellysheynin/Locally-SAG-Transformer)
+
+- (arXiv 2021.12) BLT: Bidirectional Layout Transformer for Controllable **Layout Generation**, [[Paper]](https://arxiv.org/pdf/2112.05112.pdf)
+
+- (arXiv 2021.12) PE-former: **Pose Estimation** Transformer, [[Paper]](https://arxiv.org/pdf/2112.04981.pdf), [[Project]](https://www.ics.forth.gr/hccv/)
+
+- (arXiv 2021.12) Hair**CLIP**: **Design** Your Hair by Text and Reference Image, [[Paper]](https://arxiv.org/pdf/2112.05142.pdf), [[Project]](https://github.com/wty-ustc/HairCLIP)
+
+- (arXiv 2021.12) **CLIP**-**NeRF**: Text-and-Image Driven Manipulation of Neural Radiance Fields, [[Paper]](https://arxiv.org/pdf/2112.05139.pdf), [[Code]](https://cassiepython.github.io/clipnerf/)
 
 - (arXiv 2021.12) A Bilingual, Open World Video Text **Dataset** and End-to-end **Video Text Spotter** with Transformer, [[Paper]](https://arxiv.org/pdf/2112.04888.pdf), [[Code]](https://github.com/weijiawu/TransVTSpotter), [[Dataset]](https://github.com/weijiawu/BOVText-Benchmark)
 
