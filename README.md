@@ -63,7 +63,15 @@ Keep updated.
 ### 2021.12
 <!-- - (arXiv 2021.12) , [[Paper]]() -->
 
-<!-- - (arXiv 2021.12) , [[Paper]]() -->
+<!-- - (arXiv 2021.12) , [[Paper]]()
+
+- (arXiv 2021.12) , [[Paper]]()
+
+- (arXiv 2021.12) , [[Paper]]() -->
+
+- (arXiv 2021.12) Evaluating Transformers for Lightweight **Action Recognition**, [[Paper]](https://arxiv.org/pdf/2111.09641.pdf)
+
+- (arXiv 2021.12) Contextualized Spatio-Temporal **Contrastive Learning** with Self-Supervision, [[Paper]](https://arxiv.org/pdf/2112.05181.pdf)
 
 - (arXiv 2021.12) CMA-CLIP: Cross-Modality Attention **CLIP** for **Image-Text** Classification, [[Paper]](https://arxiv.org/pdf/2112.03562.pdf)
 
@@ -172,11 +180,39 @@ Keep updated.
 ### 2021.11
 <!-- - (arXiv 2021.11) , [[Paper]]() -->
 
-<!-- - (arXiv 2021.11) , [[Paper]]()
+<!-- - (arXiv 2021.11) , [[Paper]]() -->
 
-- (arXiv 2021.11) , [[Paper]]()
+- (arXiv 2021.11) PointMixer: MLP-Mixer for **Point Cloud** Understanding, [[Paper]](https://arxiv.org/pdf/2111.11187.pdf)
 
-- (arXiv 2021.11) , [[Paper]]() -->
+- (arXiv 2021.11) **MetaFormer** is Actually What You Need for Vision, [[Paper]](https://arxiv.org/pdf/2111.11418.pdf), [[Code]](https://github.com/sail-sg/poolformer)
+
+- (arXiv 2021.11) Florence: A New **Foundation Model** for Computer Vision, [[Paper]](https://arxiv.org/pdf/2111.11432.pdf)
+
+- (arXiv 2021.11) Benchmarking **Detection Transfer Learning** with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2111.11429.pdf)
+
+- (arXiv 2021.11) Learning to **Compose Visual Relations**, [[Paper]](https://arxiv.org/pdf/2111.09297.pdf), [[Project]](https://composevisualrelations.github.io/)
+
+- (arXiv 2021.11) REFERENCE-BASED **MAGNETIC RESONANCE IMAGE RECONSTRUCTION** USING TEXTURE TRANSFORMER, [[Paper]](https://arxiv.org/pdf/2111.09492.pdf)
+
+- (arXiv 2021.11) Induce, Edit, Retrieve: Language Grounded Multimodal Schema for **Instructional Video Retrieval**, [[Paper]](https://arxiv.org/pdf/2111.09276.pdf)
+
+- (arXiv 2021.11) **Swin Transformer V2**: Scaling Up Capacity and Resolution, [[Paper]](https://arxiv.org/pdf/2111.09883.pdf), [[Code]](https://github.com/microsoft/Swin-Transformer)
+
+- (arXiv 2021.11) SimMIM: A Simple Framework for **Masked Image Modeling**, [[Paper]](https://arxiv.org/pdf/2111.09886.pdf), [[Code]](https://github.com/microsoft/SimMIM)
+
+- (arXiv 2021.11) Restormer: Efficient Transformer for **High-Resolution Image Restoration**, [[Paper]](https://arxiv.org/pdf/2111.09881.pdf), [[Code]](https://github.com/swz30/Restormer)
+
+- (arXiv 2021.11) Simple but Effective: **CLIP** Embeddings for **Embodied AI**, [[Paper]](https://arxiv.org/pdf/2111.09888.pdf)
+
+- (arXiv 2021.11) ClipCap: CLIP Prefix for Image **Captioning**, [[Paper]](https://arxiv.org/pdf/2111.09734.pdf), [[Code]](https://github.com/rmokady/CLIP_prefix_caption)
+
+- (arXiv 2021.11) TransMix: Attend to **Mix** for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2111.09833.pdf), [[Code]](https://github.com/Beckschen/TransMix)
+
+- (arXiv 2021.11) TRIG: Transformer-Based **Text Recognizer** with Initial Embedding Guidance, [[Paper]](https://arxiv.org/pdf/2111.08314.pdf)
+
+- (arXiv 2021.11) Multi-Grained **Vision Language** Pre-Training: Aligning Texts with Visual Concepts, [[Paper]](https://arxiv.org/pdf/2111.08276.pdf), [[Code]](https://github.com/zengyan-97/X-VLM)
+
+- (arXiv 2021.11) Explainable Semantic Space by **Grounding Language to Vision** with Cross-Modal Contrastive Learning, [[Paper]](https://arxiv.org/pdf/2111.07180.pdf), [[Code]](https://github.com/yizhen-zhang/VG-Bert)
 
 - (arXiv 2021.11) Semantically Grounded Object Matching for Robust **Robotic Scene Rearrangement**, [[Paper]](https://arxiv.org/pdf/2111.07975.pdf), [[Code]](https://github.com/applied-ai-lab/object_matching)
 
