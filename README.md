@@ -65,11 +65,21 @@ Keep updated.
 
 <!-- - (arXiv 2021.12) , [[Paper]]()
 
-- (arXiv 2021.12) , [[Paper]]()
-
-- (arXiv 2021.12) , [[Paper]]()
-
 - (arXiv 2021.12) , [[Paper]]() -->
+
+- (arXiv 2021.12) PTTR: Relational 3D **Point Cloud Object Tracking** with Transformer, [[Paper]](https://arxiv.org/pdf/2112.02857.pdf), [[Code]](https://github.com/Jasonkks/PTTR)
+
+- (arXiv 2021.12) GETAM: Gradient-weighted Element-wise Transformer Attention Map for **Weakly-supervised Semantic segmentation**, [[Paper]](https://arxiv.org/pdf/2112.02841.pdf)
+
+- (arXiv 2021.12) **Text2Mesh**: Text-Driven Neural Stylization for Meshes, [[Paper]](https://arxiv.org/pdf/2112.03221.pdf), [[Project]](https://threedle.github.io/text2mesh/)
+
+- (arXiv 2021.12) LMR-CBT: Learning Modality-fused Representations with CB-Transformer for Multimodal **Emotion Recognition** from Unaligned Multimodal Sequences, [[Paper]](https://arxiv.org/pdf/2112.01697.pdf)
+
+- (arXiv 2021.12) Make A Long Image Short: Adaptive **Token** Length for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2112.01686.pdf)
+
+- (arXiv 2021.12) FuseDream: Training-Free **Text-to-Image Generation** with Improved **CLIP**+GAN Space Optimization, [[Paper]](https://arxiv.org/pdf/2112.01573.pdf), [[Code]](https://github.com/gnobitab/FuseDream)
+
+- (arXiv 2021.12) TransZero: Attribute-guided Transformer for **Zero-Shot Learning**, [[Paper]](https://arxiv.org/pdf/2112.01683.pdf), [[Code]](https://github.com/shiming-chen/TransZero)
 
 - (arXiv 2021.12) Learning Generalizable **Vision-Tactile** Robotic **Grasping** Strategy for Deformable Objects via Transformer, [[Paper]](https://arxiv.org/pdf/2112.06374.pdf), [[Code]](https://github.com/GTLIDAR/DeformableObjectsGrasping.git)
 
@@ -188,9 +198,18 @@ Keep updated.
 - (arXiv 2021.12) Object-aware **Video-language** Pre-training for Retrieval, [[Paper]](https://arxiv.org/pdf/2112.00656.pdf), [[Code]](https://github.com/FingerRec/OA-Transformer)
 
 ### 2021.11
-<!-- - (arXiv 2021.11) , [[Paper]]() -->
 
-<!-- - (arXiv 2021.11) , [[Paper]]() -->
+- (arXiv 2021.11) Predict, Prevent, and Evaluate: Disentangled **Text-Driven Image Manipulation** Empowered by Pre-Trained Vision-Language Model, [[Paper]](https://arxiv.org/pdf/2111.13333.pdf)
+
+- (arXiv 2021.11) NomMer: Nominate Synergistic Context in Vision Transformer for **Visual Recognition**, [[Paper]](https://arxiv.org/pdf/2111.12994.pdf), [[Code]](https://github.com/NomMer1125/NomMer)
+
+- (arXiv 2021.11) PolyViT: **Co-training** Vision Transformers on **Images**, **Videos** and **Audio**, [[Paper]](https://arxiv.org/pdf/2111.12993.pdf)
+
+- (arXiv 2021.11) SWAT: Spatial Structure Within and Among Tokens, [[Paper]](https://arxiv.org/pdf/2111.13677.pdf)
+
+- (arXiv 2021.11) ADAPTIVE **FOURIER** NEURAL OPERATORS: **EFFICIENT** TOKEN MIXERS FOR TRANSFORMERS, [[Paper]](https://arxiv.org/pdf/2111.13587.pdf)
+
+- (arXiv 2021.11) DyTox: Transformers for **Continual Learning** with DYnamic TOken eXpansion, [[Paper]](https://arxiv.org/pdf/2111.11326.pdf), [[Code]](https://github.com/arthurdouillard/dytox)
 
 - (arXiv 2021.11) DABS: A Domain-Agnostic **Benchmark** for **Self-Supervised** Learning, [[Paper]](https://arxiv.org/pdf/2111.12062.pdf), [[Code]](https://github.com/alextamkin/dabs)
 
