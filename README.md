@@ -67,7 +67,17 @@ Keep updated.
 
 - (arXiv 2021.12) , [[Paper]]()
 
+- (arXiv 2021.12) , [[Paper]]()
+
 - (arXiv 2021.12) , [[Paper]]() -->
+
+- (arXiv 2021.12) Learning Generalizable **Vision-Tactile** Robotic **Grasping** Strategy for Deformable Objects via Transformer, [[Paper]](https://arxiv.org/pdf/2112.06374.pdf), [[Code]](https://github.com/GTLIDAR/DeformableObjectsGrasping.git)
+
+- (arXiv 2021.12) Hformer: Hybrid CNN-Transformer for **Fringe Order Prediction** in Phase Unwrapping of Fringe Projection, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2112/2112.06759.pdf)
+
+- (arXiv 2021.12) Pre-training and Fine-tuning Transformers for **fMRI Prediction** Tasks, [[Paper]](https://arxiv.org/pdf/2112.05761.pdf)
+
+- (arXiv 2021.12) Transformer based **trajectory prediction**, [[Paper]](https://arxiv.org/pdf/2112.04350.pdf)
 
 - (arXiv 2021.12) Evaluating Transformers for Lightweight **Action Recognition**, [[Paper]](https://arxiv.org/pdf/2111.09641.pdf)
 
@@ -181,6 +191,30 @@ Keep updated.
 <!-- - (arXiv 2021.11) , [[Paper]]() -->
 
 <!-- - (arXiv 2021.11) , [[Paper]]() -->
+
+- (arXiv 2021.11) DABS: A Domain-Agnostic **Benchmark** for **Self-Supervised** Learning, [[Paper]](https://arxiv.org/pdf/2111.12062.pdf), [[Code]](https://github.com/alextamkin/dabs)
+
+- (arXiv 2021.11) Ice hockey **player identification** via transformers, [[Paper]](https://arxiv.org/pdf/2111.11535.pdf)
+
+- (arXiv 2021.11) DBIA: Data-free Backdoor Injection **Attack** against Transformer Networks, [[Paper]](https://arxiv.org/pdf/2111.11870.pdf), [[Code]](https://anonymous.4open.science/r/DBIA-825D)
+
+- (arXiv 2021.11) Sparse Fusion for **Multimodal** Transformers, [[Paper]](https://arxiv.org/pdf/2111.11992.pdf)
+
+- (arXiv 2021.11) PhysFormer: **Facial Video-based Physiological Measurement** with Temporal Difference Transformer, [[Paper]](https://arxiv.org/pdf/2111.12082.pdf), [[Code]](https://github.com/ZitongYu/PhysFormer)
+
+- (arXiv 2021.11) Self-Supervised Pre-Training for Transformer-Based Person **Re-Identification**, [[Paper]](https://arxiv.org/pdf/2111.12084.pdf), [[Code]](https://github.com/michuanhaohao/TransReID-SSL)
+
+- (arXiv 2021.11) DISCRETE REPRESENTATIONS STRENGTHEN VISION TRANSFORMER **ROBUSTNESS**, [[Paper]](https://arxiv.org/pdf/2111.10493.pdf)
+
+- (arXiv 2021.11) TRAVLR: Now You See It, Now You Don’t! Evaluating Cross-Modal Transfer of **Visio-Linguistic Reasoning**, [[Paper]](https://arxiv.org/pdf/2111.10756.pdf)
+
+- (arXiv 2021.11) Crossing the Format Boundary of Text and Boxes: Towards Unified **Vision-Language** Modeling, [[Paper]](https://arxiv.org/pdf/2111.12085.pdf)
+
+- (arXiv 2021.11) **Semi-Supervised** Vision Transformers, [[Paper]](https://arxiv.org/pdf/2111.11067.pdf)
+
+- (arXiv 2021.11) CpT: Convolutional Point Transformer for 3D **Point Cloud** Processing, [[Paper]](https://arxiv.org/pdf/2111.10866.pdf)
+
+- (arXiv 2021.11) ZERO-SHOT CERTIFIED **DEFENSE** AGAINST **ADVERSARIAL** PATCHES WITH VISION TRANSFORMERS, [[Paper]](https://arxiv.org/pdf/2111.10481.pdf)
 
 - (arXiv 2021.11) PointMixer: MLP-Mixer for **Point Cloud** Understanding, [[Paper]](https://arxiv.org/pdf/2111.11187.pdf)
 
