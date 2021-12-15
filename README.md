@@ -63,9 +63,29 @@ Keep updated.
 ### 2021.12
 <!-- - (arXiv 2021.12) , [[Paper]]() -->
 
-<!-- - (arXiv 2021.12) , [[Paper]]()
+- (arXiv 2021.12) **SELF-ATTENTION** DOES NOT NEED O(n^2) MEMORY, [[Paper]](https://arxiv.org/pdf/2112.05682.pdf)
 
-- (arXiv 2021.12) , [[Paper]]() -->
+- (arXiv 2021.12) Are Vision Transformers **Robust** to Patch Perturbations? [[Paper]](https://arxiv.org/pdf/2111.10659.pdf)
+
+- (arXiv 2021.12) Mesa: A **Memory-saving Training** Framework for Transformers, [[Paper]](https://arxiv.org/pdf/2111.11124.pdf), [[Code]](https://github.com/zhuang-group/Mesa)
+
+- (arXiv 2021.12) Injecting Semantic Concepts into End-to-End Image **Captioning**, [[Paper]](https://arxiv.org/pdf/2112.05230.pdf)
+
+- (arXiv 2021.12) MAGMA – Multimodal **Augmentation** of **Generative** Models through Adapter-based Finetuning, [[Paper]](https://arxiv.org/pdf/2112.05253.pdf)
+
+- (arXiv 2021.12) LCTR: On Awakening the Local Continuity of Transformer for **Weakly Supervised Object Localization**, [[Paper]](https://arxiv.org/pdf/2112.05291.pdf)
+
+- (arXiv 2021.12) FaceFormer: **Speech-Driven 3D Facial Animation** with Transformers, [[Paper]](https://arxiv.org/pdf/2112.05329.pdf)
+
+- (arXiv 2021.12) Rethinking the Two-Stage Framework for **Grounded Situation Recognition**, [[Paper]](https://arxiv.org/pdf/2112.05375.pdf), [[Code]](https://github.com/kellyiss/SituFormer)
+
+- (arXiv 2021.12) **CLIP**2Style**GAN**: Unsupervised Extraction of StyleGAN Edit Directions, [[Paper]](https://arxiv.org/pdf/2112.05219.pdf)
+
+- (arXiv 2021.12) Couplformer: Rethinking Vision Transformer with Coupling **Attention** Map, [[Paper]](https://arxiv.org/pdf/2112.05425.pdf)
+
+- (arXiv 2021.12) Unified Multimodal Pre-training and Prompt-based Tuning for **Vision-Language** Understanding and Generation, [[Paper]](https://arxiv.org/pdf/2112.05587.pdf)
+
+- (arXiv 2021.12) Visual Transformers with Primal Object Queries for **Multi-Label Image Classification**, [[Paper]](https://arxiv.org/pdf/2112.05485.pdf)
 
 - (arXiv 2021.12) Colossal-AI: A Unified Deep Learning System For **Large-Scale Parallel Training**, [[Paper]](https://arxiv.org/pdf/2110.14883.pdf), [[Code]](https://github.com/hpcaitech/ColossalAI)
 
