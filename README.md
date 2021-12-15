@@ -65,7 +65,27 @@ Keep updated.
 
 <!-- - (arXiv 2021.12) , [[Paper]]()
 
+- (arXiv 2021.12) , [[Paper]]()
+
+- (arXiv 2021.12) , [[Paper]]()
+
+- (arXiv 2021.12) , [[Paper]]()
+
 - (arXiv 2021.12) , [[Paper]]() -->
+
+- (arXiv 2021.12) U^2-Former: A Nested U-shaped Transformer for **Image Restoration**, [[Paper]](https://arxiv.org/pdf/2112.02279.pdf)
+
+- (arXiv 2021.12) ADAPTIVE CHANNEL ENCODING TRANSFORMER FOR **POINT CLOUD** ANALYSIS, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2112/2112.02507.pdf)
+
+- (arXiv 2021.12) Pose-guided Feature Disentangling for Occluded Person **Re-identification** Based on Transformer, [[Paper]](https://arxiv.org/pdf/2112.02466.pdf), [[Code]](https://github.com/WangTaoAs/PFD_Net)
+
+- (arXiv 2021.12) VT-CLIP: Enhancing **Vision-Language** Models with Visual-guided Texts, [[Paper]](https://arxiv.org/pdf/2112.02399.pdf)
+
+- (arXiv 2021.12) PointCLIP: **Point Cloud** Understanding by **CLIP**, [[Paper]](https://arxiv.org/pdf/2112.02413.pdf), [[Code]](https://github.com/ZrrSkywalker/PointCLIP)
+
+- (arXiv 2021.12) Learning **Tracking** Representations via Dual-Branch Fully Transformer Networks, [[Paper]](https://arxiv.org/pdf/2112.02571.pdf), [[Code]](https://github.com/phiphiphi31/DualTFR)
+
+- (arXiv 2021.12) DYNAMIC TOKEN **NORMALIZATION** IMPROVES VISION TRANSFORMER, [[Paper]](https://arxiv.org/pdf/2112.02624.pdf), [[Code]](https://github.com/wqshao126/DTN)
 
 - (arXiv 2021.12) PTTR: Relational 3D **Point Cloud Object Tracking** with Transformer, [[Paper]](https://arxiv.org/pdf/2112.02857.pdf), [[Code]](https://github.com/Jasonkks/PTTR)
 
