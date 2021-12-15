@@ -63,6 +63,16 @@ Keep updated.
 ### 2021.12
 <!-- - (arXiv 2021.12) , [[Paper]]() -->
 
+<!-- - (arXiv 2021.12) , [[Paper]]()
+
+- (arXiv 2021.12) , [[Paper]]()
+
+- (arXiv 2021.12) , [[Paper]]()
+
+- (arXiv 2021.12) , [[Paper]]() -->
+
+- (arXiv 2021.12) L-Verse: Bidirectional **Generation** Between **Image** and **Text**, [[Paper]](https://arxiv.org/pdf/2111.11133.pdf)
+
 - (arXiv 2021.12) **SELF-ATTENTION** DOES NOT NEED O(n^2) MEMORY, [[Paper]](https://arxiv.org/pdf/2112.05682.pdf)
 
 - (arXiv 2021.12) Are Vision Transformers **Robust** to Patch Perturbations? [[Paper]](https://arxiv.org/pdf/2111.10659.pdf)
@@ -238,6 +248,8 @@ Keep updated.
 - (arXiv 2021.12) Object-aware **Video-language** Pre-training for Retrieval, [[Paper]](https://arxiv.org/pdf/2112.00656.pdf), [[Code]](https://github.com/FingerRec/OA-Transformer)
 
 ### 2021.11
+
+- (arXiv 2021.11) Multi-modal Transformers Excel at **Class-agnostic** Object **Detection**, [[Paper]](https://arxiv.org/pdf/2111.11430.pdf), [[Code]](https://git.io/J1HPY)
 
 - (arXiv 2021.11) Predict, Prevent, and Evaluate: Disentangled **Text-Driven Image Manipulation** Empowered by Pre-Trained Vision-Language Model, [[Paper]](https://arxiv.org/pdf/2111.13333.pdf)
 
