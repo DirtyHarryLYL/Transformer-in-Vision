@@ -65,13 +65,13 @@ Keep updated.
 
 <!-- - (arXiv 2021.12) , [[Paper]]()
 
-- (arXiv 2021.12) , [[Paper]]()
-
-- (arXiv 2021.12) , [[Paper]]()
-
-- (arXiv 2021.12) , [[Paper]]()
-
 - (arXiv 2021.12) , [[Paper]]() -->
+
+- (arXiv 2021.12) Colossal-AI: A Unified Deep Learning System For **Large-Scale Parallel Training**, [[Paper]](https://arxiv.org/pdf/2110.14883.pdf), [[Code]](https://github.com/hpcaitech/ColossalAI)
+
+- (arXiv 2021.12) MS-TCT: Multi-Scale Temporal ConvTransformer for **Action Detection**, [[Paper]](https://arxiv.org/pdf/2112.03902.pdf)
+
+- (arXiv 2021.12) Grounded **Language-Image** Pre-training, [[Paper]](https://arxiv.org/pdf/2112.03857.pdf), [[Code]](https://github.com/microsoft/GLIP)
 
 - (arXiv 2021.12) U^2-Former: A Nested U-shaped Transformer for **Image Restoration**, [[Paper]](https://arxiv.org/pdf/2112.02279.pdf)
 
