@@ -63,9 +63,27 @@ Keep updated.
 ### 2021.12
 <!-- - (arXiv 2021.12) , [[Paper]]() -->
 
-<!-- - (arXiv 2021.12) , [[Paper]]()
+<!-- - (arXiv 2021.12) , [[Paper]]() -->
 
-- (arXiv 2021.12) , [[Paper]]() -->
+- (arXiv 2021.12) AdaViT: Adaptive Tokens for **Efficient** Vision Transformer, [[Paper]](https://arxiv.org/pdf/2112.07658.pdf)
+
+- (arXiv 2021.12) **CLIP**-Lite: Information **Efficient** Visual Representation Learning from Textual Annotations, [[Paper]](https://arxiv.org/pdf/2112.07133.pdf)
+
+- (arXiv 2021.12) Towards a Unified Foundation Model: Jointly Pre-Training Transformers on **Unpaired Images and Text**, [[Paper]](https://arxiv.org/pdf/2112.07074.pdf)
+
+- (arXiv 2021.12) Deep ViT Features as Dense Visual **Descriptors**, [[Paper]](https://arxiv.org/pdf/2112.05814.pdf), [[Project]](https://dino-vit-features.github.io/)
+
+- (arXiv 2021.12) Geometry-Contrastive Transformer for Generalized 3D Pose Transfer, [[Paper]](https://arxiv.org/pdf/2112.07374.pdf), [[Code]](https://github.com/mikecheninoulu/CGT)
+
+- (arXiv 2021.12) Temporal Transformer Networks with Self-Supervision for **Action Recognition**, [[Paper]](https://arxiv.org/pdf/2112.07338.pdf)
+
+- (arXiv 2021.12) COMPOSER: Compositional Learning of **Group Activity** in Videos, [[Paper]](https://arxiv.org/pdf/2112.05892.pdf)
+
+- (arXiv 2021.12) Short and Long Range Relation Based Spatio-Temporal Transformer for **Micro-Expression Recognition**, [[Paper]](https://arxiv.org/pdf/2112.05851.pdf)
+
+- (arXiv 2021.12) Improving and Diagnosing Knowledge-Based **Visual Question Answering** via Entity Enhanced Knowledge Injection, [[Paper]](https://arxiv.org/pdf/2112.06888.pdf)
+
+- (arXiv 2021.12) SVIP: **Sequence VerIfication** for Procedures in **Videos**, [[Paper]](https://arxiv.org/pdf/2112.06447.pdf)
 
 - (arXiv 2021.12) Improving Vision Transformers for **Incremental Learning**, [[Paper]](https://arxiv.org/pdf/2112.06103.pdf)
 
