@@ -65,11 +65,19 @@ Keep updated.
 
 <!-- - (arXiv 2021.12) , [[Paper]]()
 
-- (arXiv 2021.12) , [[Paper]]()
-
-- (arXiv 2021.12) , [[Paper]]()
-
 - (arXiv 2021.12) , [[Paper]]() -->
+
+- (arXiv 2021.12) Improving Vision Transformers for **Incremental Learning**, [[Paper]](https://arxiv.org/pdf/2112.06103.pdf)
+
+- (arXiv 2021.12) VL-ADAPTER: Parameter-Efficient Transfer Learning for **Vision-and-Language** Tasks, [[Paper]](https://arxiv.org/pdf/2112.06825.pdf), [[Code]](https://github.com/ylsung/VL_adapter)
+
+- (arXiv 2021.12) Embracing Single Stride **3D Object Detector** with Sparse Transformer, [[Paper]](https://arxiv.org/pdf/2112.06375.pdf), [[Code]](https://github.com/TuSimple/SST)
+
+- (arXiv 2021.12) PartGlot: Learning **Shape Part Segmentation** from Language Reference Games, [[Paper]](https://arxiv.org/pdf/2112.06390.pdf)
+
+- (arXiv 2021.12) **Pedestrian Trajectory Prediction** via Spatial Interaction Transformer Network, [[Paper]](https://arxiv.org/pdf/2112.06624.pdf)
+
+- (arXiv 2021.12) LEARNING SEMANTIC-ALIGNED FEATURE REPRESENTATION FOR **TEXT-BASED PERSON SEARCH**, [[Paper]](https://arxiv.org/pdf/2112.06714.pdf)
 
 - (arXiv 2021.12) L-Verse: Bidirectional **Generation** Between **Image** and **Text**, [[Paper]](https://arxiv.org/pdf/2111.11133.pdf)
 
