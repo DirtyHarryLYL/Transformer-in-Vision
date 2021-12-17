@@ -63,7 +63,19 @@ Keep updated.
 ### 2021.12
 <!-- - (arXiv 2021.12) , [[Paper]]() -->
 
-<!-- - (arXiv 2021.12) , [[Paper]]() -->
+<!-- - (arXiv 2021.12) , [[Paper]]()
+
+- (arXiv 2021.12) , [[Paper]]() -->
+
+- (arXiv 2021.12) SGEITL: Scene Graph Enhanced Image-Text Learning for **Visual Commonsense Reasoning**, [[Paper]](https://arxiv.org/pdf/2112.08587.pdf)
+
+- (arXiv 2021.12) TransZero++: Cross Attribute-Guided Transformer for **Zero-Shot Learning**, [[Paper]](https://arxiv.org/pdf/2112.08643.pdf), [[Code]](https://github.com/shiming-chen/TransZero_pp)
+
+- (arXiv 2021.12) Vision Transformer Based **Video Hashing Retrieval** for Tracing the Source of Fake Videos, [[Paper]](https://arxiv.org/pdf/2112.08117.pdf), [[Code]](https://github.com/lajlksdf/vtl)
+
+- (arXiv 2021.12) Co-training Transformer with Videos and Images Improves **Action Recognition**, [[Paper]](https://arxiv.org/pdf/2112.07175.pdf)
+
+- (arXiv 2021.12) QAHOI: Query-Based Anchors for **Human-Object Interaction** Detection, [[Paper]](https://arxiv.org/pdf/2112.08647.pdf), [[Code]](https://github.com/cjw2021/QAHOI)
 
 - (arXiv 2021.12) AdaViT: Adaptive Tokens for **Efficient** Vision Transformer, [[Paper]](https://arxiv.org/pdf/2112.07658.pdf)
 
