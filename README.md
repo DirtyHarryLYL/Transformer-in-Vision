@@ -65,7 +65,23 @@ Keep updated.
 
 <!-- - (arXiv 2021.12) , [[Paper]]()
 
+- (arXiv 2021.12) , [[Paper]]()
+
 - (arXiv 2021.12) , [[Paper]]() -->
+
+- (arXiv 2021.12) Learning to Prompt for **Continual Learning**, [[Paper]](https://arxiv.org/pdf/2112.08654.pdf), [[Code]](https://github.com/google-research/l2p)
+
+- (arXiv 2021.12) Distilled Dual-Encoder Model for **Vision-Language** Understanding, [[Paper]](https://arxiv.org/pdf/2112.08723.pdf), [[Code]](https://github.com/kugwzk/Distilled-DualEncoder)
+
+- (arXiv 2021.12) Dense Video **Captioning** Using Unsupervised Semantic Information, [[Paper]](https://arxiv.org/pdf/2112.08455.pdf), [[Code]](https://github.com/valterlej/dvcusi)
+
+- (arXiv 2021.12) Looking Outside the Box to **Ground Language** in **3D** Scenes, [[Paper]](https://arxiv.org/pdf/2112.08879.pdf), [[Code]](https://github.com/nickgkan/beauty_detr)
+
+- (arXiv 2021.12) Region**CLIP**: Region-based **Language-Image** Pretraining, [[Paper]](https://arxiv.org/pdf/2112.09106.pdf), [[Code]](https://github.com/microsoft/RegionCLIP)
+
+- (arXiv 2021.12) DProST: **6-DoF Object Pose Estimation** Using Space Carving and Dynamic Projective Spatial Transformer, [[Paper]](https://arxiv.org/pdf/2112.08775.pdf)
+
+- (arXiv 2021.12) Masked Feature Prediction for **Self-Supervised** Visual Pre-Training, [[Paper]](https://arxiv.org/pdf/2112.09133.pdf)
 
 - (arXiv 2021.12) SGEITL: Scene Graph Enhanced Image-Text Learning for **Visual Commonsense Reasoning**, [[Paper]](https://arxiv.org/pdf/2112.08587.pdf)
 
