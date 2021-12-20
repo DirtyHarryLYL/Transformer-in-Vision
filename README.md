@@ -67,7 +67,47 @@ Keep updated.
 
 - (arXiv 2021.12) , [[Paper]]()
 
+- (arXiv 2021.12) , [[Paper]]()
+
+- (arXiv 2021.12) , [[Paper]]()
+
+- (arXiv 2021.12) , [[Paper]]()
+
+- (arXiv 2021.12) , [[Paper]]()
+
+- (arXiv 2021.12) , [[Paper]]()
+
+- (arXiv 2021.12) , [[Paper]]()
+
+- (arXiv 2021.12) , [[Paper]]()
+
+- (arXiv 2021.12) , [[Paper]]()
+
+- (arXiv 2021.12) , [[Paper]]()
+
+- (arXiv 2021.12) , [[Paper]]()
+
+- (arXiv 2021.12) , [[Paper]]()
+
 - (arXiv 2021.12) , [[Paper]]() -->
+
+- (arXiv 2021.12) **Efficient** Visual **Tracking** with Exemplar Transformers, [[Paper]](https://arxiv.org/pdf/2112.09686.pdf), [[Code]](https://github.com/visionml/pytracking)
+
+- (arXiv 2021.12) **Neuromorphic Camera Denoising** using Graph Neural Network-driven Transformers, [[Paper]](https://arxiv.org/pdf/2112.09685.pdf)
+
+- (arXiv 2021.12) Align and Prompt: **Video-and-Language** Pre-training with Entity Prompts, [[Paper]](https://arxiv.org/pdf/2112.09583.pdf), [[Code]](https://github.com/salesforce/ALPRO)
+
+- (arXiv 2021.12) DATA **EFFICIENT** **LANGUAGE-SUPERVISED ZEROSHOT RECOGNITION** WITH OPTIMAL TRANSPORT DISTILLATION, [[Paper]](https://arxiv.org/pdf/2112.09445.pdf)
+
+- (arXiv 2021.12) SiamTrans: Zero-Shot Multi-Frame **Image Restoration** with Pre-Trained Siamese Transformers, [[Paper]](https://arxiv.org/pdf/2112.09426.pdf)
+
+- (arXiv 2021.12) Full Transformer Framework for Robust **Point Cloud Registration** with Deep Information Interaction, [[Paper]](https://arxiv.org/pdf/2112.09385.pdf), [[Code]](https://github.com/CGuangyan-BIT/DIT)
+
+- (arXiv 2021.12) ZeroVL: A Strong Baseline for Aligning **Vision-Language** Representations with **Limited Resources**, [[Paper]](https://arxiv.org/pdf/2112.09331.pdf)
+
+- (arXiv 2021.12) Towards End-to-End **Image Compression and Analysis** with Transformers, [[Paper]](https://arxiv.org/pdf/2112.09300.pdf)
+
+- (arXiv 2021.12) How to **augment** your ViTs? Consistency loss and StyleAug, a random style transfer augmentation, [[Paper]](https://arxiv.org/pdf/2112.09260.pdf)
 
 - (arXiv 2021.12) Learning to Prompt for **Continual Learning**, [[Paper]](https://arxiv.org/pdf/2112.08654.pdf), [[Code]](https://github.com/google-research/l2p)
 
