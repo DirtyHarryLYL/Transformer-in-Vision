@@ -71,25 +71,25 @@ Keep updated.
 
 - (arXiv 2021.12) , [[Paper]]()
 
-- (arXiv 2021.12) , [[Paper]]()
-
-- (arXiv 2021.12) , [[Paper]]()
-
-- (arXiv 2021.12) , [[Paper]]()
-
-- (arXiv 2021.12) , [[Paper]]()
-
-- (arXiv 2021.12) , [[Paper]]()
-
-- (arXiv 2021.12) , [[Paper]]()
-
-- (arXiv 2021.12) , [[Paper]]()
-
-- (arXiv 2021.12) , [[Paper]]()
-
-- (arXiv 2021.12) , [[Paper]]()
-
 - (arXiv 2021.12) , [[Paper]]() -->
+
+- (arXiv 2021.12) On **Efficient** Transformer and Image Pre-training for **Low-level** Vision, [[Paper]](https://arxiv.org/pdf/2112.10175.pdf), [[Code]](https://github.com/fenglinglwb/EDT)
+
+- (arXiv 2021.12) LOCFORMER: Enabling Transformers to Perform **Temporal Moment Localization** on Long Untrimmed Videos With a Feature Sampling Approach, [[Paper]](https://arxiv.org/pdf/2112.10066.pdf)
+
+- (arXiv 2021.12) Tell me what you see: A zero-shot action recognition method based on natural language descriptions, [[Paper]](https://arxiv.org/pdf/2112.09976.pdf), [[Code]](https://github.com/valterlej/zsarcap)
+
+- (arXiv 2021.12) Pre-Training Transformers for **Domain Adaptation**, [[Paper]](https://arxiv.org/pdf/2112.09965.pdf)
+
+- (arXiv 2021.12) ScanQA: 3D Question Answering for Spatial Scene Understanding, [[Paper]](https://arxiv.org/pdf/2112.10482.pdf)
+
+- (arXiv 2021.12) Are Large-scale Datasets Necessary for Self-Supervised Pre-training? [[Paper]](https://arxiv.org/pdf/2112.10740.pdf)
+
+- (arXiv 2021.12) StyleSwin: Transformer-based GAN for High-resolution **Image Generation**, [[Paper]](https://arxiv.org/pdf/2112.10762.pdf), [[Code]](https://github.com/microsoft/StyleSwin)
+
+- (arXiv 2021.12) Mask2Former for **Video Instance Segmentation**, [[Paper]](https://arxiv.org/pdf/2112.10764.pdf), [[Code]](https://github.com/facebookresearch/Mask2Former)
+
+- (arXiv 2021.12) GLIDE: Towards Photorealistic **Image Generation** and **Editing** with **Text**-Guided Diffusion Models, [[Paper]](https://arxiv.org/pdf/2112.10741.pdf), [[Code]](https://github.com/openai/glide-text2im)
 
 - (arXiv 2021.12) **Efficient** Visual **Tracking** with Exemplar Transformers, [[Paper]](https://arxiv.org/pdf/2112.09686.pdf), [[Code]](https://github.com/visionml/pytracking)
 
