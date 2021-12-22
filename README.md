@@ -71,13 +71,29 @@ Keep updated.
 
 - (arXiv 2021.12) , [[Paper]]()
 
+- (arXiv 2021.12) , [[Paper]]()
+
 - (arXiv 2021.12) , [[Paper]]() -->
+
+- (arXiv 2021.12) iSegFormer: Interactive Image **Segmentation** with Transformers, [[Paper]](https://arxiv.org/pdf/2112.11325.pdf), [[Code]](https://github.com/qinliuliuqin/iSegFormer.git)
+
+- (arXiv 2021.12) Contrastive Object **Detection** Using Knowledge Graph Embeddings, [[Paper]](https://arxiv.org/pdf/2112.11366.pdf)
+
+- (arXiv 2021.12) RepMLPNet: Hierarchical Vision **MLP** with Re-parameterized **Locality**, [[Paper]](https://arxiv.org/pdf/2112.11081.pdf), [[Code]](https://github.com/DingXiaoH/RepMLP)
+
+- (arXiv 2021.12) **Lite** Vision Transformer with Enhanced **Self-Attention**, [[Paper]](https://arxiv.org/pdf/2112.10809.pdf), [[Code]](https://github.com/Chenglin-Yang/LVT)
+
+- (arXiv 2021.12) MPViT : Multi-Path Vision Transformer for **Dense Prediction**, [[Paper]](https://arxiv.org/pdf/2112.11010.pdf), [[Code]](https://git.io/MPViT)
+
+- (arXiv 2021.12) SOIT: **Segmenting** Objects with Instance-Aware Transformers, [[Paper]](https://arxiv.org/pdf/2112.11037.pdf), [[Code]](https://github.com/yuxiaodongHRI/SOIT)
+
+- (arXiv 2021.12) Learned Queries for Efficient Local **Attention**, [[Paper]](https://arxiv.org/pdf/2112.11435.pdf), [[Code]](https://github.com/moabarar/qna)
 
 - (arXiv 2021.12) On **Efficient** Transformer and Image Pre-training for **Low-level** Vision, [[Paper]](https://arxiv.org/pdf/2112.10175.pdf), [[Code]](https://github.com/fenglinglwb/EDT)
 
 - (arXiv 2021.12) LOCFORMER: Enabling Transformers to Perform **Temporal Moment Localization** on Long Untrimmed Videos With a Feature Sampling Approach, [[Paper]](https://arxiv.org/pdf/2112.10066.pdf)
 
-- (arXiv 2021.12) Tell me what you see: A zero-shot action recognition method based on natural language descriptions, [[Paper]](https://arxiv.org/pdf/2112.09976.pdf), [[Code]](https://github.com/valterlej/zsarcap)
+- (arXiv 2021.12) Tell me what you see: A zero-shot **action recognition** method based on natural language descriptions, [[Paper]](https://arxiv.org/pdf/2112.09976.pdf), [[Code]](https://github.com/valterlej/zsarcap)
 
 - (arXiv 2021.12) Pre-Training Transformers for **Domain Adaptation**, [[Paper]](https://arxiv.org/pdf/2112.09965.pdf)
 
