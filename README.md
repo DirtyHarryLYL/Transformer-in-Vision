@@ -67,9 +67,21 @@ Keep updated.
 
 - (arXiv 2021.12) , [[Paper]]()
 
-- (arXiv 2021.12) , [[Paper]]()
-
 - (arXiv 2021.12) , [[Paper]]() -->
+
+- (arXiv 2021.12) SeMask: Semantically Masked Transformers for **Semantic Segmentation**, [[Paper]](https://arxiv.org/pdf/2112.12782.pdf), [[Code]](https://github.com/Picsart-AI-Research/SeMask-Segmentation)
+
+- (arXiv 2021.12) Open-Vocabulary Image **Segmentation**, [[Paper]](https://arxiv.org/pdf/2112.12143.pdf)
+
+- (arXiv 2021.12) ELSA: Enhanced Local **Self-Attention** for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2112.12786.pdf), [[Code]](https://github.com/damo-cv/ELSA)
+
+- (arXiv 2021.12) LaTr: Layout-Aware Transformer for **Scene-Text** **VQA**, [[Paper]](https://arxiv.org/pdf/2112.12494.pdf)
+
+- (arXiv 2021.12) **Multimodal Personality Recognition** using Cross-Attention Transformer and Behaviour Encoding, [[Paper]](https://arxiv.org/pdf/2112.12180.pdf)
+
+- (arXiv 2021.12) Fine-grained **Multi-Modal Self-Supervised Learning**, [[Paper]](https://arxiv.org/pdf/2112.12182.pdf)
+
+- (arXiv 2021.12) SLIP: Self-supervision meets **Language-Image** Pre-training, [[Paper]](https://arxiv.org/pdf/2112.12750.pdf), [[Code]](https://github.com/facebookresearch/SLIP)
 
 - (arXiv 2021.12) CLEVR3D: Compositional Language and Elementary Visual Reasoning for **Question Answering** in **3D Real-World Scenes**, [[Paper]](https://arxiv.org/pdf/2112.11691.pdf)
 
