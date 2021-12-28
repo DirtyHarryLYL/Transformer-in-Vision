@@ -65,9 +65,21 @@ Keep updated.
 
 <!-- - (arXiv 2021.12) , [[Paper]]()
 
-- (arXiv 2021.12) , [[Paper]]()
-
 - (arXiv 2021.12) , [[Paper]]() -->
+
+- (arXiv 2021.12) Miti-DETR: Object **Detection** based on Transformers with Mitigatory Self-Attention Convergence, [[Paper]](https://arxiv.org/pdf/2112.13310.pdf)
+
+- (arXiv 2021.12) SIMVIT: EXPLORING A SIMPLE VISION TRANSFORMER WITH **SLIDING WINDOWS**, [[Paper]](https://arxiv.org/pdf/2112.13085.pdf), [[Code]](https://github.com/ucasligang/SimViT)
+
+- (arXiv 2021.12) SGTR: End-to-end **Scene Graph Generation** with Transformer, [[Paper]](https://arxiv.org/pdf/2112.12970.pdf)
+
+- (arXiv 2021.12) **Video** Joint Modelling Based on Hierarchical Transformer for **Co-summarization**, [[Paper]](https://arxiv.org/pdf/2112.13478.pdf)
+
+- (arXiv 2021.12) Vision Transformer for **Small-Size Datasets**, [[Paper]](https://arxiv.org/pdf/2112.13492.pdf)
+
+- (arXiv 2021.12) Learning **Generative** Vision Transformer with Energy-Based Latent Space for **Saliency Prediction**, [[Paper]](https://arxiv.org/pdf/2112.13528.pdf)
+
+- (arXiv 2021.12) ViR: the Vision **Reservoir**, [[Paper]](https://arxiv.org/pdf/2112.13545.pdf)
 
 - (arXiv 2021.12) SeMask: Semantically Masked Transformers for **Semantic Segmentation**, [[Paper]](https://arxiv.org/pdf/2112.12782.pdf), [[Code]](https://github.com/Picsart-AI-Research/SeMask-Segmentation)
 
