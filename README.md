@@ -60,12 +60,49 @@ Keep updated.
 - (arXiv 2020.1) Transformers in Vision: A Survey, [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
+<!-- ### 2022.01 -->
+<!-- - (arXiv 2022.01) , [[Paper]]() -->
+
 ### 2021.12
 <!-- - (arXiv 2021.12) , [[Paper]]() -->
 
 <!-- - (arXiv 2021.12) , [[Paper]]()
 
+- (arXiv 2021.12) , [[Paper]]()
+
+- (arXiv 2021.12) , [[Paper]]()
+
+- (arXiv 2021.12) , [[Paper]]()
+
+- (arXiv 2021.12) , [[Paper]]()
+
+- (arXiv 2021.12) , [[Paper]]()
+
+- (arXiv 2021.12) , [[Paper]]()
+
+- (arXiv 2021.12) , [[Paper]]()
+
+- (arXiv 2021.12) , [[Paper]]()
+
 - (arXiv 2021.12) , [[Paper]]() -->
+
+- (arXiv 2021.12) Siamese Network with Interactive Transformer for **Video Object Segmentation**, [[Paper]](https://arxiv.org/pdf/2112.13983.pdf), [[Code]](https://github.com/LANMNG/SITVOS)
+
+- (arXiv 2021.12) Pale Transformer: A General Vision Transformer **Backbone** with Pale-Shaped **Atention**, [[Paper]](https://arxiv.org/pdf/2112.14000.pdf), [[Code]](https://github.com/BR-IDL/PaddleViT)
+
+- (arXiv 2021.12) APRIL: Finding the Achilles’ Heel on **Privacy** for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2112.14087.pdf)
+
+- (arXiv 2021.12) Synchronized Audio-Visual Frames with Fractional Positional Encoding for Transformers in **Video-to-Text Translation**, [[Paper]](https://arxiv.org/pdf/2112.14088.pdf)
+
+- (arXiv 2021.12) Does **CLIP** Benefit **Visual Question Answering** in the Medical Domain as Much as it Does in the General Domain?, [[Paper]](https://arxiv.org/pdf/2112.13906.pdf)
+
+- (arXiv 2021.12) SPViT: Enabling **Faster** Vision Transformers via Soft Token Pruning, [[Paper]](https://arxiv.org/pdf/2112.13890.pdf)
+
+- (arXiv 2021.12) A FISTFUL OF WORDS: LEARNING TRANSFERABLE VISUAL MODELS FROM BAG-OF-WORDS SUPERVISION, [[Paper]](https://arxiv.org/pdf/2112.13884.pdf)
+
+- (arXiv 2021.12) StyleGAN-V: A Continuous **Video** Generator with the Price, Image Quality and Perks of **StyleGAN2**, [[Paper]](https://arxiv.org/pdf/2112.14683.pdf), [[Code]](https://universome.github.io/stylegan-v)
+
+- (arXiv 2021.12) A Simple Baseline for **Zero-shot Semantic Segmentation** with Pre-trained **Vision-language** Model, [[Paper]](https://arxiv.org/pdf/2112.14757.pdf), [[Code]](https://github.com/MendelXu/zsseg.baseline)
 
 - (arXiv 2021.12) Miti-DETR: Object **Detection** based on Transformers with Mitigatory Self-Attention Convergence, [[Paper]](https://arxiv.org/pdf/2112.13310.pdf)
 
