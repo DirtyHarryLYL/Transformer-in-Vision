@@ -65,11 +65,25 @@ Keep updated.
 
 <!-- - (arXiv 2022.01) , [[Paper]]()
 
-- (arXiv 2022.01) , [[Paper]]()
-
-- (arXiv 2022.01) , [[Paper]]()
-
 - (arXiv 2022.01) , [[Paper]]() -->
+
+- (arXiv 2022.01) **Stochastic Layers** in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2112.15111.pdf)
+
+- (arXiv 2022.01) ERNIE-VILG: UNIFIED GENERATIVE PRE-TRAINING FOR **BIDIRECTIONAL VISION-LANGUAGE GENERATION**, [[Paper]](https://arxiv.org/pdf/2112.15283.pdf)
+
+- (arXiv 2022.01) InverseMV: **Composing Piano Scores** with a Convolutional **Video-Music** Transformer, [[Paper]](https://arxiv.org/pdf/2112.15320.pdf), [[Code]](https://github.com/linchintung/VMT)
+
+- (arXiv 2022.01) CSformer: Bridging Convolution and Transformer for **Compressive Sensing**, [[Paper]](https://arxiv.org/pdf/2112.15299.pdf)
+
+- (arXiv 2022.01) Persformer: A Transformer Architecture for **Topological Machine Learning**, [[Paper]](https://arxiv.org/pdf/2112.15210.pdf)
+
+- (arXiv 2022.01) Vision Transformer **Slimming**: Multi-Dimension Searching in Continuous Optimization Space, [[Paper]](https://arxiv.org/pdf/2201.00814.pdf)
+
+- (arXiv 2022.01) Language as Queries for **Referring Video Object Segmentation**, [[Paper]](https://arxiv.org/pdf/2201.00487.pdf), [[Code]](https://github.com/wjn922/ReferFormer)
+
+- (arXiv 2022.01) PyramidTNT: Improved **Transformer-in-Transformer** Baselines with Pyramid Architecture, [[Paper]](https://arxiv.org/pdf/2201.00978.pdf), [[Code]](https://github.com/huawei-noah/CV-Backbones/tree/master/tnt_pytorch)
+
+- (arXiv 2022.01) A TRANSFORMER-BASED SIAMESE NETWORK FOR **CHANGE DETECTION**, [[Paper]](https://arxiv.org/pdf/2201.01293.pdf), [[Code]](https://github.com/wgcban/ChangeFormer)
 
 - (arXiv 2022.01) Vision Transformer with **Deformable Attention**, [[Paper]](https://arxiv.org/pdf/2201.00520.pdf), [[Code]](https://github.com/LeapLabTHU/DAT)
 
