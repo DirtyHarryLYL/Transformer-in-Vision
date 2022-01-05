@@ -63,28 +63,23 @@ Keep updated.
 <!-- ### 2022.01 -->
 <!-- - (arXiv 2022.01) , [[Paper]]() -->
 
+<!-- - (arXiv 2022.01) , [[Paper]]()
+
+- (arXiv 2022.01) , [[Paper]]()
+
+- (arXiv 2022.01) , [[Paper]]()
+
+- (arXiv 2022.01) , [[Paper]]() -->
+
+- (arXiv 2022.01) Vision Transformer with **Deformable Attention**, [[Paper]](https://arxiv.org/pdf/2201.00520.pdf), [[Code]](https://github.com/LeapLabTHU/DAT)
+
+- (arXiv 2022.01) Splicing ViT Features for **Semantic Appearance Transfer**, [[Paper]](https://arxiv.org/pdf/2201.00424.pdf), [[Project]](https://splice-vit.github.io/)
+
+- (arXiv 2022.01) Detail-Preserving Transformer for **Light Field Image Super-Resolution**, [[Paper]](https://arxiv.org/pdf/2201.00346.pdf), [[Code]](https://github.com/BITszwang/DPT)
+
 ### 2021.12
-<!-- - (arXiv 2021.12) , [[Paper]]() -->
 
-<!-- - (arXiv 2021.12) , [[Paper]]()
-
-- (arXiv 2021.12) , [[Paper]]()
-
-- (arXiv 2021.12) , [[Paper]]()
-
-- (arXiv 2021.12) , [[Paper]]()
-
-- (arXiv 2021.12) , [[Paper]]()
-
-- (arXiv 2021.12) , [[Paper]]()
-
-- (arXiv 2021.12) , [[Paper]]()
-
-- (arXiv 2021.12) , [[Paper]]()
-
-- (arXiv 2021.12) , [[Paper]]()
-
-- (arXiv 2021.12) , [[Paper]]() -->
+- (arXiv 2021.12) Multi-Dimensional **Model Compression** of Vision Transformer, [[Paper]](https://arxiv.org/pdf/2201.00043.pdf)
 
 - (arXiv 2021.12) Siamese Network with Interactive Transformer for **Video Object Segmentation**, [[Paper]](https://arxiv.org/pdf/2112.13983.pdf), [[Code]](https://github.com/LANMNG/SITVOS)
 
