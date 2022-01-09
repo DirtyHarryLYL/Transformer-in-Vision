@@ -75,15 +75,15 @@ Keep updated.
 
 - (arXiv 2022.01) , [[Paper]]()
 
-- (arXiv 2022.01) , [[Paper]]()
-
-- (arXiv 2022.01) , [[Paper]]()
-
-- (arXiv 2022.01) , [[Paper]]()
-
-- (arXiv 2022.01) , [[Paper]]()
-
 - (arXiv 2022.01) , [[Paper]]() -->
+
+- (arXiv 2022.01) Lawin Transformer: Improving **Semantic Segmentation** Transformer with Multi-Scale Representations via Large Window Attention, [[Paper]](https://arxiv.org/pdf/2201.01615.pdf), [[Code]](https://github.com/yan-hao-tian/lawin)
+
+- (arXiv 2022.01) **Self-Training** **Vision Language** BERTs with a Unified Conditional Model, [[Paper]](https://arxiv.org/pdf/2201.02010.pdf)
+
+- (arXiv 2022.01) TransVPR: Transformer-based TransVPR: Transformer-based place recognition with multi-level attention aggregation with multi-level attention aggregation, [[Paper]](https://arxiv.org/pdf/2201.02001.pdf)
+
+- (arXiv 2022.01) Compact Bidirectional Transformer for Image **Captioning**, [[Paper]](https://arxiv.org/pdf/2201.01984.pdf), [[Code]](https://github.com/YuanEZhou/CBTrans)
 
 - (arXiv 2022.01) Flow-Guided Sparse Transformer for **Video Deblurring**, [[Paper]](https://arxiv.org/pdf/2201.01893.pdf)
 
