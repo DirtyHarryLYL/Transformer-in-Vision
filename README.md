@@ -73,9 +73,9 @@ Keep updated.
 
 - (arXiv 2022.01) , [[Paper]]()
 
-- (arXiv 2022.01) , [[Paper]]()
-
 - (arXiv 2022.01) , [[Paper]]() -->
+
+- (arXiv 2022.01) Uni-EDEN: Universal Encoder-Decoder Network by Multi-Granular **Vision-Language** Pre-training, [[Paper]](https://arxiv.org/pdf/2201.04026.pdf)
 
 - (arXiv 2022.01) Lawin Transformer: Improving **Semantic Segmentation** Transformer with Multi-Scale Representations via Large Window Attention, [[Paper]](https://arxiv.org/pdf/2201.01615.pdf), [[Code]](https://github.com/yan-hao-tian/lawin)
 
