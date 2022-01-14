@@ -75,6 +75,42 @@ Keep updated.
 
 - (arXiv 2022.01) , [[Paper]]() -->
 
+- (arXiv 2022.01) LANGUAGE-DRIVEN **SEMANTIC SEGMENTATION**, [[Paper]](https://arxiv.org/pdf/2201.03546.pdf), [[Code]](https://github.com/isl-org/lang-seg)
+
+- (arXiv 2022.01) **Pedestrian Detection**: Domain Generalization, CNNs, Transformers and Beyond, [[Paper]](https://arxiv.org/pdf/2201.03176.pdf), [[Code]](https://github.com/hasanirtiza/Pedestron)
+
+- (arXiv 2022.01) ImageSubject: A Large-scale Dataset for **Subject Detection**, [[Paper]](https://arxiv.org/pdf/2201.03101.pdf)
+
+- (arXiv 2022.01) **Detecting** Twenty-thousand Classes using Image-level Supervision, [[Paper]](https://arxiv.org/pdf/2201.02605.pdf), [[Code]](https://github.com/facebookresearch/Detic)
+
+- (arXiv 2022.01) Generalized **Category Discovery**, [[Paper]](https://arxiv.org/pdf/2201.02609.pdf), [[Code]](https://github.com/sgvaze/generalized-category-discovery)
+
+- (arXiv 2022.01) Video **Summarization** Based on **Video-text** Modelling, [[Paper]](https://arxiv.org/pdf/2201.02494.pdf)
+
+- (arXiv 2022.01) Spatio-Temporal Tuples Transformer for **Skeleton-Based Action Recognition**, [[Paper]](https://arxiv.org/pdf/2201.02849.pdf), [[Code]](https://github.com/heleiqiu/STTFormer)
+
+- (arXiv 2022.01) **QUADTREE ATTENTION** FOR VISION TRANSFORMERS, [[Paper]](https://arxiv.org/pdf/2201.02767.pdf), [[Code]](https://github.com/Tangshitao/QuadtreeAttention)
+
+- (arXiv 2022.01) A Comprehensive Empirical Study of **Vision-Language** Pre-trained Model for Supervised Cross-Modal Retrieval, [[Paper]](https://arxiv.org/pdf/2201.02772.pdf), [[Project]](https://github.com/zhixiongz/CLIP4CMR)
+
+- (arXiv 2022.01) MERLOT Reserve: Neural Script Knowledge through **Vision and Language and Sound**, [[Paper]](https://arxiv.org/pdf/2201.02639.pdf), [[Project]](https://rowanzellers.com/merlotreserve)
+
+- (arXiv 2022.01) On the Efficacy of Co-Attention Transformer Layers in **Visual Question Answering**, [[Paper]](https://arxiv.org/pdf/2201.03965.pdf)
+
+- (arXiv 2022.01) Pyramid Fusion Transformer for **Semantic Segmentation**, [[Paper]](https://arxiv.org/pdf/2201.04019.pdf)
+
+- (arXiv 2022.01) Multiview Transformers for **Video Recognition**, [[Paper]](https://arxiv.org/pdf/2201.04288.pdf)
+
+- (arXiv 2022.01) HYPERTRANSFORMER: MODEL GENERATION FOR SUPERVISED AND SEMI-SUPERVISED **FEW-SHOT LEARNING**, [[Paper]](https://arxiv.org/pdf/2201.04182.pdf)
+
+- (arXiv 2022.01) UNIFORMER: UNIFIED TRANSFORMER FOR **EFFICIENT SPATIOTEMPORAL** REPRESENTATION LEARNING, [[Paper]](https://arxiv.org/pdf/2201.04676.pdf), [[Code]](https://github.com/Sense-X/UniFormer)
+
+- (arXiv 2022.01) BridgeFormer: Bridging **Video-text** Retrieval with Multiple Choice Questions, [[Paper]](https://arxiv.org/pdf/2201.04850.pdf), [[Project]](https://geyuying.github.io/MCQ.html)
+
+- (arXiv 2022.01) TransVOD: End-to-end **Video Object Detection** with Spatial-Temporal Transformers, [[Paper]](https://arxiv.org/pdf/2201.05047.pdf)
+
+- (arXiv 2022.01) **CLIP**-Event: Connecting Text and Images with **Event** Structures, [[Paper]](https://arxiv.org/pdf/2201.05078.pdf), [[Code]](https://github.com/limanling/clip-event)
+
 - (arXiv 2022.01) Uni-EDEN: Universal Encoder-Decoder Network by Multi-Granular **Vision-Language** Pre-training, [[Paper]](https://arxiv.org/pdf/2201.04026.pdf)
 
 - (arXiv 2022.01) Lawin Transformer: Improving **Semantic Segmentation** Transformer with Multi-Scale Representations via Large Window Attention, [[Paper]](https://arxiv.org/pdf/2201.01615.pdf), [[Code]](https://github.com/yan-hao-tian/lawin)
