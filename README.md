@@ -71,9 +71,9 @@ Keep updated.
 
 - (arXiv 2022.01) , [[Paper]]()
 
-- (arXiv 2022.01) , [[Paper]]()
-
 - (arXiv 2022.01) , [[Paper]]() -->
+
+- (arXiv 2022.01) ViT2Hash: Unsupervised Information-Preserving **Hashing**, [[Paper]](https://arxiv.org/pdf/2201.05541.pdf)
 
 - (arXiv 2022.01) LANGUAGE-DRIVEN **SEMANTIC SEGMENTATION**, [[Paper]](https://arxiv.org/pdf/2201.03546.pdf), [[Code]](https://github.com/isl-org/lang-seg)
 
