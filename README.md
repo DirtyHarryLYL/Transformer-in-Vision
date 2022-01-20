@@ -35,6 +35,8 @@ Keep updated.
 
 ## Survey
 
+- (arXiv 2022.01) Video Transformers: A Survey, [[Paper]](https://arxiv.org/pdf/2201.05991.pdf)
+
 - (arXiv 2021.11) ARE WE READY FOR A NEW PARADIGM SHIFT? A SURVEY ON VISUAL DEEP MLP, [[Paper]](https://arxiv.org/pdf/2111.04060.pdf)
 
 - (arXiv 2021.11) A Survey of Visual Transformers, [[Paper]](https://arxiv.org/pdf/2111.06091.pdf)
@@ -71,7 +73,49 @@ Keep updated.
 
 - (arXiv 2022.01) , [[Paper]]()
 
+- (arXiv 2022.01) , [[Paper]]()
+
+- (arXiv 2022.01) , [[Paper]]()
+
+- (arXiv 2022.01) , [[Paper]]()
+
+- (arXiv 2022.01) , [[Paper]]()
+
 - (arXiv 2022.01) , [[Paper]]() -->
+
+- (arXiv 2022.01) ProposalCLIP: **Unsupervised** Open-Category Object **Proposal** Generation via Exploiting **CLIP** Cues, [[Paper]](https://arxiv.org/pdf/2201.06696.pdf)
+
+- (arXiv 2022.01) Cross-modal Contrastive Distillation for **Instructional Activity Anticipation**, [[Paper]](https://arxiv.org/pdf/2201.06734.pdf)
+
+- (arXiv 2022.01) Transformers in Action: **Weakly Supervised Action Segmentation**, [[Paper]](https://arxiv.org/pdf/2201.05675.pdf)
+
+- (arXiv 2022.01) VAQF: Fully Automatic **Software-hardware Co-design** Framework for **Low-bit** Vision Transformer, [[Paper]](https://arxiv.org/pdf/2201.06618.pdf)
+
+- (arXiv 2022.01) CLIP-TD: **CLIP** Targeted Distillation for **Vision-Language** Tasks, [[Paper]](https://arxiv.org/pdf/2201.05729.pdf)
+
+- (arXiv 2022.01) **Domain Adaptation** via Bidirectional Cross-Attention Transformer, [[Paper]](https://arxiv.org/pdf/2201.05887.pdf)
+
+- (arXiv 2022.01) Continual Transformers: Redundancy-Free Attention for **Online Inference**, [[Paper]](https://arxiv.org/pdf/2201.06268.pdf)
+
+- (arXiv 2022.01) **Motion Inbetweening** via Deep ∆-Interpolator, [[Paper]](https://arxiv.org/pdf/2201.06701.pdf)
+
+- (arXiv 2022.01) RePre: Improving **Self-Supervised** Vision Transformer with Reconstructive Pre-training, [[Paper]](https://arxiv.org/pdf/2201.06857.pdf)
+
+- (arXiv 2022.01) GTrans: Spatiotemporal Autoregressive Transformer with Graph Embeddings for **Nowcasting Extreme Events**, [[Paper]](https://arxiv.org/pdf/2201.06717.pdf)
+
+- (arXiv 2022.01) TransFuse: A Unified Transformer-based **Image Fusion** Framework using Self-supervised Learning, [[Paper]](https://arxiv.org/pdf/2201.07451.pdf)
+
+- (arXiv 2022.01) Q-ViT: Fully Differentiable **Quantization** for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2201.07703.pdf)
+
+- (arXiv 2022.01) Disentangled Latent Transformer for **Interpretable Monocular Height Estimation**, [[Paper]](https://arxiv.org/pdf/2201.06357.pdf), [[Project]](https://github.com/ShadowXZT/DLT-Height-Estimation.pytorch)
+
+- (arXiv 2022.01) Poseur: Direct Human **Pose Regression** with Transformers*, [[Paper]](https://arxiv.org/pdf/2201.07412.pdf)
+
+- (arXiv 2022.01) SWINUNET3D - A HIERARCHICAL ARCHITECTURE FOR DEEP **TRAFFIC PREDICTION** USING SHIFTED WINDOW TRANSFORMERS, [[Paper]](https://arxiv.org/pdf/2201.06390.pdf), [[Code]](https://github.com/bojesomo/Traffic4Cast2021-SwinUNet3D)
+
+- (arXiv 2022.01) SWIN-POSE: SWIN TRANSFORMER BASED HUMAN **POSE ESTIMATION**, [[Paper]](https://arxiv.org/pdf/2201.07384.pdf)
+
+- (arXiv 2022.01) Look Closer: Bridging Egocentric and Third-Person Views with Transformers for **Robotic Manipulation**, [[Paper]](https://arxiv.org/pdf/2201.07779.pdf), [[Project]](https://jangirrishabh.github.io/lookcloser/)
 
 - (arXiv 2022.01) ViT2Hash: Unsupervised Information-Preserving **Hashing**, [[Paper]](https://arxiv.org/pdf/2201.05541.pdf)
 
