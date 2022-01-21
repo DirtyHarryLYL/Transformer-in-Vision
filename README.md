@@ -73,13 +73,13 @@ Keep updated.
 
 - (arXiv 2022.01) , [[Paper]]()
 
-- (arXiv 2022.01) , [[Paper]]()
-
-- (arXiv 2022.01) , [[Paper]]()
-
-- (arXiv 2022.01) , [[Paper]]()
-
 - (arXiv 2022.01) , [[Paper]]() -->
+
+- (arXiv 2022.01) End-to-end Generative Pretraining for **Multimodal Video Captioning**, [[Paper]](https://arxiv.org/pdf/2201.08264.pdf)
+
+- (arXiv 2022.01) OMNIVORE: A Single Model for **Many** Visual **Modalities**, [[Paper]](https://arxiv.org/pdf/2201.08377.pdf), [[Project]](https://facebookresearch.github.io/omnivore/)
+
+- (arXiv 2022.01) MeMViT: Memory-Augmented Multiscale Vision Transformer for **Efficient Long-Term Video Recognition**, [[Paper]](https://arxiv.org/pdf/2201.08383.pdf)
 
 - (arXiv 2022.01) The CLEAR Benchmark: **Continual LEArning** on Real-World Imagery, [[Paper]](https://arxiv.org/pdf/2201.06289.pdf), [[Project]](https://clear-benchmark.github.io/)
 
