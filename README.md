@@ -79,9 +79,9 @@ Keep updated.
 
 - (arXiv 2022.01) , [[Paper]]()
 
-- (arXiv 2022.01) , [[Paper]]()
-
 - (arXiv 2022.01) , [[Paper]]() -->
+
+- (arXiv 2022.01) The CLEAR Benchmark: **Continual LEArning** on Real-World Imagery, [[Paper]](https://arxiv.org/pdf/2201.06289.pdf), [[Project]](https://clear-benchmark.github.io/)
 
 - (arXiv 2022.01) ProposalCLIP: **Unsupervised** Open-Category Object **Proposal** Generation via Exploiting **CLIP** Cues, [[Paper]](https://arxiv.org/pdf/2201.06696.pdf)
 
