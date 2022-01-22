@@ -71,9 +71,9 @@ Keep updated.
 
 - (arXiv 2022.01) , [[Paper]]()
 
-- (arXiv 2022.01) , [[Paper]]()
-
 - (arXiv 2022.01) , [[Paper]]() -->
+
+- (arXiv 2022.01) TerViT: An **Efficient** **Ternary** Vision Transformer, [[Paper]](https://arxiv.org/pdf/2201.08050.pdf)
 
 - (arXiv 2022.01) End-to-end Generative Pretraining for **Multimodal Video Captioning**, [[Paper]](https://arxiv.org/pdf/2201.08264.pdf)
 
