@@ -71,7 +71,23 @@ Keep updated.
 
 - (arXiv 2022.01) , [[Paper]]()
 
+- (arXiv 2022.01) , [[Paper]]()
+
+- (arXiv 2022.01) , [[Paper]]()
+
 - (arXiv 2022.01) , [[Paper]]() -->
+
+- (arXiv 2022.01) A Comprehensive Study of Vision Transformers on **Dense Prediction Tasks**, [[Paper]](https://arxiv.org/pdf/2201.08683.pdf)
+
+- (arXiv 2022.01) UniFormer: Unifying **Convolution** and **Self-attention** for Visual Recognition, [[Paper]](https://arxiv.org/pdf/2201.09450.pdf), [[Code]](https://github.com/Sense-X/UniFormer)
+
+- (arXiv 2022.01) **Patches** Are All You Need? [[Paper]](https://arxiv.org/pdf/2201.09792.pdf), [[Code]](https://github.com/locuslab/convmixer)
+
+- (arXiv 2022.01) Reading-strategy Inspired Visual Representation Learning for **Text-to-Video Retrieval**, [[Paper]](https://arxiv.org/pdf/2201.09168.pdf)
+
+- (arXiv 2022.01) LEARNING TO ACT WITH AFFORDANCE-AWARE **MULTIMODAL** NEURAL **SLAM**, [[Paper]](https://arxiv.org/pdf/2201.09862.pdf)
+
+- (arXiv 2022.01) Visual Information Guided **Zero-Shot Paraphrase Generation**, [[Paper]](https://arxiv.org/pdf/2201.09107.pdf)
 
 - (arXiv 2022.01) TerViT: An **Efficient** **Ternary** Vision Transformer, [[Paper]](https://arxiv.org/pdf/2201.08050.pdf)
 
