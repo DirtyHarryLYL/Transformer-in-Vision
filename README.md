@@ -73,9 +73,37 @@ Keep updated.
 
 - (arXiv 2022.01) , [[Paper]]()
 
-- (arXiv 2022.01) , [[Paper]]()
-
 - (arXiv 2022.01) , [[Paper]]() -->
+
+- (arXiv 2022.01) Pre-Trained **Language** Transformers are Universal **Image** Classifiers, [[Paper]](https://arxiv.org/pdf/2201.10182.pdf)
+
+- (arXiv 2022.01) Explore and Match: End-to-End **Video Grounding** with Transformer, [[Paper]](https://arxiv.org/pdf/2201.10168.pdf)
+
+- (arXiv 2022.01) TGFuse: An **Infrared** and **Visible Image Fusion** Approach Based on Transformer and Generative Adversarial Network, [[Paper]](https://arxiv.org/pdf/2201.10147.pdf)
+
+- (arXiv 2022.01) ViT-HGR: Vision Transformer-based **Hand Gesture Recognition** from High Density Surface EMG Signals, [[Paper]](https://arxiv.org/pdf/2201.10060.pdf)
+
+- (arXiv 2022.01) ShapeFormer: Transformer-based **Shape Completion** via Sparse Representation, [[Paper]](https://arxiv.org/pdf/2201.10326.pdf), [[Project]](https://shapeformer.github.io/)
+
+- (arXiv 2022.01) **CONVOLUTIONAL** XFORMERS FOR VISION, [[Paper]](https://arxiv.org/pdf/2201.10271.pdf), [[Code]](https://github.com/pranavphoenix/CXV)
+
+- (arXiv 2022.01) DocEnTr: An End-to-End **Document Image Enhancement** Transformer, [[Paper]](https://arxiv.org/pdf/2201.10252.pdf), [[Code]](https://github.com/dali92002/DocEnTR)
+
+- (arXiv 2022.01) Zero-Shot **Sketch** Based **Image Retrieval** using Graph Transformer, [[Paper]](https://arxiv.org/pdf/2201.10185.pdf)
+
+- (arXiv 2022.01) SA-**VQA**: Structured Alignment of Visual and Semantic Representations for Visual Question Answering, [[Paper]](https://arxiv.org/pdf/2201.10654.pdf)
+
+- (arXiv 2022.01) DUAL-TASKS SIAMESE TRANSFORMER FRAMEWORK FOR **BUILDING DAMAGE ASSESSMENT**, [[Paper]](https://arxiv.org/pdf/2201.10953.pdf)
+
+- (arXiv 2022.01) When **Shift Operation** Meets Vision Transformer: An Extremely Simple Alternative to **Attention** Mechanism, [[Paper]](https://arxiv.org/pdf/2201.10801.pdf), [[Code]](https://github.com/microsoft/SPACH)
+
+- (arXiv 2022.01) Self-supervised 3D Semantic Representation Learning for **Vision-and-Language Navigation**, [[Paper]](https://arxiv.org/pdf/2201.10788.pdf)
+
+- (arXiv 2022.01) **Training** Vision Transformers with Only 2040 Images, [[Paper]](https://arxiv.org/pdf/2201.10728.pdf)
+
+- (arXiv 2022.01) Learning To Recognize **Procedural Activities** with Distant Supervision, [[Paper]](https://arxiv.org/pdf/2201.10990.pdf)
+
+- (arXiv 2022.01) EVALUATING **LANGUAGE**-BIASED **IMAGE** CLASSIFICATION BASED ON SEMANTIC REPRESENTATIONS, [[Paper]](https://arxiv.org/pdf/2201.11014.pdf)
 
 - (arXiv 2022.01) A Comprehensive Study of Vision Transformers on **Dense Prediction Tasks**, [[Paper]](https://arxiv.org/pdf/2201.08683.pdf)
 
