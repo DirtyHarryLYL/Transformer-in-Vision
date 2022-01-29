@@ -65,15 +65,15 @@ Keep updated.
 <!-- ### 2022.01 -->
 <!-- - (arXiv 2022.01) , [[Paper]]() -->
 
-<!-- - (arXiv 2022.01) , [[Paper]]()
+<!-- - (arXiv 2022.01) , [[Paper]]() -->
 
-- (arXiv 2022.01) , [[Paper]]()
+- (arXiv 2022.01) Transformer Module Networks for Systematic Generalization in **Visual Question Answering**, [[Paper]](https://arxiv.org/pdf/2201.11316.pdf)
 
-- (arXiv 2022.01) , [[Paper]]()
+- (arXiv 2022.01) Generalised Image **Outpainting** with U-Transformer, [[Paper]](https://arxiv.org/pdf/2201.11403.pdf)
 
-- (arXiv 2022.01) , [[Paper]]()
+- (arXiv 2022.01) RelTR: Relation Transformer for **Scene Graph Generation**, [[Paper]](https://arxiv.org/pdf/2201.11460.pdf)
 
-- (arXiv 2022.01) , [[Paper]]() -->
+- (arXiv 2022.01) DocSegTr: An Instance-Level End-to-End **Document Image Segmentation** Transformer, [[Paper]](https://arxiv.org/pdf/2201.11438.pdf)
 
 - (arXiv 2022.01) Pre-Trained **Language** Transformers are Universal **Image** Classifiers, [[Paper]](https://arxiv.org/pdf/2201.10182.pdf)
 
