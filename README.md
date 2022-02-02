@@ -62,11 +62,24 @@ Keep updated.
 - (arXiv 2020.1) Transformers in Vision: A Survey, [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
-<!-- ### 2022.01 -->
-<!-- - (arXiv 2022.01) , [[Paper]]() -->
+<!-- ### 2022.02 -->
+<!-- - (arXiv 2022.02) , [[Paper]]() -->
 
-<!-- - (arXiv 2022.01) , [[Paper]]() -->
+<!-- - (arXiv 2022.02) , [[Paper]]()
 
+- (arXiv 2022.02) , [[Paper]]()
+
+- (arXiv 2022.02) , [[Paper]]()
+
+- (arXiv 2022.02) , [[Paper]]()
+
+- (arXiv 2022.02) , [[Paper]]()
+
+- (arXiv 2022.02) , [[Paper]]() -->
+
+- (arXiv 2022.02) Detecting **Human-Object Interactions** with Object-Guided Cross-Modal Calibrated Semantics, [[Paper]](https://arxiv.org/pdf/2202.00259.pdf), [[Code]](https://github.com/JacobYuan7/OCN-HOI-Benchmark)
+
+### 2022.01
 - (arXiv 2022.01) Transformer Module Networks for Systematic Generalization in **Visual Question Answering**, [[Paper]](https://arxiv.org/pdf/2201.11316.pdf)
 
 - (arXiv 2022.01) Generalised Image **Outpainting** with U-Transformer, [[Paper]](https://arxiv.org/pdf/2201.11403.pdf)
