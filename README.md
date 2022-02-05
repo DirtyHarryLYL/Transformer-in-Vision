@@ -73,7 +73,25 @@ Keep updated.
 
 - (arXiv 2022.02) , [[Paper]]()
 
+- (arXiv 2022.02) , [[Paper]]()
+
+- (arXiv 2022.02) , [[Paper]]()
+
+- (arXiv 2022.02) , [[Paper]]()
+
+- (arXiv 2022.02) , [[Paper]]()
+
+- (arXiv 2022.02) , [[Paper]]()
+
+- (arXiv 2022.02) , [[Paper]]()
+
+- (arXiv 2022.02) , [[Paper]]()
+
 - (arXiv 2022.02) , [[Paper]]() -->
+
+- (arXiv 2022.02) Pre-Trained Language Models for **Interactive Decision-Making**, [[Paper]](https://arxiv.org/pdf/2202.01771.pdf)
+
+- (arXiv 2022.02) Can Transformers be Strong **Treatment Effect Estimators**?, [[Paper]](https://arxiv.org/pdf/2202.01336.pdf)
 
 - (arXiv 2022.02) Improving **Sample Efficiency of Value** Based Models Using Attention and Vision Transformers, [[Paper]](https://arxiv.org/pdf/2202.00710.pdf)
 
