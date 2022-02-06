@@ -79,15 +79,15 @@ Keep updated.
 
 - (arXiv 2022.02) , [[Paper]]()
 
-- (arXiv 2022.02) , [[Paper]]()
-
-- (arXiv 2022.02) , [[Paper]]()
-
-- (arXiv 2022.02) , [[Paper]]()
-
-- (arXiv 2022.02) , [[Paper]]()
-
 - (arXiv 2022.02) , [[Paper]]() -->
+
+- (arXiv 2022.02) BLIP: Bootstrapping Language-Image Pre-training for Unified **Vision-Language** Understanding and Generation, [[Paper]](https://arxiv.org/pdf/2201.12086.pdf), [[Code]](https://github.com/salesforce/BLIP)
+
+- (arXiv 2022.02) DNNFuser: Generative Pre-Trained Transformer as a Generalized Mapper for Layer Fusion in **DNN Accelerators**, [[Paper]](https://arxiv.org/pdf/2201.11218.pdf)
+
+- (arXiv 2022.02) Interactron: **Embodied** Adaptive **Object Detection**, [[Paper]](https://arxiv.org/pdf/2202.00660.pdf)
+
+- (arXiv 2022.02) Local Feature Matching with Transformers for low-end devices **LoFTR** method adaptation approach, [[Paper]](https://arxiv.org/pdf/2202.00770.pdf), [[Code]](https://github.com/Kolkir/Coarse_LoFTR_TRT)
 
 - (arXiv 2022.02) Pre-Trained Language Models for **Interactive Decision-Making**, [[Paper]](https://arxiv.org/pdf/2202.01771.pdf)
 
