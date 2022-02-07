@@ -99,6 +99,16 @@ Keep updated.
 
 ### 2022.01
 
+- (arXiv 2022.01) O-ViT: Orthogonal Vision Transformer, [[Paper]](https://arxiv.org/pdf/2201.12133.pdf)
+
+- (arXiv 2022.01) DynaMixer: A Vision **MLP** Architecture with Dynamic Mixing, [[Paper]](https://arxiv.org/pdf/2201.12083.pdf)
+
+- (arXiv 2022.01) VRT: A **Video Restoration** Transformer, [[Paper]](https://arxiv.org/pdf/2201.12288.pdf), [[Code]](https://github.com/JingyunLiang/VRT)
+
+- (arXiv 2022.01) DAB-DETR: DYNAMIC **ANCHOR** BOXES ARE BETTER QUERIES FOR **DETR**, [[Paper]](https://arxiv.org/pdf/2201.12329.pdf), [[Code]](https://github.com/SlongLiu/DAB-DETR)
+
+- (arXiv 2022.01) Plug-In Inversion: Model-Agnostic **Inversion** for Vision with Data Augmentations, [[Paper]](https://arxiv.org/pdf/2201.12961.pdf)
+
 - (arXiv 2022.01) MVP: Multi-Stage **Vision-Language** Pre-Training via Multi-Level Semantic Alignment, [[Paper]](https://arxiv.org/pdf/2201.12596.pdf)
 
 - (arXiv 2022.01) VC-GPT: Visual Conditioned GPT for End-to-End Generative **Vision-and-Language** Pre-training, [[Paper]](https://arxiv.org/pdf/2201.12723.pdf)
