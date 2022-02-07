@@ -98,6 +98,17 @@ Keep updated.
 - (arXiv 2022.02) Detecting **Human-Object Interactions** with Object-Guided Cross-Modal Calibrated Semantics, [[Paper]](https://arxiv.org/pdf/2202.00259.pdf), [[Code]](https://github.com/JacobYuan7/OCN-HOI-Benchmark)
 
 ### 2022.01
+
+- (arXiv 2022.01) MVP: Multi-Stage **Vision-Language** Pre-Training via Multi-Level Semantic Alignment, [[Paper]](https://arxiv.org/pdf/2201.12596.pdf)
+
+- (arXiv 2022.01) VC-GPT: Visual Conditioned GPT for End-to-End Generative **Vision-and-Language** Pre-training, [[Paper]](https://arxiv.org/pdf/2201.12723.pdf)
+
+- (arXiv 2022.01) BOAT: Bilateral Local **Attention** Vision Transformer, [[Paper]](https://arxiv.org/pdf/2201.13027.pdf)
+
+- (arXiv 2022.01) GRAPH SELF-ATTENTION FOR LEARNING **GRAPH** REPRESENTATION WITH TRANSFORMER, [[Paper]](https://arxiv.org/pdf/2201.12787.pdf)
+
+- (arXiv 2022.01) Aggregating **Global** Features into **Local** Vision Transformer, [[Paper]](https://arxiv.org/pdf/2201.12903.pdf), [[Code]](https://github.com/krushi1992/MOA-transformer)
+
 - (arXiv 2022.01) Transformer Module Networks for Systematic Generalization in **Visual Question Answering**, [[Paper]](https://arxiv.org/pdf/2201.11316.pdf)
 
 - (arXiv 2022.01) Generalised Image **Outpainting** with U-Transformer, [[Paper]](https://arxiv.org/pdf/2201.11403.pdf)
