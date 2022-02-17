@@ -78,8 +78,8 @@ Keep updated.
 - (arXiv 2022.02) , [[Paper]]()
 
 - (arXiv 2022.02) , [[Paper]]()
-
-- (arXiv 2022.02) , [[Paper]]() -->
+ -->
+- (arXiv 2022.02) Corrupted Image Modeling for **Self-Supervised** Visual **Pre-Training**, [[Paper]](https://arxiv.org/pdf/2202.03382.pdf)
 
 - (arXiv 2022.02) BLIP: Bootstrapping Language-Image Pre-training for Unified **Vision-Language** Understanding and Generation, [[Paper]](https://arxiv.org/pdf/2201.12086.pdf), [[Code]](https://github.com/salesforce/BLIP)
 
