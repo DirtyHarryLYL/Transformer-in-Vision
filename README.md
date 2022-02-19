@@ -35,31 +35,33 @@ Keep updated.
 
 ## Survey
 
-- (arXiv 2022.01) Video Transformers: A Survey, [[Paper]](https://arxiv.org/pdf/2201.05991.pdf)
+- (arXiv 2022.02) Transformer for **Graphs**: An Overview from Architecture Perspective, [[Paper]](https://arxiv.org/pdf/2202.08455.pdf)
 
-- (arXiv 2021.11) ARE WE READY FOR A NEW PARADIGM SHIFT? A SURVEY ON VISUAL DEEP MLP, [[Paper]](https://arxiv.org/pdf/2111.04060.pdf)
+- (arXiv 2022.01) **Video** Transformers: A Survey, [[Paper]](https://arxiv.org/pdf/2201.05991.pdf)
 
-- (arXiv 2021.11) A Survey of Visual Transformers, [[Paper]](https://arxiv.org/pdf/2111.06091.pdf)
+- (arXiv 2021.11) ARE WE READY FOR A NEW PARADIGM SHIFT? A SURVEY ON VISUAL DEEP **MLP**, [[Paper]](https://arxiv.org/pdf/2111.04060.pdf)
 
-- (arXiv 2021.09) Survey: Transformer based Video-Language Pre-training, [[Paper]](https://arxiv.org/pdf/2109.09920.pdf)
+- (arXiv 2021.11) A Survey of **Visual** Transformers, [[Paper]](https://arxiv.org/pdf/2111.06091.pdf)
 
-- (arXiv 2021.06) A Survey of Transformers, [[Paper]](https://arxiv.org/pdf/2106.04554.pdf)
+- (arXiv 2021.09) Survey: Transformer based **Video-Language** Pre-training, [[Paper]](https://arxiv.org/pdf/2109.09920.pdf)
 
-- (arXiv 2021.06) Attention mechanisms and deep learning for machine vision: A survey of the state of the art, [[Paper]](https://arxiv.org/pdf/2106.07550.pdf)
+- (arXiv 2021.06) A Survey of **Transformers**, [[Paper]](https://arxiv.org/pdf/2106.04554.pdf)
 
-- (arXiv 2021.06) Pre-Trained Models: Past, Present and Future, [[Paper]](https://arxiv.org/pdf/2106.07139.pdf)
+- (arXiv 2021.06) **Attention** mechanisms and deep learning for machine vision: A survey of the state of the art, [[Paper]](https://arxiv.org/pdf/2106.07550.pdf)
 
-- (arXiv 2021.05) Can Attention Enable MLPs To Catch Up With CNNs? [[Paper]](https://arxiv.org/pdf/2105.15078.pdf)
+- (arXiv 2021.06) **Pre-Trained Models**: Past, Present and Future, [[Paper]](https://arxiv.org/pdf/2106.07139.pdf)
 
-- (arXiv 2021.03) A Practical Survey on Faster and Lighter Transformers, [[Paper]](https://arxiv.org/pdf/2103.14636.pdf)
+- (arXiv 2021.05) Can Attention Enable **MLPs** To Catch Up With CNNs? [[Paper]](https://arxiv.org/pdf/2105.15078.pdf)
 
-- (arXiv 2021.03) Perspectives and Prospects on Transformer Architecture for Cross-Modal Tasks with Language and Vision, [[Paper]](https://arxiv.org/pdf/2103.04037.pdf)
+- (arXiv 2021.03) A Practical Survey on **Faster** and **Lighter** Transformers, [[Paper]](https://arxiv.org/pdf/2103.14636.pdf)
 
-- (arXiv 2021.01) A Survey on Visual Transformer, [[Paper]](https://arxiv.org/pdf/2012.12556.pdf)
+- (arXiv 2021.03) Perspectives and Prospects on Transformer Architecture for Cross-Modal Tasks with **Language and Vision**, [[Paper]](https://arxiv.org/pdf/2103.04037.pdf)
 
-- (arXiv 2020.9) Efficient Transformers: A Survey, [[Paper]](https://arxiv.org/pdf/2009.06732.pdf)
+- (arXiv 2021.01) A Survey on **Visual** Transformer, [[Paper]](https://arxiv.org/pdf/2012.12556.pdf)
 
-- (arXiv 2020.1) Transformers in Vision: A Survey, [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
+- (arXiv 2020.9) **Efficient** Transformers: A Survey, [[Paper]](https://arxiv.org/pdf/2009.06732.pdf)
+
+- (arXiv 2020.1) **Transformers in Vision**: A Survey, [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
 <!-- ### 2022.02 -->
