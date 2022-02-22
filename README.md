@@ -71,13 +71,13 @@ Keep updated.
 
 - (arXiv 2022.02) , [[Paper]]()
 
-- (arXiv 2022.02) , [[Paper]]()
-
-- (arXiv 2022.02) , [[Paper]]()
-
-- (arXiv 2022.02) , [[Paper]]()
-
 - (arXiv 2022.02) , [[Paper]]() -->
+
+- (arXiv 2022.02) **UNIFYING** ARCHITECTURES, TASKS, AND MODALITIES THROUGH A SIMPLE SEQUENCE-TO-SEQUENCE LEARNING FRAMEWORK, [[Paper]](https://arxiv.org/pdf/2202.03052.pdf), [[Code]](https://github.com/OFA-Sys/OFA)
+
+- (arXiv 2022.02) Transformers in Self-Supervised **Monocular Depth Estimation** with Unknown Camera Intrinsics, [[Paper]](https://arxiv.org/pdf/2202.03131.pdf)
+
+- (arXiv 2022.02) TRANSDREAMER: **REINFORCEMENT LEARNING** WITH TRANSFORMER WORLD MODELS, [[Paper]](https://arxiv.org/pdf/2202.09481.pdf)
 
 - (arXiv 2022.02) **Vision-Language** Pre-Training with Triple Contrastive Learning, [[Paper]](https://arxiv.org/pdf/2202.10401.pdf), [[Code]](https://github.com/uta-smile/TCL)
 
