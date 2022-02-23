@@ -71,7 +71,25 @@ Keep updated.
 
 - (arXiv 2022.02) , [[Paper]]()
 
+- (arXiv 2022.02) , [[Paper]]()
+
+- (arXiv 2022.02) , [[Paper]]()
+
+- (arXiv 2022.02) , [[Paper]]()
+
+- (arXiv 2022.02) , [[Paper]]()
+
+- (arXiv 2022.02) , [[Paper]]()
+
+- (arXiv 2022.02) , [[Paper]]()
+
 - (arXiv 2022.02) , [[Paper]]() -->
+
+- (arXiv 2022.02) The devil is in the labels: **Semantic segmentation** from sentences, [[Paper]](https://arxiv.org/pdf/2202.02002.pdf)
+
+- (arXiv 2022.02) Webly Supervised Concept Expansion for **General Purpose Vision Models**, [[Paper]](https://arxiv.org/pdf/2202.02317.pdf), [[Project]](https://prior.allenai.org/projects/gpv2)
+
+- (arXiv 2022.02) VU-BERT: A UNIFIED FRAMEWORK FOR **VISUAL DIALOG**, [[Paper]](https://arxiv.org/pdf/2202.10787.pdf)
 
 - (arXiv 2022.02) **UNIFYING** ARCHITECTURES, TASKS, AND MODALITIES THROUGH A SIMPLE SEQUENCE-TO-SEQUENCE LEARNING FRAMEWORK, [[Paper]](https://arxiv.org/pdf/2202.03052.pdf), [[Code]](https://github.com/OFA-Sys/OFA)
 
