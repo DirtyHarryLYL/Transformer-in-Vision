@@ -81,9 +81,9 @@ Keep updated.
 
 - (arXiv 2022.02) , [[Paper]]()
 
-- (arXiv 2022.02) , [[Paper]]()
-
 - (arXiv 2022.02) , [[Paper]]() -->
+
+- (arXiv 2022.02) TransFollower: Long-Sequence Car-Following **Trajectory Prediction** through Transformer, [[Paper]](https://arxiv.org/pdf/2202.03183.pdf)
 
 - (arXiv 2022.02) The devil is in the labels: **Semantic segmentation** from sentences, [[Paper]](https://arxiv.org/pdf/2202.02002.pdf)
 
