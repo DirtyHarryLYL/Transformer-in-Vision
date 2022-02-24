@@ -76,12 +76,12 @@ Keep updated.
 - (arXiv 2022.02) , [[Paper]]()
 
 - (arXiv 2022.02) , [[Paper]]()
+ -->
+- (arXiv 2022.02) The Abduction of Sherlock Holmes: A **Dataset** for **Visual Abductive Reasoning**, [[Paper]](https://arxiv.org/pdf/2202.04800.pdf), [[Project]](http://www.visualabduction.com/)
 
-- (arXiv 2022.02) , [[Paper]]()
+- (arXiv 2022.02) DALL-EVAL: Probing the Reasoning Skills and Social Biases of **Text-to-Image** Generative Transformers, [[Paper]](https://arxiv.org/pdf/2202.04053.pdf), [[Code]](https://github.com/j-min/DallEval)
 
-- (arXiv 2022.02) , [[Paper]]()
-
-- (arXiv 2022.02) , [[Paper]]() -->
+- (arXiv 2022.02) Pre-Trained Language Models for **Interactive Decision-Making**, [[Paper]](https://arxiv.org/pdf/2202.01771.pdf)
 
 - (arXiv 2022.02) TransFollower: Long-Sequence Car-Following **Trajectory Prediction** through Transformer, [[Paper]](https://arxiv.org/pdf/2202.03183.pdf)
 
