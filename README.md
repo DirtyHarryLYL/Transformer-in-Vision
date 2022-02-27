@@ -76,7 +76,51 @@ Keep updated.
 - (arXiv 2022.02) , [[Paper]]()
 
 - (arXiv 2022.02) , [[Paper]]()
- -->
+
+- (arXiv 2022.02) , [[Paper]]()
+
+- (arXiv 2022.02) , [[Paper]]()
+
+- (arXiv 2022.02) , [[Paper]]()
+
+- (arXiv 2022.02) , [[Paper]]()
+
+- (arXiv 2022.02) , [[Paper]]()
+
+- (arXiv 2022.02) , [[Paper]]()
+
+- (arXiv 2022.02) , [[Paper]]()
+
+- (arXiv 2022.02) , [[Paper]]()
+
+- (arXiv 2022.02) , [[Paper]]() -->
+
+- (arXiv 2022.02) ACORT: A Compact Object Relation Transformer for Parameter Efficient Image **Captioning**, [[Paper]](https://arxiv.org/pdf/2202.05451.pdf), [[Code]](https://github.com/jiahuei/sparse-image-captioning)
+
+- (arXiv 2022.02) **CLIP**asso: Semantically-Aware **Object Sketching**, [[Paper]](https://arxiv.org/pdf/2202.05822.pdf), [[Code]](https://clipasso.github.io/clipasso/)
+
+- (arXiv 2022.02) Towards Weakly-Supervised **Text Spotting** using a Multi-Task Transformer, [[Paper]](https://arxiv.org/pdf/2202.05508.pdf)
+
+- (arXiv 2022.02) DEEP **SOCCER CAPTIONING** WITH TRANSFORMER: DATASET, SEMANTICS-RELATED LOSSES, AND MULTI-LEVEL EVALUATION, [[Paper]](https://arxiv.org/pdf/2202.05728.pdf), [[Project]](https://sites.google.com/view/soccercaptioning)
+
+- (arXiv 2022.02) ENTROFORMER: A TRANSFORMER-BASED ENTROPY MODEL FOR LEARNED **IMAGE COMPRESSION**, [[Paper]](https://arxiv.org/pdf/2202.05492.pdf), [[Code]](https://github.com/mx54039q/entroformer)
+
+- (arXiv 2022.02) Image Difference Captioning with Pre-training and Contrastive Learning, [[Paper]](https://arxiv.org/pdf/2202.04298.pdf), [[Code]](https://github.com/yaolinli/IDC)
+
+- (arXiv 2022.02) MaskGIT: Masked **Generative** **Image** Transformer, [[Paper]](https://arxiv.org/pdf/2202.04200.pdf)
+
+- (arXiv 2022.02) Distillation with Contrast is All You Need for **Self-Supervised** **Point Cloud** Representation Learning, [[Paper]](https://arxiv.org/pdf/2202.04241.pdf)
+
+- (arXiv 2022.02) Motion-Aware Transformer For **Occluded Person Re-identification**, [[Paper]](https://arxiv.org/pdf/2202.04243.pdf)
+
+- (arXiv 2022.02) Conditional **Motion In-betweening**, [[Paper]](https://arxiv.org/pdf/2202.04307.pdf), [[Code]](https://arxiv.org/pdf/2202.04307.pdf)
+
+- (arXiv 2022.02) Memory-based **gaze prediction** in deep imitation learning for **robot manipulation**, [[Paper]](https://arxiv.org/pdf/2202.04877.pdf)
+
+- (arXiv 2022.02) **Spherical** Transformer, [[Paper]](https://arxiv.org/pdf/2202.04942.pdf)
+
+- (arXiv 2022.02) OWL (Observe, Watch, Listen): **Localizing Actions** in **Egocentric Video** via Audiovisual Temporal Context, [[Paper]](https://arxiv.org/pdf/2202.04947.pdf)
+
 - (arXiv 2022.02) The Abduction of Sherlock Holmes: A **Dataset** for **Visual Abductive Reasoning**, [[Paper]](https://arxiv.org/pdf/2202.04800.pdf), [[Project]](http://www.visualabduction.com/)
 
 - (arXiv 2022.02) DALL-EVAL: Probing the Reasoning Skills and Social Biases of **Text-to-Image** Generative Transformers, [[Paper]](https://arxiv.org/pdf/2202.04053.pdf), [[Code]](https://github.com/j-min/DallEval)
