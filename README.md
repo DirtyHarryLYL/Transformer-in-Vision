@@ -85,15 +85,31 @@ Keep updated.
 
 - (arXiv 2022.02) , [[Paper]]()
 
-- (arXiv 2022.02) , [[Paper]]()
-
-- (arXiv 2022.02) , [[Paper]]()
-
-- (arXiv 2022.02) , [[Paper]]()
-
-- (arXiv 2022.02) , [[Paper]]()
-
 - (arXiv 2022.02) , [[Paper]]() -->
+
+- (arXiv 2022.02) CATs++: Boosting **Cost Aggregation** with Convolutions and Transformers, [[Paper]](https://arxiv.org/pdf/2202.06817.pdf)
+
+- (arXiv 2022.02) Geometric Transformer for Fast and Robust **Point Cloud Registration**, [[Paper]](https://arxiv.org/pdf/2202.06688.pdf), [[Code]](https://arxiv.org/pdf/2202.06688.pdf)
+
+- (arXiv 2022.02) I-Tuning: Tuning Language Models with Image for **Caption** Generation, [[Paper]](I-Tuning: Tuning Language Models with Image for Caption Generation)
+
+- (arXiv 2022.02) Multi-direction and Multi-scale Pyramid in Transformer for Video-based **Pedestrian Retrieval**, [[Paper]](https://arxiv.org/pdf/2202.06014.pdf), [[Code]](https://git.openi.org.cn/zangxh/PiT.git)
+
+- (arXiv 2022.02) **Visual Acoustic** Matching, [[Paper]](https://arxiv.org/pdf/2202.06875.pdf)
+
+- (arXiv 2022.02) LighTN: **Light**-weight Transformer Network for Performance-overhead Tradeoff in **Point Cloud Downsampling**, [[Paper]](https://arxiv.org/pdf/2202.06263.pdf)
+
+- (arXiv 2022.02) BViT: Broad **Attention** based Vision Transformer, [[Paper]](https://arxiv.org/pdf/2202.06268.pdf), [[Code]](https://github.com/DRL-CASIA/Dense_ViT)
+
+- (arXiv 2022.02) Task-Adaptive Feature Transformer with Semantic Enrichment for **Few-Shot Segmentation**, [[Paper]](https://arxiv.org/pdf/2202.06498.pdf)
+
+- (arXiv 2022.02) Domain Adaptation via **Prompt** Learning, [[Paper]](https://arxiv.org/pdf/2202.06687.pdf)
+
+- (arXiv 2022.02) Mixing and Shifting: Exploiting Global and Local Dependencies in **Vision MLPs**, [[Paper]](https://arxiv.org/pdf/2202.06510.pdf), [[Code]](https://github.com/JegZheng/MS-MLP)
+
+- (arXiv 2022.02) Wukong: 100 Million Large-scale Chinese **Cross-modal Pre-training** Dataset and A Foundation Framework, [[Paper]](https://arxiv.org/pdf/2202.06767.pdf), [[Project]](https://wukong-dataset.github.io/wukong-dataset/)
+
+- (arXiv 2022.02) HOW DO VISION TRANSFORMERS WORK? [[Paper]](https://arxiv.org/pdf/2202.06709.pdf), [[Code]](https://github.com/xxxnell/how-do-vits-work)
 
 - (arXiv 2022.02) ACORT: A Compact Object Relation Transformer for Parameter Efficient Image **Captioning**, [[Paper]](https://arxiv.org/pdf/2202.05451.pdf), [[Code]](https://github.com/jiahuei/sparse-image-captioning)
 
