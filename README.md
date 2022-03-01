@@ -75,17 +75,17 @@ Keep updated.
 
 - (arXiv 2022.02) , [[Paper]]()
 
-- (arXiv 2022.02) , [[Paper]]()
-
-- (arXiv 2022.02) , [[Paper]]()
-
-- (arXiv 2022.02) , [[Paper]]()
-
-- (arXiv 2022.02) , [[Paper]]()
-
-- (arXiv 2022.02) , [[Paper]]()
-
 - (arXiv 2022.02) , [[Paper]]() -->
+
+- (arXiv 2022.02) ViNTER: **Image Narrative Generation** with Emotion-Arc-Aware Transformer, [[Paper]](https://arxiv.org/pdf/2202.07305.pdf)
+
+- (arXiv 2022.02) Hyper-relationship Learning Network for **Scene Graph** Generation, [[Paper]](https://arxiv.org/pdf/2202.07271.pdf)
+
+- (arXiv 2022.02) CommerceMM: Large-Scale Commerce **MultiModal Representation** Learning with Omni Retrieval, [[Paper]](https://arxiv.org/pdf/2202.07247.pdf)
+
+- (arXiv 2022.02) Flowformer: **Linearizing** Transformers with Conservation Flows, [[Paper]](https://arxiv.org/pdf/2202.06258.pdf)
+
+- (arXiv 2022.02) DialFRED: Dialogue-Enabled Agents for **Embodied** Instruction Following, [[Paper]](https://arxiv.org/pdf/2202.13330.pdf), [[Code]](https://github.com/anonrabit/DialFRED)
 
 - (arXiv 2022.02) CATs++: Boosting **Cost Aggregation** with Convolutions and Transformers, [[Paper]](https://arxiv.org/pdf/2202.06817.pdf)
 
