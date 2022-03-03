@@ -35,6 +35,8 @@ Keep updated.
 
 ## Survey
 
+- (arXiv 2022.02) VLP: A Survey on **Vision-Language** Pre-training, [[Paper]](https://arxiv.org/pdf/2202.09061.pdf)
+
 - (arXiv 2022.02) Transformer for **Graphs**: An Overview from Architecture Perspective, [[Paper]](https://arxiv.org/pdf/2202.08455.pdf)
 
 - (arXiv 2022.01) **Video** Transformers: A Survey, [[Paper]](https://arxiv.org/pdf/2201.05991.pdf)
@@ -85,7 +87,23 @@ Keep updated.
 
 - (arXiv 2022.02) , [[Paper]]()
 
+- (arXiv 2022.02) , [[Paper]]()
+
+- (arXiv 2022.02) , [[Paper]]()
+
 - (arXiv 2022.02) , [[Paper]]() -->
+
+- (arXiv 2022.02) On Guiding Visual **Attention** with **Language** Specification, [[Paper]](https://arxiv.org/pdf/2202.08926.pdf)
+
+- (arXiv 2022.02) SPATIO-TEMPORAL OUTDOOR **LIGHTING AGGREGATION** ON IMAGE SEQUENCES USING TRANSFORMER NETWORKS, [[Paper]](https://arxiv.org/pdf/2202.09206.pdf)
+
+- (arXiv 2022.02) **MISINFORMATION DETECTION** IN SOCIAL MEDIA **VIDEO** POSTS, [[Paper]](https://arxiv.org/pdf/2202.07706.pdf)
+
+- (arXiv 2022.02) Can Deep Learning be Applied to Model-Based **Multi-Object Tracking**? [[Paper]](https://arxiv.org/pdf/2202.07909.pdf)
+
+- (arXiv 2022.02) NOT ALL PATCHES ARE WHAT YOU NEED: EXPEDITING VISION TRANSFORMERS VIA **TOKEN REORGANIZATIONS**, [[Paper]](https://arxiv.org/pdf/2202.07800.pdf), [[Code]](https://github.com/youweiliang/evit)
+
+- (arXiv 2022.02) ActionFormer: **Localizing** Moments of **Actions** with Transformers, [[Paper]](https://arxiv.org/pdf/2202.07925.pdf), [[Code]](https://github.com/happyharrycn/actionformer_release)
 
 - (arXiv 2022.02) One Step at a Time: Long-Horizon **Vision-and-Language Navigation** with Milestones, [[Paper]](https://arxiv.org/pdf/2202.07028.pdf)
 
