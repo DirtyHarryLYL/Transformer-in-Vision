@@ -85,13 +85,13 @@ Keep updated.
 
 - (arXiv 2022.02) , [[Paper]]()
 
-- (arXiv 2022.02) , [[Paper]]()
-
-- (arXiv 2022.02) , [[Paper]]()
-
-- (arXiv 2022.02) , [[Paper]]()
-
 - (arXiv 2022.02) , [[Paper]]() -->
+
+- (arXiv 2022.02) ViTAEv2: Vision Transformer Advanced by Exploring **Inductive Bias** for Image Recognition and Beyond, [[Paper]](https://arxiv.org/pdf/2202.10108.pdf)
+
+- (arXiv 2022.02) PMP-Net++: **Point Cloud Completion** by Transformer-Enhanced Multi-step Point Moving Paths, [[Paper]](https://arxiv.org/pdf/2202.09507.pdf), [[Code]](https://github.com/diviswen/PMP-Net)
+
+- (arXiv 2022.02) DataMUX: **Data Multiplexing** for Neural Networks, [[Paper]](https://arxiv.org/pdf/2202.09318.pdf), [[Code]](https://github.com/princeton-nlp/DataMUX)
 
 - (arXiv 2022.02) On Guiding Visual **Attention** with **Language** Specification, [[Paper]](https://arxiv.org/pdf/2202.08926.pdf)
 
