@@ -35,6 +35,8 @@ Keep updated.
 
 ## Survey
 
+- (arXiv 2022.02) A Survey of **Vision-Language** Pre-Trained Models, [[Paper]](https://arxiv.org/pdf/2202.10936.pdf)
+
 - (arXiv 2022.02) VLP: A Survey on **Vision-Language** Pre-training, [[Paper]](https://arxiv.org/pdf/2202.09061.pdf)
 
 - (arXiv 2022.02) Transformer for **Graphs**: An Overview from Architecture Perspective, [[Paper]](https://arxiv.org/pdf/2202.08455.pdf)
@@ -97,7 +99,31 @@ Keep updated.
 
 - (arXiv 2022.02) , [[Paper]]()
 
+- (arXiv 2022.02) , [[Paper]]()
+
 - (arXiv 2022.02) , [[Paper]]() -->
+
+- (arXiv 2022.02) ATTENTION ENABLES ZERO **APPROXIMATION** ERROR, [[Paper]](https://arxiv.org/pdf/2202.12166.pdf)
+
+- (arXiv 2022.02) When Transformer Meets **Robotic Grasping**: Exploits Context for Efficient Grasp Detection, [[Paper]](https://arxiv.org/pdf/2202.11911.pdf), [[Code]](https://github.com/WangShaoSUN/grasp-transformer)
+
+- (arXiv 2022.02) **AUTO-SCALING** VISION TRANSFORMERS WITHOUT TRAINING, [[Paper]](https://arxiv.org/pdf/2202.11921.pdf), [[Code]](https://github.com/VITA-Group/AsViT)
+
+- (arXiv 2022.02) Think Global, Act Local: Dual-scale Graph Transformer for **Vision-and-Language Navigation**, [[Paper]](https://arxiv.org/pdf/2202.11742.pdf), [[Project]](https://cshizhe.github.io/projects/vln_duet.html)
+
+- (arXiv 2022.02) LEARNING TO **MERGE TOKENS** IN VISION TRANSFORMERS, [[Paper]](https://arxiv.org/pdf/2202.12015.pdf)
+
+- (arXiv 2022.02) ProFormer: Learning **Data-efficient** Representations of **Body Movement** with Prototype-based Feature Augmentation and Visual Transformers, [[Paper]](https://arxiv.org/pdf/2202.11423.pdf), [[Code]](https://github.com/KPeng9510/ProFormer)
+
+- (arXiv 2022.02) SELF-SUPERVISED TRANSFORMERS FOR **UNSUPERVISED OBJECT DISCOVERY** USING NORMALIZED CUT, [[Paper]](https://arxiv.org/pdf/2202.11539.pdf), [[Project]](https://www.m-psi.fr/Papers/TokenCut2022/)
+
+- (arXiv 2022.02) Paying U-Attention to Textures: Multi-Stage Hourglass Vision Transformer for Universal **Texture Synthesis**, [[Paper]](https://arxiv.org/pdf/2202.11703.pdf)
+
+- (arXiv 2022.02) CaMEL: Mean Teacher Learning for Image **Captioning**, [[Paper]](https://arxiv.org/pdf/2202.10492.pdf)
+
+- (arXiv 2022.02) **Hierarchical** Perceiver, [[Paper]](https://arxiv.org/pdf/2202.10890.pdf)
+
+- (arXiv 2022.02) **Movies2Scenes**: Learning Scene Representations Using Movie Similarities, [[Paper]](https://arxiv.org/pdf/2202.10650.pdf)
 
 - (arXiv 2022.02) GroupViT: **Semantic Segmentation** Emerges from Text Supervision, [[Paper]](https://arxiv.org/pdf/2202.11094.pdf), [[Code
 
