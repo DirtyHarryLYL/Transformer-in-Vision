@@ -97,11 +97,11 @@ Keep updated.
 
 - (arXiv 2022.02) , [[Paper]]()
 
-- (arXiv 2022.02) , [[Paper]]()
-
-- (arXiv 2022.02) , [[Paper]]()
-
 - (arXiv 2022.02) , [[Paper]]() -->
+
+- (arXiv 2022.02) Instantaneous **Physiological Estimation** using Video Transformers, [[Paper]](https://arxiv.org/pdf/2202.12368.pdf), [[Code]](https://github.com/revanurambareesh/instantaneous_transformer)
+
+- (arXiv 2022.02) Style**CLIP**Draw: Coupling Content and Style in **Text-to-Drawing** Translation, [[Paper]](https://arxiv.org/pdf/2202.12362.pdf), [[Code]](https://github.com/pschaldenbrand/StyleCLIPDraw)
 
 - (arXiv 2022.02) ATTENTION ENABLES ZERO **APPROXIMATION** ERROR, [[Paper]](https://arxiv.org/pdf/2202.12166.pdf)
 
