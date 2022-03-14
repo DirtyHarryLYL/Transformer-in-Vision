@@ -75,7 +75,15 @@ Keep updated.
 
 - (arXiv 2022.03) , [[Paper]]()
 
+- (arXiv 2022.03) , [[Paper]]()
+
+- (arXiv 2022.03) , [[Paper]]()
+
+- (arXiv 2022.03) , [[Paper]]()
+
 - (arXiv 2022.03) , [[Paper]]() -->
+
+- (arXiv 2022.03) Masked Visual Pre-training for **Motor Control**, [[Paper]](https://arxiv.org/pdf/2203.06173.pdf), [[Project]](https://tetexiao.com/projects/mvp)
 
 - (arXiv 2022.03) NLX-GPT: A Model for Natural Language Explanations in Vision and **Vision-Language** Tasks, [[Paper]](https://arxiv.org/pdf/2203.05081.pdf), [[Code]](https://github.com/fawazsammani/nlxgpt)
 
