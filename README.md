@@ -81,7 +81,23 @@ Keep updated.
 
 - (arXiv 2022.03) , [[Paper]]()
 
+- (arXiv 2022.03) , [[Paper]]()
+
+- (arXiv 2022.03) , [[Paper]]()
+
+- (arXiv 2022.03) , [[Paper]]()
+
+- (arXiv 2022.03) , [[Paper]]()
+
+- (arXiv 2022.03) , [[Paper]]()
+
+- (arXiv 2022.03) , [[Paper]]()
+
 - (arXiv 2022.03) , [[Paper]]() -->
+
+- (arXiv 2022.03) DN-DETR: **Accelerate** DETR **Training** by Introducing Query DeNoising, [[Paper]](https://arxiv.org/pdf/2203.01305.pdf), [[Code]](https://github.com/FengLi-ust/DN-DETR)
+
+- (arXiv 2022.03) **Protecting Celebrities** with Identity Consistency Transformer, [[Paper]](https://arxiv.org/pdf/2203.01318.pdf)
 
 - (arXiv 2022.03) Masked Visual Pre-training for **Motor Control**, [[Paper]](https://arxiv.org/pdf/2203.06173.pdf), [[Project]](https://tetexiao.com/projects/mvp)
 
@@ -97,15 +113,12 @@ Keep updated.
 , [[Paper]](https://arxiv.org/pdf/2011.15079.pdf), [[Code]](https://github.com/chrdiller/characteristic3dposes)
 
 ### 2022.02
-<!-- - (arXiv 2022.02) , [[Paper]]()
 
-- (arXiv 2022.02) , [[Paper]]()
+- (arXiv 2022.02) **Bayesian Structure Learning** with Generative Flow Networks, [[Paper]](https://arxiv.org/pdf/2202.13903.pdf)
 
-- (arXiv 2022.02) , [[Paper]]()
+- (arXiv 2022.02) Towards **Unsupervised Domain Adaptation** via Domain-Transformer, [[Paper]](https://arxiv.org/pdf/2202.13777.pdf)
 
-- (arXiv 2022.02) , [[Paper]]()
-
-- (arXiv 2022.02) , [[Paper]]() -->
+- (arXiv 2022.02) An End-to-End Transformer Model for **Crowd Localization**, [[Paper]](https://arxiv.org/pdf/2202.13065.pdf)
 
 - (arXiv 2022.02) Instantaneous **Physiological Estimation** using Video Transformers, [[Paper]](https://arxiv.org/pdf/2202.12368.pdf), [[Code]](https://github.com/revanurambareesh/instantaneous_transformer)
 
