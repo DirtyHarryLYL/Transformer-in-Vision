@@ -35,6 +35,8 @@ Keep updated.
 
 ## Survey
 
+- (arXiv 2022.03) Recent Advances in Vision Transformer: A Survey and Outlook of Recent Work, [[Paper]](https://arxiv.org/pdf/2203.01536.pdf), [[Project]](https://github.com/khawar512/ViT-Survey)
+
 - (arXiv 2022.02) A Survey of **Vision-Language** Pre-Trained Models, [[Paper]](https://arxiv.org/pdf/2202.10936.pdf)
 
 - (arXiv 2022.02) VLP: A Survey on **Vision-Language** Pre-training, [[Paper]](https://arxiv.org/pdf/2202.09061.pdf)
@@ -89,11 +91,45 @@ Keep updated.
 
 - (arXiv 2022.03) , [[Paper]]()
 
-- (arXiv 2022.03) , [[Paper]]()
-
-- (arXiv 2022.03) , [[Paper]]()
-
 - (arXiv 2022.03) , [[Paper]]() -->
+
+- (arXiv 2022.03) VITRANSPAD: VIDEO TRANSFORMER USING CONVOLUTION AND SELF-ATTENTION FOR **FACE PRESENTATION ATTACK DETECTION**, [[Paper]](https://arxiv.org/pdf/2203.01562.pdf)
+
+- (arXiv 2022.03) Multi-Tailed Vision Transformer for **Efficient Inference**, [[Paper]](https://arxiv.org/pdf/2203.01587.pdf)
+
+- (arXiv 2022.03) Bending Reality: Distortion-aware Transformers for Adapting to Panoramic **Semantic Segmentation**, [[Paper]](https://arxiv.org/pdf/2203.01452.pdf), [[Code]](https://github.com/jamycheung/Trans4PASS)
+
+- (arXiv 2022.03) Ensembles of Vision Transformers as a New Paradigm for Automated Classification in **Ecology**, [[Paper]](https://arxiv.org/pdf/2203.01726.pdf)
+
+- (arXiv 2022.03) LGT-Net: Indoor Panoramic Room **Layout Estimation** with Geometry-Aware Transformer Network, [[Paper]](https://arxiv.org/pdf/2203.01824.pdf), [[Code]](https://github.com/zhigangjiang/LGT-Net)
+
+- (arXiv 2022.03) LatentFormer: Multi-Agent Transformer-Based **Interaction Modeling** and **Trajectory Prediction**, [[Paper]](https://arxiv.org/pdf/2203.01880.pdf)
+
+- (arXiv 2022.03) DCT-Former: **Efficient** Self-Attention with Discrete Cosine Transform, [[Paper]](https://arxiv.org/pdf/2203.01178.pdf), [[Code]](https://github.com/cscribano/DCT-Former-Public)
+
+- (arXiv 2022.03) Unsupervised **Vision-and-Language** Pre-training via Retrieval-based Multi-Granular Alignment, [[Paper]](https://arxiv.org/pdf/2203.00242.pdf)
+
+- (arXiv 2022.03) Spatiotemporal Transformer Attention Network for 3D Voxel Level Joint Segmentation and Motion Prediction in **Point Cloud**, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2203/2203.00138.pdf)
+
+- (arXiv 2022.03) **CLIP**-GEN: Language-Free Training of a **Text-to-Image** Generator with CLIP, [[Paper]]()
+
+- (arXiv 2022.03) MixSTE: Seq2seq Mixed Spatio-Temporal Encoder for **3D** Human **Pose** Estimation in Video, [[Paper]](https://arxiv.org/pdf/2203.00859.pdf)
+
+- (arXiv 2022.03) X -Trans2Cap: Cross-Modal Knowledge Transfer using Transformer for **3D Dense Captioning**, [[Paper]](https://arxiv.org/pdf/2203.00843.pdf)
+
+- (arXiv 2022.03) 3DCTN: 3D Convolution-Transformer Network for **Point Cloud** Classification, [[Paper]](https://arxiv.org/pdf/2203.00828.pdf)
+
+- (arXiv 2022.03) DeciWatch: A Simple Baseline for 10× **Efficient** 2D and 3D **Pose** Estimation, [[Paper]](https://arxiv.org/pdf/2203.08713.pdf)
+
+- (arXiv 2022.03) D_2ETR: **Decoder-Only DETR** with Computationally Efficient Cross-Scale Attention, [[Paper]](https://arxiv.org/pdf/2203.00860.pdf)
+
+- (arXiv 2022.03) Incremental Transformer Structure Enhanced Image **Inpainting** with Masking Positional Encoding, [[Paper]](https://arxiv.org/pdf/2203.00867.pdf), [[Code]](https://github.com/DQiaole/ZITS_inpainting)
+
+- (arXiv 2022.03) Self-supervised Transformer for **Deepfake Detection**, [[Paper]](https://arxiv.org/pdf/2203.01265.pdf)
+
+- (arXiv 2022.03) Aggregated **Pyramid** Vision Transformer: Splittransform-merge Strategy for Image Recognition without Convolutions, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2203/2203.00960.pdf)
+
+- (arXiv 2022.03) TransDARC: Transformer-based **Driver Activity Recognition** with Latent Space Feature Calibration, [[Paper]](https://arxiv.org/pdf/2203.00927.pdf), [[Code]](https://github.com/KPeng9510/TransDARC)
 
 - (arXiv 2022.03) DN-DETR: **Accelerate** DETR **Training** by Introducing Query DeNoising, [[Paper]](https://arxiv.org/pdf/2203.01305.pdf), [[Code]](https://github.com/FengLi-ust/DN-DETR)
 
