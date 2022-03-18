@@ -93,6 +93,46 @@ Keep updated.
 
 - (arXiv 2022.03) , [[Paper]]() -->
 
+- (arXiv 2022.03) Mind the Gap: Understanding the Modality Gap in **Multi-modal Contrastive Representation** Learning, [[Paper]](https://arxiv.org/pdf/2203.02053.pdf), [[Code]](https://modalitygap.readthedocs.io/)
+
+- (arXiv 2022.03) Autoregressive **Image Generation** using Residual Quantization, [[Paper]](https://arxiv.org/pdf/2203.01941.pdf)
+
+- (arXiv 2022.03) CONTEXTFORMER: A TRANSFORMER WITH SPATIO-CHANNEL ATTENTION FOR CONTEXT MODELING IN LEARNED **IMAGE COMPRESSION**, [[Paper]](https://arxiv.org/pdf/2203.02452.pdf)
+
+- (arXiv 2022.03) Patch Similarity Aware Data-Free **Quantization** for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2203.02250.pdf)
+
+- (arXiv 2022.03) ViT-P: Rethinking Data-**efficient** Vision Transformers from Locality, [[Paper]](https://arxiv.org/pdf/2203.02358.pdf)
+
+- (arXiv 2022.03) DIT: SELF-SUPERVISED PRE-TRAINING FOR **DOCUMENT IMAGE** TRANSFORMER, [[Paper]](https://arxiv.org/pdf/2203.02378.pdf)
+
+- (arXiv 2022.03) Towards **Efficient** and **Scalable** Sharpness-Aware Minimization, [[Paper]](https://arxiv.org/pdf/2203.02714.pdf)
+
+- (arXiv 2022.03) HyperTransformer: A Textural and Spectral Feature Fusion Transformer for **Pansharpening**, [[Paper]](https://arxiv.org/pdf/2203.02503.pdf), [[Code]](https://github.com/wgcban/HyperTransformer)
+
+- (arXiv 2022.03) UVCGAN: UNET VISION TRANSFORMER CYCLE-CONSISTENT GAN FOR **UNPAIRED IMAGE-TO-IMAGE TRANSLATION**, [[Paper]](https://arxiv.org/pdf/2203.02557.pdf), [[Code]](https://github.com/LS4GAN/uvcgan)
+
+- (arXiv 2022.03) Show Me What and Tell Me How: **Video Synthesis** via Multimodal Conditioning, [[Paper]](https://arxiv.org/pdf/2203.02573.pdf), [[Code]](https://github.com/snap-research/MMVID)
+
+- (arXiv 2022.03) PANFORMER: A TRANSFORMER BASED MODEL FOR **PAN-SHARPENING**, [[Paper]](https://arxiv.org/pdf/2203.02916.pdf), [[Code]](https://github.com/zhysora/PanFormer)
+
+- (arXiv 2022.03) Multi-class Token Transformer for **Weakly Supervised Semantic Segmentation**, [[Paper]](https://arxiv.org/pdf/2203.02891.pdf), [[Code]](https://github.com/xulianuwa/MCTformer)
+
+- (arXiv 2022.03) Cross Language Image Matching for **Weakly Supervised Semantic Segmentation**, [[Paper]](https://arxiv.org/pdf/2203.02668.pdf)
+
+- (arXiv 2022.03) Learning Affinity from Attention: End-to-End **Weakly-Supervised Semantic Segmentation** with Transformers, [[Paper]](https://arxiv.org/pdf/2203.02664.pdf), [[Code]](https://github.com/rulixiang/afa)
+
+- (arXiv 2022.03) DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object **Detection**, [[Paper]](https://arxiv.org/pdf/2203.03605.pdf), [[Code]](https://github.com/IDEACVR/DINO)
+
+- (arXiv 2022.03) MetaFormer : A Unified Meta Framework for **Fine-Grained Recognition**, [[Paper]](https://arxiv.org/pdf/2203.02751.pdf), [[Code]](https://github.com/dqshuai/MetaFormer)
+
+- (arXiv 2022.03) **Audio-visual** Generalised Zero-shot Learning with Cross-modal Attention and Language, [[Paper]](https://arxiv.org/pdf/2203.03598.pdf)
+
+- (arXiv 2022.03) Knowledge Amalgamation for Object **Detection** with Transformers, [[Paper]](https://arxiv.org/pdf/2203.03187.pdf)
+
+- (arXiv 2022.03) Learnable Irrelevant Modality Dropout for **Multimodal Action Recognition** on Modality-Specific Annotated Videos, [[Paper]](https://arxiv.org/pdf/2203.03014.pdf)
+
+- (arXiv 2022.03) Modeling Coreference Relations in **Visual Dialog**, [[Paper]](https://arxiv.org/pdf/2203.02986.pdf), [[Code]](https://github.com/Mingxiao-Li/Modeling-Coreference-Relations-in-Visual-Dialog)
+
 - (arXiv 2022.03) VITRANSPAD: VIDEO TRANSFORMER USING CONVOLUTION AND SELF-ATTENTION FOR **FACE PRESENTATION ATTACK DETECTION**, [[Paper]](https://arxiv.org/pdf/2203.01562.pdf)
 
 - (arXiv 2022.03) Multi-Tailed Vision Transformer for **Efficient Inference**, [[Paper]](https://arxiv.org/pdf/2203.01587.pdf)
