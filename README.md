@@ -91,7 +91,31 @@ Keep updated.
 
 - (arXiv 2022.03) , [[Paper]]()
 
+- (arXiv 2022.03) , [[Paper]]()
+
+- (arXiv 2022.03) , [[Paper]]()
+
+- (arXiv 2022.03) , [[Paper]]()
+
+- (arXiv 2022.03) , [[Paper]]()
+
+- (arXiv 2022.03) , [[Paper]]()
+
 - (arXiv 2022.03) , [[Paper]]() -->
+
+- (arXiv 2022.03) CP-ViT: Cascade Vision Transformer **Pruning** via Progressive Sparsity Prediction, [[Paper]](https://arxiv.org/pdf/2203.04570.pdf)
+
+- (arXiv 2022.03) Model-Agnostic Multitask Fine-tuning for Few-shot **Vision-Language** **Transfer Learning**, [[Paper]](https://arxiv.org/pdf/2203.04904.pdf)
+
+- (arXiv 2022.03) ChiTransformer: Towards Reliable **Stereo** from Cues, [[Paper]](https://arxiv.org/pdf/2203.04554.pdf)
+
+- (arXiv 2022.03) A Unified Transformer Framework for Group-based Segmentation: **Co-Segmentation**,** Co-Saliency Detection** and **Video Salient Object Detection**, [[Paper]](https://arxiv.org/pdf/2203.04708.pdf), [[Code]](https://github.com/suyukun666/UFO)
+
+- (arXiv 2022.03) Coarse-to-Fine Sparse Transformer for **Hyperspectral Image Reconstruction**, [[Paper]](https://arxiv.org/pdf/2203.04845.pdf)
+
+- (arXiv 2022.03) CMX: Cross-Modal Fusion for **RGB-X Semantic Segmentation** with Transformers, [[Paper]](https://arxiv.org/pdf/2203.04838.pdf), [[Code]](https://github.com/huaaaliu/RGBX_Semantic_Segmentation)
+
+- (arXiv 2022.03) Multiscale Transformer for **Hyperspectral Image Classification**, [[Paper]](https://arxiv.org/pdf/2203.04771.pdf)
 
 - (arXiv 2022.03) Mind the Gap: Understanding the Modality Gap in **Multi-modal Contrastive Representation** Learning, [[Paper]](https://arxiv.org/pdf/2203.02053.pdf), [[Code]](https://modalitygap.readthedocs.io/)
 
