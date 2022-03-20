@@ -81,27 +81,47 @@ Keep updated.
 
 - (arXiv 2022.03) , [[Paper]]()
 
-- (arXiv 2022.03) , [[Paper]]()
-
-- (arXiv 2022.03) , [[Paper]]()
-
-- (arXiv 2022.03) , [[Paper]]()
-
-- (arXiv 2022.03) , [[Paper]]()
-
-- (arXiv 2022.03) , [[Paper]]()
-
-- (arXiv 2022.03) , [[Paper]]()
-
-- (arXiv 2022.03) , [[Paper]]()
-
-- (arXiv 2022.03) , [[Paper]]()
-
-- (arXiv 2022.03) , [[Paper]]()
-
-- (arXiv 2022.03) , [[Paper]]()
-
 - (arXiv 2022.03) , [[Paper]]() -->
+
+- (arXiv 2022.03) Synopses of Movie Narratives: a **Video-Language Dataset** for Story Understanding, [[Paper]](https://arxiv.org/pdf/2203.05711.pdf), [[Dataset]](https://github.com/insundaycathy/SYMON)
+
+- (arXiv 2022.03) Visualizing and Understanding **Patch Interactions** in Vision Transformer, [[Paper]](https://arxiv.org/pdf/2203.05922.pdf)
+
+- (arXiv 2022.03) **ANTI-OVERSMOOTHING** IN DEEP VISION TRANSFORMERS VIA THE FOURIER DOMAIN ANALYSIS: FROM THEORY TO PRACTICE, [[Paper]](https://arxiv.org/pdf/2203.05962.pdf), [[Code]](https://github.com/VITA-Group/ViT-Anti-Oversmoothing)
+
+- (arXiv 2022.03) Democratizing Contrastive **Language-Image** Pre-training: A CLIP **Benchmark** of Data, Model, and Supervision, [[Paper]](https://arxiv.org/pdf/2203.05796.pdf), [[Code]](https://github.com/Sense-GVT/DeCLIP)
+
+- (arXiv 2022.03) ActiveMLP: An **MLP**-like Architecture with Active Token Mixer, [[Paper]](https://arxiv.org/pdf/2203.06108.pdf), [[Code]](https://github.com/microsoft/ActiveMLP)
+
+- (arXiv 2022.03) **Zero-Shot Action Recognition** with Transformer-based Video Semantic Embedding, [[Paper]](https://arxiv.org/pdf/2203.05156.pdf)
+
+- (arXiv 2022.03) TrueType Transformer: **Character and Font Style Recognition** in Outline Format, [[Paper]](https://arxiv.org/pdf/2203.05338.pdf)
+
+- (arXiv 2022.03) LOOPITR: Combining Dual and Cross Encoder Architectures for **Image-Text** Retrieval, [[Paper]](https://arxiv.org/pdf/2203.05465.pdf)
+
+- (arXiv 2022.03) MVP: **Multimodality**-guided Visual Pre-training, [[Paper]](https://arxiv.org/pdf/2203.05175.pdf)
+
+- (arXiv 2022.03) DEER: Detection-agnostic End-to-End Recognizer for **Scene Text Spotting**, [[Paper]](https://arxiv.org/pdf/2203.05122.pdf)
+
+- (arXiv 2022.03) **Multi-Modal** Mixup for **Robust** Fine-tuning, [[Paper]](https://arxiv.org/pdf/2203.03897.pdf)
+
+- (arXiv 2022.03) AssistQ: Affordance-centric Question-driven Task Completion for **Egocentric Assistant**, [[Paper]](https://arxiv.org/pdf/2203.04203.pdf), [[Project]](https://showlab.github.io/assistq/)
+
+- (arXiv 2022.03) **Coarse-to-Fine** Vision Transformer, [[Paper]](https://arxiv.org/pdf/2203.03821.pdf), [[Code]](https://github.com/ChenMnZ/CF-ViT)
+
+- (arXiv 2022.03) Monocular Robot **Navigation** with Self-Supervised Pretrained Vision Transformers, [[Paper]](https://arxiv.org/pdf/2203.03682.pdf)
+
+- (arXiv 2022.03) WAVEMIX: RESOURCE-**EFFICIENT** TOKEN MIXING FOR IMAGES, [[Paper]](https://arxiv.org/pdf/2203.03689.pdf)
+
+- (arXiv 2022.03) VOVIT: LOW LATENCY GRAPH-BASED **AUDIO-VISUAL** VOICE SEPARATION TRANSFORMER, [[Paper]](https://arxiv.org/pdf/2203.04099.pdf), [[Code]](https://ipcv.github.io/VoViT/)
+
+- (arXiv 2022.03) Graph Attention Transformer Network for **Multi-Label** Image **Classification**, [[Paper]](https://arxiv.org/pdf/2203.04049.pdf)
+
+- (arXiv 2022.03) EDGEFORMER: IMPROVING **LIGHT-WEIGHT CONVNETS** BY LEARNING FROM VISION TRANSFORMERS, [[Paper]](https://arxiv.org/pdf/2203.03952.pdf), [[Code]](https://github.com/hkzhang91/EdgeFormer)
+
+- (arXiv 2022.03) Skating-Mixer: Multimodal **MLP** for **Scoring Figure Skating**, [[Paper]](https://arxiv.org/pdf/2203.03990.pdf)
+
+- (arXiv 2022.03) Dynamic Group Transformer: A General Vision Transformer Backbone with Dynamic Group **Attention**, [[Paper]](https://arxiv.org/pdf/2203.03937.pdf)
 
 - (arXiv 2022.03) CP-ViT: Cascade Vision Transformer **Pruning** via Progressive Sparsity Prediction, [[Paper]](https://arxiv.org/pdf/2203.04570.pdf)
 
