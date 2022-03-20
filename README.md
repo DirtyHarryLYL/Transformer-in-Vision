@@ -81,7 +81,37 @@ Keep updated.
 
 - (arXiv 2022.03) , [[Paper]]()
 
+- (arXiv 2022.03) , [[Paper]]()
+
+- (arXiv 2022.03) , [[Paper]]()
+
+- (arXiv 2022.03) , [[Paper]]()
+
+- (arXiv 2022.03) , [[Paper]]()
+
+- (arXiv 2022.03) , [[Paper]]()
+
+- (arXiv 2022.03) , [[Paper]]()
+
+- (arXiv 2022.03) , [[Paper]]()
+
+- (arXiv 2022.03) , [[Paper]]()
+
+- (arXiv 2022.03) , [[Paper]]()
+
 - (arXiv 2022.03) , [[Paper]]() -->
+
+- (arXiv 2022.03) CLIP Models are **Few-shot** Learners: Empirical Studies on VQA and Visual Entailment, [[Paper]](https://arxiv.org/pdf/2203.07190.pdf)
+
+- (arXiv 2022.03) EIT: **Efficiently** Lead Inductive Biases to ViT, [[Paper]](https://arxiv.org/pdf/2203.07116.pdf), [[Code]](https://github.com/MrHaiPi/EIT)
+
+- (arXiv 2022.03) Self-Promoted Supervision for **Few-Shot** Transformer, [[Paper]](https://arxiv.org/pdf/2203.07057.pdf), [[Code]](https://github.com/DongSky/few-shot-vit)
+
+- (arXiv 2022.03) MDMMT-2: Multidomain Multimodal Transformer for **Video Retrieval**, One More Step Towards Generalization, [[Paper]](https://arxiv.org/pdf/2203.07086.pdf)
+
+- (arXiv 2022.03) Disentangled Representation Learning for **Text-Video** Retrieval, [[Paper]](https://arxiv.org/pdf/2203.07111.pdf)
+
+- (arXiv 2022.03) TransCAM: Transformer Attention-based CAM Refinement for **Weakly Supervised Semantic Segmentation**, [[Paper]](https://arxiv.org/pdf/2203.07239.pdf), [[Code]](https://github.com/liruiwen/TransCAM)
 
 - (arXiv 2022.03) Synopses of Movie Narratives: a **Video-Language Dataset** for Story Understanding, [[Paper]](https://arxiv.org/pdf/2203.05711.pdf), [[Dataset]](https://github.com/insundaycathy/SYMON)
 
