@@ -95,11 +95,51 @@ Keep updated.
 
 - (arXiv 2022.03) , [[Paper]]()
 
-- (arXiv 2022.03) , [[Paper]]()
-
-- (arXiv 2022.03) , [[Paper]]()
-
 - (arXiv 2022.03) , [[Paper]]() -->
+
+- (arXiv 2022.03) PATCH-FOOL: ARE VISION TRANSFORMERS ALWAYS ROBUST AGAINST **ADVERSARIAL** PERTURBATIONS? [[Paper]](https://arxiv.org/pdf/2203.08392.pdf), [[Code]](https://github.com/RICE-EIC/Patch-Fool)
+
+- (arXiv 2022.03) WegFormer: Transformers for Weakly Supervised **Semantic Segmentation**, [[Paper]](https://arxiv.org/pdf/2203.08421.pdf)
+
+- (arXiv 2022.03) **Open Set Recognition** using Vision Transformer with an Additional Detection Head, [[Paper]](https://arxiv.org/pdf/2203.08441.pdf), [[Code]](https://github.com/feiyang-cai/osr_vit.git)
+
+- (arXiv 2022.03) UNIFIED VISUAL TRANSFORMER **COMPRESSION**, [[Paper]](https://arxiv.org/pdf/2203.08243.pdf), [[Code]](https://github.com/VITA-Group/UVC)
+
+- (arXiv 2022.03) Towards Practical **Certifiable Patch Defense** with Vision Transformer, [[Paper]](https://arxiv.org/pdf/2203.08519.pdf)
+
+- (arXiv 2022.03) EDTER: **Edge Detection** with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
+
+- (arXiv 2022.03) ActFormer: A GAN Transformer Framework towards General Action-Conditioned **3D Human Motion Generation**, [[Paper]](https://arxiv.org/pdf/2203.07706.pdf)
+
+- (arXiv 2022.03) Rich CNN-Transformer Feature Aggregation Networks for **Super-Resolution**, [[Paper]](https://arxiv.org/pdf/2203.07682.pdf)
+
+- (arXiv 2022.03) Revitalize Region Feature for Democratizing **Video-Language** Pre-training, [[Paper]](https://arxiv.org/pdf/2203.07720.pdf), [[Code]](https://github.com/CuthbertCai/DemoVLP)
+
+- (arXiv 2022.03) Inverted Pyramid Multi-task Transformer for **Dense Scene Understanding**, [[Paper]](https://arxiv.org/pdf/2203.07997.pdf)
+
+- (arXiv 2022.03) Smoothing Matters: Momentum Transformer for Domain Adaptive **Semantic Segmentation**, [[Paper]](https://arxiv.org/pdf/2203.07988.pdf), [[Code]](https://github.com/alpc91/TransDA)
+
+- (arXiv 2022.03) Style Transformer for **Image Inversion** and **Editing**, [[Paper]](https://arxiv.org/pdf/2203.07932.pdf), [[Code]](https://github.com/sapphire497/style-transformer)
+
+- (arXiv 2022.03) MotionCLIP: Exposing Human **Motion Generation** to **CLIP** Space, [[Paper]](https://arxiv.org/pdf/2203.08063.pdf), [[Project]](https://guytevet.github.io/motionclip-page/)
+
+- (arXiv 2022.03) The Principle of **Diversity**: Training Stronger Vision Transformers Calls for Reducing All Levels of **Redundancy**, [[Paper]](https://arxiv.org/pdf/2203.06345.pdf), [[Code]](https://github.com/VITA-Group/Diverse-ViT)
+
+- (arXiv 2022.03) Enabling **Multimodal Generation** on CLIP via Vision-Language Knowledge Distillation, [[Paper]](https://arxiv.org/pdf/2203.06386.pdf)
+
+- (arXiv 2022.03) Sparse Local Patch Transformer for Robust **Face Alignment** and **Landmarks Inherent Relation** Learning, [[Paper]](https://arxiv.org/pdf/2203.06541.pdf), [[Code]](https://github.com/Jiahao-UTS/SLPT-master)
+
+- (arXiv 2022.03) Joint CNN and Transformer Network via weakly supervised Learning for efficient **crowd counting**, [[Paper]](https://arxiv.org/pdf/2203.06388.pdf)
+
+- (arXiv 2022.03) DFTR: Depth-supervised Hierarchical Feature Fusion Transformer for **Salient Object Detection**, [[Paper]](https://arxiv.org/pdf/2203.06429.pdf)
+
+- (arXiv 2022.03) DATR: Domain-adaptive transformer for **multi-domain landmark detection**, [[Paper]](https://arxiv.org/pdf/2203.06433.pdf)
+
+- (arXiv 2022.03) EventFormer: AU Event Transformer for **Facial Action** Unit Event Detection, [[Paper]](https://arxiv.org/pdf/2203.06355.pdf)
+
+- (arXiv 2022.03) Accelerating **DETR** **Convergence** via Semantic-Aligned Matching, [[Paper]](https://arxiv.org/pdf/2203.06883.pdf), [[Code]](https://github.com/ZhangGongjie/SAM-DETR)
+
+- (arXiv 2022.03) All in One: Exploring Unified **Video-Language** Pre-training, [[Paper]](https://arxiv.org/pdf/2203.07303.pdf), [[Code]](https://github.com/showlab/all-in-one)
 
 - (arXiv 2022.03) CLIP Models are **Few-shot** Learners: Empirical Studies on VQA and Visual Entailment, [[Paper]](https://arxiv.org/pdf/2203.07190.pdf)
 
