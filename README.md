@@ -83,7 +83,31 @@ Keep updated.
 
 - (arXiv 2022.03) , [[Paper]]()
 
+- (arXiv 2022.03) , [[Paper]]()
+
+- (arXiv 2022.03) , [[Paper]]()
+
+- (arXiv 2022.03) , [[Paper]]()
+
+- (arXiv 2022.03) , [[Paper]]()
+
 - (arXiv 2022.03) , [[Paper]]() -->
+
+- (arXiv 2022.03) GradViT: **Gradient Inversion** of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2203.11894.pdf), [[Code]](https://gradvit.github.io/)
+
+- (arXiv 2022.03) **Mask Usage Recognition** using Vision Transformer with Transfer Learning and Data Augmentation, [[Paper]](https://arxiv.org/pdf/2203.11542.pdf)
+
+- (arXiv 2022.03) Under the Hood of Transformer Networks for **Trajectory Forecasting**, [[Paper]](https://arxiv.org/pdf/2203.11878.pdf)
+
+- (arXiv 2022.03) **Open-Vocabulary DETR** with Conditional Matching, [[Paper]](https://arxiv.org/pdf/2203.11876.pdf)
+
+- (arXiv 2022.03) Meta-attention for ViT-backed **Continual Learning**, [[Paper]](https://arxiv.org/pdf/2203.11684.pdf), [[Code]](https://github.com/zju-vipa/MEAT-TIL)
+
+- (arXiv 2022.03) CNNs and Transformers Perceive **Hybrid Images** Similar to Humans, [[Paper]](https://arxiv.org/pdf/2203.11678.pdf), [[Code]](https://github.com/aliborji/hybrid_images.git)
+
+- (arXiv 2022.03) Bailando: **3D Dance Generation** by Actor-Critic GPT with Choreographic Memory, [[Paper]](https://arxiv.org/pdf/2203.13055.pdf), [[Code]](https://github.com/lisiyao21/Bailando/)
+
+- (arXiv 2022.03) Affective Feedback Synthesis Towards Multimodal **Text and Image** Data, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2203/2203.12692.pdf)
 
 - (arXiv 2022.03) ViewFormer: **NeRF-free Neural Rendering** from Few Images Using Transformers, [[Paper]](https://arxiv.org/pdf/2203.10157.pdf)
 
