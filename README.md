@@ -87,11 +87,11 @@ Keep updated.
 
 - (arXiv 2022.03) , [[Paper]]()
 
-- (arXiv 2022.03) , [[Paper]]()
-
-- (arXiv 2022.03) , [[Paper]]()
-
 - (arXiv 2022.03) , [[Paper]]() -->
+
+- (arXiv 2022.03) QS-Craft: Learning to Quantize, Scrabble and Craft for **Conditional Human Motion Animation**, [[Paper]](https://arxiv.org/pdf/2203.11632.pdf)
+
+- (arXiv 2022.03) Look for the Change: Learning **Object States** and **State-Modifying Actions** from Untrimmed Web Videos, [[Paper]](https://arxiv.org/pdf/2203.11637.pdf), [[Project]](https://data.ciirc.cvut.cz/public/projects/2022LookForTheChange/)
 
 - (arXiv 2022.03) GradViT: **Gradient Inversion** of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2203.11894.pdf), [[Code]](https://gradvit.github.io/)
 
