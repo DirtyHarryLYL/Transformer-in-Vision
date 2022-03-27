@@ -35,7 +35,9 @@ Keep updated.
 
 ## Survey
 
-- (arXiv 2022.03) Recent Advances in Vision Transformer: A Survey and Outlook of Recent Work, [[Paper]](https://arxiv.org/pdf/2203.01536.pdf), [[Project]](https://github.com/khawar512/ViT-Survey)
+- (arXiv 2022.03) Transformers Meet **Visual** Learning Understanding: A Comprehensive Review, [[Paper]](https://arxiv.org/pdf/2203.12944.pdf）
+
+- (arXiv 2022.03) Recent Advances in **Vision** Transformer: A Survey and Outlook of Recent Work, [[Paper]](https://arxiv.org/pdf/2203.01536.pdf), [[Project]](https://github.com/khawar512/ViT-Survey)
 
 - (arXiv 2022.02) A Survey of **Vision-Language** Pre-Trained Models, [[Paper]](https://arxiv.org/pdf/2202.10936.pdf)
 
@@ -77,17 +79,37 @@ Keep updated.
 
 - (arXiv 2022.03) , [[Paper]]()
 
-- (arXiv 2022.03) , [[Paper]]()
-
-- (arXiv 2022.03) , [[Paper]]()
-
-- (arXiv 2022.03) , [[Paper]]()
-
-- (arXiv 2022.03) , [[Paper]]()
-
-- (arXiv 2022.03) , [[Paper]]()
-
 - (arXiv 2022.03) , [[Paper]]() -->
+
+- (arXiv 2022.03) Associating Objects with Scalable Transformers for **Video Object Segmentation**, [[Paper]](https://arxiv.org/pdf/2203.11442.pdf), [[Project]](https://github.com/z-x-yang/AOT0
+
+- (arXiv 2022.03) HOP: History-and-Order Aware Pre-training for **Vision-and-Language Navigation**, [[Paper]](https://arxiv.org/pdf/2203.11591.pdf), [[Code]](https://github.com/YanyuanQiao/HOP-VLN)
+
+- (arXiv 2022.03) Learning to **generate line drawings** that convey geometry and semantics, [[Paper]](https://arxiv.org/pdf/2203.12691.pdf), [[Project]](https://carolineec.github.io/informative_drawings/)
+
+- (arXiv 2022.03) UMT: Unified Multi-modal Transformers for Joint **Video Moment Retrieval** and **Highlight Detection**, [[Paper]](https://arxiv.org/pdf/2203.12745.pdf), [[Code]](https://github.com/TencentARC/UMT)
+
+- (arXiv 2022.03) AIMusicGuru: Music Assisted **Human Pose Correction**, [[Paper]](https://arxiv.org/pdf/2203.12829.pdf)
+
+- (arXiv 2022.03) What to Hide from Your Students: Attention-Guided **Masked Image Modeling**, [[Paper]](https://arxiv.org/pdf/2203.12719.pdf)
+
+- (arXiv 2022.03) Towards Efficient and Elastic **Visual Question Answering** with Doubly Slimmable Transformer, [[Paper]](https://arxiv.org/pdf/2203.12814.pdf)
+
+- (arXiv 2022.03) ViT-FOD: A Vision Transformer based **Fine-grained Object Discriminator**, [[Paper]](https://arxiv.org/pdf/2203.12816.pdf)
+
+- (arXiv 2022.03) **Keypoints Tracking** via Transformer Networks, [[Paper]](https://arxiv.org/pdf/2203.12848.pdf), [[Code]](https://github.com/LexaNagiBator228/Keypoints-Tracking-via-Transformer-Networks/)
+
+- (arXiv 2022.03) Beyond Fixation: **Dynamic Window** Visual Transformer, [[Paper]](https://arxiv.org/pdf/2203.12856.pdf), [[Code]](https://github.com/pzhren/DW-ViT)
+
+- (arXiv 2022.03) Make-A-Scene: Scene-Based **Text-to-Image** Generation with Human Priors, [[Paper]](https://arxiv.org/pdf/2203.13131.pdf)
+
+- (arXiv 2022.03) Self-supervised Video-centralised Transformer for **Video Face Clustering**, [[Paper]](https://arxiv.org/pdf/2203.13166.pdf)
+
+- (arXiv 2022.03) Towards Exemplar-Free **Continual Learning** in Vision Transformers: an Account of Attention, Functional and Weight Regularization, [[Paper]](https://arxiv.org/pdf/2203.13167.pdf)
+
+- (arXiv 2022.03) Global **Tracking** Transformers, [[Paper]](https://arxiv.org/pdf/2203.13250.pdf), [[Code]](https://github.com/xingyizhou/GTR)
+
+- (arXiv 2022.03) **Video Instance Segmentation** via Multi-scale Spatio-temporal Split Attention Transformer, [[Paper]](https://arxiv.org/pdf/2203.13253.pdf), [[Code]](https://github.com/OmkarThawakar/MSSTS-VIS)
 
 - (arXiv 2022.03) QS-Craft: Learning to Quantize, Scrabble and Craft for **Conditional Human Motion Animation**, [[Paper]](https://arxiv.org/pdf/2203.11632.pdf)
 
