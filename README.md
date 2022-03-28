@@ -79,7 +79,25 @@ Keep updated.
 
 - (arXiv 2022.03) , [[Paper]]()
 
+- (arXiv 2022.03) , [[Paper]]()
+
+- (arXiv 2022.03) , [[Paper]]()
+
 - (arXiv 2022.03) , [[Paper]]() -->
+
+- (arXiv 2022.03) Learning Patch-to-Cluster **Attention** in Vision Transformer, [[Paper]](https://arxiv.org/pdf/2203.11987.pdf)
+
+- (arXiv 2022.03) Visual **Prompt Tuning**, [[Paper]](https://arxiv.org/pdf/2203.12119.pdf)
+
+- (arXiv 2022.03) Training-free Transformer **Architecture Search**, [[Paper]](https://arxiv.org/pdf/2203.12217.pdf)
+
+- (arXiv 2022.03) VideoMAE: Masked Autoencoders are Data-Efficient Learners for **Self-Supervised Video Pre-Training**, [[Paper]](https://arxiv.org/pdf/2203.12602.pdf), [[Code]](https://github.com/MCG-NJU/VideoMAE)
+
+- (arXiv 2022.03) METAMORPH: LEARNING **UNIVERSAL CONTROLLERS** WITH TRANSFORMERS, [[Paper]](https://arxiv.org/pdf/2203.11931.pdf), [[Project]](https://metamorph-iclr.github.io/site/)
+
+- (arXiv 2022.03) A Prompt Array Keeps the Bias Away: **Debiasing** **Vision-Language** Models with Adversarial Learning, [[Paper]](https://arxiv.org/pdf/2203.11933.pdf)
+
+- (arXiv 2022.03) Reshaping **Robot Trajectories** Using Natural **Language** Commands: A Study of Multi-Modal Data Alignment Using Transformers, [[Paper]](https://arxiv.org/pdf/2203.13411.pdf), [[Project]](https://arthurfenderbucker.github.io/NL_trajectory_reshaper/)
 
 - (arXiv 2022.03) Associating Objects with Scalable Transformers for **Video Object Segmentation**, [[Paper]](https://arxiv.org/pdf/2203.11442.pdf), [[Project]](https://github.com/z-x-yang/AOT0
 
