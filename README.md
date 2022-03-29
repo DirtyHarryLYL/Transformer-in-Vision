@@ -83,7 +83,31 @@ Keep updated.
 
 - (arXiv 2022.03) , [[Paper]]()
 
+- (arXiv 2022.03) , [[Paper]]()
+
+- (arXiv 2022.03) , [[Paper]]()
+
+- (arXiv 2022.03) , [[Paper]]()
+
+- (arXiv 2022.03) , [[Paper]]()
+
+- (arXiv 2022.03) , [[Paper]]()
+
+- (arXiv 2022.03) , [[Paper]]()
+
+- (arXiv 2022.03) , [[Paper]]()
+
+- (arXiv 2022.03) , [[Paper]]()
+
+- (arXiv 2022.03) , [[Paper]]()
+
+- (arXiv 2022.03) , [[Paper]]()
+
+- (arXiv 2022.03) , [[Paper]]()
+
 - (arXiv 2022.03) , [[Paper]]() -->
+
+- (arXiv 2022.03) MSTR: Multi-Scale Transformer for End-to-End **Human-Object Interaction Detection**, [[Paper]](https://arxiv.org/pdf/2203.14709.pdf)
 
 - (arXiv 2022.03) Learning Patch-to-Cluster **Attention** in Vision Transformer, [[Paper]](https://arxiv.org/pdf/2203.11987.pdf)
 
