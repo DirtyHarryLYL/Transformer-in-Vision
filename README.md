@@ -83,7 +83,27 @@ Keep updated.
 
 - (arXiv 2022.03) , [[Paper]]()
 
+- (arXiv 2022.03) , [[Paper]]()
+
+- (arXiv 2022.03) , [[Paper]]()
+
+- (arXiv 2022.03) , [[Paper]]()
+
+- (arXiv 2022.03) , [[Paper]]()
+
+- (arXiv 2022.03) , [[Paper]]()
+
+- (arXiv 2022.03) , [[Paper]]()
+
 - (arXiv 2022.03) , [[Paper]]() -->
+
+- (arXiv 2022.03) Stratified Transformer for 3D **Point Cloud Segmentation**, [[Paper]](https://arxiv.org/pdf/2203.14508.pdf), [[Code]](https://github.com/dvlab-research/Stratified-Transformer)
+
+- (arXiv 2022.03) NOC-REK: Novel Object **Captioning** with Retrieved Vocabulary from External Knowledge, [[Paper]](https://arxiv.org/pdf/2203.14499.pdf)
+
+- (arXiv 2022.03) **FACIAL EXPRESSION RECOGNITION** WITH SWIN TRANSFORMER, [[Paper]](https://arxiv.org/pdf/2203.13472.pdf)
+
+- (arXiv 2022.03) Give Me Your Attention: Dot-Product Attention Considered Harmful for Adversarial Patch **Robustness**, [[Paper]](https://arxiv.org/pdf/2203.13639.pdf)
 
 - (arXiv 2022.03) Efficient Visual **Tracking** via Hierarchical Cross-Attention Transformer, [[Paper]](https://arxiv.org/pdf/2203.13537.pdf), [[Code]](https://github.com/chenxin-dlut/HCAT)
 
