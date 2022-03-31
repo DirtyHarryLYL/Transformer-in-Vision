@@ -95,7 +95,19 @@ Keep updated.
 
 - (arXiv 2022.03) , [[Paper]]()
 
+- (arXiv 2022.03) , [[Paper]]()
+
 - (arXiv 2022.03) , [[Paper]]() -->
+
+- (arXiv 2022.03) Object Memory Transformer for Object Goal **Navigation**, [[Paper]](https://arxiv.org/pdf/2203.14708.pdf)
+
+- (arXiv 2022.03) Brain-inspired **Multilayer Perceptron** with **Spiking Neurons**, [[Paper]](https://arxiv.org/pdf/2203.14679.pdf), [[Code]](https://gitee.com/mindspore/models/tree/master/research/cv/snn_mlp)
+
+- (arXiv 2022.03) HandOccNet: Occlusion-Robust **3D Hand Mesh Estimation** Network, [[Paper]](https://arxiv.org/pdf/2203.14564.pdf), [[Code]](https://github.com/namepllet/HandOccNet)
+
+- (arXiv 2022.03) REGTR: End-to-end **Point Cloud Correspondences** with Transformers, [[Paper]](https://arxiv.org/pdf/2203.14517.pdf), [[Code]](https://github.com/yewzijian/RegTR)
+
+- (arXiv 2022.03) Automated Progressive Learning for **Efficient Training** of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2203.14509.pdf)
 
 - (arXiv 2022.03) Stratified Transformer for 3D **Point Cloud Segmentation**, [[Paper]](https://arxiv.org/pdf/2203.14508.pdf), [[Code]](https://github.com/dvlab-research/Stratified-Transformer)
 
