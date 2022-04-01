@@ -95,9 +95,9 @@ Keep updated.
 
 - (arXiv 2022.03) , [[Paper]]()
 
-- (arXiv 2022.03) , [[Paper]]()
-
 - (arXiv 2022.03) , [[Paper]]() -->
+
+- (arXiv 2022.03) Collaborative Transformers for **Grounded Situation Recognition**, [[Paper]](https://arxiv.org/pdf/2203.16518.pdf), [[Code]](https://github.com/jhcho99/CoFormer)
 
 - (arXiv 2022.03) Object Memory Transformer for Object Goal **Navigation**, [[Paper]](https://arxiv.org/pdf/2203.14708.pdf)
 
