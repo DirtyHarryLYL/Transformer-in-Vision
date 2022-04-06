@@ -74,6 +74,23 @@ Keep updated.
 - (arXiv 2020.1) **Transformers in Vision**: A Survey, [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
+### 2022.04
+<!-- - (arXiv 2022.04) , [[Paper]]() -->
+
+<!-- - (arXiv 2022.04) , [[Paper]]()
+
+- (arXiv 2022.04) , [[Paper]]()
+
+- (arXiv 2022.04) , [[Paper]]()
+
+- (arXiv 2022.04) , [[Paper]]()
+
+- (arXiv 2022.04) , [[Paper]]() -->
+
+- (arXiv 2022.04) What to look at and where: Semantic and Spatial Refined Transformer for detecting **human-object interactions**, [[Paper]](https://arxiv.org/pdf/2204.00746.pdf)
+
+- (arXiv 2022.04) MaxViT: **Multi-Axis** Vision Transformer, [[Paper]](https://arxiv.org/pdf/2204.01697.pdf)
+
 ### 2022.03
 <!-- - (arXiv 2022.03) , [[Paper]]() -->
 
