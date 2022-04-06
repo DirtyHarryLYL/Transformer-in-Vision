@@ -83,9 +83,9 @@ Keep updated.
 
 - (arXiv 2022.04) , [[Paper]]()
 
-- (arXiv 2022.04) , [[Paper]]()
-
 - (arXiv 2022.04) , [[Paper]]() -->
+
+- (arXiv 2022.04) Joint **Hand Motion and Interaction Hotspots Prediction** from Egocentric Videos, [[Paper]](https://arxiv.org/pdf/2204.01696.pdf), [[Project]](https://stevenlsw.github.io/hoi-forecast)
 
 - (arXiv 2022.04) What to look at and where: Semantic and Spatial Refined Transformer for detecting **human-object interactions**, [[Paper]](https://arxiv.org/pdf/2204.00746.pdf)
 
