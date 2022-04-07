@@ -100,23 +100,43 @@ Keep updated.
 
 - (arXiv 2022.03) , [[Paper]]()
 
-- (arXiv 2022.03) , [[Paper]]()
-
-- (arXiv 2022.03) , [[Paper]]()
-
-- (arXiv 2022.03) , [[Paper]]()
-
-- (arXiv 2022.03) , [[Paper]]()
-
-- (arXiv 2022.03) , [[Paper]]()
-
-- (arXiv 2022.03) , [[Paper]]()
-
-- (arXiv 2022.03) , [[Paper]]()
-
-- (arXiv 2022.03) , [[Paper]]()
-
 - (arXiv 2022.03) , [[Paper]]() -->
+
+- (arXiv 2022.03) SeqTR: A Simple yet Universal Network for **Visual Grounding**, [[Paper]](https://arxiv.org/pdf/2203.16265.pdf), [[Code]](https://github.com/sean-zhuh/SeqTR)
+
+- (arXiv 2022.03) InstaFormer: Instance-Aware **Image-to-Image Translation** with Transformer, [[Paper]](https://arxiv.org/pdf/2203.16248.pdf)
+
+- (arXiv 2022.03) Omni-DETR: **Omni-Supervised** Object **Detection** with Transformers, [[Paper]](https://arxiv.org/pdf/2203.16089.pdf), [[Code]](https://github.com/amazon-research/omni-detr)
+
+- (arXiv 2022.03) Learning **Program Representations** for Food Images and Cooking Recipes, [[Paper]](https://arxiv.org/pdf/2203.16071.pdf), [[Project]](http://cookingprograms.csail.mit.edu/)
+
+- (arXiv 2022.03) ITTR: **Unpaired Image-to-Image Translation** with Transformers, [[Paper]](https://arxiv.org/pdf/2203.16015.pdf)
+
+- (arXiv 2022.03) VPTR: **Efficient** Transformers for **Video Prediction**, [[Paper]](https://arxiv.org/pdf/2203.15836.pdf), [[Code]](https://github.com/XiYe20/VPTR)
+
+- (arXiv 2022.03) Parameter-**efficient** Fine-tuning for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2203.16329.pdf)
+
+- (arXiv 2022.03) TubeDETR: Spatio-Temporal Video **Grounding** with Transformers, [[Paper]](https://arxiv.org/pdf/2203.16434.pdf), [[Code]](https://antoyang.github.io/tubedetr.html)
+
+- (arXiv 2022.03) Exploring Plain Vision Transformer Backbones for Object **Detection**, [[Paper]](https://arxiv.org/pdf/2203.16527.pdf)
+
+- (arXiv 2022.03) PROMPTDET: EXPAND YOUR **DETECTOR** VOCABULARY WITH UNCURATED IMAGES, [[Paper]](https://arxiv.org/pdf/2203.16513.pdf), [[Code]](https://fcjian.github.io/promptdet)
+
+- (arXiv 2022.03) **Few-Shot** Object **Detection** with Fully Cross-Transformer, [[Paper]](https://arxiv.org/pdf/2203.15021.pdf)
+
+- (arXiv 2022.03) Unified Transformer Tracker for Object **Tracking**, [[Paper]](https://arxiv.org/pdf/2203.15175.pdf)
+
+- (arXiv 2022.03) X-Pool: Cross-Modal **Language-Video** Attention for Text-Video Retrieval, [[Paper]](https://arxiv.org/pdf/2203.15086.pdf), [[Code]](https://layer6ai-labs.github.io/xpool/)
+
+- (arXiv 2022.03) Fine-tuning Image Transformers using Learnable **Memory**, [[Paper]](https://arxiv.org/pdf/2203.15243.pdf)
+
+- (arXiv 2022.03) MAT: Mask-Aware Transformer for Large Hole Image **Inpainting**, [[Paper]](https://arxiv.org/pdf/2203.15270.pdf), [[Code]](https://github.com/fenglinglwb/MAT)
+
+- (arXiv 2022.03) mc-BEiT: Multi-choice Discretization for **Image BERT** Pre-training, [[Paper]](https://arxiv.org/pdf/2203.15371.pdf)
+
+- (arXiv 2022.03) End-to-End Transformer Based Model for Image **Captioning**, [[Paper]](https://arxiv.org/pdf/2203.15350.pdf)
+
+- (arXiv 2022.03) Hybrid Routing Transformer for **Zero-Shot Learning**, [[Paper]](https://arxiv.org/pdf/2203.15310.pdf)
 
 - (arXiv 2022.03) TREATMENT LEARNING TRANSFORMER FOR **NOISY IMAGE CLASSIFICATION**, [[Paper]](https://arxiv.org/pdf/2203.15529.pdf)
 
