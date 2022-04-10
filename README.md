@@ -85,7 +85,21 @@ Keep updated.
 
 - (arXiv 2022.04) , [[Paper]]()
 
+- (arXiv 2022.04) , [[Paper]]()
+
+- (arXiv 2022.04) , [[Paper]]()
+
+- (arXiv 2022.04) , [[Paper]]()
+
 - (arXiv 2022.04) , [[Paper]]() -->
+
+- (arXiv 2022.04) Multi-View Transformer for **3D Visual Grounding**, [[Paper]](https://arxiv.org/pdf/2204.02174.pdf), [[Code]](https://github.com/sega-hsj/MVT-3DVG)
+
+- (arXiv 2022.04) VISION TRANSFORMER EQUIPPED WITH NEURAL RESIZER ON **FACIAL EXPRESSION RECOGNITION** TASK, [[Paper]](https://arxiv.org/pdf/2204.02181.pdf)
+
+- (arXiv 2022.04) Dual-AI: Dual-path Actor Interaction Learning for **Group Activity Recognition**, [[Paper]](https://arxiv.org/pdf/2204.02148.pdf), [[Project]](https://mingfei.info/Dual-AI/)
+
+- (arXiv 2022.04) Detector-Free Weakly Supervised **Group Activity Recognition**, [[Paper]](https://arxiv.org/pdf/2204.02139.pdf)
 
 - (arXiv 2022.04) Joint **Hand Motion and Interaction Hotspots Prediction** from Egocentric Videos, [[Paper]](https://arxiv.org/pdf/2204.01696.pdf), [[Project]](https://stevenlsw.github.io/hoi-forecast)
 
@@ -94,13 +108,30 @@ Keep updated.
 - (arXiv 2022.04) MaxViT: **Multi-Axis** Vision Transformer, [[Paper]](https://arxiv.org/pdf/2204.01697.pdf)
 
 ### 2022.03
-<!-- - (arXiv 2022.03) , [[Paper]]() -->
 
-<!-- - (arXiv 2022.03) , [[Paper]]()
+- (arXiv 2022.03) ViSTA: **Vision** and **Scene Text** Aggregation for Cross-Modal **Retrieval**, [[Paper]](https://arxiv.org/pdf/2203.16778.pdf)
 
-- (arXiv 2022.03) , [[Paper]]()
+- (arXiv 2022.03) ReSTR: Convolution-free Referring Image Segmentation Using Transformers, [[Paper]](https://arxiv.org/pdf/2203.16768.pdf), [[Project]](http://cvlab.postech.ac.kr/research/restr/)
 
-- (arXiv 2022.03) , [[Paper]]() -->
+- (arXiv 2022.03) CREATE: A **Benchmark** for Chinese Short **Video Retrieval** and **Title Generation**, [[Paper]](https://arxiv.org/pdf/2203.16763.pdf)
+
+- (arXiv 2022.03) **Deformable** **Video** Transformer, [[Paper]](https://arxiv.org/pdf/2203.16795.pdf)
+
+- (arXiv 2022.03) End-to-End **Trajectory** Distribution Prediction Based on Occupancy Grid Maps, [[Paper]](https://arxiv.org/pdf/2203.16910.pdf)
+
+- (arXiv 2022.03) CRAFT: Cross-Attentional Flow Transformer for Robust **Optical Flow**, [[Paper]](https://arxiv.org/pdf/2203.16896.pdf), [[Code]](https://github.com/askerlee/craft)
+
+- (arXiv 2022.03) VL-InterpreT: An Interactive **Visualization** Tool for Interpreting **Vision-Language** Transformers, [[Paper]](https://arxiv.org/pdf/2203.17247.pdf), [[App]](http://vlinterpretenv4env-env.eba-vmhhefup.us-east-2.elasticbeanstalk.com/)
+
+- (arXiv 2022.03) TransEditor: Transformer-Based Dual-Space **GAN** for Highly Controllable **Facial Editing**, [[Paper]](https://arxiv.org/pdf/2203.17266.pdf), [[Code]](https://github.com/BillyXYB/TransEditor)
+
+- (arXiv 2022.03) BEVFormer: Learning **Bird’s-Eye-View** Representation from Multi-Camera Images via Spatiotemporal Transformers, [[Paper]](https://arxiv.org/pdf/2203.17270.pdf), [[Code]](https://github.com/zhiqi-li/BEVFormer)
+
+- (arXiv 2022.03) **Visual Prompting**: Modifying Pixel Space to Adapt Pre-trained Models, [[Paper]](https://arxiv.org/pdf/2203.17274.pdf), [[Code]](https://hjbahng.github.io/visual_prompting/)
+
+- (arXiv 2022.03) Bringing Old **Films** Back to Life, [[Paper]](https://arxiv.org/pdf/2203.17276.pdf), [[Code]](https://github.com/raywzy/Bringing-Old-Films-Back-to-Life)
+
+- (arXiv 2022.03) Learning to Prompt for **Open-Vocabulary Object Detection** with Vision-Language Model, [[Paper]](https://arxiv.org/pdf/2203.14940.pdf), [[Code]](https://github.com/dyabel/detpro)
 
 - (arXiv 2022.03) SeqTR: A Simple yet Universal Network for **Visual Grounding**, [[Paper]](https://arxiv.org/pdf/2203.16265.pdf), [[Code]](https://github.com/sean-zhuh/SeqTR)
 
