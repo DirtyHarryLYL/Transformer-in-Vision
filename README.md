@@ -91,7 +91,35 @@ Keep updated.
 
 - (arXiv 2022.04) , [[Paper]]()
 
+- (arXiv 2022.04) , [[Paper]]()
+
+- (arXiv 2022.04) , [[Paper]]()
+
+- (arXiv 2022.04) , [[Paper]]()
+
 - (arXiv 2022.04) , [[Paper]]() -->
+
+- (arXiv 2022.04) Learning **Audio-Video** Modalities from Image Captions, [[Paper]](https://arxiv.org/pdf/2204.00679.pdf)
+
+- (arXiv 2022.04) Improving Vision Transformers by Revisiting **High-frequency Components**, [[Paper]]()
+
+- (arXiv 2022.04) POS-BERT: **Point Cloud** One-Stage BERT Pre-Training, [[Paper]](https://arxiv.org/pdf/2204.00989.pdf), [[Code]](https://github.com/fukexue/POS-BERT)
+
+- (arXiv 2022.04) BinsFormer: Revisiting Adaptive Bins for **Monocular Depth Estimation**, [[Paper]](https://arxiv.org/pdf/2204.00987.pdf), [[Code]](https://github.com/zhyever/Monocular-Depth-Estimation-Toolbox)
+
+- (arXiv 2022.04) BatchFormerV2: Exploring Sample Relationships for **Dense Representation** Learning, [[Paper]](https://arxiv.org/pdf/2204.01254.pdf)
+
+- (arXiv 2022.04) TransRAC: Encoding Multi-scale Temporal Correlation with Transformers for **Repetitive Action Counting**, [[Paper]](https://arxiv.org/pdf/2204.01018.pdf)
+
+- (arXiv 2022.04) **Long** Movie Clip Classification with State-Space **Video** Models, [[Paper]](https://arxiv.org/pdf/2204.01692.pdf), [[Code]](https://github.com/md-mohaiminul/ViS4mer)
+
+- (arXiv 2022.04) TALLFormer: **Temporal Action Localization** with Long-memory Transformer, [[Paper]](https://arxiv.org/pdf/2204.01680.pdf), [[Code]](https://github.com/klauscc/TALLFormer)
+
+- (arXiv 2022.04) Multi**MAE**: Multi-modal Multi-task Masked Autoencoders, [[Paper]](https://arxiv.org/pdf/2204.01678.pdf), [[Project]](https://multimae.epfl.ch/)
+
+- (arXiv 2022.04) “This is my unicorn, Fluffy”: Personalizing frozen **vision-language** representations, [[Paper]](https://arxiv.org/pdf/2204.01694.pdf)
+
+- (arXiv 2022.04) SE(3)-Equivariant Attention Networks for **Shape Reconstruction** in Function Space, [[Paper]](https://arxiv.org/pdf/2204.02394.pdf)
 
 - (arXiv 2022.04) Multi-View Transformer for **3D Visual Grounding**, [[Paper]](https://arxiv.org/pdf/2204.02174.pdf), [[Code]](https://github.com/sega-hsj/MVT-3DVG)
 
