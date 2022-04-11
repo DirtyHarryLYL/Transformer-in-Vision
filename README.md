@@ -95,9 +95,9 @@ Keep updated.
 
 - (arXiv 2022.04) , [[Paper]]()
 
-- (arXiv 2022.04) , [[Paper]]()
-
 - (arXiv 2022.04) , [[Paper]]() -->
+
+- (arXiv 2022.04) MixFormer: **Mixing Features** across Windows and Dimensions, [[Paper]](https://arxiv.org/pdf/2204.02557.pdf), [[Code]](https://github.com/PaddlePaddle/PaddleClas)
 
 - (arXiv 2022.04) CM3: A **CAUSAL** MASKED **MULTIMODAL** MODEL OF THE INTERNET, [[Paper]](https://arxiv.org/pdf/2201.07520.pdf)
 
