@@ -99,6 +99,16 @@ Keep updated.
 
 - (arXiv 2022.04) , [[Paper]]() -->
 
+- (arXiv 2022.04) CM3: A **CAUSAL** MASKED **MULTIMODAL** MODEL OF THE INTERNET, [[Paper]](https://arxiv.org/pdf/2201.07520.pdf)
+
+- (arXiv 2022.04) DO AS I CAN, NOT AS I SAY: GROUNDING LANGUAGE IN **ROBOTIC** AFFORDANCES, [[Paper]](https://arxiv.org/pdf/2204.01691.pdf), [[Project]](https://say-can.github.io/)
+
+- (arXiv 2022.04) TransGeo: Transformer Is All You Need for **Cross-view Image Geo-localization**, [[Paper]](https://arxiv.org/pdf/2204.00097.pdf), [[Code]](https://github.com/Jeff-Zilence/TransGeo2022)
+
+- (arXiv 2022.04) Socratic Models: Composing **Zero-Shot Multimodal Reasoning** with Language, [[Paper]](https://arxiv.org/pdf/2204.00598.pdf), [[Project]](https://socraticmodels.github.io/)
+
+- (arXiv 2022.04) Vision Transformer with Cross-attention by Temporal Shift for Efficient **Action Recognition**, [[Paper]](https://arxiv.org/pdf/2204.00452.pdf)
+
 - (arXiv 2022.04) Learning **Audio-Video** Modalities from Image Captions, [[Paper]](https://arxiv.org/pdf/2204.00679.pdf)
 
 - (arXiv 2022.04) Improving Vision Transformers by Revisiting **High-frequency Components**, [[Paper]]()
