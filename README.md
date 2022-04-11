@@ -93,9 +93,33 @@ Keep updated.
 
 - (arXiv 2022.04) , [[Paper]]()
 
-- (arXiv 2022.04) , [[Paper]]()
-
 - (arXiv 2022.04) , [[Paper]]() -->
+
+- (arXiv 2022.04) Event Transformer. A sparse-aware solution for efficient **event data processing**, [[Paper]](https://arxiv.org/pdf/2204.03355.pdf), [[Code]](https://github.com/AlbertoSabater/EventTransformer)
+
+- (arXiv 2022.04) PSTR: End-to-End One-Step **Person Search** With Transformers, [[Paper]](https://arxiv.org/pdf/2204.03340.pdf), [[Code]](https://github.com/JialeCao001/PSTR)
+
+- (arXiv 2022.04) Adapting **CLIP** For **Phrase Localization** Without Further Training, [[Paper]](https://arxiv.org/pdf/2204.03647.pdf), [[Code]](https://github.com/pals-ttic/adapting-CLIP)
+
+- (arXiv 2022.04) FineDiving: A Fine-grained **Dataset** for Procedure-aware **Action Quality Assessment**, [[Paper]](https://arxiv.org/pdf/2204.03646.pdf), [[Project]](https://github.com/xujinglin/FineDiving)
+
+- (arXiv 2022.04) DaViT: Dual **Attention** Vision Transformers, [[Paper]](https://arxiv.org/pdf/2204.03645.pdf), [[Code]](https://github.com/dingmyu/davit)
+
+- (arXiv 2022.04) Unsupervised Prompt Learning for **Vision-Language** Models, [[Paper]](https://arxiv.org/pdf/2204.03649.pdf), [[Code]](https://github.com/tonyhuang2022/UPL)
+
+- (arXiv 2022.04) **Long Video Generation** with Time-Agnostic VQGAN and Time-Sensitive Transformer, [[Paper]](https://arxiv.org/pdf/2204.03638.pdf), [[Project]](https://songweige.github.io/projects/tats/index.html)
+
+- (arXiv 2022.04) Unified Contrastive Learning in **Image-Text-Label** Space, [[Paper]](https://arxiv.org/pdf/2204.03610.pdf), [[Code]](https://github.com/microsoft/UniCL)
+
+- (arXiv 2022.04) HunYuan_tvr for **Text-Video** Retrivial, [[Paper]](https://arxiv.org/pdf/2204.03382.pdf)
+
+- (arXiv 2022.04) LEARNING TO COMPOSE SOFT PROMPTS FOR **COMPOSITIONAL ZERO-SHOT LEARNING**, [[Paper]]()
+
+- (arXiv 2022.04) End-to-End Zero-Shot **HOI** Detection via **Vision and Language** Knowledge Distillation, [[Paper]](https://arxiv.org/pdf/2204.03541.pdf), [[Code]](https://github.com/mrwu-mac/EoID)
+
+- (arXiv 2022.04) **Temporal Alignment** Networks for Long-term Video, [[Paper]](https://arxiv.org/pdf/2204.02968.pdf), [[Code]](https://www.robots.ox.ac.uk/~vgg/research/tan/)
+
+- (arXiv 2022.04) Unleashing Vanilla Vision Transformer with Masked Image Modeling for **Object Detection**, [[Paper]](https://arxiv.org/pdf/2204.02964.pdf), [[Code]](https://github.com/hustvl/MIMDet)
 
 - (arXiv 2022.04) MixFormer: **Mixing Features** across Windows and Dimensions, [[Paper]](https://arxiv.org/pdf/2204.02557.pdf), [[Code]](https://github.com/PaddlePaddle/PaddleClas)
 
