@@ -85,15 +85,15 @@ Keep updated.
 
 - (arXiv 2022.04) , [[Paper]]()
 
-- (arXiv 2022.04) , [[Paper]]()
-
-- (arXiv 2022.04) , [[Paper]]()
-
-- (arXiv 2022.04) , [[Paper]]()
-
-- (arXiv 2022.04) , [[Paper]]()
-
 - (arXiv 2022.04) , [[Paper]]() -->
+
+- (arXiv 2022.04) Does **Robustness** on ImageNet Transfer to Downstream Tasks?, [[Paper]](https://arxiv.org/pdf/2204.03934.pdf)
+
+- (arXiv 2022.04) POSTER: A Pyramid Cross-Fusion Transformer Network for **Facial Expression Recognition**, [[Paper]](https://arxiv.org/pdf/2204.04083.pdf), [[Code]](https://github.com/zczcwh/POSTER)
+
+- (arXiv 2022.04) Vision Transformers for Single Image **Dehazing**, [[Paper]](https://arxiv.org/pdf/2204.03883.pdf), [[Code]](https://github.com/IDKiro/DehazeFormer)
+
+- (arXiv 2022.04) Underwater **Image Enhancement** Using Pre-trained Transformer, [[Paper]](https://arxiv.org/pdf/2204.04199.pdf)
 
 - (arXiv 2022.04) Event Transformer. A sparse-aware solution for efficient **event data processing**, [[Paper]](https://arxiv.org/pdf/2204.03355.pdf), [[Code]](https://github.com/AlbertoSabater/EventTransformer)
 
