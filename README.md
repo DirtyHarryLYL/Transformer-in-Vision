@@ -85,7 +85,47 @@ Keep updated.
 
 - (arXiv 2022.04) , [[Paper]]()
 
-- (arXiv 2022.04) , [[Paper]]() -->
+- (arXiv 2022.04) , [[Paper]]()
+
+- (arXiv 2022.04) , [[Paper]]()
+
+- (arXiv 2022.04) , [[Paper]]()
+
+- (arXiv 2022.04) , [[Paper]]()
+
+- (arXiv 2022.04) , [[Paper]]()
+
+- (arXiv 2022.04) , [[Paper]]()
+
+- (arXiv 2022.04) , [[Paper]]()
+ -->
+- (arXiv 2022.04) **Event** Transformer, [[Paper]](https://arxiv.org/pdf/2204.05172.pdf)
+
+- (arXiv 2022.04) Evaluating Vision Transformer Methods for **Deep Reinforcement Learning** from Pixels, [[Paper]](https://arxiv.org/pdf/2204.04905.pdf)
+
+- (arXiv 2022.04) ManiTrans: Entity-Level **Text-Guided Image Manipulation** via Token-wise Semantic Alignment and Generation, [[Paper]](https://arxiv.org/pdf/2204.04428.pdf), [[Code]](https://jawang19.github.io/manitrans)
+
+- (arXiv 2022.04) Multimodal Transformer for Nursing **Activity Recognition**, [[Paper]](https://arxiv.org/pdf/2204.04564.pdf), [[Code]](https://github.com/Momilijaz96/MMT_for_NCRC)
+
+- (arXiv 2022.04) **Robust** Cross-Modal Representation Learning with Progressive Self-Distillation, [[Paper]](https://arxiv.org/pdf/2204.04588.pdf)
+
+- (arXiv 2022.04) Stripformer: Strip Transformer for Fast Image **Deblurring**, [[Paper]](https://arxiv.org/pdf/2204.04627.pdf)
+
+- (arXiv 2022.04) No Token Left Behind: **Explainability**-Aided Image Classification and Generation, [[Paper]](https://arxiv.org/pdf/2204.04908.pdf)
+
+- (arXiv 2022.04) Fashionformer: A Simple, Effective and Unified Baseline for **Human Fashion Segmentation and Recognition**, [[Paper]](https://arxiv.org/pdf/2204.04654.pdf), [[Code]](https://github.com/xushilin1/FashionFormer)
+
+- (arXiv 2022.04) Panoptic-PartFormer: Learning a Unified Model for **Panoptic Part Segmentation**, [[Paper]](https://arxiv.org/pdf/2204.04655.pdf), [[Code]](https://github.com/lxtGH/Panoptic-PartFormer)
+
+- (arXiv 2022.04) DILEMMA: Self-Supervised **Shape and Texture** Learning with Transformers, [[Paper]](https://arxiv.org/pdf/2204.04788.pdf)
+
+- (arXiv 2022.04) Learning Trajectory-Aware Transformer for **Video Super-Resolution**, [[Paper]](https://arxiv.org/pdf/2204.04216.pdf), [[Code]](https://github.com/researchmm/TTVSR.git)
+
+- (arXiv 2022.04) Learning to Induce **Causal** Structure, [[Paper]](https://arxiv.org/pdf/2204.04875.pdf)
+
+- (arXiv 2022.04) Consistency Learning via Decoding Path Augmentation for Transformers in **Human Object Interaction Detection**, [[Paper]](https://arxiv.org/pdf/2204.04836.pdf), [[Code]](https://github.com/mlvlab/CPChoi)
+
+- (arXiv 2022.04) Category-Aware Transformer Network for Better **Human-Object Interaction Detection**, [[Paper]](https://arxiv.org/pdf/2204.04911.pdf)
 
 - (arXiv 2022.04) Does **Robustness** on ImageNet Transfer to Downstream Tasks?, [[Paper]](https://arxiv.org/pdf/2204.03934.pdf)
 
