@@ -95,17 +95,17 @@ Keep updated.
 
 - (arXiv 2022.04) , [[Paper]]()
 
-- (arXiv 2022.04) , [[Paper]]()
-
-- (arXiv 2022.04) , [[Paper]]()
-
-- (arXiv 2022.04) , [[Paper]]()
-
-- (arXiv 2022.04) , [[Paper]]()
-
-- (arXiv 2022.04) , [[Paper]]()
-
 - (arXiv 2022.04) , [[Paper]]() -->
+
+- (arXiv 2022.04) DeiT III: Revenge of the **ViT**, [[Paper]](https://arxiv.org/pdf/2204.07118.pdf)
+
+- (arXiv 2022.04) Residual Swin Transformer Channel Attention Network for **Image Demosaicing**, [[Paper]](https://arxiv.org/pdf/2204.07098.pdf)
+
+- (arXiv 2022.04) Neighborhood **Attention** Transformer, [[Paper]](https://arxiv.org/pdf/2204.07143.pdf), [[Code]](https://github.com/SHI-Labs/Neighborhood-Attention-Transformer)
+
+- (arXiv 2022.04) MiniViT: **Compressing** Vision Transformers with Weight Multiplexing, [[Paper]](https://arxiv.org/pdf/2204.07154.pdf), [[Code]](https://github.com/microsoft/Cream)
+
+- (arXiv 2022.04) ViTOL: Vision Transformer for **Weakly Supervised Object Localization**, [[Paper]](https://arxiv.org/pdf/2204.06772.pdf), [[Code]](https://github.com/Saurav-31/ViTOL)
 
 - (arXiv 2022.04) What Matters in Language Conditioned Robotic **Imitation Learning**, [[Paper]](https://arxiv.org/pdf/2204.06252.pdf), [[Code]](http://hulc.cs.uni-freiburg.de/)
 
