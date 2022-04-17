@@ -93,8 +93,6 @@ Keep updated.
 
 - (arXiv 2022.04) , [[Paper]]()
 
-- (arXiv 2022.04) , [[Paper]]()
-
 - (arXiv 2022.04) , [[Paper]]() -->
 
 - (arXiv 2022.04) DeiT III: Revenge of the **ViT**, [[Paper]](https://arxiv.org/pdf/2204.07118.pdf)
@@ -230,6 +228,8 @@ Keep updated.
 - (arXiv 2022.04) MaxViT: **Multi-Axis** Vision Transformer, [[Paper]](https://arxiv.org/pdf/2204.01697.pdf)
 
 ### 2022.03
+
+- (arXiv 2022.03) Spatial-Temporal Parallel Transformer for **Arm-Hand Dynamic Estimation**, [[Paper]](https://arxiv.org/pdf/2203.16202.pdf)
 
 - (arXiv 2022.03) ViSTA: **Vision** and **Scene Text** Aggregation for Cross-Modal **Retrieval**, [[Paper]](https://arxiv.org/pdf/2203.16778.pdf)
 
