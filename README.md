@@ -117,9 +117,9 @@ Keep updated.
 
 - (arXiv 2022.04) , [[Paper]]()
 
-- (arXiv 2022.04) , [[Paper]]()
-
 - (arXiv 2022.04) , [[Paper]]() -->
+
+- (arXiv 2022.04) ELEVATER: A **Benchmark** and **Toolkit** for Evaluating **Language-Augmented Visual Models**, [[Paper]](https://arxiv.org/pdf/2204.08790.pdf)
 
 - (arXiv 2022.04) Interactiveness Field in **Human-Object Interactions**, [[Paper]](https://arxiv.org/pdf/2204.07718.pdf), [[Code]](https://github.com/Foruck/Interactiveness-Field)
 
