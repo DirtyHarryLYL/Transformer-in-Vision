@@ -115,9 +115,9 @@ Keep updated.
 
 - (arXiv 2022.04) , [[Paper]]()
 
-- (arXiv 2022.04) , [[Paper]]()
-
 - (arXiv 2022.04) , [[Paper]]() -->
+
+- (arXiv 2022.04) **Human-Object Interaction Detection** via Disentangled Transformer, [[Paper]](https://arxiv.org/pdf/2204.09290.pdf)
 
 - (arXiv 2022.04) ELEVATER: A **Benchmark** and **Toolkit** for Evaluating **Language-Augmented Visual Models**, [[Paper]](https://arxiv.org/pdf/2204.08790.pdf)
 
