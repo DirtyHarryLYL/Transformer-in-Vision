@@ -101,21 +101,21 @@ Keep updated.
 
 - (arXiv 2022.04) , [[Paper]]()
 
-- (arXiv 2022.04) , [[Paper]]()
-
-- (arXiv 2022.04) , [[Paper]]()
-
-- (arXiv 2022.04) , [[Paper]]()
-
-- (arXiv 2022.04) , [[Paper]]()
-
-- (arXiv 2022.04) , [[Paper]]()
-
-- (arXiv 2022.04) , [[Paper]]()
-
-- (arXiv 2022.04) , [[Paper]]()
-
 - (arXiv 2022.04) , [[Paper]]() -->
+
+- (arXiv 2022.04) **Unsupervised** Human **Action** Recognition with Skeletal Graph Laplacian and Self-Supervised Viewpoints Invariance, [[Paper]](https://arxiv.org/pdf/2204.10312.pdf), [[Code]](https://github.com/IIT-PAVIS/UHAR_Skeletal_Laplacian)
+
+- (arXiv 2022.04) Learning **Future Object Prediction** with a Spatiotemporal Detection Transformer, [[Paper]](https://arxiv.org/pdf/2204.10321.pdf)
+
+- (arXiv 2022.04) R^2-Trans: **Fine-Grained Visual Categorization** with Redundancy Reduction, [[Paper]](https://arxiv.org/pdf/2204.10095.pdf), [[Code]](https://anonymous.4open.science/r/R-2-Trans)
+
+- (arXiv 2022.04) A New Dataset and Transformer for **Stereoscopic Video Super-Resolution**, [[Paper]](https://arxiv.org/pdf/2204.10039.pdf), [[Code]](https://github.com/H-deep/Trans-SVSR/)
+
+- (arXiv 2022.04) Transformer-Guided Convolutional Neural Network for Cross-View **Geolocalization**, [[Paper]](https://arxiv.org/pdf/2204.09967.pdf)
+
+- (arXiv 2022.04) Multi-Scale Features and Parallel Transformers Based **Image Quality Assessment**, [[Paper]](https://arxiv.org/pdf/2204.09779.pdf), [[Code]](https://github.com/KomalPal9610/IQA)
+
+- (arXiv 2022.04) BTranspose: Bottleneck Transformers for **Human Pose Estimation** with Self-Supervised Pre-Training, [[Paper]](https://arxiv.org/pdf/2204.10209.pdf)
 
 - (arXiv 2022.04) **Human-Object Interaction Detection** via Disentangled Transformer, [[Paper]](https://arxiv.org/pdf/2204.09290.pdf)
 
