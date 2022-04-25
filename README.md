@@ -5,6 +5,8 @@ Keep updated.
 
 ## Resource
 
+- Google PaLM: Scaling Language Modeling with Pathways, [[Paper]](https://arxiv.org/pdf/2204.02311.pdf)
+
 - OpenAI DALL·E 2 [[Page]](https://openai.com/dall-e-2/), [[Paper]](https://cdn.openai.com/papers/dall-e-2.pdf)
 
 - SCENIC: A JAX Library for Computer Vision Research and Beyond, [[Code]](https://github.com/google-research/scenic)
