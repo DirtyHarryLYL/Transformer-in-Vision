@@ -103,6 +103,14 @@ Keep updated.
 
 - (arXiv 2022.04) , [[Paper]]() -->
 
+- (arXiv 2022.04) Lightweight Bimodal Network for Single-Image **Super-Resolution** via Symmetric CNN and Recursive Transformer, [[Paper]](https://arxiv.org/pdf/2204.13286.pdf), [[Code]](https://github.com/IVIPLab/LBNet)
+
+- (arXiv 2022.04) Temporal Progressive Attention for **Early Action Prediction**, [[Paper]](https://arxiv.org/pdf/2204.13340.pdf), [[Code]](https://github.com/alexandrosstergiou/progressive-action-prediction)
+
+- (arXiv 2022.04) Keep the Caption Information: Preventing Shortcut Learning in Contrastive **Image-Caption** Retrieval, [[Paper]](https://arxiv.org/pdf/2204.13382.pdf)
+
+- (arXiv 2022.04) Flamingo: a **Visual Language** Model for **Few-Shot** Learning, [[Paper]](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/tackling-multiple-tasks-with-a-single-visual-language-model/flamingo.pdf)
+
 - (arXiv 2022.04) RELVIT: CONCEPT-GUIDED VISION TRANSFORMER FOR **VISUAL RELATIONAL REASONING**, [[Paper]](https://arxiv.org/pdf/2204.11167.pdf)
 
 - (arXiv 2022.04) **Unsupervised** Human **Action** Recognition with Skeletal Graph Laplacian and Self-Supervised Viewpoints Invariance, [[Paper]](https://arxiv.org/pdf/2204.10312.pdf), [[Code]](https://github.com/IIT-PAVIS/UHAR_Skeletal_Laplacian)
