@@ -39,6 +39,8 @@ Keep updated.
 
 ## Survey
 
+- (arXiv 2022.04) **Vision-and-Language** Pretrained Models: A Survey, [[Paper]](https://arxiv.org/pdf/2204.07356.pdf)
+
 - (arXiv 2022.03) A Roadmap for **Big Model**, [[Paper]](https://arxiv.org/pdf/2203.14101.pdf)
 
 - (arXiv 2022.03) Transformers Meet **Visual** Learning Understanding: A Comprehensive Review, [[Paper]](https://arxiv.org/pdf/2203.12944.pdf）
@@ -102,6 +104,30 @@ Keep updated.
 - (arXiv 2022.04) , [[Paper]]()
 
 - (arXiv 2022.04) , [[Paper]]() -->
+
+- (arXiv 2022.04) VDTR: **Video Deblurring** with Transformer, [[Paper]](https://arxiv.org/pdf/2204.08023.pdf), [[Code]](https://github.com/ljzycmd/VDTR)
+
+- (arXiv 2022.04) BSRT: Improving Burst **Super-Resolution** with Swin Transformer and Flow-Guided Deformable Alignment, [[Paper]](https://arxiv.org/pdf/2204.08332.pdf), [[Code]](https://github.com/Algolzw/BSRT)
+
+- (arXiv 2022.04) Temporally Efficient Vision Transformer for **Video Instance Segmentation**, [[Paper]](https://arxiv.org/pdf/2204.08412.pdf), [[Code]](https://github.com/hustvl/TeViT)
+
+- (arXiv 2022.04) VSA: Learning Varied-Size Window **Attention** in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2204.08446.pdf), [[Code]](https://github.com/ViTAE-Transformer/ViTAE-VSA)
+
+- (arXiv 2022.04) XDBERT: Distilling Visual Information to **BERT** from Cross-Modal Systems to Improve Language Understanding, [[Paper]](https://arxiv.org/pdf/2204.07316.pdf)
+
+- (arXiv 2022.04) IMPROVING CROSS-MODAL UNDERSTANDING IN **VISUAL DIALOG** VIA CONTRASTIVE LEARNING, [[Paper]](https://arxiv.org/pdf/2204.07302.pdf)
+
+- (arXiv 2022.04) MVSTER: Epipolar Transformer for Efficient **Multi-View Stereo**, [[Paper]](https://arxiv.org/pdf/2204.07346.pdf), [[Code]](https://github.com/JeffWang987/MVSTER)
+
+- (arXiv 2022.04) UNCONDITIONAL **IMAGE-TEXT PAIR GENERATION** WITH MULTIMODAL CROSS QUANTIZER, [[Paper]](https://arxiv.org/pdf/2204.07537.pdf)
+
+- (arXiv 2022.04) Pushing the Limits of Simple Pipelines for **Few-Shot Learning**: External Data and Fine-Tuning Make a Difference, [[Paper]](https://arxiv.org/pdf/2204.07305.pdf)
+
+- (arXiv 2022.04) COTS: Collaborative Two-Stream **Vision-Language** Pre-Training Model for Cross-Modal Retrieval, [[Paper]](https://arxiv.org/pdf/2204.07441.pdf)
+
+- (arXiv 2022.04) Image **Captioning** In the Transformer Age, [[Paper]](https://arxiv.org/pdf/2204.07374.pdf), [[Code]](https://github.com/SjokerLily/awesome-image-captioning)
+
+- (arXiv 2022.04) **ResT** V2: Simpler, Faster and Stronger, [[Paper]](https://arxiv.org/pdf/2204.07366.pdf), [[Code]](https://github.com/wofmanaf/ResT)
 
 - (arXiv 2022.04) Lightweight Bimodal Network for Single-Image **Super-Resolution** via Symmetric CNN and Recursive Transformer, [[Paper]](https://arxiv.org/pdf/2204.13286.pdf), [[Code]](https://github.com/IVIPLab/LBNet)
 
