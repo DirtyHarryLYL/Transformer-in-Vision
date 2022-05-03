@@ -39,6 +39,8 @@ Keep updated.
 
 ## Survey
 
+- (arXiv 2022.04) **Visual Attention** Methods in Deep Learning: An In-Depth Survey, [[Paper]](https://arxiv.org/pdf/2204.07756.pdf)
+
 - (arXiv 2022.04) **Vision-and-Language** Pretrained Models: A Survey, [[Paper]](https://arxiv.org/pdf/2204.07356.pdf)
 
 - (arXiv 2022.03) A Roadmap for **Big Model**, [[Paper]](https://arxiv.org/pdf/2203.14101.pdf)
@@ -80,8 +82,10 @@ Keep updated.
 - (arXiv 2020.1) **Transformers in Vision**: A Survey, [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
+### 2022.05
+<!-- - (arXiv 2022.05) , [[Paper]]() -->
+
 ### 2022.04
-<!-- - (arXiv 2022.04) , [[Paper]]() -->
 
 <!-- - (arXiv 2022.04) , [[Paper]]()
 
@@ -103,7 +107,39 @@ Keep updated.
 
 - (arXiv 2022.04) , [[Paper]]()
 
+- (arXiv 2022.04) , [[Paper]]()
+
 - (arXiv 2022.04) , [[Paper]]() -->
+
+- (arXiv 2022.04) NFormer: Robust **Person Re-identification** with Neighbor Transformer, [[Paper]](https://arxiv.org/pdf/2204.09331.pdf), [[Code]](https://github.com/haochenheheda/NFormer)
+
+- (arXiv 2022.04) **Video Moment Retrieval** from Text Queries via Single Frame Annotation, [[Paper]](https://arxiv.org/pdf/2204.09409.pdf)
+
+- (arXiv 2022.04) GIMO: Gaze-Informed **Human Motion Prediction** in Context, [[Paper]](https://arxiv.org/pdf/2204.09443.pdf)
+
+- (arXiv 2022.04) VQGAN-CLIP: Open Domain **Image Generation and Editing** with Natural Language Guidance, [[Paper]](https://arxiv.org/pdf/2204.08583.pdf)
+
+- (arXiv 2022.04) Sim-2-Sim Transfer for **Vision-and-Language Navigation** in Continuous Environments, [[Paper]](https://arxiv.org/pdf/2204.09667.pdf)
+
+- (arXiv 2022.04) Not All Tokens Are Equal: **Human-centric** Visual **Analysis** via Token Clustering Transformer, [[Paper]](https://arxiv.org/pdf/2204.08680.pdf), [[Code]](https://github.com/zengwang430521/TCFormer.git)
+
+- (arXiv 2022.04) **Multimodal** Token Fusion for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2204.08721.pdf)
+
+- (arXiv 2022.04) Self-Calibrated Efficient Transformer for Lightweight **Super-Resolution**, [[Paper]](https://arxiv.org/pdf/2204.08913.pdf), [[Code]](https://github.com/AlexZou14/SCET)
+
+- (arXiv 2022.04) Searching Intrinsic **Dimensions** of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2204.07722.pdf)
+
+- (arXiv 2022.04) Towards **Lightweight** Transformer via Group-wise Transformation for **Vision-and-Language** Tasks, [[Paper]](https://arxiv.org/pdf/2204.07780.pdf)
+
+- (arXiv 2022.04) Multimodal Few-Shot Object **Detection** with Meta-Learning Based Cross-Modal Prompting, [[Paper]](https://arxiv.org/pdf/2204.07841.pdf)
+
+- (arXiv 2022.04) Multi-Frame Self-Supervised **Depth** with Transformers, [[Paper]](https://arxiv.org/pdf/2204.07616.pdf), [[Code]](https://sites.google.com/tri.global/depthformer)
+
+- (arXiv 2022.04) MST++: Multi-stage Spectral-wise Transformer for Efficient **Spectral Reconstruction**, [[Paper]](https://arxiv.org/pdf/2204.07908.pdf), [[Code]](https://github.com/caiyuanhao1998/MST-plus-plus)
+
+- (arXiv 2022.04) Vision-Language Pre-Training for Multimodal Aspect-Based **Sentiment Analysis**, [[Paper]](https://arxiv.org/pdf/2204.07955.pdf), [[Code]](https://github.com/NUSTM/VLP-MABSA)
+
+- (arXiv 2022.04) An Extendable, Efficient and Effective Transformer-based Object **Detector**, [[Paper]](https://arxiv.org/pdf/2204.07962.pdf), [[Code]](https://github.com/naver-ai/vidt)
 
 - (arXiv 2022.04) VDTR: **Video Deblurring** with Transformer, [[Paper]](https://arxiv.org/pdf/2204.08023.pdf), [[Code]](https://github.com/ljzycmd/VDTR)
 
