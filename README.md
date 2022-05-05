@@ -109,7 +109,21 @@ Keep updated.
 
 - (arXiv 2022.04) , [[Paper]]()
 
+- (arXiv 2022.04) , [[Paper]]()
+
+- (arXiv 2022.04) , [[Paper]]()
+
+- (arXiv 2022.04) , [[Paper]]()
+
+- (arXiv 2022.04) , [[Paper]]()
+
+- (arXiv 2022.04) , [[Paper]]()
+
 - (arXiv 2022.04) , [[Paper]]() -->
+
+- (arXiv 2022.04) Spatiality-guided Transformer for 3D Dense **Captioning** on **Point Clouds**, [[Paper]](https://arxiv.org/pdf/2204.10688.pdf), [[Code]](https://spacap3d.github.io/)
+
+- (arXiv 2022.04) DFAM-DETR: Deformable feature based attention mechanism DETR on slender object **detection**, [[Paper]](https://arxiv.org/pdf/2204.10667.pdf)
 
 - (arXiv 2022.04) NFormer: Robust **Person Re-identification** with Neighbor Transformer, [[Paper]](https://arxiv.org/pdf/2204.09331.pdf), [[Code]](https://github.com/haochenheheda/NFormer)
 
