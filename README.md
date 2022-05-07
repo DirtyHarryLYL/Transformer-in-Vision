@@ -103,23 +103,23 @@ Keep updated.
 
 - (arXiv 2022.04) , [[Paper]]()
 
-- (arXiv 2022.04) , [[Paper]]()
-
-- (arXiv 2022.04) , [[Paper]]()
-
-- (arXiv 2022.04) , [[Paper]]()
-
-- (arXiv 2022.04) , [[Paper]]()
-
-- (arXiv 2022.04) , [[Paper]]()
-
-- (arXiv 2022.04) , [[Paper]]()
-
-- (arXiv 2022.04) , [[Paper]]()
-
-- (arXiv 2022.04) , [[Paper]]()
-
 - (arXiv 2022.04) , [[Paper]]() -->
+
+- (arXiv 2022.04) Unsupervised Hierarchical **Semantic Segmentation** with Multiview Cosegmentation and Clustering Transformers, [[Paper]](https://arxiv.org/pdf/2204.11432.pdf)
+
+- (arXiv 2022.04) SwinFuse: A Residual Swin Transformer Fusion Network for **Infrared and Visible Images**, [[Paper]](https://arxiv.org/pdf/2204.11436.pdf), [[Code]](https://github.com/Zhishe-Wang/SwinFuse)
+
+- (arXiv 2022.04) OCFormer: One-Class Transformer Network for **Image Classification**, [[Paper]](https://arxiv.org/pdf/2204.11449.pdf)
+
+- (arXiv 2022.04) DRT: A Lightweight Single Image **Deraining** Recursive Transformer, [[Paper]](https://arxiv.org/pdf/2204.11385.pdf), [[Code]](https://github.com/YC-Liang/DRT)
+
+- (arXiv 2022.04) Hypergraph Transformer: Weakly-Supervised Multi-hop Reasoning for **Knowledge-based Visual Question Answering**, [[Paper]](https://arxiv.org/pdf/2204.10448.pdf), [[Code]](https://github.com/yujungheo/kbvqa-public)
+
+- (arXiv 2022.04) ParkPredict+: **Multimodal Intent** and **Motion Prediction** for **Vehicles** in Parking Lots with CNN and Transformer, [[Paper]](https://arxiv.org/pdf/2204.10777.pdf)
+
+- (arXiv 2022.04) iCAR: Bridging Image Classification and **Image-text** Alignment for Visual Recognition, [[Paper]](https://arxiv.org/pdf/2204.10760.pdf), [[Code]](https://github.com/weiyx16/iCAR)
+
+- (arXiv 2022.04) DIVERSE INSTANCE DISCOVERY: VISION-TRANSFORMER FOR INSTANCE-AWARE **MULTI-LABEL IMAGE RECOGNITION**, [[Paper]](https://arxiv.org/pdf/2204.10731.pdf)
 
 - (arXiv 2022.04) Spatiality-guided Transformer for 3D Dense **Captioning** on **Point Clouds**, [[Paper]](https://arxiv.org/pdf/2204.10688.pdf), [[Code]](https://spacap3d.github.io/)
 
