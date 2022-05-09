@@ -101,23 +101,31 @@ Keep updated.
 
 - (arXiv 2022.04) , [[Paper]]()
 
-- (arXiv 2022.04) , [[Paper]]()
-
-- (arXiv 2022.04) , [[Paper]]()
-
-- (arXiv 2022.04) , [[Paper]]()
-
-- (arXiv 2022.04) , [[Paper]]()
-
-- (arXiv 2022.04) , [[Paper]]()
-
-- (arXiv 2022.04) , [[Paper]]()
-
-- (arXiv 2022.04) , [[Paper]]()
-
-- (arXiv 2022.04) , [[Paper]]()
-
 - (arXiv 2022.04) , [[Paper]]() -->
+
+- (arXiv 2022.04) ClothFormer: Taming Video **Virtual Try-on** in All Module, [[Paper]](https://arxiv.org/pdf/2204.12151.pdf)
+
+- (arXiv 2022.04) Deeper Insights into ViTs **Robustness** towards Common Corruptions, [[Paper]](https://arxiv.org/pdf/2204.12143.pdf)
+
+- (arXiv 2022.04) VITPOSE: SIMPLE VISION TRANSFORMER BASELINES FOR HUMAN **POSE ESTIMATION**, [[Paper]](https://arxiv.org/pdf/2204.12484.pdf), [[Code]](https://github.com/ViTAE-Transformer/ViTPose)
+
+- (arXiv 2022.04) Understanding The **Robustness** in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2204.12451.pdf), [[Code]](https://github.com/NVlabs/FAN)
+
+- (arXiv 2022.04) MILES: Visual BERT Pre-training with Injected Language Semantics for **Video-text Retrieval**, [[Paper]](https://arxiv.org/pdf/2204.12408.pdf)
+
+- (arXiv 2022.04) Contrastive Language-Action Pre-training for **Temporal Localization**, [[Paper]](https://arxiv.org/pdf/2204.12293.pdf)
+
+- (arXiv 2022.04) Boosting **Adversarial Transferability** of **MLP**-Mixer, [[Paper]](https://arxiv.org/pdf/2204.12204.pdf)
+
+- (arXiv 2022.04) Adaptive **Split-Fusion** Transformer, [[Paper]](https://arxiv.org/pdf/2204.12196.pdf), [[Code]](https://github.com/szx503045266/ASF-former)
+
+- (arXiv 2022.04) Can Foundation Models Perform Zero-Shot Task Specification For **Robot Manipulation**? [[Paper]](https://arxiv.org/pdf/2204.11134.pdf), [[Project]](https://sites.google.com/view/zestproject)
+
+- (arXiv 2022.04) RELVIT: CONCEPT-GUIDED VISION TRANSFORMER FOR **VISUAL RELATIONAL REASONING**, [[Paper]](https://arxiv.org/pdf/2204.11167.pdf)
+
+- (arXiv 2022.04) VISTA: Vision Transformer enhanced by U-Net and Image Colorfulness Frame Filtration for Automatic **Retail Checkout**, [[Paper]](https://arxiv.org/pdf/2204.11024.pdf), [[Code]](https://github.com/istiakshihab/automated-retail-checkout-aicity22)
+
+- (arXiv 2022.04) **CLIP**-DISSECT: AUTOMATIC **DESCRIPTION** OF **NEURON** REPRESENTATIONS IN DEEP VISION NETWORKS, [[Paper]](https://arxiv.org/pdf/2204.10965.pdf)
 
 - (arXiv 2022.04) TEMOS: **Generating** diverse human **motions** from textual descriptions, [[Paper]](https://arxiv.org/pdf/2204.14109.pdf), [[Project]](https://imagine.enpc.fr/~petrovim/temos)
 
