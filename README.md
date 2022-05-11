@@ -91,7 +91,15 @@ Keep updated.
 
 - (arXiv 2022.04) , [[Paper]]()
 
+- (arXiv 2022.04) , [[Paper]]()
+
+- (arXiv 2022.04) , [[Paper]]()
+
+- (arXiv 2022.04) , [[Paper]]()
+
 - (arXiv 2022.04) , [[Paper]]() -->
+
+- (arXiv 2022.04) Where in the World is this Image? Transformer-based **Geo-localization** in the Wild, [[Paper]](https://arxiv.org/pdf/2204.13861.pdf)
 
 - (arXiv 2022.04) **Depth Estimation** with Simplified Transformer, [[Paper]](https://arxiv.org/pdf/2204.13791.pdf)
 
