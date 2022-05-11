@@ -91,17 +91,33 @@ Keep updated.
 
 - (arXiv 2022.04) , [[Paper]]()
 
-- (arXiv 2022.04) , [[Paper]]()
-
-- (arXiv 2022.04) , [[Paper]]()
-
-- (arXiv 2022.04) , [[Paper]]()
-
-- (arXiv 2022.04) , [[Paper]]()
-
-- (arXiv 2022.04) , [[Paper]]()
-
 - (arXiv 2022.04) , [[Paper]]() -->
+
+- (arXiv 2022.04) **Depth Estimation** with Simplified Transformer, [[Paper]](https://arxiv.org/pdf/2204.13791.pdf)
+
+- (arXiv 2022.04) A very preliminary **analysis** of **DALL-E 2**, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2204/2204.13807.pdf)
+
+- (arXiv 2022.04) CogView2: Faster and Better **Text-to-Image Generation** via Hierarchical Transformers, [[Paper]](https://arxiv.org/pdf/2204.14217.pdf), [[Code]](https://github.com/THUDM/CogView2)
+
+- (arXiv 2022.04) **CLIP**-Art: Contrastive Pre-training for **Fine-Grained Art Classification**, [[Paper]](https://arxiv.org/pdf/2204.14244.pdf), [[Code]](https://github.com/KeremTurgutlu/clip_art)
+
+- (arXiv 2022.04) TEMOS: **Generating** diverse human **motions** from textual descriptions, [[Paper]](https://arxiv.org/pdf/2204.14109.pdf), [[Project]](https://imagine.enpc.fr/~petrovim/temos)
+
+- (arXiv 2022.04) PyramidCLIP: Hierarchical Feature Alignment for **Vision-language** Model Pretraining, [[Paper]](https://arxiv.org/pdf/2204.14095.pdf)
+
+- (arXiv 2022.04) Symmetric Transformer-based Network for **Unsupervised Image Registration**, [[Paper]](https://arxiv.org/pdf/2204.13575.pdf), [[Code]](https://github.com/MingR-Ma/SymTrans)
+
+- (arXiv 2022.04) Tragedy Plus Time: Capturing **Unintended Human Activities** from Weakly-labeled Videos, [[Paper]](https://arxiv.org/pdf/2204.13548.pdf), [[Code]](https://asu-apg.github.io/TragedyPlusTime)
+
+- (arXiv 2022.04) CapOnImage: Context-driven Dense-**Captioning** on Image, [[Paper]](https://arxiv.org/pdf/2204.12974.pdf)
+
+- (arXiv 2022.04) Self-Supervised Learning of Object Parts for Semantic **Segmentation**, [[Paper]](https://arxiv.org/pdf/2204.13101.pdf), [[Code]](https://github.com/MkuuWaUjinga/leopart)
+
+- (arXiv 2022.04) DearKD: Data-**Efficient** Early **Knowledge Distillation** for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2204.12997.pdf)
+
+- (arXiv 2022.04) CATrans: Context and Affinity Transformer for Few-Shot **Segmentation**, [[Paper]](https://arxiv.org/pdf/2204.12817.pdf)
+
+- (arXiv 2022.04) Self-Driving Car **Steering Angle Prediction**: Let Transformer Be a Car Again, [[Paper]](https://arxiv.org/pdf/2204.12748.pdf), [[Code]](https://github.com/chingisooinar/AI)
 
 - (arXiv 2022.04) ClothFormer: Taming Video **Virtual Try-on** in All Module, [[Paper]](https://arxiv.org/pdf/2204.12151.pdf)
 
