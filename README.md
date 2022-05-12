@@ -83,21 +83,74 @@ Keep updated.
 
 ## Recent Papers
 ### 2022.05
-<!-- - (arXiv 2022.05) , [[Paper]]() -->
+
+<!-- - (arXiv 2022.05) , [[Paper]]()
+
+- (arXiv 2022.05) , [[Paper]]()
+
+- (arXiv 2022.05) , [[Paper]]()
+
+- (arXiv 2022.05) , [[Paper]]()
+
+- (arXiv 2022.05) , [[Paper]]()
+
+- (arXiv 2022.05) , [[Paper]]()
+
+- (arXiv 2022.05) , [[Paper]]()
+
+- (arXiv 2022.05) , [[Paper]]()
+
+- (arXiv 2022.05) , [[Paper]]()
+
+- (arXiv 2022.05) , [[Paper]]()
+
+- (arXiv 2022.05) , [[Paper]]()
+
+- (arXiv 2022.05) , [[Paper]]()
+
+- (arXiv 2022.05) , [[Paper]]()
+
+- (arXiv 2022.05) , [[Paper]]()
+
+- (arXiv 2022.05) , [[Paper]]()
+
+- (arXiv 2022.05) , [[Paper]]()
+
+- (arXiv 2022.05) , [[Paper]]()
+
+- (arXiv 2022.05) , [[Paper]]()
+
+- (arXiv 2022.05) , [[Paper]]() -->
+
+- (arXiv 2022.05) Cross-modal Representation Learning for **Zero-shot Action Recognition**, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2205/2205.01657.pdf), [[Code]](https://github.com/microsoft/ResT)
+
+- (arXiv 2022.05) Cross-Domain Object **Detection** with Mean-Teacher Transformer, [[Paper]](https://arxiv.org/pdf/2205.01643.pdf)
+
+- (arXiv 2022.05) Better plain ViT baselines for **ImageNet-1k**, [[Paper]](https://arxiv.org/pdf/2205.01580.pdf), [[Code]](https://github.com/google-research/big_vision)
+
+- (arXiv 2022.05) Reinforced Swin-Convs Transformer for **Underwater Image Enhancement**, [[Paper]](https://arxiv.org/pdf/2205.00434.pdf)
+
+- (arXiv 2022.05) UTC: A Unified Transformer with Inter-Task Contrastive Learning for **Visual Dialog**, [[Paper]](https://arxiv.org/pdf/2205.00423.pdf)
+
+- (arXiv 2022.05) Answer-Me: Multi-Task Open-Vocabulary **Visual Question Answering**, [[Paper]](https://arxiv.org/pdf/2205.00949.pdf)
+
+- (arXiv 2022.05) Center**CLIP**: Token Clustering for Efficient **Text-Video Retrieval**, [[Paper]](https://arxiv.org/pdf/2205.00823.pdf), [[Code]](https://github.com/mzhaoshuai/CenterCLIP)
+
+- (arXiv 2022.05) Arbitrary Shape **Text Detection** via Boundary Transformer, [[Paper]](https://arxiv.org/pdf/2205.05320.pdf), [[Code]](https://github.com/GXYM/TextBPN-Puls-Plus)
+
+- (arXiv 2022.05) HULC: **3D Human Motion Capture** with Pose Manifold Sampling and Dense Contact Guidance, [[Paper]](https://arxiv.org/pdf/2205.05677.pdf), [[Project]](https://vcai.mpi-inf.mpg.de/projects/HULC)
 
 ### 2022.04
 
-<!-- - (arXiv 2022.04) , [[Paper]]()
+- (arXiv 2022.04) Learn to Understand Negation in **Video Retrieval**, [[Paper]](https://arxiv.org/pdf/2205.00132.pdf)
 
-- (arXiv 2022.04) , [[Paper]]()
+- (arXiv 2022.04) LayoutBERT: Masked Language **Layout** Model for Object Insertion, [[Paper]](https://arxiv.org/pdf/2205.00347.pdf)
 
-- (arXiv 2022.04) , [[Paper]]()
+- (arXiv 2022.04) Improving **Visual Grounding** with Visual-Linguistic Verification and Iterative Reasoning, [[Paper]](https://arxiv.org/pdf/2205.00272.pdf), [[Code]](https://github.com/yangli18/VLTVG)
 
-- (arXiv 2022.04) , [[Paper]]()
+- (arXiv 2022.04) Coarse-to-Fine **Video Denoising** with Dual-Stage Spatial-Channel Transformer, [[Paper]](https://arxiv.org/pdf/2205.00214.pdf)
 
-- (arXiv 2022.04) , [[Paper]]()
-
-- (arXiv 2022.04) , [[Paper]]() -->
+- (arXiv 2022.04) SideRT: A Real-time Pure Transformer Architecture for Single Image **Depth Estimation**, [[Paper]](https://arxiv.org/pdf/2204.13892.pdf)
 
 - (arXiv 2022.04) Where in the World is this Image? Transformer-based **Geo-localization** in the Wild, [[Paper]](https://arxiv.org/pdf/2204.13861.pdf)
 
