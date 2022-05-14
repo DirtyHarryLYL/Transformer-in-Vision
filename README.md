@@ -116,13 +116,13 @@ Keep updated.
 
 - (arXiv 2022.05) , [[Paper]]()
 
-- (arXiv 2022.05) , [[Paper]]()
-
-- (arXiv 2022.05) , [[Paper]]()
-
-- (arXiv 2022.05) , [[Paper]]()
-
 - (arXiv 2022.05) , [[Paper]]() -->
+
+- (arXiv 2022.05) RecipeSnap - a lightweight **image to recipe** model, [[Paper]](https://arxiv.org/pdf/2205.02141.pdf), [[Code]](https://github.com/jianfa/RecipeSnap-a-lightweight-image-to-recipe-model.git)
+
+- (arXiv 2022.05) CoCa: Contrastive Captioners are **Image-Text** Foundation Models, [[Paper]](https://arxiv.org/pdf/2205.01917.pdf)
+
+- (arXiv 2022.05) Data Determines Distributional **Robustness** in Contrastive Language Image Pre-training (**CLIP**), [[Paper]](https://arxiv.org/pdf/2205.01397.pdf)
 
 - (arXiv 2022.05) Cross-modal Representation Learning for **Zero-shot Action Recognition**, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2205/2205.01657.pdf), [[Code]](https://github.com/microsoft/ResT)
 
