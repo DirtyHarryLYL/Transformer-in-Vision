@@ -102,21 +102,21 @@ Keep updated.
 
 - (arXiv 2022.05) , [[Paper]]()
 
-- (arXiv 2022.05) , [[Paper]]()
-
-- (arXiv 2022.05) , [[Paper]]()
-
-- (arXiv 2022.05) , [[Paper]]()
-
-- (arXiv 2022.05) , [[Paper]]()
-
-- (arXiv 2022.05) , [[Paper]]()
-
-- (arXiv 2022.05) , [[Paper]]()
-
-- (arXiv 2022.05) , [[Paper]]()
-
 - (arXiv 2022.05) , [[Paper]]() -->
+
+- (arXiv 2022.05) P^3IV: Probabilistic **Procedure Planning** from **Instructional Videos** with Weak Supervision, [[Paper]](https://arxiv.org/pdf/2205.02300.pdf)
+
+- (arXiv 2022.05) Language Models Can See: Plugging **Visual** Controls in **Text Generation**, [[Paper]](https://arxiv.org/pdf/2205.02655.pdf), [[Code]](https://github.com/yxuansu/MAGIC)
+
+- (arXiv 2022.05) YOLOPose: Transformer-based Multi-Object **6D Pose Estimation** using Keypoint Regression, [[Paper]](https://arxiv.org/pdf/2205.02536.pdf)
+
+- (arXiv 2022.05) Cross-view Transformers for real-time Map-view **Semantic Segmentation**, [[Paper]](https://arxiv.org/pdf/2205.02833.pdf), [[Code]](https://github.com/bradyz/cross_view_transformers)
+
+- (arXiv 2022.05) i-Code: An Integrative and Composable **Multimodal** Learning Framework, [[Paper]](https://arxiv.org/pdf/2205.01818.pdf)
+
+- (arXiv 2022.05) **Visual Commonsense** in Pretrained Unimodal and Multimodal Models, [[Paper]](https://arxiv.org/pdf/2205.01850.pdf), [[Project]](https://github.com/ChenyuHeidiZhang/VL-commonsense)
+
+- (arXiv 2022.05) Dual Cross-Attention Learning for Fine-Grained Visual **Categorization** and Object **Re-Identification**, [[Paper]](https://arxiv.org/pdf/2205.02151.pdf)
 
 - (arXiv 2022.05) RecipeSnap - a lightweight **image to recipe** model, [[Paper]](https://arxiv.org/pdf/2205.02141.pdf), [[Code]](https://github.com/jianfa/RecipeSnap-a-lightweight-image-to-recipe-model.git)
 
