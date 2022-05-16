@@ -102,7 +102,55 @@ Keep updated.
 
 - (arXiv 2022.05) , [[Paper]]()
 
+- (arXiv 2022.05) , [[Paper]]()
+
+- (arXiv 2022.05) , [[Paper]]()
+
+- (arXiv 2022.05) , [[Paper]]()
+
+- (arXiv 2022.05) , [[Paper]]()
+
+- (arXiv 2022.05) , [[Paper]]()
+
+- (arXiv 2022.05) , [[Paper]]()
+
+- (arXiv 2022.05) , [[Paper]]()
+
 - (arXiv 2022.05) , [[Paper]]() -->
+
+- (arXiv 2022.05) EdgeViTs: Competing **Light-weight** CNNs on **Mobile Devices** with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2205.03436.pdf)
+
+- (arXiv 2022.05) Activating More Pixels in Image **Super-Resolution** Transformer, [[Paper]](https://arxiv.org/pdf/2205.04437.pdf), [[Code]](https://github.com/chxy95/HAT)
+
+- (arXiv 2022.05) Row-wise **Accelerator** for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2205.03998.pdf)
+
+- (arXiv 2022.05) SparseTT: Visual **Tracking** with Sparse Transformers, [[Paper]](https://arxiv.org/pdf/2205.03776.pdf), [[Code]](https://github.com/fzh0917/SparseTT)
+
+- (arXiv 2022.05) RoViST: Learning Robust Metrics for **Visual Storytelling**, [[Paper]](https://arxiv.org/pdf/2205.03774.pdf), [[Code]](https://github.com/usydnlp/rovist)
+
+- (arXiv 2022.05) Beyond Bounding Box: Multimodal Knowledge Learning for Object **Detection**, [[Paper]](https://arxiv.org/pdf/2205.04072.pdf)
+
+- (arXiv 2022.05) Multilevel Hierarchical Network with Multiscale Sampling for **Video Question Answering**, [[Paper]](https://arxiv.org/pdf/2205.04061.pdf)
+
+- (arXiv 2022.05) Incremental-DETR: Incremental Few-Shot Object **Detection** via Self-Supervised Learning, [[Paper]](https://arxiv.org/pdf/2205.04042.pdf)
+
+- (arXiv 2022.05) Conv**MAE**: Masked **Convolution** Meets Masked Autoencoders, [[Paper]](https://arxiv.org/pdf/2205.03892.pdf), [[Code]](https://github.com/Alpha-VL/ConvMAE)
+
+- (arXiv 2022.05) Cross-lingual Adaptation for **Recipe Retrieval** with Mixup, [[Paper]](https://arxiv.org/pdf/2205.03891.pdf)
+
+- (arXiv 2022.05) Zero and R2D2: A Large-scale Chinese Cross-modal Benchmark and A **Vision-Language** Framework, [[Paper]](https://arxiv.org/pdf/2205.03860.pdf)
+
+- (arXiv 2022.05) Transformer **Tracking** with Cyclic Shifting Window Attention, [[Paper]](https://arxiv.org/pdf/2205.03806.pdf), [[Code]](https://github.com/SkyeSong38/CSWinTT)
+
+- (arXiv 2022.05) Beyond a Pre-Trained Object Detector: Cross-Modal Textual and Visual Context for Image **Captioning**, [[Paper]](https://arxiv.org/pdf/2205.04363.pdf)
+
+- (arXiv 2022.05) Prompt Distribution Learning, [[Paper]](https://arxiv.org/pdf/2205.03340.pdf)
+
+- (arXiv 2022.05) CLIP-CLOP: **CLIP**-Guided **Collage** and **Photomontage**, [[Paper]](https://arxiv.org/pdf/2205.03146.pdf)
+
+- (arXiv 2022.05) Dual-Level Decoupled Transformer for **Video Captioning**, [[Paper]](https://arxiv.org/pdf/2205.03039.pdf)
+
+- (arXiv 2022.05) Declaration-based Prompt Tuning for **Visual Question Answering**, [[Paper]](https://arxiv.org/pdf/2205.02456.pdf), [[Code]](https://github.com/CCIIPLab/DPT)
 
 - (arXiv 2022.05) P^3IV: Probabilistic **Procedure Planning** from **Instructional Videos** with Weak Supervision, [[Paper]](https://arxiv.org/pdf/2205.02300.pdf)
 
