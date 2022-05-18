@@ -104,19 +104,19 @@ Keep updated.
 
 - (arXiv 2022.05) , [[Paper]]()
 
-- (arXiv 2022.05) , [[Paper]]()
-
-- (arXiv 2022.05) , [[Paper]]()
-
-- (arXiv 2022.05) , [[Paper]]()
-
-- (arXiv 2022.05) , [[Paper]]()
-
-- (arXiv 2022.05) , [[Paper]]()
-
-- (arXiv 2022.05) , [[Paper]]()
-
 - (arXiv 2022.05) , [[Paper]]() -->
+
+- (arXiv 2022.05) AggPose: Deep Aggregation Vision Transformer for Infant **Pose Estimation**, [[Paper]](https://arxiv.org/pdf/2205.05277.pdf), [[Code]](https://github.com/SZAR-LAB/AggPose)
+
+- (arXiv 2022.05) An Empirical Study of Self-supervised Learning Approaches for Object **Detection** with Transformers, [[Paper]](https://arxiv.org/pdf/2205.05543.pdf), [[Code-DETR]](https://github.com/gokulkarthik/detr), [[Code-Deform-DETR]](https://github.com/gokulkarthik/Deformable-DETR)
+
+- (arXiv 2022.05) Reduce Information Loss in Transformers for Pluralistic Image **Inpainting**, [[Paper]](https://arxiv.org/pdf/2205.05076.pdf), [[Code]](https://github.com/liuqk3/PUT)
+
+- (arXiv 2022.05) Transformer-based Cross-Modal **Recipe** Embeddings with Large Batch Training, [[Paper]](https://arxiv.org/pdf/2205.04948.pdf)
+
+- (arXiv 2022.05) Spatio-Temporal Transformer for Dynamic **Facial Expression Recognition** in the Wild, [[Paper]](https://arxiv.org/pdf/2205.04749.pdf)
+
+- (arXiv 2022.05) Generalizable **Task Planning** through Representation Pretraining, [[Paper]](https://arxiv.org/pdf/2205.07993.pdf), [[Project]](https://sites.google.com/view/gentp)
 
 - (arXiv 2022.05) EdgeViTs: Competing **Light-weight** CNNs on **Mobile Devices** with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2205.03436.pdf)
 
