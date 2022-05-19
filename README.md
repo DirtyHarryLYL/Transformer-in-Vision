@@ -41,6 +41,8 @@ Keep updated.
 
 ## Survey
 
+- (arXiv 2022.05) Transformers in 3D **Point Clouds**: A Survey, [[Paper]](https://arxiv.org/pdf/2205.07417.pdf)
+
 - (arXiv 2022.04) **Visual Attention** Methods in Deep Learning: An In-Depth Survey, [[Paper]](https://arxiv.org/pdf/2204.07756.pdf)
 
 - (arXiv 2022.04) **Vision-and-Language** Pretrained Models: A Survey, [[Paper]](https://arxiv.org/pdf/2204.07356.pdf)
@@ -100,11 +102,39 @@ Keep updated.
 
 - (arXiv 2022.05) , [[Paper]]()
 
-- (arXiv 2022.05) , [[Paper]]()
-
-- (arXiv 2022.05) , [[Paper]]()
-
 - (arXiv 2022.05) , [[Paper]]() -->
+
+- (arXiv 2022.05) **Masked Autoencoders** As Spatiotemporal Learners, [[Paper]](https://arxiv.org/pdf/2205.09113.pdf)
+
+- (arXiv 2022.05) BodyMap: Learning Full-**Body** Dense **Correspondence** Map, [[Paper]](https://arxiv.org/pdf/2205.09111.pdf), [[Code]](https://nsarafianos.github.io/bodymap)
+
+- (arXiv 2022.05) Unraveling **Attention** via Convex Duality: Analysis and Interpretations of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2205.08078.pdf)
+
+- (arXiv 2022.05) Avatar**CLIP**: Zero-Shot Text-Driven Generation and Animation of 3D **Avatars**, [[Paper]](https://arxiv.org/pdf/2205.08535.pdf)
+
+- (arXiv 2022.05) Vision Transformer Adapter for **Dense Predictions**, [[Paper]](https://arxiv.org/pdf/2205.08534.pdf), [[Code]](https://github.com/czczup/ViT-Adapter)
+
+- (arXiv 2022.05) Demo: Real-Time **Semantic Communications** with a Vision Transformer, [[Paper]](https://arxiv.org/pdf/2205.03886.pdf)
+
+- (arXiv 2022.05) MulT: An End-to-End **Multitask** Learning Transformer, [[Paper]](https://arxiv.org/pdf/2205.08303.pdf), [[Code]](https://ivrl.github.io/MulT/)
+
+- (arXiv 2022.05) A **CLIP**-Hitchhiker’s Guide to Long **Video Retrieval**, [[Paper]](https://arxiv.org/pdf/2205.08508.pdf)
+
+- (arXiv 2022.05) Video **Frame Interpolation** with Transformer, [[Paper]](https://arxiv.org/pdf/2205.07230.pdf), [[Code]](https://github.com/dvlab-research/VFIformer)
+
+- (arXiv 2022.05) Dense residual Transformer for Image **Denoising**, [[Paper]](https://arxiv.org/pdf/2205.06944.pdf)
+
+- (arXiv 2022.05) Learning Lip-Based **Audio-Visual** Speaker Embeddings with AV-HuBERT, [[Paper]](https://arxiv.org/pdf/2205.07180.pdf)
+
+- (arXiv 2022.05) **Robot Cooking** with Stir-fry: Bimanual Non-prehensile Manipulation of Semi-fluid Objects, [[Paper]](https://arxiv.org/pdf/2205.05960.pdf)
+
+- (arXiv 2022.05) Entity-aware and Motion-aware Transformers for Language-driven **Action Localization** in Videos, [[Paper]](https://arxiv.org/pdf/2205.05854.pdf), [[Code]](https://github.com/shuoyang129/EAMAT)
+
+- (arXiv 2022.05) Learning to **Retrieve Videos** by Asking Questions, [[Paper]](https://arxiv.org/pdf/2205.05739.pdf)
+
+- (arXiv 2022.05) One Model, **Multiple Modalities**: A Sparsely Activated Approach for Text, Sound, Image, Video and Code, [[Paper]](https://arxiv.org/pdf/2205.06126.pdf)
+
+- (arXiv 2022.05) Simple Open-Vocabulary Object **Detection** with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2205.06230.pdf), [[Code]](https://github.com/google-research/scenic/tree/main/scenic/projects/owl_vit)
 
 - (arXiv 2022.05) AggPose: Deep Aggregation Vision Transformer for Infant **Pose Estimation**, [[Paper]](https://arxiv.org/pdf/2205.05277.pdf), [[Code]](https://github.com/SZAR-LAB/AggPose)
 
