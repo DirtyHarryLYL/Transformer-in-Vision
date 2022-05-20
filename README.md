@@ -100,9 +100,25 @@ Keep updated.
 
 - (arXiv 2022.05) , [[Paper]]()
 
-- (arXiv 2022.05) , [[Paper]]()
-
 - (arXiv 2022.05) , [[Paper]]() -->
+
+- (arXiv 2022.05) **Training** Vision-Language Transformers from **Captions** Alone, [[Paper]](https://arxiv.org/pdf/2205.09256.pdf), [[Code]](https://github.com/guilk/VLC)
+
+- (arXiv 2022.05) **Voxel**-informed **Language** Grounding, [[Paper]](https://arxiv.org/pdf/2205.09710.pdf), [[Code]](https://github.com/rcorona/voxel_informed_language_grounding)
+
+- (arXiv 2022.05) Cross-Enhancement Transformer for **Action Segmentation**, [[Paper]](https://arxiv.org/pdf/2205.09445.pdf)
+
+- (arXiv 2022.05) TRT-ViT: **TensorRT**-oriented Vision Transformer, [[Paper]](https://arxiv.org/pdf/2205.09579.pdf)
+
+- (arXiv 2022.05) Integral Migrating Pre-trained Transformer Encoder-decoders for Visual Object **Detection**, [[Paper]](https://arxiv.org/pdf/2205.09613.pdf)
+
+- (arXiv 2022.05) A graph-transformer for whole slide image **classification**, [[Paper]](https://arxiv.org/pdf/2205.09671.pdf)
+
+- (arXiv 2022.05) VNT-Net: **Rotational Invariant** Vector Neuron Transformers, [[Paper]](https://arxiv.org/pdf/2205.09690.pdf)
+
+- (arXiv 2022.05) **Masked** Image Modeling with Denoising **Contrast**, [[Paper]](https://arxiv.org/pdf/2205.09616.pdf)
+
+- (arXiv 2022.05) Cross-subject **Action Unit Detection** with Meta Learning and Transformer-based Relation Modeling, [[Paper]](https://arxiv.org/pdf/2205.08787.pdf)
 
 - (arXiv 2022.05) **Masked Autoencoders** As Spatiotemporal Learners, [[Paper]](https://arxiv.org/pdf/2205.09113.pdf)
 
