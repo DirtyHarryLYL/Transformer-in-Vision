@@ -5,6 +5,8 @@ Keep updated.
 
 ## Resource
 
+- Google Imagen [[Page]](https://imagen.research.google/), [[Paper]](https://arxiv.org/pdf/2205.11487.pdf)
+
 - DeepMind Gato: A Generalist Agent, [[Paper]](https://storage.googleapis.com/deepmind-media/A%20Generalist%20Agent/Generalist%20Agent.pdf)
 
 - Google PaLM: Scaling Language Modeling with Pathways, [[Paper]](https://arxiv.org/pdf/2204.02311.pdf)
