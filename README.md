@@ -102,7 +102,27 @@ Keep updated.
 
 - (arXiv 2022.05) , [[Paper]]()
 
+- (arXiv 2022.05) , [[Paper]]()
+
+- (arXiv 2022.05) , [[Paper]]()
+
+- (arXiv 2022.05) , [[Paper]]()
+
+- (arXiv 2022.05) , [[Paper]]()
+
 - (arXiv 2022.05) , [[Paper]]() -->
+
+- (arXiv 2022.05) MoCoViT: **Mobile** **Convolutional** Vision Transformer, [[Paper]](https://arxiv.org/pdf/2205.12635.pdf)
+
+- (arXiv 2022.05) AO2-DETR: Arbitrary-Oriented Object **Detection** Transformer, [[Paper]](https://arxiv.org/pdf/2205.12785.pdf)
+
+- (arXiv 2022.05) **Inception** Transformer, [[Paper]](https://arxiv.org/pdf/2205.12956.pdf), [[Code]](https://github.com/sail-sg/iFormer)
+
+- (arXiv 2022.05) VTP: Volumetric Transformer for Multi-view Multi-person **3D Pose** Estimation, [[Paper]](https://arxiv.org/pdf/2205.12602.pdf)
+
+- (arXiv 2022.05) UViM: A **Unified Modeling** Approach for Vision with Learned Guiding Codes, [[Paper]](https://arxiv.org/pdf/2205.10337.pdf)
+
+- (arXiv 2022.05) Language Models with Image Descriptors are Strong Few-Shot **Video-Language** Learners, [[Paper]](https://arxiv.org/pdf/2205.10747.pdf), [[Code]](https://github.com/MikeWangWZHL/VidIL)
 
 - (arXiv 2022.05) **Training** Vision-Language Transformers from **Captions** Alone, [[Paper]](https://arxiv.org/pdf/2205.09256.pdf), [[Code]](https://github.com/guilk/VLC)
 
