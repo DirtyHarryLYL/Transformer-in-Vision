@@ -112,6 +112,24 @@ Keep updated.
 
 - (arXiv 2022.05) , [[Paper]]() -->
 
+- (arXiv 2022.05) AdaptFormer: **Adapting** Vision Transformers for **Scalable** Visual Recognition, [[Paper]](https://arxiv.org/pdf/2205.13535.pdf), [[Code]](http://www.shoufachen.com/adaptformer-page)
+
+- (arXiv 2022.05) **Green** Hierarchical Vision Transformer for **Masked** Image Modeling, [[Paper]](https://arxiv.org/pdf/2205.13515.pdf), [[Code]](https://github.com/LayneH/GreenMIM)
+
+- (arXiv 2022.05) Efficient U-Transformer with Boundary-Aware Loss for **Action Segmentatio**n, [[Paper]](https://arxiv.org/pdf/2205.13425.pdf)
+
+- (arXiv 2022.05) Cross-Architecture **Self-supervised Video** Representation Learning, [[Paper]](https://arxiv.org/pdf/2205.13313.pdf), [[Code]](https://github.com/guoshengcv/CACL)
+
+- (arXiv 2022.05) **Prompt**-based Learning for Unpaired Image **Captioning**, [[Paper]](https://arxiv.org/pdf/2205.13125.pdf)
+
+- (arXiv 2022.05) MixMIM: **Mixed** and **Masked** Image Modeling for **Efficient** Visual Representation Learning, [[Paper]](https://arxiv.org/pdf/2205.13137.pdf), [[Code]](https://github.com/Sense-X/MixMIM)
+
+- (arXiv 2022.05) **Fast** Vision Transformers with HiLo **Attention**, [[Paper]](https://arxiv.org/pdf/2205.13213.pdf), [[Code]](https://github.com/zip-group/LITv2)
+
+- (arXiv 2022.05) Fine-grained Image **Captioning** with **CLIP** Reward, [[Paper]](https://arxiv.org/pdf/2205.13115.pdf), [[Code]](https://github.com/j-min/CLIP-Caption-Reward)
+
+- (arXiv 2022.05) Mutual Information Divergence: A Unified Metric for Multimodal **Generative Models**, [[Paper]](https://arxiv.org/pdf/2205.13445.pdf)
+
 - (arXiv 2022.05) MoCoViT: **Mobile** **Convolutional** Vision Transformer, [[Paper]](https://arxiv.org/pdf/2205.12635.pdf)
 
 - (arXiv 2022.05) AO2-DETR: Arbitrary-Oriented Object **Detection** Transformer, [[Paper]](https://arxiv.org/pdf/2205.12785.pdf)
