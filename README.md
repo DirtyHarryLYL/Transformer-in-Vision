@@ -110,7 +110,21 @@ Keep updated.
 
 - (arXiv 2022.05) , [[Paper]]()
 
+- (arXiv 2022.05) , [[Paper]]()
+
+- (arXiv 2022.05) , [[Paper]]()
+
+- (arXiv 2022.05) , [[Paper]]()
+
 - (arXiv 2022.05) , [[Paper]]() -->
+
+- (arXiv 2022.05) Evidence for **Hypodescent** in Visual Semantic AI, [[Paper]](https://arxiv.org/pdf/2205.10764.pdf)
+
+- (arXiv 2022.05) Boosting Camouflaged Object **Detection** with Dual-Task Interactive Transformer, [[Paper]](https://arxiv.org/pdf/2205.10579.pdf), [[Code]](https://github.com/liuzywen/COD)
+
+- (arXiv 2022.05) muNet: Evolving Pretrained Deep Neural Networks into Scalable **Auto-tuning Multitask Systems**, [[Paper]](https://arxiv.org/pdf/2205.10937.pdf)
+
+- (arXiv 2022.05) Large Language Models are **Zero-Shot Reasoners**, [[Paper]](https://arxiv.org/pdf/2205.11916.pdf)
 
 - (arXiv 2022.05) AdaptFormer: **Adapting** Vision Transformers for **Scalable** Visual Recognition, [[Paper]](https://arxiv.org/pdf/2205.13535.pdf), [[Code]](http://www.shoufachen.com/adaptformer-page)
 
