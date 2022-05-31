@@ -114,9 +114,9 @@ Keep updated.
 
 - (arXiv 2022.05) , [[Paper]]()
 
-- (arXiv 2022.05) , [[Paper]]()
-
 - (arXiv 2022.05) , [[Paper]]() -->
+
+- (arXiv 2022.05) CogVideo: Large-scale Pretraining for **Text-to-Video** Generation via Transformers., [[Paper]](https://github.com/THUDM/CogVideo/blob/main/paper/CogVideo-arxiv.pdf), [[Code]](https://github.com/THUDM/CogVideo)
 
 - (arXiv 2022.05) Evidence for **Hypodescent** in Visual Semantic AI, [[Paper]](https://arxiv.org/pdf/2205.10764.pdf)
 
