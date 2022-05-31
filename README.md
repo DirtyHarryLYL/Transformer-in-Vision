@@ -114,7 +114,23 @@ Keep updated.
 
 - (arXiv 2022.05) , [[Paper]]()
 
+- (arXiv 2022.05) , [[Paper]]()
+
+- (arXiv 2022.05) , [[Paper]]()
+
 - (arXiv 2022.05) , [[Paper]]() -->
+
+- (arXiv 2022.05) HDGT: Heterogeneous Driving Graph Transformer for Multi-Agent **Trajectory Prediction** via Scene Encoding, [[Paper]](https://arxiv.org/pdf/2205.09753.pdf)
+
+- (arXiv 2022.05) **Mask**-guided Vision Transformer (MG-ViT) for **Few-Shot** Learning, [[Paper]](https://arxiv.org/pdf/2205.09995.pdf)
+
+- (arXiv 2022.05) Degradation-Aware Unfolding Half-Shuffle Transformer for **Spectral Compressive Imaging**, [[Paper]](https://arxiv.org/pdf/2205.10102.pdf)
+
+- (arXiv 2022.05) Uniform Masking: Enabling **MAE** Pre-training for **Pyramid**-based Vision Transformers with Locality, [[Paper]](https://arxiv.org/pdf/2205.10063.pdf), [[Code]](https://github.com/implus/UM-MAE)
+
+- (arXiv 2022.05) Visual **Concepts** Tokenization, [[Paper]](https://arxiv.org/pdf/2205.10093.pdf)
+
+- (arXiv 2022.05) MSTRIQ: No Reference **Image Quality Assessment** Based on Swin Transformer with Multi-Stage Fusion, [[Paper]](https://arxiv.org/pdf/2205.10101.pdf)
 
 - (arXiv 2022.05) CogVideo: Large-scale Pretraining for **Text-to-Video** Generation via Transformers., [[Paper]](https://github.com/THUDM/CogVideo/blob/main/paper/CogVideo-arxiv.pdf), [[Code]](https://github.com/THUDM/CogVideo)
 
