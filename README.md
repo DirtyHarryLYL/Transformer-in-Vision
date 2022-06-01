@@ -43,6 +43,8 @@ Keep updated.
 
 ## Survey
 
+- (arXic 2022.05) Vision Transformer: **Vit** and its **Derivatives**, [[Paper]](https://arxiv.org/pdf/2205.11239.pdf)
+
 - (arXiv 2022.05) Transformers in 3D **Point Clouds**: A Survey, [[Paper]](https://arxiv.org/pdf/2205.07417.pdf)
 
 - (arXiv 2022.04) **Visual Attention** Methods in Deep Learning: An In-Depth Survey, [[Paper]](https://arxiv.org/pdf/2204.07756.pdf)
@@ -88,6 +90,11 @@ Keep updated.
 - (arXiv 2020.1) **Transformers in Vision**: A Survey, [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
+
+### 2022.06
+
+<!-- - (arXiv 2022.06) , [[Paper]]() -->
+
 ### 2022.05
 
 <!-- - (arXiv 2022.05) , [[Paper]]()
@@ -110,15 +117,31 @@ Keep updated.
 
 - (arXiv 2022.05) , [[Paper]]()
 
-- (arXiv 2022.05) , [[Paper]]()
-
-- (arXiv 2022.05) , [[Paper]]()
-
-- (arXiv 2022.05) , [[Paper]]()
-
-- (arXiv 2022.05) , [[Paper]]()
-
 - (arXiv 2022.05) , [[Paper]]() -->
+
+- (arXiv 2022.05) **Knowledge Distillation** via the Target-aware Transformer, [[Paper]](https://arxiv.org/pdf/2205.10793.pdf)
+
+- (arXiv 2022.05) Dynamic **Query** Selection for Fast Visual Perceiver, [[Paper]](https://arxiv.org/pdf/2205.10873.pdf)
+
+- (arXiv 2022.05) MonoFormer: Towards Generalization of self-supervised monocular **depth** estimation with Transformers, [[Paper]](https://arxiv.org/pdf/2205.11083.pdf)
+
+- (arXiv 2022.05) PEVL: Position-enhanced Pre-training and Prompt Tuning for **Vision-language** Models, [[Paper]](https://arxiv.org/pdf/2205.11169.pdf), [[Code]](https://github.com/thunlp/PEVL)
+
+- (arXiv 2022.05) Supporting **Vision-Language** Model Inference with Causality-pruning Knowledge **Prompt**, [[Paper]](https://arxiv.org/pdf/2205.11100.pdf)
+
+- (arXiv 2022.05) Super Vision Transformer, [[Paper]](https://arxiv.org/pdf/2205.11397.pdf), [[Code]](https://github.com/lmbxmu/SuperViT)
+
+- (arXiv 2022.05) mPLUG: Effective and Efficient **Vision-Language** Learning by Cross-modal Skip-connections, [[Paper]](https://arxiv.org/pdf/2205.12005.pdf)
+
+- (arXiv 2022.05) **VQA**-GNN: **Reasoning** with Multimodal Semantic Graph for Visual Question Answering, [[Paper]](https://arxiv.org/pdf/2205.11501.pdf)
+
+- (arXiv 2022.05) UMSNet: An Universal Multi-sensor Network for Human **Activity Recognition**, [[Paper]](https://arxiv.org/pdf/2205.11756.pdf)
+
+- (arXiv 2022.05) **Privacy**-Preserving Image **Classification** Using Vision Transformer, [[Paper]](https://arxiv.org/pdf/2205.12041.pdf)
+
+- (arXiv 2022.05) HiVLP: Hierarchical **Vision-Language** Pre-Training for Fast Image-Text Retrieval, [[Paper]](https://arxiv.org/pdf/2205.12105.pdf)
+
+- (arXiv 2022.05) ASSET: Autoregressive **Semantic Scene Editing** with Transformers at High Resolutions, [[Paper]](https://arxiv.org/pdf/2205.12231.pdf), [[Code]](https://github.com/DifanLiu/ASSET)
 
 - (arXiv 2022.05) HDGT: Heterogeneous Driving Graph Transformer for Multi-Agent **Trajectory Prediction** via Scene Encoding, [[Paper]](https://arxiv.org/pdf/2205.09753.pdf)
 
