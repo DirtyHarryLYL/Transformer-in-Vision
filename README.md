@@ -117,7 +117,23 @@ Keep updated.
 
 - (arXiv 2022.05) , [[Paper]]()
 
+- (arXiv 2022.05) , [[Paper]]()
+
 - (arXiv 2022.05) , [[Paper]]() -->
+
+- (arXiv 2022.05) Architecture-Agnostic **Masked Image Modeling** – From ViT back to CNN, [[Paper]](https://arxiv.org/pdf/2205.13943.pdf)
+
+- (arXiv 2022.05) **Contrastive** Learning Rivals **Masked Image Modeling** in Fine-tuning via Feature Distillation, [[Paper]](https://arxiv.org/pdf/2205.14141.pdf), [[Code]](https://github.com/SwinTransformer/Feature-Distillation)
+
+- (arXiv 2022.05) GIT: A Generative **Image-to-text** Transformer for Vision and Language, [[Paper]](https://arxiv.org/pdf/2205.14100.pdf)
+
+- (arXiv 2022.05) 3DILG: Irregular Latent Grids for **3D Generative Modeling**, [[Paper]](https://arxiv.org/pdf/2205.13914.pdf)
+
+- (arXiv 2022.05) Simple **Unsupervised** **Object-Centric Learning** for Complex and Naturalistic Videos, [[Paper]](https://arxiv.org/pdf/2205.14065.pdf), [[Code]](https://sites.google.com/view/slot-transformer-for-videos)
+
+- (arXiv 2022.05) Future Transformer for Long-term **Action Anticipation**, [[Paper]](https://arxiv.org/pdf/2205.14022.pdf), [[Project]](http://cvlab.postech.ac.kr/research/FUTR)
+
+- (arXiv 2022.05) X-ViT: High Performance **Linear** Vision Transformer without Softmax, [[Paper]](https://arxiv.org/pdf/2205.13805.pdf)
 
 - (arXiv 2022.05) **Knowledge Distillation** via the Target-aware Transformer, [[Paper]](https://arxiv.org/pdf/2205.10793.pdf)
 
