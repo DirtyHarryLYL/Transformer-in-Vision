@@ -117,8 +117,6 @@ Keep updated.
 
 - (arXiv 2022.05) , [[Paper]]()
 
-- (arXiv 2022.05) , [[Paper]]()
-
 - (arXiv 2022.05) , [[Paper]]() -->
 
 - (arXiv 2022.05) Architecture-Agnostic **Masked Image Modeling** – From ViT back to CNN, [[Paper]](https://arxiv.org/pdf/2205.13943.pdf)
