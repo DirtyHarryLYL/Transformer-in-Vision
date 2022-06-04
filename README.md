@@ -117,7 +117,43 @@ Keep updated.
 
 - (arXiv 2022.05) , [[Paper]]()
 
+- (arXiv 2022.05) , [[Paper]]()
+
 - (arXiv 2022.05) , [[Paper]]() -->
+
+- (arXiv 2022.05) Multimodal **Masked Autoencoders** Learn Transferable Representations, [[Paper]](https://arxiv.org/pdf/2205.14204.pdf)
+
+- (arXiv 2022.05) Multimodal **Fake News Detection** via **CLIP**-Guided Learning, [[Paper]](https://arxiv.org/pdf/2205.14304.pdf)
+
+- (arXiv 2022.05) WT-MVSNet: Window-based Transformers for **Multi-view Stereo**, [[Paper]](https://arxiv.org/pdf/2205.14319.pdf)
+
+- (arXiv 2022.05) Object-wise **Masked Autoencoders** for **Fast** Pre-training, [[Paper]](https://arxiv.org/pdf/2205.14338.pdf)
+
+- (arXiv 2022.05) A Closer Look at **Self-supervised** **Lightweight** Vision Transformers, [[Paper]](https://arxiv.org/pdf/2205.14443.pdf)
+
+- (arXiv 2022.05) Variational Transformer: A Framework Beyond the Trade-off between Accuracy and Diversity for Image **Captioning**, [[Paper]](https://arxiv.org/pdf/2205.14458.pdf)
+
+- (arXiv 2022.05) CY**CLIP**: Cyclic Contrastive **Language-Image** Pretraining, [[Paper]](https://arxiv.org/pdf/2205.14459.pdf), [[Code]](https://github.com/goel-shashank/CyCLIP)
+
+- (arXiv 2022.05) MDMLP: Image Classification from Scratch on Small Datasets with **MLP**, [[Paper]](https://arxiv.org/pdf/2205.14477.pdf), [[Code]](https://github.com/Amoza-Theodore/MDMLP)
+
+- (arXiv 2022.05) SupMAE: **Supervised** **Masked Autoencoders** Are Efficient Vision Learners, [[Paper]](https://arxiv.org/pdf/2205.14540.pdf), [[Code]](https://github.com/cmu-enyac/supmae)
+
+- (arXiv 2022.05) 3D-C2FT: Coarse-to-fine Transformer for **Multi-view 3D Reconstruction**, [[Paper]](https://arxiv.org/pdf/2205.14575.pdf)
+
+- (arXiv 2022.05) Prompt-aligned Gradient for **Prompt** Tuning, [[Paper]](https://arxiv.org/pdf/2205.14865.pdf), [[Code]](https://github.com/BeierZhu/Prompt-align)
+
+- (arXiv 2022.05) **Illumination** Adaptive Transformer, [[Paper]](https://arxiv.org/pdf/2205.14871.pdf), [[Code]](https://github.com/cuiziteng/Illumination-Adaptive-Transformer)
+
+- (arXiv 2022.05) HiViT: **Hierarchical** Vision Transformer Meets **Masked Image Modeling**, [[Paper]](https://arxiv.org/pdf/2205.14949.pdf)
+
+- (arXiv 2022.05) GMML is All you Need, [[Paper]](https://arxiv.org/pdf/2205.14986.pdf), [[Code]](https://github.com/Sara-Ahmed/GMML)
+
+- (arXiv 2022.05) COMPLETEDT: **POINT CLOUD COMPLETION** WITH DENSE AUGMENT INFERENCE TRANSFORMERS, [[Paper]](https://arxiv.org/pdf/2205.14999.pdf)
+
+- (arXiv 2022.05) Self-Supervised Pre-training of Vision Transformers for **Dense Prediction** Tasks, [[Paper]](https://arxiv.org/pdf/2205.15173.pdf)
+
+- (arXiv 2022.05) VLUE: A Multi-Task **Benchmark** for Evaluating **Vision-Language** Models, [[Paper]](https://arxiv.org/pdf/2205.15237.pdf), [[Benchmark]](https://vlue-benchmark.github.io/), [[Code]](https://github.com/MichaelZhouwang/VLUE)
 
 - (arXiv 2022.05) Architecture-Agnostic **Masked Image Modeling** – From ViT back to CNN, [[Paper]](https://arxiv.org/pdf/2205.13943.pdf)
 
