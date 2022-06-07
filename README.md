@@ -93,7 +93,21 @@ Keep updated.
 
 ### 2022.06
 
-<!-- - (arXiv 2022.06) , [[Paper]]() -->
+<!-- - (arXiv 2022.06) , [[Paper]]()
+
+- (arXiv 2022.06) , [[Paper]]()
+
+- (arXiv 2022.06) , [[Paper]]()
+
+- (arXiv 2022.06) , [[Paper]]()
+
+- (arXiv 2022.06) , [[Paper]]()
+
+- (arXiv 2022.06) , [[Paper]]()
+
+- (arXiv 2022.06) , [[Paper]]() -->
+
+- (arXiv 2022.06) **Video**-based **Human-Object Interaction** Detection from Tubelet Tokens, [[Paper]](https://arxiv.org/pdf/2206.01908.pdf)
 
 ### 2022.05
 
