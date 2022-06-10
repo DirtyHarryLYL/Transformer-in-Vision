@@ -105,35 +105,39 @@ Keep updated.
 
 - (arXiv 2022.06) , [[Paper]]()
 
+- (arXiv 2022.06) , [[Paper]]()
+
 - (arXiv 2022.06) , [[Paper]]() -->
+
+- (arXiv 2022.06) Where are my Neighbors? Exploiting Patches Relations in **Self-Supervised** Vision Transformer, [[Paper]](https://arxiv.org/pdf/2206.00481.pdf)
+
+- (arXiv 2022.06) Unifying Voxel-based Representation with Transformer for **3D Object Detection**, [[Paper]](https://arxiv.org/pdf/2206.00630.pdf), [[Code]](https://github.com/dvlab-research/UVTR)
+
+- (arXiv 2022.06) Extreme **Floorplan Reconstruction** by Structure-Hallucinating Transformer Cascades, [[Paper]](https://arxiv.org/pdf/2206.00645.pdf)
+
+- (arXiv 2022.06) Cross-View Language Modeling: Towards Unified Cross-Lingual **Cross-Modal Pre-training**, [[Paper]](https://arxiv.org/pdf/2206.00621.pdf)
+
+- (arXiv 2022.06) VALHALLA: **Visual Hallucination** for Machine Translation, [[Paper]](https://arxiv.org/pdf/2206.00100.pdf), [[Code]](http://www.svcl.ucsd.edu/projects/valhalla)
+
+- (arXiv 2022.06) Learning Sequential Contexts using Transformer for **3D Hand Pose Estimation**, [[Paper]](https://arxiv.org/pdf/2206.00171.pdf)
+
+- (arXiv 2022.06) CLIP4IDC: **CLIP** for Image Difference **Captioning**, [[Paper]](https://arxiv.org/pdf/2206.00629.pdf), [[Code]](https://github.com/sushizixin/CLIP4IDC)
+
+- (arXiv 2022.06) Cross-domain **Detection** Transformer based on Spatial-aware and Semantic-aware Token Alignment, [[Paper]](https://arxiv.org/pdf/2206.00222.pdf)
+
+- (arXiv 2022.06) Vision **GNN**: An Image is Worth Graph of Nodes, [[Paper]](https://arxiv.org/pdf/2206.00272.pdf), [[Code]](https://github.com/huawei-noah/CV-Backbones)
+
+- (arXiv 2022.06) Weakly-supervised Action Transition Learning for Stochastic Human **Motion Prediction**, [[Paper]](https://arxiv.org/pdf/2205.15608.pdf), [[Code]](https://github.com/wei-mao-2019/WAT)
+
+- (arXiv 2022.06) TubeFormer-**DeepLab**: Video Mask Transformer, [[Paper]](https://arxiv.org/pdf/2205.15361.pdf)
 
 - (arXiv 2022.06) **Video**-based **Human-Object Interaction** Detection from Tubelet Tokens, [[Paper]](https://arxiv.org/pdf/2206.01908.pdf)
 
 ### 2022.05
 
-<!-- - (arXiv 2022.05) , [[Paper]]()
+- (arXiv 2022.05) HeatER: An Efficient and Unified Network for **Human Reconstruction** via Heatmap-based TransformER, [[Paper]](https://arxiv.org/pdf/2205.15448.pdf)
 
-- (arXiv 2022.05) , [[Paper]]()
-
-- (arXiv 2022.05) , [[Paper]]()
-
-- (arXiv 2022.05) , [[Paper]]()
-
-- (arXiv 2022.05) , [[Paper]]()
-
-- (arXiv 2022.05) , [[Paper]]()
-
-- (arXiv 2022.05) , [[Paper]]()
-
-- (arXiv 2022.05) , [[Paper]]()
-
-- (arXiv 2022.05) , [[Paper]]()
-
-- (arXiv 2022.05) , [[Paper]]()
-
-- (arXiv 2022.05) , [[Paper]]()
-
-- (arXiv 2022.05) , [[Paper]]() -->
+- (arXiv 2022.05) Robotic **grasp detection** based on Transformer, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2205/2205.15112.pdf)
 
 - (arXiv 2022.05) Multimodal **Masked Autoencoders** Learn Transferable Representations, [[Paper]](https://arxiv.org/pdf/2205.14204.pdf)
 
