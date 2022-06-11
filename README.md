@@ -107,7 +107,27 @@ Keep updated.
 
 - (arXiv 2022.06) , [[Paper]]()
 
+- (arXiv 2022.06) , [[Paper]]()
+
+- (arXiv 2022.06) , [[Paper]]()
+
+- (arXiv 2022.06) , [[Paper]]()
+
+- (arXiv 2022.06) , [[Paper]]()
+
+- (arXiv 2022.06) , [[Paper]]()
+
+- (arXiv 2022.06) , [[Paper]]()
+
+- (arXiv 2022.06) , [[Paper]]()
+
 - (arXiv 2022.06) , [[Paper]]() -->
+
+- (CVPR 2022) Distillation Using Oracle Queries for Transformer-based **Human-Object nteraction Detection**, [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Qu_Distillation_Using_Oracle_Queries_for_Transformer-Based_Human-Object_Interaction_Detection_CVPR_2022_paper.pdf), [[Code]](https://github.com/SherlockHolmes221/DOQ)
+
+- (CVPR 2022) Exploring Structure-aware Transformer over Interaction Proposals for **Human-Object Interaction Detection**, [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Exploring_Structure-Aware_Transformer_Over_Interaction_Proposals_for_Human-Object_Interaction_Detection_CVPR_2022_paper.pdf), [[Code]](https://github.com/zyong812/STIP)
+
+- (CVPR 2022) Human **Trajectory Prediction** with Momentary Observation, [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Sun_Human_Trajectory_Prediction_With_Momentary_Observation_CVPR_2022_paper.pdf)
 
 - (arXiv 2022.06) Where are my Neighbors? Exploiting Patches Relations in **Self-Supervised** Vision Transformer, [[Paper]](https://arxiv.org/pdf/2206.00481.pdf)
 
