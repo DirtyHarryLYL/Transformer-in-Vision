@@ -109,19 +109,19 @@ Keep updated.
 
 - (arXiv 2022.06) , [[Paper]]()
 
-- (arXiv 2022.06) , [[Paper]]()
-
-- (arXiv 2022.06) , [[Paper]]()
-
-- (arXiv 2022.06) , [[Paper]]()
-
-- (arXiv 2022.06) , [[Paper]]()
-
-- (arXiv 2022.06) , [[Paper]]()
-
-- (arXiv 2022.06) , [[Paper]]()
-
 - (arXiv 2022.06) , [[Paper]]() -->
+
+- (arXiv 2022.06) **Prefix Conditioning** Unifies Language and Label Supervision, [[Paper]](https://arxiv.org/pdf/2206.01125.pdf)
+
+- (arXiv 2022.06) Optimizing Relevance Maps of Vision Transformers Improves **Robustness**, [[Paper]](https://arxiv.org/pdf/2206.01161.pdf), [[Code]](https://github.com/hila-chefer/RobustViT)
+
+- (arXiv 2022.06) VL-BEIT: Generative **Vision-Language** Pretraining, [[Paper]](https://arxiv.org/pdf/2206.01127.pdf), [[Code]](https://github.com/microsoft/unilm)
+
+- (arXiv 2022.06) **Efficient**Former: Vision Transformers at MobileNet Speed, [[Paper]](https://arxiv.org/pdf/2206.01191.pdf), [[Code]](https://github.com/snap-research/EfficientFormer)
+
+- (arXiv 2022.06) REVIVE: Regional Visual Representation Matters in Knowledge-Based **Visual Question Answering**, [[Paper]](https://arxiv.org/pdf/2206.01201.pdf)
+
+- (arXiv 2022.06) Siamese Image Modeling for **Self-Supervised** Vision Representation Learning, [[Paper]](https://arxiv.org/pdf/2206.01204.pdf)
 
 - (CVPR 2022) Distillation Using Oracle Queries for Transformer-based **Human-Object nteraction Detection**, [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Qu_Distillation_Using_Oracle_Queries_for_Transformer-Based_Human-Object_Interaction_Detection_CVPR_2022_paper.pdf), [[Code]](https://github.com/SherlockHolmes221/DOQ)
 
