@@ -107,9 +107,17 @@ Keep updated.
 
 - (arXiv 2022.06) , [[Paper]]()
 
-- (arXiv 2022.06) , [[Paper]]()
-
 - (arXiv 2022.06) , [[Paper]]() -->
+
+- (arXiv 2022.06) A-OKVQA: A Benchmark for **Visual Question Answering** using World Knowledge, [[Paper]](https://arxiv.org/pdf/2206.01718.pdf), [[Project]](http://a-okvqa.allenai.org/)
+
+- (arXiv 2022.06) Revisiting the “Video” in **Video-Language** Understanding, [[Paper]](https://arxiv.org/pdf/2206.01720.pdf), [[Project]](https://stanfordvl.github.io/atp-revisit-video-lang/)
+
+- (arXiv 2022.06) Efficient **Self-supervised** Vision Pretraining with Local **Masked** Reconstruction, [[Paper]](https://arxiv.org/pdf/2206.00790.pdf)
+
+- (arXiv 2022.06) Modeling Image Composition for Complex **Scene Generation**, [[Paper]](https://arxiv.org/pdf/2206.00923.pdf), [[Code]](https://github.com/JohnDreamer/TwFA)
+
+- (arXiv 2022.06) Unified Recurrence Modeling for **Video Action Anticipation**, [[Paper]](https://arxiv.org/pdf/2206.01009.pdf)
 
 - (arXiv 2022.06) **Prefix Conditioning** Unifies Language and Label Supervision, [[Paper]](https://arxiv.org/pdf/2206.01125.pdf)
 
