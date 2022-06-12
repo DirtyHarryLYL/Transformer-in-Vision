@@ -107,7 +107,47 @@ Keep updated.
 
 - (arXiv 2022.06) , [[Paper]]()
 
+- (arXiv 2022.06) , [[Paper]]()
+
+- (arXiv 2022.06) , [[Paper]]()
+
+- (arXiv 2022.06) , [[Paper]]()
+
+- (arXiv 2022.06) , [[Paper]]()
+
+- (arXiv 2022.06) , [[Paper]]()
+
+- (arXiv 2022.06) , [[Paper]]()
+
+- (arXiv 2022.06) , [[Paper]]()
+
+- (arXiv 2022.06) , [[Paper]]()
+
 - (arXiv 2022.06) , [[Paper]]() -->
+
+- (arXiv 2022.06) Separable **Self-attention** for **Mobile** Vision Transformers, [[Paper]](https://arxiv.org/pdf/2206.02680.pdf), [[Code]](https://github.com/apple/ml-cvnets)
+
+- (arXiv 2022.06) Mask **DINO**: Towards A Unified Transformer-based Framework for Object **Detection** and **Segmentation**, [[Paper]](https://arxiv.org/pdf/2206.02777.pdf), [[Code]](https://github.com/IDEACVR/MaskDINO)
+
+- (arXiv 2022.06) Multimodal Contrastive Learning with LIMoE: the **Language-Image** **Mixture of Experts**, [[Paper]](https://arxiv.org/pdf/2206.02770.pdf)
+
+- (arXiv 2022.06) cViL: Cross-Lingual Training of **Vision-Language** Models using Knowledge Distillation, [[Paper]](https://arxiv.org/pdf/2206.03354.pdf)
+
+- (arXiv 2022.06) **Masked** **Unsupervised** Self-training for Zero-shot Image Classification, [[Paper]](https://arxiv.org/pdf/2206.02967.pdf), [[Code]](https://github.com/salesforce/MUST)
+
+- (arXiv 2022.06) DETR++: Taming Your Multi-Scale **Detection** Transformer, [[Paper]](https://arxiv.org/pdf/2206.02977.pdf)
+
+- (arXiv 2022.06) Structured Context Transformer for Generic **Event Boundary Detection**, [[Paper]](https://arxiv.org/pdf/2206.02985.pdf)
+
+- (arXiv 2022.06) Revealing Single Frame Bias for **Video-and-Language** Learning, [[Paper]](https://arxiv.org/pdf/2206.03428.pdf), [[Code]](https://github.com/jayleicn/singularity)
+
+- (arXiv 2022.06) Cerberus Transformer: Joint **Semantic**, **Affordance** and **Attribute** Parsing, [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Cerberus_Transformer_Joint_Semantic_Affordance_and_Attribute_Parsing_CVPR_2022_paper.pdf), [[Code]](https://github.com/OPEN-AIR-SUN/Cerberus)
+
+- (arXiv 2022.06) Can **CNNs** Be More **Robust** Than Transformers? [[Paper]](https://arxiv.org/pdf/2206.03452.pdf), [[Code]](https://github.com/UCSC-VLAA/RobustCNN)
+
+- (arXiv 2022.06) Detection Hub: Unifying Object **Detection** Datasets via Query Adaptation on Language Embedding, [[Paper]](https://arxiv.org/pdf/2206.03484.pdf)
+
+- (CVPR 2022) Keypoint Transformer: Solving Joint Identification in Challenging **Hands and Object Interactions** for Accurate **3D Pose** Estimation, [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Hampali_Keypoint_Transformer_Solving_Joint_Identification_in_Challenging_Hands_and_Object_CVPR_2022_paper.pdf)
 
 - (arXiv 2022.06) A-OKVQA: A Benchmark for **Visual Question Answering** using World Knowledge, [[Paper]](https://arxiv.org/pdf/2206.01718.pdf), [[Project]](http://a-okvqa.allenai.org/)
 
