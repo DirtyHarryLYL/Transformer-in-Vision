@@ -107,23 +107,23 @@ Keep updated.
 
 - (arXiv 2022.06) , [[Paper]]()
 
-- (arXiv 2022.06) , [[Paper]]()
-
-- (arXiv 2022.06) , [[Paper]]()
-
-- (arXiv 2022.06) , [[Paper]]()
-
-- (arXiv 2022.06) , [[Paper]]()
-
-- (arXiv 2022.06) , [[Paper]]()
-
-- (arXiv 2022.06) , [[Paper]]()
-
-- (arXiv 2022.06) , [[Paper]]()
-
-- (arXiv 2022.06) , [[Paper]]()
-
 - (arXiv 2022.06) , [[Paper]]() -->
+
+- (arXiv 2022.06) Contra**CLIP**: Interpretable **GAN** generation driven by pairs of contrasting sentences, [[Paper]](https://arxiv.org/pdf/2206.02104.pdf), [[Code]](https://github.com/chi0tzp/ContraCLIP)
+
+- (arXiv 2022.06) EAANet: **Efficient** Attention Augmented Convolutional Networks, [[Paper]](https://arxiv.org/pdf/2206.01821.pdf)
+
+- (arXiv 2022.06) Visual Clues: Bridging **Vision and Language** Foundations for Image Paragraph **Captioning**, [[Paper]](https://arxiv.org/pdf/2206.01843.pdf)
+
+- (arXiv 2022.06) Recurrent **Video Restoration** Transformer with Guided Deformable Attention, [[Paper]](https://arxiv.org/pdf/2206.02146.pdf), [[Code]](https://github.com/JingyunLiang/RVRT)
+
+- (arXiv 2022.06) Rethinking the **Openness** of **CLIP**, [[Paper]](https://arxiv.org/pdf/2206.01986.pdf)
+
+- (arXiv 2022.06) OrdinalCLIP: Learning Rank Prompts for **Language-Guided Ordinal Regression**, [[Paper]](https://arxiv.org/pdf/2206.02338.pdf)
+
+- (arXiv 2022.06) Towards Fast Adaptation of Pretrained Contrastive Models for Multi-channel **Video-Language Retrieval**, [[Paper]](https://arxiv.org/pdf/2206.02082.pdf)
+
+- (arXiv 2022.06) CONTRASTIVE GRAPH MULTIMODAL MODEL FOR **TEXT CLASSIFICATION** IN VIDEOS, [[Paper]](https://arxiv.org/pdf/2206.02343.pdf)
 
 - (arXiv 2022.06) Separable **Self-attention** for **Mobile** Vision Transformers, [[Paper]](https://arxiv.org/pdf/2206.02680.pdf), [[Code]](https://github.com/apple/ml-cvnets)
 
