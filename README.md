@@ -107,7 +107,35 @@ Keep updated.
 
 - (arXiv 2022.06) , [[Paper]]()
 
+- (arXiv 2022.06) , [[Paper]]()
+
+- (arXiv 2022.06) , [[Paper]]()
+
+- (arXiv 2022.06) , [[Paper]]()
+
+- (arXiv 2022.06) , [[Paper]]()
+
+- (arXiv 2022.06) , [[Paper]]()
+
+- (arXiv 2022.06) , [[Paper]]()
+
+- (arXiv 2022.06) , [[Paper]]()
+
+- (arXiv 2022.06) , [[Paper]]()
+
+- (arXiv 2022.06) , [[Paper]]()
+
+- (arXiv 2022.06) , [[Paper]]()
+
+- (arXiv 2022.06) , [[Paper]]()
+
+- (arXiv 2022.06) , [[Paper]]()
+
+- (arXiv 2022.06) , [[Paper]]()
+
 - (arXiv 2022.06) , [[Paper]]() -->
+
+- (arXiv 2022.06) **Anomaly detection** in surveillance videos using transformer based attention model, [[Paper]](https://arxiv.org/pdf/2206.01524.pdf), [[Code]](https://github.com/kapildeshpande/Anomaly-Detection-in-Surveillance-Videos)
 
 - (arXiv 2022.06) Contra**CLIP**: Interpretable **GAN** generation driven by pairs of contrasting sentences, [[Paper]](https://arxiv.org/pdf/2206.02104.pdf), [[Code]](https://github.com/chi0tzp/ContraCLIP)
 
