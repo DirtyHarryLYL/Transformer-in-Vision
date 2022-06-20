@@ -125,15 +125,15 @@ Keep updated.
 
 - (arXiv 2022.06) , [[Paper]]()
 
-- (arXiv 2022.06) , [[Paper]]()
-
-- (arXiv 2022.06) , [[Paper]]()
-
-- (arXiv 2022.06) , [[Paper]]()
-
-- (arXiv 2022.06) , [[Paper]]()
-
 - (arXiv 2022.06) , [[Paper]]() -->
+
+- (arXiv 2022.06) **Spatial Entropy Regularization** for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2206.04636.pdf)
+
+- (arXiv 2022.06) On Data Scaling in **Masked Image Modeling**, [[Paper]](https://arxiv.org/pdf/2206.04664.pdf)
+
+- (arXiv 2022.06) Extreme **Masking** for Learning Instance and Distributed Visual **Representations**, [[Paper]](https://arxiv.org/pdf/2206.04667.pdf)
+
+- (arXiv 2022.06) GateHUB: Gated History Unit with Background Suppression for **Online Action Detection**, [[Paper]](https://arxiv.org/pdf/2206.04668.pdf)
 
 - (arXiv 2022.06) **Anomaly detection** in surveillance videos using transformer based attention model, [[Paper]](https://arxiv.org/pdf/2206.01524.pdf), [[Code]](https://github.com/kapildeshpande/Anomaly-Detection-in-Surveillance-Videos)
 
