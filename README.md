@@ -107,25 +107,25 @@ Keep updated.
 
 - (arXiv 2022.06) , [[Paper]]()
 
-- (arXiv 2022.06) , [[Paper]]()
-
-- (arXiv 2022.06) , [[Paper]]()
-
-- (arXiv 2022.06) , [[Paper]]()
-
-- (arXiv 2022.06) , [[Paper]]()
-
-- (arXiv 2022.06) , [[Paper]]()
-
-- (arXiv 2022.06) , [[Paper]]()
-
-- (arXiv 2022.06) , [[Paper]]()
-
-- (arXiv 2022.06) , [[Paper]]()
-
-- (arXiv 2022.06) , [[Paper]]()
-
 - (arXiv 2022.06) , [[Paper]]() -->
+
+- (arXiv 2022.06) Patch-based Object-centric Transformers for Efficient **Video Generation**, [[Paper]](https://arxiv.org/pdf/2206.04003.pdf), [[Code]](https://sites.google.com/view/povt-public)
+
+- (arXiv 2022.06) Sparse Fusion **Mixture-of-Experts** are Domain Generalizable Learners, [[Paper]](https://arxiv.org/pdf/2206.04046.pdf), [[Code]](https://github.com/Luodian/SF-MoE-DG)
+
+- (arXiv 2022.06) VN-Transformer: **Rotation-Equivariant** Attention for Vector Neurons, [[Paper]](https://arxiv.org/pdf/2206.04176.pdf)
+
+- (arXiv 2022.06) **CLIP**-Actor: **Text**-Driven Recommendation and Stylization for **Animating Human Meshes**, [[Paper]](https://arxiv.org/pdf/2206.04382.pdf), [[Code]](https://github.com/Youwang-Kim/CLIP-Actor)
+
+- (arXiv 2022.06) **OOD** Augmentation May Be at Odds with **Open-Set Recognition**, [[Paper]](https://arxiv.org/pdf/2206.04242.pdf)
+
+- (arXiv 2022.06) Draft-and-Revise: Effective **Image Generation** with Contextual RQ-Transformer, [[Paper]](https://arxiv.org/pdf/2206.04452.pdf)
+
+- (arXiv 2022.06) cycle text2face: cycle **text-to-face gan** via transformers, [[Paper]](https://arxiv.org/pdf/2206.04503.pdf)
+
+- (arXiv 2022.06) Efficient and Robust **2D-to-BEV** Representation Learning via Geometry-guided Kernel Transformer, [[Paper]](https://arxiv.org/pdf/2206.04584.pdf), [[Code]](https://github.com/hustvl/GKT)
+
+- (arXiv 2022.06) Transformer based Urdu Handwritten **Text** Optical Character Reader, [[Paper]](https://arxiv.org/pdf/2206.04575.pdf)
 
 - (arXiv 2022.06) **Spatial Entropy Regularization** for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2206.04636.pdf)
 
