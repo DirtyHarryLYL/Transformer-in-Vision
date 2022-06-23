@@ -5,6 +5,8 @@ Keep updated.
 
 ## Resource
 
+- Google Parti [[Page]](https://parti.research.google/), [[Code]](https://github.com/google-research/parti)
+
 - Google Imagen [[Page]](https://imagen.research.google/), [[Paper]](https://arxiv.org/pdf/2205.11487.pdf)
 
 - DeepMind Gato: A Generalist Agent, [[Paper]](https://storage.googleapis.com/deepmind-media/A%20Generalist%20Agent/Generalist%20Agent.pdf)
@@ -105,9 +107,9 @@ Keep updated.
 
 - (arXiv 2022.06) , [[Paper]]()
 
-- (arXiv 2022.06) , [[Paper]]()
-
 - (arXiv 2022.06) , [[Paper]]() -->
+
+- (arXiv 2022.06) Exploring Feature Self-relation for **Self-supervised** Transformer, [[Paper]](https://arxiv.org/pdf/2206.05184.pdf)
 
 - (arXiv 2022.06) Patch-based Object-centric Transformers for Efficient **Video Generation**, [[Paper]](https://arxiv.org/pdf/2206.04003.pdf), [[Code]](https://sites.google.com/view/povt-public)
 
