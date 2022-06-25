@@ -115,19 +115,19 @@ Keep updated.
 
 - (arXiv 2022.06) , [[Paper]]()
 
-- (arXiv 2022.06) , [[Paper]]()
-
-- (arXiv 2022.06) , [[Paper]]()
-
-- (arXiv 2022.06) , [[Paper]]()
-
-- (arXiv 2022.06) , [[Paper]]()
-
-- (arXiv 2022.06) , [[Paper]]()
-
-- (arXiv 2022.06) , [[Paper]]()
-
 - (arXiv 2022.06) , [[Paper]]() -->
+
+- (arXiv 2022.06) Can Foundation Models Talk **Causality**? [[Paper]](https://arxiv.org/pdf/2206.10591.pdf)
+
+- (arXiv 2022.06) Learning **Viewpoint-Agnostic** Visual **Representations** by Recovering Tokens in 3D Space, [[Paper]](https://arxiv.org/pdf/2206.11895.pdf), [[Code]](https://www3.cs.stonybrook.edu/~jishang/3dtrl/3dtrl.html)
+
+- (arXiv 2022.06) MaskViT: **Masked** Visual Pre-Training for **Video Prediction**, [[Paper]](https://arxiv.org/pdf/2206.11894.pdf)
+
+- (arXiv 2022.06) PromptPose: Language **Prompt** Helps **Animal Pose Estimation**, [[Paper]](https://arxiv.org/pdf/2206.11752.pdf)
+
+- (arXiv 2022.06) **Video PreTraining** (VPT): Learning to Act by Watching **Unlabeled** **Online** Videos, [[Paper]](https://arxiv.org/pdf/2206.11795.pdf)
+
+- (arXiv 2022.06) MERLOT Reserve: Neural Script Knowledge through **Vision and Language and Sound**, [[Paper]](https://arxiv.org/pdf/2201.02639.pdf), [[Project]](https://rowanzellers.com/merlotreserve)
 
 - (arXiv 2022.06) Building Spatio-temporal Transformers for **Egocentric 3D Pose Estimation**, [[Paper]](https://arxiv.org/pdf/2206.04785.pdf)
 
