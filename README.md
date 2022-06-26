@@ -115,7 +115,23 @@ Keep updated.
 
 - (arXiv 2022.06) , [[Paper]]()
 
+- (arXiv 2022.06) , [[Paper]]()
+
+- (arXiv 2022.06) , [[Paper]]()
+
+- (arXiv 2022.06) , [[Paper]]()
+
+- (arXiv 2022.06) , [[Paper]]()
+
+- (arXiv 2022.06) , [[Paper]]()
+
 - (arXiv 2022.06) , [[Paper]]() -->
+
+- (arXiv 2022.06) Prototypical **Contrastive Language Image Pretraining**, [[Paper]](https://arxiv.org/pdf/2206.10996.pdf), [[Code]](https://github.com/megvii-research/protoclip)
+
+- (arXiv 2022.06) SpA-Former:Transformer image** shadow detection and removal** via spatial attention, [[Paper]](https://arxiv.org/pdf/2206.10910.pdf), [[Code]](https://github.com/zhangbaijin/SpA-Former-shadow-removal)
+
+- (arXiv 2022.06) A Unified and Biologically-Plausible **Relational Graph Representation** of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2206.11073.pdf)
 
 - (arXiv 2022.06) Can Foundation Models Talk **Causality**? [[Paper]](https://arxiv.org/pdf/2206.10591.pdf)
 
