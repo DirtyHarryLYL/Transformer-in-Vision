@@ -45,6 +45,8 @@ Keep updated.
 
 ## Survey
 
+- (arXic 2022.06) **Multimodal** Learning with Transformers: A Survey, [[Paper]](https://arxiv.org/pdf/2206.06488.pdf)
+
 - (arXic 2022.05) Vision Transformer: **Vit** and its **Derivatives**, [[Paper]](https://arxiv.org/pdf/2205.11239.pdf)
 
 - (arXiv 2022.05) Transformers in 3D **Point Clouds**: A Survey, [[Paper]](https://arxiv.org/pdf/2205.07417.pdf)
@@ -119,13 +121,41 @@ Keep updated.
 
 - (arXiv 2022.06) , [[Paper]]()
 
-- (arXiv 2022.06) , [[Paper]]()
-
-- (arXiv 2022.06) , [[Paper]]()
-
-- (arXiv 2022.06) , [[Paper]]()
-
 - (arXiv 2022.06) , [[Paper]]() -->
+
+- (arXiv 2022.06) Graph-based Spatial Transformer with Memory Replay for Multi-future **Pedestrian Trajectory Prediction**, [[Paper]](https://arxiv.org/pdf/2206.05712.pdf), [[Code]](https://github.com/Jacobieee/ST-MR)
+
+- (arXiv 2022.06) **GLIPv2**: Unifying Localization and **VL Understanding**, [[Paper]](https://arxiv.org/pdf/2206.05836.pdf), [[Code]](https://github.com/microsoft/GLIP)
+
+- (arXiv 2022.06) INDIGO: Intrinsic Multimodality for **Domain Generalization**, [[Paper]](https://arxiv.org/pdf/2206.05912.pdf)
+
+- (arXiv 2022.06) TRANSDUCTIVE **CLIP** WITH **CLASS-CONDITIONAL** CONTRASTIVE LEARNING, [[Paper]](https://arxiv.org/pdf/2206.06177.pdf)
+
+- (arXiv 2022.06) SILVER-BULLET-3D AT MANISKILL 2021: LEARNING-FROM-DEMONSTRATIONS AND HEURISTIC RULE-BASED METHODS FOR **OBJECT MANIPULATION**, [[Paper]](https://arxiv.org/pdf/2206.06289.pdf), [[Code]](https://github.com/caiqi/Silver-Bullet-3D/)
+
+- (arXiv 2022.06) MLP-3D: A **MLP**-like **3D** Architecture with Grouped Time Mixing, [[Paper]](https://arxiv.org/pdf/2206.06292.pdf), [[Code]](https://github.com/ZhaofanQiu/MLP-3D)
+
+- (arXiv 2022.06) Visual Transformer for Object **Detection**, [[Paper]](https://arxiv.org/pdf/2206.06323.pdf)
+
+- (arXiv 2022.06) Bringing **Image **Scene Structure to Video** via Frame-Clip Consistency of Object Tokens, [[Paper]](https://arxiv.org/pdf/2206.06346.pdf), [[Code]](https://eladb3.github.io/SViT/)
+
+- (arXiv 2022.06) TransVG++: End-to-End **Visual Grounding** with Language Conditioned Vision Transformer, [[Paper]](https://arxiv.org/pdf/2206.06619.pdf)
+
+- (arXiv 2022.06) ReCo: Retrieve and Co-**segment** for **Zero-shot** Transfer, [[Paper]](https://arxiv.org/pdf/2206.07045.pdf), [[Project]](https://www.robots.ox.ac.uk/~vgg/research/reco)
+
+- (arXiv 2022.06) MAREO: MEMORY- AND ATTENTION- BASED **VISUAL REASONING**, [[Paper]](https://arxiv.org/pdf/2206.04928.pdf)
+
+- (arXiv 2022.06) Recurrent Transformer Variational Autoencoders for **Multi-Action Motion Synthesis**, [[Paper]](https://arxiv.org/pdf/2206.06741.pdf)
+
+- (arXiv 2022.06) **Object Scene Representation** Transformer, [[Paper]](https://arxiv.org/pdf/2206.06922.pdf)
+
+- (arXiv 2022.06) Comprehending and Ordering Semantics for Image **Captioning**, [[Paper]](https://arxiv.org/pdf/2206.06930.pdf), [[Code]](https://github.com/YehLi/xmodaler/tree/master/configs/image_caption/cosnet)
+
+- (arXiv 2022.06) Exploring **Adversarial Attacks** and **Defenses** in Vision Transformers trained with **DINO**, [[Paper]](https://arxiv.org/pdf/2206.06761.pdf)
+
+- (arXiv 2022.06) **Peripheral** Vision Transformer, [[Paper]](https://arxiv.org/pdf/2206.06801.pdf), [[Code]](http://cvlab.postech.ac.kr/research/PerViT/)
+
+- (arXiv 2022.06) Efficient Decoder-free Object **Detection** with Transformers, [[Paper]](https://arxiv.org/pdf/2206.06829.pdf), [[Code]](https://github.com/Pealing/DFFT.)
 
 - (arXiv 2022.06) Prototypical **Contrastive Language Image Pretraining**, [[Paper]](https://arxiv.org/pdf/2206.10996.pdf), [[Code]](https://github.com/megvii-research/protoclip)
 
