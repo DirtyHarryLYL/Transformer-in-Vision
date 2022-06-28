@@ -119,9 +119,23 @@ Keep updated.
 
 - (arXiv 2022.06) , [[Paper]]()
 
-- (arXiv 2022.06) , [[Paper]]()
-
 - (arXiv 2022.06) , [[Paper]]() -->
+
+- (arXiv 2022.06) Coarse-to-Fine **Vision-Language** Pre-training with Fusion in the Backbone, [[Paper]](https://arxiv.org/pdf/2206.07643.pdf), [[Code]](https://github.com/microsoft/FIBER)
+
+- (arXiv 2022.06) SP-ViT: Learning **2D Spatial Priors** for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2206.07662.pdf)
+
+- (arXiv 2022.06) A Simple **Data Mixing** Prior for Improving **Self-Supervised** Learning, [[Paper]](https://arxiv.org/pdf/2206.07692.pdf), [[Code]](https://github.com/OliverRensu/SDMP)
+
+- (arXiv 2022.06) Prefix Language Models are **Unified Modal Learners**, [[Paper]](https://arxiv.org/pdf/2206.07699.pdf), [[Code]](https://github.com/shizhediao/DaVinci)
+
+- (arXiv 2022.06) **Masked Frequency Modeling** for Self-Supervised Visual Pre-Training, [[Paper]](https://arxiv.org/pdf/2206.07706.pdf), [Code]](https://www.mmlab-ntu.com/project/mfm/index.html)
+
+- (arXiv 2022.06) Generalizable **Neural Radiance Fields** for Novel View Synthesis with Transformer, [[Paper]](https://arxiv.org/pdf/2206.05375.pdf)
+
+- (arXiv 2022.06) A Unified **Continuous Learning** Framework for Multi-modal Knowledge Discovery and Pre-training, [[Paper]](https://arxiv.org/pdf/2206.05555.pdf)
+
+- (arXiv 2022.06) Learning to Estimate **Shapley Values** with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2206.05282.pdf), [[Code]](https://github.com/suinleelab/vit-shapley)
 
 - (arXiv 2022.06) Graph-based Spatial Transformer with Memory Replay for Multi-future **Pedestrian Trajectory Prediction**, [[Paper]](https://arxiv.org/pdf/2206.05712.pdf), [[Code]](https://github.com/Jacobieee/ST-MR)
 
