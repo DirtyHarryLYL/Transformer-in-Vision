@@ -119,7 +119,35 @@ Keep updated.
 
 - (arXiv 2022.06) , [[Paper]]()
 
+- (arXiv 2022.06) , [[Paper]]()
+
+- (arXiv 2022.06) , [[Paper]]()
+
+- (arXiv 2022.06) , [[Paper]]()
+
+- (arXiv 2022.06) , [[Paper]]()
+
+- (arXiv 2022.06) , [[Paper]]()
+
+- (arXiv 2022.06) , [[Paper]]()
+
+- (arXiv 2022.06) , [[Paper]]()
+
+- (arXiv 2022.06) , [[Paper]]()
+
+- (arXiv 2022.06) , [[Paper]]()
+
 - (arXiv 2022.06) , [[Paper]]() -->
+
+- (arXiv 2022.06) LAVENDER: Unifying **Video-Language** Understanding as Masked Language Modeling, [[Paper]](https://arxiv.org/pdf/2206.07160.pdf), [[Code]](https://github.com/microsoft/LAVENDER)
+
+- (arXiv 2022.06) Multimodal Event Graphs: Towards **Event Centric Understanding** of **Multimodal** World, [[Paper]](https://arxiv.org/pdf/2206.07207.pdf)
+
+- (arXiv 2022.06) Rethinking Generalization in **Few-Shot Classification**, [[Paper]](https://arxiv.org/pdf/2206.07267.pdf), [[Code]](https://github.com/mrkshllr/FewTURE)
+
+- (arXiv 2022.06) VCT: A **Video Compression** Transformer, [[Paper]](https://arxiv.org/pdf/2206.07307.pdf)
+
+- (arXiv 2022.06) **Forecasting** of **depth** and **ego-motion** with transformers and self-supervision, [[Paper]](https://arxiv.org/pdf/2206.07435.pdf)
 
 - (arXiv 2022.06) Coarse-to-Fine **Vision-Language** Pre-training with Fusion in the Backbone, [[Paper]](https://arxiv.org/pdf/2206.07643.pdf), [[Code]](https://github.com/microsoft/FIBER)
 
