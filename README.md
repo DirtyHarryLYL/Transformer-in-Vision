@@ -121,23 +121,23 @@ Keep updated.
 
 - (arXiv 2022.06) , [[Paper]]()
 
-- (arXiv 2022.06) , [[Paper]]()
-
-- (arXiv 2022.06) , [[Paper]]()
-
-- (arXiv 2022.06) , [[Paper]]()
-
-- (arXiv 2022.06) , [[Paper]]()
-
-- (arXiv 2022.06) , [[Paper]]()
-
-- (arXiv 2022.06) , [[Paper]]()
-
-- (arXiv 2022.06) , [[Paper]]()
-
-- (arXiv 2022.06) , [[Paper]]()
-
 - (arXiv 2022.06) , [[Paper]]() -->
+
+- (arXiv 2022.06) What makes **domain generalization** hard?, [[Paper]](https://arxiv.org/pdf/2206.07802.pdf)
+
+- (arXiv 2022.06) SAVi++: Towards End-to-End **Object-Centric Learning** from Real-World **Videos**, [[Paper]](https://arxiv.org/pdf/2206.07764.pdf), [[Code]](https://slot-attention-video.github.io/savi++/)
+
+- (arXiv 2022.06) Disentangling **visual** and **written** **concepts** in **CLIP**, [[Paper]](https://arxiv.org/pdf/2206.07835.pdf), [[Project]](https://joaanna.github.io/disentangling_spelling_in_clip/)
+
+- (arXiv 2022.06) Multi-scale Cooperative Multimodal Transformers for Multimodal **Sentiment Analysis** in Videos, [[Paper]](https://arxiv.org/pdf/2206.07981.pdf)
+
+- (arXiv 2022.06) **Patch**-level **Representation** Learning for Self-supervised Vision Transformers, [[Paper]](https://arxiv.org/pdf/2206.07990.pdf)
+
+- (arXiv 2022.06) **Zero-Shot Video Question Answering** via Frozen Bidirectional Language Models, [[Paper]](https://arxiv.org/pdf/2206.08155.pdf), [[Code]](https://antoyang.github.io/frozenbilm.html)
+
+- (arXiv 2022.06) Omni**MAE**: Single Model Masked Pretraining on Images and Videos, [[Paper]](https://arxiv.org/pdf/2206.08356.pdf), [[Code]](https://github.com/facebookresearch/omnivore)
+
+- (arXiv 2022.06) **Adapting** Self-Supervised Vision Transformers by Probing Attention-Conditioned **Masking** Consistency, [[Paper]](https://arxiv.org/pdf/2206.08222.pdf), [[Code]](https://github.com/virajprabhu/PACMAC)
 
 - (arXiv 2022.06) LAVENDER: Unifying **Video-Language** Understanding as Masked Language Modeling, [[Paper]](https://arxiv.org/pdf/2206.07160.pdf), [[Code]](https://github.com/microsoft/LAVENDER)
 
