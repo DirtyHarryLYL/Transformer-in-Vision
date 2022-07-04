@@ -117,11 +117,11 @@ Keep updated.
 
 - (arXiv 2022.06) , [[Paper]]()
 
-- (arXiv 2022.06) , [[Paper]]()
-
-- (arXiv 2022.06) , [[Paper]]()
-
 - (arXiv 2022.06) , [[Paper]]() -->
+
+- (arXiv 2022.06) ReLER@ZJU-Alibaba Submission to the **Ego4D** Natural Language **Queries** Challenge 2022, [[Paper]](https://arxiv.org/pdf/2207.00383.pdf)
+
+- (arXiv 2022.06) Video + **CLIP** Baseline for **Ego4D** Long-term **Action Anticipation**, [[Paper]](https://arxiv.org/pdf/2207.00579.pdf), [[Code]](https://github.com/srijandas07/clip_baseline_LTA_Ego4d)
 
 - (arXiv 2022.06) What makes **domain generalization** hard?, [[Paper]](https://arxiv.org/pdf/2206.07802.pdf)
 
