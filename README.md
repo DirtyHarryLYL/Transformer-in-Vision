@@ -95,6 +95,20 @@ Keep updated.
 
 ## Recent Papers
 
+### 2022.07 
+
+<!-- - (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]() -->
+
 ### 2022.06
 
 <!-- - (arXiv 2022.06) , [[Paper]]()
@@ -117,7 +131,31 @@ Keep updated.
 
 - (arXiv 2022.06) , [[Paper]]()
 
+- (arXiv 2022.06) , [[Paper]]()
+
+- (arXiv 2022.06) , [[Paper]]()
+
+- (arXiv 2022.06) , [[Paper]]()
+
+- (arXiv 2022.06) , [[Paper]]()
+
+- (arXiv 2022.06) , [[Paper]]()
+
 - (arXiv 2022.06) , [[Paper]]() -->
+
+- (arXiv 2022.06) Rectify ViT **Shortcut** Learning by Visual **Saliency**, [[Paper]](https://arxiv.org/pdf/2206.08567.pdf)
+
+- (arXiv 2022.06) Learning Using Privileged Information for **Zero-Shot Action Recognition**, [[Paper]](https://arxiv.org/pdf/2206.08632.pdf)
+
+- (arXiv 2022.06) Bridge-Tower: Building Bridges Between Encoders in **Vision-Language** Representation Learning, [[Paper]](https://arxiv.org/pdf/2206.08657.pdf), [[Code]](https://github.com/microsoft/BridgeTower)
+
+- (arXiv 2022.06) CtrlFormer: Learning Transferable State Representation for **Visual Control** via Transformer, [[Paper]](https://arxiv.org/pdf/2206.08883.pdf), [[Project]](https://sites.google.com/view/ctrlformer-icml/)
+
+- (arXiv 2022.06) SimA: Simple **Softmax-free** **Attention** for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2206.08898.pdf), [[Code]](https://github.com/UCDvision/sima)
+
+- (arXiv 2022.06) UNIFIED-IO: A **UNIFIED MODEL** FOR **VISION, LANGUAGE**, AND **MULTI-MODAL** TASKS, [[Paper]](https://arxiv.org/pdf/2206.08916.pdf), [[Project]](https://unified-io.allenai.org/)
+
+- (arXiv 2022.06) VLMixer: Unpaired **Vision-Language** Pre-training via Cross-Modal CutMix, [[Paper]](https://arxiv.org/pdf/2206.08919.pdf), [[Code]](https://github.com/ttengwang/VLMixer)
 
 - (arXiv 2022.06) ReLER@ZJU-Alibaba Submission to the **Ego4D** Natural Language **Queries** Challenge 2022, [[Paper]](https://arxiv.org/pdf/2207.00383.pdf)
 
