@@ -105,9 +105,9 @@ Keep updated.
 
 - (arXiv 2022.07) , [[Paper]]()
 
-- (arXiv 2022.07) , [[Paper]]()
-
 - (arXiv 2022.07) , [[Paper]]() -->
+
+- (arXiv 2022.07) Distance Matters in **Human-Object Interaction Detection**, [[Paper]](https://arxiv.org/pdf/2207.01869.pdf)
 
 ### 2022.06
 
