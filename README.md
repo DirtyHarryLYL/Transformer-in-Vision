@@ -125,13 +125,13 @@ Keep updated.
 
 - (arXiv 2022.06) , [[Paper]]()
 
-- (arXiv 2022.06) , [[Paper]]()
-
-- (arXiv 2022.06) , [[Paper]]()
-
-- (arXiv 2022.06) , [[Paper]]()
-
 - (arXiv 2022.06) , [[Paper]]() -->
+
+- (arXiv 2022.06) Video2**StyleGAN**: Encoding **Video** in Latent Space for **Manipulation**, [[Paper]](https://arxiv.org/pdf/2206.13078.pdf)
+
+- (arXiv 2022.06) Text-Driven **Stylization** of **Video** Objects, [[Paper]](https://arxiv.org/pdf/2206.12396.pdf), [[Project]](https://sloeschcke.github.io/Text-Driven-Stylization-of-Video-Objects/)
+
+- (arXiv 2022.06) **Open Vocabulary** Object **Detection** with Proposal Mining and Prediction Equalization, [[Paper]](https://arxiv.org/pdf/2206.11134.pdf), [[Code]](https://github.com/Pealing/MEDet)
 
 - (arXiv 2022.06) CMT-DeepLab: Clustering Mask Transformers for Panoptic **Segmentation**, [[Paper]](about:blank)
 
