@@ -131,17 +131,61 @@ Keep updated.
 
 - (arXiv 2022.06) , [[Paper]]()
 
-- (arXiv 2022.06) , [[Paper]]()
-
-- (arXiv 2022.06) , [[Paper]]()
-
-- (arXiv 2022.06) , [[Paper]]()
-
-- (arXiv 2022.06) , [[Paper]]()
-
-- (arXiv 2022.06) , [[Paper]]()
-
 - (arXiv 2022.06) , [[Paper]]() -->
+
+- (arXiv 2022.06) CMT-DeepLab: Clustering Mask Transformers for Panoptic **Segmentation**, [[Paper]](about:blank)
+
+- (arXiv 2022.06) Towards Adversarial **Attack** on **Vision-Language** Pre-training Models, [[Paper]](https://arxiv.org/pdf/2206.09391.pdf)
+
+- (arXiv 2022.06) CLiMB: A **Continual Learning** Benchmark for **Vision-and-Language** Tasks, [[Paper]](https://arxiv.org/pdf/2206.09059.pdf), [[Code]](https://github.com/GLAMOR-USC/CLiMB)
+
+- (arXiv 2022.06) **VISUALIZING** AND UNDERSTANDING **SELF-SUPERVISED** VISION LEARNING, [[Paper]](https://arxiv.org/pdf/2206.09753.pdf), [[Code]](https://github.com/fawazsammani/xai-ssl)
+
+- (arXiv 2022.06) VReBERT: A Simple and Flexible Transformer for **Visual Relationship Detection**, [[Paper]](https://arxiv.org/pdf/2206.09111.pdf)
+
+- (arXiv 2022.06) Bear the Query in Mind: **Visual Grounding** with Query-conditioned Convolution, [[Paper]](https://arxiv.org/pdf/2206.09114.pdf)
+
+- (arXiv 2022.06) **DALL-E** for **Detection**: Language-driven Context Image Synthesis for Object Detection, [[Paper]](https://arxiv.org/pdf/2206.09592.pdf)
+
+- (arXiv 2022.06) REVECA – Rich Encoder-decoder framework for **Video Event CAptioner**, [[Paper]](https://arxiv.org/pdf/2206.09178.pdf), [[Code]](https://github.com/TooTouch/REVECA)
+
+- (arXiv 2022.06) SAViR-T: Spatially Attentive** Visual Reasoning** with Transformers, [[Paper]](https://arxiv.org/pdf/2206.09265.pdf)
+
+- (arXiv 2022.06) EATFormer: Improving Vision Transformer Inspired by **Evolutionary** Algorithm, [[Paper]](https://arxiv.org/pdf/2206.09325.pdf), [[Code]](https://https//github.com/zhangzjn/EATFormer)
+
+- (arXiv 2022.06) Dual**CoOp**: Fast Adaptation to **Multi-Label** Recognition with Limited Annotations, [[Paper]](https://arxiv.org/pdf/2206.09541.pdf)
+
+- (arXiv 2022.06) Capturing and Inferring Dense Full-Body **Human-Scene Contact**, [[Paper]](https://arxiv.org/pdf/2206.09553.pdf), [[Project]](https://rich.is.tue.mpg.de/)
+
+- (arXiv 2022.06) M&M Mix: A Multimodal Multiview Transformer **Ensemble**, [[Paper]](https://arxiv.org/pdf/2206.09852.pdf)
+
+- (arXiv 2022.06) DisCoVQA: Temporal Distortion-Content Transformers for **Video Quality Assessment**, [[Paper]](https://arxiv.org/pdf/2206.09853.pdf)
+
+- (arXiv 2022.06) Voxel-**MAE**: Masked Autoencoders for Pre-training Large-scale **Point Clouds**, [[Paper]](https://arxiv.org/pdf/2206.09900.pdf), [[Code]](https://github.com/chaytonmin/Voxel-MAE)
+
+- (arXiv 2022.06) **Global Context** Vision Transformers, [[Paper]](https://arxiv.org/pdf/2206.09959.pdf), [[Code]](https://github.com/NVlabs/GCViT)
+
+- (arXiv 2022.06) **Counting** Varying Density **Crowds** Through Density Guided Adaptive Selection CNN and Transformer Estimation, [[Paper]](https://arxiv.org/pdf/2206.10075.pdf)
+
+- (arXiv 2022.06) One-stage **Action Detection** Transformer, [[Paper]](https://arxiv.org/pdf/2206.10080.pdf)
+
+- (arXiv 2022.06) Sem**MAE**: Semantic-Guided Masking for Learning Masked Autoencoders, [[Paper]](https://arxiv.org/pdf/2206.10207.pdf)
+
+- (arXiv 2022.06) TRANSFORMER-BASED MULTI-MODAL PROPOSAL AND RE-RANK FOR WIKIPEDIA **IMAGE-CAPTION** MATCHING, [[Paper]](https://arxiv.org/pdf/2206.10436.pdf), [[Code]](https://github.com/mesnico/Wiki-Image-Caption-Matching)
+
+- (arXiv 2022.06) **Vicinity** Vision Transformer, [[Paper]](https://arxiv.org/pdf/2206.10552.pdf), [[Code]](https://github.com/OpenNLPLab/Vicinity-Vision-Transformer)
+
+- (arXiv 2022.06) EdgeNeXt: **Efficiently** Amalgamated **CNN-Transformer** Architecture for Mobile Vision Applications, [[Paper]](https://arxiv.org/pdf/2206.10589.pdf), [[Code]](https://t.ly/_Vu9)
+
+- (arXiv 2022.06) Temporally Consistent Semantic **Video Editing**, [[Paper]](https://arxiv.org/pdf/2206.10590.pdf)
+
+- (arXiv 2022.06) VLMbench: A Compositional Benchmark for **Vision-and-Language Manipulation**, [[Paper]](https://arxiv.org/pdf/2206.08522.pdf)
+
+- (arXiv 2022.06) MINEDOJO: Building Open-Ended **Embodied Agents** with Internet-Scale Knowledge, [[Paper]](https://arxiv.org/pdf/2206.08853.pdf), [[Project]](https://minedojo.org/)
+
+- (arXiv 2022.06) IRISformer: Dense Vision Transformers for Single-Image **Inverse Rendering** in Indoor Scenes, [[Paper]](https://arxiv.org/pdf/2206.08423.pdf), [[Code]](https://github.com/ViLab-UCSD/IRISformer)
+
+- (arXiv 2022.06) Backdoor **Attacks** on Vision Transformers, [[Paper]](https://arxiv.org/pdf/2206.08477.pdf), [[Code]](https://github.com/UCDvision/backdoor_transformer.git)
 
 - (arXiv 2022.06) Rectify ViT **Shortcut** Learning by Visual **Saliency**, [[Paper]](https://arxiv.org/pdf/2206.08567.pdf)
 
