@@ -101,11 +101,11 @@ Keep updated.
 
 - (arXiv 2022.07) , [[Paper]]()
 
-- (arXiv 2022.07) , [[Paper]]()
-
-- (arXiv 2022.07) , [[Paper]]()
-
 - (arXiv 2022.07) , [[Paper]]() -->
+
+- (arXiv 2022.07) Towards Hard-Positive Query Mining for DETR-based **Human-Object Interaction Detection**, [[Paper]](https://arxiv.org/pdf/2207.05293.pdf), [[Code]](https://github.com/MuchHair/HQM)
+
+- (arXiv 2022.07) Cross-Architecture **Knowledge Distillation**, [[Paper]](https://arxiv.org/pdf/2207.05273.pdf)
 
 - (arXiv 2022.07) Distance Matters in **Human-Object Interaction Detection**, [[Paper]](https://arxiv.org/pdf/2207.01869.pdf)
 
