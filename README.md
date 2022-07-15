@@ -101,7 +101,49 @@ Keep updated.
 
 - (arXiv 2022.07) , [[Paper]]()
 
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
 - (arXiv 2022.07) , [[Paper]]() -->
+
+- (arXiv 2022.07) Trans4Map: Revisiting Holistic Top-down Mapping from **Egocentric Images** to Allocentric Semantics with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2207.06205.pdf), [[Code]](https://github.com/jamycheung/Trans4Map)
+
+- (arXiv 2022.07) Entry-Flipped Transformer for Inference and Prediction of **Participant Behavior**, [[Paper]](https://arxiv.org/pdf/2207.06235.pdf)
+
+- (arXiv 2022.07) Wayformer: **Motion Forecasting** via Simple & Efficient Attention Networks, [[Paper]](https://arxiv.org/pdf/2207.05844.pdf)
+
+- (arXiv 2022.07) Diverse **Dance Synthesis** via Keyframes with Transformer Controllers, [[Paper]](https://arxiv.org/pdf/2207.05906.pdf)
+
+- (arXiv 2022.07) Learning to Estimate **External Forces** of Human **Motion** in Video, [[Paper]](https://arxiv.org/pdf/2207.05845.pdf)
+
+- (arXiv 2022.07) Vision Transformer for **Contrastive Clustering**, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf), [[Code]](https://github.com/JackKoLing/VTCC)
+
+- (arXiv 2022.07) Pose2Room: Understanding **3D Scenes** from **Human Activities**, [[Paper]](https://arxiv.org/pdf/2112.03030.pdf)
 
 - (arXiv 2022.07) Towards Hard-Positive Query Mining for DETR-based **Human-Object Interaction Detection**, [[Paper]](https://arxiv.org/pdf/2207.05293.pdf), [[Code]](https://github.com/MuchHair/HQM)
 
@@ -125,7 +167,15 @@ Keep updated.
 
 - (arXiv 2022.06) , [[Paper]]()
 
+- (arXiv 2022.06) , [[Paper]]()
+
+- (arXiv 2022.06) , [[Paper]]()
+
 - (arXiv 2022.06) , [[Paper]]() -->
+
+- (arXiv 2022.06) RoME: Role-aware Mixture-of-Expert Transformer for **Text-to-Video Retrieval**, [[Paper]](https://arxiv.org/pdf/2206.12845.pdf)
+
+- (arXiv 2022.06) VLCAP: **VISION-LANGUAGE** WITH CONTRASTIVE LEARNING FOR COHERENT VIDEO PARAGRAPH **CAPTIONING**, [[Paper]](https://arxiv.org/pdf/2206.12972.pdf), [[Code]](https://github.com/UARK-AICV/VLCAP)
 
 - (arXiv 2022.06) Video2**StyleGAN**: Encoding **Video** in Latent Space for **Manipulation**, [[Paper]](https://arxiv.org/pdf/2206.13078.pdf)
 
