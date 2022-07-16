@@ -119,17 +119,17 @@ Keep updated.
 
 - (arXiv 2022.07) , [[Paper]]()
 
-- (arXiv 2022.07) , [[Paper]]()
-
-- (arXiv 2022.07) , [[Paper]]()
-
-- (arXiv 2022.07) , [[Paper]]()
-
-- (arXiv 2022.07) , [[Paper]]()
-
-- (arXiv 2022.07) , [[Paper]]()
-
 - (arXiv 2022.07) , [[Paper]]() -->
+
+- (arXiv 2022.07) **Imaging** through the **Atmosphere** using **Turbulence** Mitigation Transformer, [[Paper]](https://arxiv.org/pdf/2207.06465.pdf)
+
+- (arXiv 2022.07) Symmetry-Aware Transformer-based **Mirror Detection**, [[Paper]](https://arxiv.org/pdf/2207.06332.pdf), [[Code]](https://github.com/tyhuang0428/SATNet)
+
+- (arXiv 2022.07) Pyramid Transformer for **Traffic Sign Detection**, [[Paper]](https://arxiv.org/pdf/2207.06067.pdf)
+
+- (arXiv 2022.07) Global-local Motion Transformer for Unsupervised **Skeleton**-based **Action** Learning, [[Paper]](https://arxiv.org/pdf/2207.06101.pdf), [[Code]](https://github.com/Boeun-Kim/GL-Transformer)
+
+- (arXiv 2022.07) DynaST: Dynamic Sparse Transformer for Exemplar-Guided **Image Generation**, [[Paper]](https://arxiv.org/pdf/2207.06124.pdf)
 
 - (arXiv 2022.07) Trans4Map: Revisiting Holistic Top-down Mapping from **Egocentric Images** to Allocentric Semantics with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2207.06205.pdf), [[Code]](https://github.com/jamycheung/Trans4Map)
 
