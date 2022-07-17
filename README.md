@@ -119,7 +119,37 @@ Keep updated.
 
 - (arXiv 2022.07) , [[Paper]]()
 
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
 - (arXiv 2022.07) , [[Paper]]() -->
+
+- (arXiv 2022.07) LM-Nav: Robotic **Navigation** with Large Pre-Trained Models of **Language**, **Vision**, and **Action**, [[Paper]](https://arxiv.org/pdf/2207.04429.pdf)
+
+- (arXiv 2022.07) Bootstrapped **Masked Autoencoders** for Vision BERT Pretraining, [[Paper]](https://arxiv.org/pdf/2207.07116.pdf), [[Code]](https://github.com/LightDXY/BootMAE)
+
+- (arXiv 2022.07) ReAct: **Temporal Action Detection** with Relational Queries, [[Paper]](https://arxiv.org/pdf/2207.07097.pdf), [[Code]](https://github.com/sssste/React)
+
+- (arXiv 2022.07) **Benchmarking** **Omni-Vision** Representation through the Lens of Visual **Realms**, [[Paper]](https://arxiv.org/pdf/2207.07106.pdf), [[Project]](https://zhangyuanhan-ai.github.io/OmniBenchmark)
+
+- (arXiv 2022.07) **Convolutional Bypasses** Are Better Vision Transformer **Adapters**, [[Paper]](https://arxiv.org/pdf/2207.07039.pdf)
+
+- (arXiv 2022.07) **LANGUAGE MODELLING** WITH PIXELS, [[Paper]](https://arxiv.org/pdf/2207.06991.pdf)
+
+- (arXiv 2022.07) Transformer-based Context Condensation for Boosting Feature Pyramids in Object **Detection**, [[Paper]](https://arxiv.org/pdf/2207.06603.pdf)
+
+- (arXiv 2022.07) **DEEPFAKE VIDEO DETECTION** WITH SPATIOTEMPORAL DROPOUT TRANSFORMER, [[Paper]](https://arxiv.org/pdf/2207.06612.pdf)
+
+- (arXiv 2022.07) iColoriT: Towards Propagating Local Hint to the Right Region in **Interactive Colorization** by Leveraging Vision Transformer, [[Paper]](https://arxiv.org/pdf/2207.06831.pdf)
 
 - (arXiv 2022.07) **Imaging** through the **Atmosphere** using **Turbulence** Mitigation Transformer, [[Paper]](https://arxiv.org/pdf/2207.06465.pdf)
 
