@@ -127,11 +127,11 @@ Keep updated.
 
 - (arXiv 2022.07) , [[Paper]]()
 
-- (arXiv 2022.07) , [[Paper]]()
-
-- (arXiv 2022.07) , [[Paper]]()
-
 - (arXiv 2022.07) , [[Paper]]() -->
+
+- (arXiv 2022.07) PolarFormer: Multi-camera **3D Object Detection** with Polar Transformers, [[Paper]](https://arxiv.org/pdf/2206.15398.pdf), [[Code]](https://github.com/fudan-zvg/PolarFormer)
+
+- (arXiv 2022.07) CTrGAN: Cycle Transformers GAN for **Gait Transfer**, [[Paper]](https://arxiv.org/pdf/2206.15248.pdf)
 
 - (arXiv 2022.07) LM-Nav: Robotic **Navigation** with Large Pre-Trained Models of **Language**, **Vision**, and **Action**, [[Paper]](https://arxiv.org/pdf/2207.04429.pdf)
 
@@ -183,25 +183,13 @@ Keep updated.
 
 ### 2022.06
 
-<!-- - (arXiv 2022.06) , [[Paper]]()
+- (arXiv 2022.06) **Continual Learning** with Transformers for **Image Classification**, [[Paper]](https://arxiv.org/pdf/2206.14085.pdf)
 
-- (arXiv 2022.06) , [[Paper]]()
+- (arXiv 2022.06) ST-Adapter: Parameter-**Efficient** **Image-to-Video** Transfer Learning for **Action Recognition**, [[Paper]](https://arxiv.org/pdf/2206.13559.pdf)
 
-- (arXiv 2022.06) , [[Paper]]()
+- (arXiv 2022.06) **Robustifying** Vision Transformer without Retraining from Scratch by **Test-Time** Class-Conditional Feature Alignment, [[Paper]](https://arxiv.org/pdf/2206.13951.pdf), [[Code]](https://github.com/kojima-takeshi188/CFA)
 
-- (arXiv 2022.06) , [[Paper]]()
-
-- (arXiv 2022.06) , [[Paper]]()
-
-- (arXiv 2022.06) , [[Paper]]()
-
-- (arXiv 2022.06) , [[Paper]]()
-
-- (arXiv 2022.06) , [[Paper]]()
-
-- (arXiv 2022.06) , [[Paper]]()
-
-- (arXiv 2022.06) , [[Paper]]() -->
+- (arXiv 2022.06) Leveraging **Language** for Accelerated Learning of **Tool Manipulation**, [[Paper]](https://arxiv.org/pdf/2206.13074.pdf)
 
 - (arXiv 2022.06) RoME: Role-aware Mixture-of-Expert Transformer for **Text-to-Video Retrieval**, [[Paper]](https://arxiv.org/pdf/2206.12845.pdf)
 
