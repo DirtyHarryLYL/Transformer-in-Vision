@@ -183,6 +183,18 @@ Keep updated.
 
 ### 2022.06
 
+<!-- - (arXiv 2022.06) , [[Paper]]()
+
+- (arXiv 2022.06) , [[Paper]]() -->
+
+- (arXiv 2022.06) GSCLIP : A Framework for Explaining **Distribution Shifts** in Natural **Language**, [[Paper]](https://arxiv.org/pdf/2206.15007.pdf)
+
+- (arXiv 2022.06) Spatial Transformer Network with Transfer Learning for Small-scale Fine-grained Skeleton-based Tai Chi **Action Recognition**, [[Paper]](https://arxiv.org/pdf/2206.15002.pdf)
+
+- (arXiv 2022.06) Causality for Inherently **Explainable** Transformers: CAT-XPLAIN, [[Paper]](https://arxiv.org/pdf/2206.14841.pdf), [[Code]](https://github.com/mvrl/CAT-XPLAIN)
+
+- (arXiv 2022.06) A Unified End-to-End Retriever-Reader Framework for Knowledge-based **VQA**, [[Paper]](https://arxiv.org/pdf/2206.14989.pdf)
+
 - (arXiv 2022.06) **Continual Learning** with Transformers for **Image Classification**, [[Paper]](https://arxiv.org/pdf/2206.14085.pdf)
 
 - (arXiv 2022.06) ST-Adapter: Parameter-**Efficient** **Image-to-Video** Transfer Learning for **Action Recognition**, [[Paper]](https://arxiv.org/pdf/2206.13559.pdf)
