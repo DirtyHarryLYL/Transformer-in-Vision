@@ -227,12 +227,6 @@ Keep updated.
 
 ### 2022.06
 
-- (arXiv 2022.06) , [[Paper]]()
-
-- (arXiv 2022.06) , [[Paper]]()
-
-- (arXiv 2022.06) , [[Paper]]()
-
 - (arXiv 2022.06) TENET: Transformer Encoding Network for Effective Temporal Flow on **Motion Prediction**, [[Paper]](https://arxiv.org/pdf/2207.00170.pdf)
 
 - (arXiv 2022.06) GaitForeMer: Self-Supervised Pre-Training of Transformers via Human Motion Forecasting for **Few-Shot Gait Impairment Severity Estimation**, [[Paper]](https://arxiv.org/pdf/2207.00106.pdf), [[Code]](https://github.com/markendo/GaitForeMer)
