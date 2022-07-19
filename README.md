@@ -2886,4 +2886,4 @@ Keep updated.
 
 - (arXiv 2021.08) SIMVLM: SIMPLE **VISUAL LANGUAGE** MODEL PRETRAINING WITH WEAK SUPERVISION, [[Paper]](https://arxiv.org/pdf/2108.10904.pdf)
 
-- (arXiv 2021.08) TransFER: Learning Relation-aware **Facial Expression Representations** with Transformers, [[Paper]](https://
+- (arXiv 2021.08) TransFER: Learning Relation-aware **Facial Expression Representations** with Transformers, [[Paper]](https://arxiv.org/pdf/2108.11116)
