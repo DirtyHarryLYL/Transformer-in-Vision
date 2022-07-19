@@ -45,9 +45,11 @@ Keep updated.
 
 ## Survey
 
-- (arXic 2022.06) **Multimodal** Learning with Transformers: A Survey, [[Paper]](https://arxiv.org/pdf/2206.06488.pdf)
+- (arXiv 2022.07) **SELF-SUPERVISED** LEARNING FOR **VIDEOS**: A SURVEY, [[Paper]](https://arxiv.org/pdf/2207.00419.pdf)
 
-- (arXic 2022.05) Vision Transformer: **Vit** and its **Derivatives**, [[Paper]](https://arxiv.org/pdf/2205.11239.pdf)
+- (arXiv 2022.06) **Multimodal** Learning with Transformers: A Survey, [[Paper]](https://arxiv.org/pdf/2206.06488.pdf)
+
+- (arXiv 2022.05) Vision Transformer: **Vit** and its **Derivatives**, [[Paper]](https://arxiv.org/pdf/2205.11239.pdf)
 
 - (arXiv 2022.05) Transformers in 3D **Point Clouds**: A Survey, [[Paper]](https://arxiv.org/pdf/2205.07417.pdf)
 
@@ -127,7 +129,49 @@ Keep updated.
 
 - (arXiv 2022.07) , [[Paper]]()
 
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
 - (arXiv 2022.07) , [[Paper]]() -->
+
+- (arXiv 2022.07) DUET: Cross-modal Semantic Grounding for **Contrastive Zero-shot Learning**, [[Paper]](https://arxiv.org/pdf/2207.01328.pdf)
+
+- (arXiv 2022.07) Transferring **Textual Knowledge** for Visual Recognition, [[Paper]](https://arxiv.org/pdf/2207.01297.pdf), [[Code]](https://github.com/whwu95/Text4Vis)
+
+- (arXiv 2022.07) R^2-VOS: Robust Referring **Video** Object **Segmentation** via Relational Cycle Consistency, [[Paper]](https://arxiv.org/pdf/2207.01203.pdf)
+
+- (arXiv 2022.07) CRFormer: A Cross-Region Transformer for **Shadow Removal**, [[Paper]](https://arxiv.org/pdf/2207.01600.pdf)
+
+- (arXiv 2022.07) Dynamic **Spatial Sparsification** for **Efficient** Vision Transformers and Convolutional Neural Networks, [[Paper]](https://arxiv.org/pdf/2207.01580.pdf), [[Code]](https://github.com/raoyongming/DynamicViT)
+
+- (arXiv 2022.07) Back to MLP: A Simple Baseline for Human **Motion Prediction**, [[Paper]](https://arxiv.org/pdf/2207.01567.pdf), [[Code]](https://github.com/dulucas/siMLPe)
+
+- (arXiv 2022.07) I-ViT: Integer-only **Quantization** for **Efficient** Vision Transformer Inference, [[Paper]](https://arxiv.org/pdf/2207.01405.pdf)
+
+- (arXiv 2022.07) Rethinking **Query-Key** Pairwise Interactions in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2207.00188.pdf)
+
+- (arXiv 2022.07) LARGE-SCALE **ROBUSTNESS** ANALYSIS OF **VIDEO ACTION RECOGNITION** MODELS, [[Paper]](https://arxiv.org/pdf/2207.01398.pdf), [[Code]](https://rose-ar.github.io/)
+
+- (arXiv 2022.07) VL-CheckList: **Evaluating** Pre-trained **Vision-Language** Models with Objects, Attributes and Relations, [[Paper]](https://arxiv.org/pdf/2207.00221.pdf), [[Code]](https://github.com/om-ai-lab/VL-CheckList)
+
+- (arXiv 2022.07) **Masked Autoencoders** for Self-Supervised Learning on Automotive **Point Clouds**, [[Paper]](https://arxiv.org/pdf/2207.00531.pdf)
+
+- (arXiv 2022.07) MotionMixer: **MLP**-based **3D** Human Body **Pose Forecasting**, [[Paper]](https://arxiv.org/pdf/2207.00499.pdf), [[Code]](https://github.com/MotionMLP/MotionMixer)
+
+- (arXiv 2022.07) DALG: Deep Attentive Local and Global Modeling for **Image Retrieval**, [[Paper]](https://arxiv.org/pdf/2207.00287.pdf)
 
 - (arXiv 2022.07) PolarFormer: Multi-camera **3D Object Detection** with Polar Transformers, [[Paper]](https://arxiv.org/pdf/2206.15398.pdf), [[Code]](https://github.com/fudan-zvg/PolarFormer)
 
@@ -183,9 +227,15 @@ Keep updated.
 
 ### 2022.06
 
-<!-- - (arXiv 2022.06) , [[Paper]]()
+- (arXiv 2022.06) , [[Paper]]()
 
-- (arXiv 2022.06) , [[Paper]]() -->
+- (arXiv 2022.06) , [[Paper]]()
+
+- (arXiv 2022.06) , [[Paper]]()
+
+- (arXiv 2022.06) TENET: Transformer Encoding Network for Effective Temporal Flow on **Motion Prediction**, [[Paper]](https://arxiv.org/pdf/2207.00170.pdf)
+
+- (arXiv 2022.06) GaitForeMer: Self-Supervised Pre-Training of Transformers via Human Motion Forecasting for **Few-Shot Gait Impairment Severity Estimation**, [[Paper]](https://arxiv.org/pdf/2207.00106.pdf), [[Code]](https://github.com/markendo/GaitForeMer)
 
 - (arXiv 2022.06) GSCLIP : A Framework for Explaining **Distribution Shifts** in Natural **Language**, [[Paper]](https://arxiv.org/pdf/2206.15007.pdf)
 
