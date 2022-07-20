@@ -133,19 +133,43 @@ Keep updated.
 
 - (arXiv 2022.07) , [[Paper]]()
 
-- (arXiv 2022.07) , [[Paper]]()
-
-- (arXiv 2022.07) , [[Paper]]()
-
-- (arXiv 2022.07) , [[Paper]]()
-
-- (arXiv 2022.07) , [[Paper]]()
-
-- (arXiv 2022.07) , [[Paper]]()
-
-- (arXiv 2022.07) , [[Paper]]()
-
 - (arXiv 2022.07) , [[Paper]]() -->
+
+- (arXiv 2022.07) Interaction Transformer for Human **Reaction Generation**, [[Paper]](https://arxiv.org/pdf/2207.01685.pdf)
+
+- (arXiv 2022.07) TM2T: Stochastic and Tokenized Modeling for the Reciprocal Generation of **3D Human Motions and Texts**, [[Paper]](https://arxiv.org/pdf/2207.01696.pdf), [[Project]](https://ericguo5513.github.io/TM2T/)
+
+- (arXiv 2022.07) FishFormer: Annulus Slicing-based Transformer for **Fisheye Rectification** with Efficacy Domain Exploration, [[Paper]](https://arxiv.org/pdf/2207.01925.pdf)
+
+- (arXiv 2022.07) Open-Vocabulary Multi-Label Classification via Multi-modal **Knowledge Transfer**, [[Paper]](https://arxiv.org/pdf/2207.01887.pdf), [[Code]](https://github.com/seanhe97/MKT)
+
+- (arXiv 2022.07) Toward Explainable and Fine-Grained **3D Grounding** through Referring Textual Phrases, [[Paper]](https://arxiv.org/pdf/2207.01821.pdf), [[Code]](https://yanx27.github.io/phraserefer/)
+
+- (arXiv 2022.07) Improving **Semantic Segmentation** in Transformers using Hierarchical Inter-Level Attention, [[Paper]](https://arxiv.org/pdf/2207.02126.pdf)
+
+- (arXiv 2022.07) MULTI-MODAL **ROBUSTNESS** ANALYSIS AGAINST **LANGUAGE AND VISUAL** PERTURBATIONS, [[Paper]](https://arxiv.org/pdf/2207.02159.pdf), [[Project]](https://maddy12.github.io/MultiModalVideoRobustness/)
+
+- (arXiv 2022.07) CoBEVT: Cooperative **Bird’s Eye View Semantic Segmentation** with Sparse Transformers, [[Paper]](https://arxiv.org/pdf/2207.02202.pdf)
+
+- (arXiv 2022.07) **Segmenting Moving Objects** via an Object-Centric Layered Representation, [[Paper]](https://arxiv.org/pdf/2207.02206.pdf)
+
+- (arXiv 2022.07) Counterfactually Measuring and Eliminating **Social Bias** in **Vision-Language** Pre-training Models, [[Paper]](https://arxiv.org/pdf/2207.01056.pdf)
+
+- (arXiv 2022.07) Contrastive Cross-Modal Knowledge Sharing Pre-training for **Vision-Language** Representation Learning and Retrieval, [[Paper]](https://arxiv.org/pdf/2207.00733.pdf)
+
+- (arXiv 2022.07) Learning Cross-Image Object Semantic Relation in Transformer for **Few-Shot Fine-Grained** Image **Classification**, [[Paper]](https://arxiv.org/pdf/2207.00784.pdf), [[Code]](https://github.com/JiakangYuan/HelixFormer)
+
+- (arXiv 2022.07) Memory-Based Label-Text Tuning for **Few-Shot** Class-**Incremental** **Learning**, [[Paper]](https://arxiv.org/pdf/2207.01036.pdf)
+
+- (arXiv 2022.07) Exploiting Context Information for Generic Event Boundary **Captioning**, [[Paper]](https://arxiv.org/pdf/2207.01050.pdf), [[Code]](https://github.com/zjr2000/Context-GEBC)
+
+- (arXiv 2022.07) You Only Need One **Detector**: Unified Object Detector for **Different Modalities** based on Vision Transformers, [[Paper]](https://arxiv.org/pdf/2207.01071.pdf), [[Code]](https://github.com/liketheflower/YONOD.git)
+
+- (arXiv 2022.07) Divert More Attention to **Vision-Language Tracking**, [[Paper]](https://arxiv.org/pdf/2207.01076.pdf), [[Code]](https://github.com/JudasDie/SOTS)
+
+- (arXiv 2022.07) Can **Language** Understand **Depth**? [[Paper]](https://arxiv.org/pdf/2207.01077.pdf), [[Code]](https://github.com/Adonis-galaxy/DepthCLIP)
+
+- (arXiv 2022.07) TANet: Transformer-based Asymmetric Network for **RGB-D Salient Object Detection**, [[Paper]](https://arxiv.org/pdf/2207.01172.pdf), [[Code]](https://github.com/lc012463/TANet)
 
 - (arXiv 2022.07) DUET: Cross-modal Semantic Grounding for **Contrastive Zero-shot Learning**, [[Paper]](https://arxiv.org/pdf/2207.01328.pdf)
 
