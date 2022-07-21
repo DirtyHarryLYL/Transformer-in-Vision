@@ -5,6 +5,8 @@ Keep updated.
 
 ## Resource
 
+- Microsof NUWA-Infinity [[Page]](https://nuwa-infinity.microsoft.com/#/), [[Paper]](https://arxiv.org/pdf/2207.09814.pdf)
+
 - Google Parti [[Page]](https://parti.research.google/), [[Code]](https://github.com/google-research/parti)
 
 - Google Imagen [[Page]](https://imagen.research.google/), [[Paper]](https://arxiv.org/pdf/2205.11487.pdf)
