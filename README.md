@@ -133,9 +133,9 @@ Keep updated.
 
 - (arXiv 2022.07) , [[Paper]]()
 
-- (arXiv 2022.07) , [[Paper]]()
-
 - (arXiv 2022.07) , [[Paper]]() -->
+
+- (arXiv 2022.07) Generalizable Patch-Based **Neural Rendering**, [[Paper]](https://arxiv.org/pdf/2207.10662.pdf), [[Project]](https://mohammedsuhail.net/gen_patch_neural_rendering/)
 
 - (arXiv 2022.07) Interaction Transformer for Human **Reaction Generation**, [[Paper]](https://arxiv.org/pdf/2207.01685.pdf)
 
