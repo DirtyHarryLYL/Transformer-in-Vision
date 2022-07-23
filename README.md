@@ -125,15 +125,15 @@ Keep updated.
 
 - (arXiv 2022.07) , [[Paper]]()
 
-- (arXiv 2022.07) , [[Paper]]()
-
-- (arXiv 2022.07) , [[Paper]]()
-
-- (arXiv 2022.07) , [[Paper]]()
-
-- (arXiv 2022.07) , [[Paper]]()
-
 - (arXiv 2022.07) , [[Paper]]() -->
+
+- (arXiv 2022.07) **3D Part Assembly** Generation with Instance Encoded Transformer, [[Paper]](https://arxiv.org/pdf/2207.01779.pdf)
+
+- (arXiv 2022.07) Scene-Aware Prompt for Multi-modal **Dialogue Understanding and Generation**, [[Paper]](https://arxiv.org/pdf/2207.01823.pdf)
+
+- (arXiv 2022.07) **Efficient** Representation Learning via Adaptive Context Pooling, [[Paper]](https://arxiv.org/pdf/2207.01844.pdf)
+
+- (arXiv 2022.07) **Gaze Target Estimation** inspired by Interactive Attention, [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9828503), [[Code]](https://github.com/nkuhzx/VSG-IA)
 
 - (arXiv 2022.07) Generalizable Patch-Based **Neural Rendering**, [[Paper]](https://arxiv.org/pdf/2207.10662.pdf), [[Project]](https://mohammedsuhail.net/gen_patch_neural_rendering/)
 
