@@ -123,9 +123,9 @@ Keep updated.
 
 - (arXiv 2022.07) , [[Paper]]()
 
-- (arXiv 2022.07) , [[Paper]]()
-
 - (arXiv 2022.07) , [[Paper]]() -->
+
+- (arXiv 2022.07) Multimodal Frame-Scoring Transformer for **Video Summarization**, [[Paper]](https://arxiv.org/pdf/2207.01814.pdf)
 
 - (arXiv 2022.07) **3D Part Assembly** Generation with Instance Encoded Transformer, [[Paper]](https://arxiv.org/pdf/2207.01779.pdf)
 
