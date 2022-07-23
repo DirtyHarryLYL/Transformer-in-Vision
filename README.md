@@ -47,6 +47,8 @@ Keep updated.
 
 ## Survey
 
+- (arXiv 2022.07) **Vision** Transformers: State of the Art and Research Challenges, [[Paper]](https://arxiv.org/pdf/2207.03041.pdf)
+
 - (arXiv 2022.07) **SELF-SUPERVISED** LEARNING FOR **VIDEOS**: A SURVEY, [[Paper]](https://arxiv.org/pdf/2207.00419.pdf)
 
 - (arXiv 2022.06) **Multimodal** Learning with Transformers: A Survey, [[Paper]](https://arxiv.org/pdf/2206.06488.pdf)
@@ -123,7 +125,47 @@ Keep updated.
 
 - (arXiv 2022.07) , [[Paper]]()
 
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
 - (arXiv 2022.07) , [[Paper]]() -->
+
+- (arXiv 2022.07) **Training** Transformers Together, [[Paper]](https://arxiv.org/pdf/2207.03481.pdf), [[Code]](https://training-transformers-together.github.io/)
+
+- (arXiv 2022.07) Improving **Few-Shot Image Classification** Using Machine- and User-Generated Natural Language Descriptions, [[Paper]](https://arxiv.org/pdf/2207.03133.pdf)
+
+- (arXiv 2022.07) MaiT: Leverage **Attention Masks** for More **Efficient** Image Transformers, [[Paper]](https://arxiv.org/pdf/2207.03006.pdf)
+
+- (arXiv 2022.07) Dual-Stream Transformer for Generic **Event Boundary Captioning**, [[Paper]](https://arxiv.org/pdf/2207.03038.pdf), [[Code]](https://github.com/GX77/Dual-Stream-Transformer-for-Generic-Event-Boundary-Captioning)
+
+- (arXiv 2022.07) **Softmax-free** Linear Transformers, [[Paper]](https://arxiv.org/pdf/2207.03341.pdf), [[Code[[(https://github.com/fudan-zvg/SOFT)
+
+- (arXiv 2022.07) Bridging the Gap between Object and Image-level Representations for **Open-Vocabulary Detection**, [[Paper]](https://arxiv.org/pdf/2207.03482.pdf), [[Code]](https://bit.ly/3byZoQp)
+
+- (arXiv 2022.07) Transformers are Adaptable **Task Planners**, [[Paper]](https://arxiv.org/pdf/2207.02442.pdf), [[Code]](https://anonymous.4open.science/r/temporal_task_planner-Paper148/)
+
+- (arXiv 2022.07) **ARRAY CAMERA IMAGE FUSION** USING PHYSICS-AWARE TRANSFORMERS, [[Paper]](https://arxiv.org/pdf/2207.02250.pdf)
+
+- (arXiv 2022.07) OSFormer: One-Stage Camouflaged Instance **Segmentation** with Transformers, [[Paper]](https://arxiv.org/pdf/2207.02255.pdf), [[Code]](https://github.com/PJLallen/OSFormer)
+
+- (arXiv 2022.07) Weakly Supervised Grounding for **VQA** in Vision-Language Transformers, [[Paper]](https://arxiv.org/pdf/2207.02334.pdf), [[Code]](https://github.com/aurooj/WSG-VQA-VLTransformers)
+
+- (arXiv 2022.07) PIC 4th Challenge: Semantic-Assisted Multi-Feature Encoding and Multi-Head Decoding for Dense **Video Captioning**, [[Paper]](https://arxiv.org/pdf/2207.02583.pdf)
+
+- (arXiv 2022.07) STVGFormer: Spatio-Temporal **Video Grounding** with Static-Dynamic Cross-Modal Understanding, [[Paper]](https://arxiv.org/pdf/2207.02756.pdf)
+
+- (arXiv 2022.07) Towards Counterfactual **Image Manipulation** via **CLIP**, [[Paper]](https://arxiv.org/pdf/2207.02812.pdf)
+
+- (arXiv 2022.07) MatFormer: A **Generative** Model for Procedural **Materials**, [[Paper]](https://arxiv.org/pdf/2207.01044.pdf)
 
 - (arXiv 2022.07) Multimodal Frame-Scoring Transformer for **Video Summarization**, [[Paper]](https://arxiv.org/pdf/2207.01814.pdf)
 
