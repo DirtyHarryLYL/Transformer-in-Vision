@@ -137,7 +137,51 @@ Keep updated.
 
 - (arXiv 2022.07) , [[Paper]]()
 
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
 - (arXiv 2022.07) , [[Paper]]() -->
+
+- (arXiv 2022.07) **Outpainting** by Queries, [[Paper]](https://arxiv.org/pdf/2207.05312.pdf), [[Code]](https://github.com/Kaiseem/QueryOTR)
+
+- (arXiv 2022.07) IDEA: Increasing Text Diversity via Online Multi-Label Recognition for **Vision-Language** Pre-training, [[Paper]](https://arxiv.org/pdf/2207.05333.pdf)
+
+- (arXiv 2022.07) Video Graph Transformer for **Video Question Answering**, [[Paper]](https://arxiv.org/pdf/2207.05342.pdf), [[Code]](https://github.com/sail-sg/VGT)
+
+- (arXiv 2022.07) Next-ViT: Next Generation Vision Transformer for **Efficient Deployment** in Realistic **Industrial** Scenarios, [[Paper]](https://arxiv.org/pdf/2207.05501.pdf)
+
+- (arXiv 2022.07) UniNet: Unified **Architecture Search** with Convolution, Transformer, and MLP, [[Paper]](https://arxiv.org/pdf/2207.05420.pdf), [[Code]](https://github.com/Sense-X/UniNet)
+
+- (arXiv 2022.07) Image and Model Transformation with **Secret Key** for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2207.05366.pdf)
+
+- (arXiv 2022.07) eX-ViT: A Novel eXplainable Vision Transformer for **Weakly Supervised Semantic Segmentation**, [[Paper]](https://arxiv.org/pdf/2207.05358.pdf)
+
+- (arXiv 2022.07) Compound Prototype Matching for **Few-shot Action Recognition**, [[Paper]](https://arxiv.org/pdf/2207.05515.pdf)
+
+- (arXiv 2022.07) Long-term Leap Attention, Short-term Periodic Shift for **Video Classification**, [[Paper]](https://arxiv.org/pdf/2207.05526.pdf), [[Code]](https://github.com/VideoNetworks/LAPS-transformer)
+
+- (arXiv 2022.07) LightViT: Towards **Light**-Weight **Convolution-Free** Vision Transformers, [[Paper]](https://arxiv.org/pdf/2207.05557.pdf), [[Code]](https://github.com/hunto/LightViT)
+
+- (arXiv 2022.07) Learning from **Label Relationships** in Human Affect, [[Paper]](https://arxiv.org/pdf/2207.05577.pdf)
+
+- (arXiv 2022.07) MSP-Former: Multi-Scale Projection Transformer for Single Image **Desnowing**, [[Paper]](https://arxiv.org/pdf/2207.05621.pdf)
+
+- (arXiv 2022.07) Tell Me the Evidence? Dual **Visual-Linguistic** Interaction for **Answer Grounding**, [[Paper]](https://arxiv.org/pdf/2207.05703.pdf)
+
+- (arXiv 2022.07) Vision Transformer for NeRF-Based **View Synthesis** from a Single Input Image, [[Paper]](https://arxiv.org/pdf/2207.05736.pdf), [[Code]](https://cseweb.ucsd.edu/~viscomp/projects/VisionNeRF/)
+
+- (arXiv 2022.07) COSIM: Commonsense Reasoning for **Counterfactual Scene Imagination**, [[Paper]](https://arxiv.org/pdf/2207.03961.pdf), [[Code]](https://github.com/hyounghk/CoSIm)
+
+- (arXiv 2022.07) Beyond Transfer Learning: Co-finetuning for **Action Localisation**, [[Paper]](https://arxiv.org/pdf/2207.03807.pdf)
+
+- (arXiv 2022.07) RePFormer: Refinement Pyramid Transformer for Robust **Facial Landmark Detection**, [[Paper]](https://arxiv.org/pdf/2207.03917.pdf)
+
+- (arXiv 2022.07) k-means **Mask** Transformer, [[Paper]](https://arxiv.org/pdf/2207.04044.pdf), [[Code]](https://github.com/google-research/deeplab2)
 
 - (arXiv 2022.07) **Training** Transformers Together, [[Paper]](https://arxiv.org/pdf/2207.03481.pdf), [[Code]](https://training-transformers-together.github.io/)
 
