@@ -119,33 +119,33 @@ Keep updated.
 
 - (arXiv 2022.07) , [[Paper]]()
 
-- (arXiv 2022.07) , [[Paper]]()
-
-- (arXiv 2022.07) , [[Paper]]()
-
-- (arXiv 2022.07) , [[Paper]]()
-
-- (arXiv 2022.07) , [[Paper]]()
-
-- (arXiv 2022.07) , [[Paper]]()
-
-- (arXiv 2022.07) , [[Paper]]()
-
-- (arXiv 2022.07) , [[Paper]]()
-
-- (arXiv 2022.07) , [[Paper]]()
-
-- (arXiv 2022.07) , [[Paper]]()
-
-- (arXiv 2022.07) , [[Paper]]()
-
-- (arXiv 2022.07) , [[Paper]]()
-
-- (arXiv 2022.07) , [[Paper]]()
-
-- (arXiv 2022.07) , [[Paper]]()
-
 - (arXiv 2022.07) , [[Paper]]() -->
+
+- (arXiv 2022.07) Cross-Attention Transformer for **Video Interpolation**, [[Paper]](https://arxiv.org/pdf/2207.04132.pdf)
+
+- (arXiv 2022.07) Towards Multimodal **Vision-Language** Models Generating Non-Generic Text, [[Paper]](https://arxiv.org/pdf/2207.04174.pdf)
+
+- (arXiv 2022.07) QKVA grid: **Attention** in Image Perspective and Stacked DETR, [[Paper]](https://arxiv.org/pdf/2207.04313.pdf), [[Code]](https://github.com/shengwenyuan/sdetr)
+
+- (arXiv 2022.07) Snipper: A Spatiotemporal Transformer for Simultaneous Multi-Person **3D Pose Estimation Tracking** and **Forecasting** on a Video Snippet, [[Paper]](https://arxiv.org/pdf/2207.04320.pdf), [[Code]](https://github.com/JimmyZou/Snipper)
+
+- (arXiv 2022.07) Horizontal and Vertical **Attention** in Transformers, [[Paper]](https://arxiv.org/pdf/2207.04399.pdf)
+
+- (arXiv 2022.07) CoMER: Modeling Coverage for Transformer-based **Handwritten Mathematical Expression Recognition**, [[Paper]](https://arxiv.org/pdf/2207.04410.pdf), [[Code]](https://github.com/Green-Wood/CoMER)
+
+- (arXiv 2022.07) DPText-DETR: Towards Better **Scene Text Detection** with Dynamic Points in Transformer, [[Paper]](https://arxiv.org/pdf/2207.04491.pdf), [[Code]](https://github.com/ymy-k/DPText-DETR)
+
+- (arXiv 2022.07) DEPTHFORMER: MULTISCALE VISION TRANSFORMER FOR **MONOCULAR DEPTH ESTIMATION** WITH GLOBAL LOCAL INFORMATION FUSION, [[Paper]](https://arxiv.org/pdf/2207.04535.pdf), [[Code]](https://github.com/ashutosh1807/Depthformer.git)
+
+- (arXiv 2022.07) LaT: Latent Translation with Cycle-Consistency for **Video-Text Retrieval**, [[Paper]](https://arxiv.org/pdf/2207.04858.pdf)
+
+- (arXiv 2022.07) **Dual** Vision Transformer, [[Paper]](https://arxiv.org/pdf/2207.04976.pdf), [[Code]](https://github.com/YehLi/ImageNetModel)
+
+- (arXiv 2022.07) Wave-ViT: Unifying **Wavelet** and Transformers for Visual **Representation** Learning, [[Paper]](https://arxiv.org/pdf/2207.04978.pdf), [[Code]](https://github.com/YehLi/ImageNetModel)
+
+- (arXiv 2022.07) Scaling Novel Object **Detection** with Weakly Supervised Detection Transformers, [[Paper]](https://arxiv.org/pdf/2207.05205.pdf)
+
+- (arXiv 2022.07) Hunting Group Clues with Transformers for Social **Group Activity Recognition**, [[Paper]](https://arxiv.org/pdf/2207.05254.pdf)
 
 - (arXiv 2022.07) **Outpainting** by Queries, [[Paper]](https://arxiv.org/pdf/2207.05312.pdf), [[Code]](https://github.com/Kaiseem/QueryOTR)
 
