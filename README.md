@@ -119,7 +119,67 @@ Keep updated.
 
 - (arXiv 2022.07) , [[Paper]]()
 
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
 - (arXiv 2022.07) , [[Paper]]() -->
+
+- (arXiv 2022.07) Structural Prior Guided Generative Adversarial Transformers for **Low-Light Image Enhancement**, [[Paper]](https://arxiv.org/pdf/2207.07828.pdf)
+
+- (arXiv 2022.07) TS2-Net: Token Shift and Selection Transformer for T**ext-Video Retrieval**, [[Paper]](https://arxiv.org/pdf/2207.07852.pdf), [[Code]](https://github.com/yuqi657/ts2_net)
+
+- (arXiv 2022.07) Clover: Towards A Unified **Video-Language** Alignment and Fusion Model, [[Paper]](https://arxiv.org/pdf/2207.07885.pdf), [[Code]](https://github.com/LeeYN-43/Clover)
+
+- (arXiv 2022.07) SatMAE: Pre-training Transformers for Temporal and Multi-Spectral **Satellite Imagery**, [[Paper]](https://arxiv.org/pdf/2207.08051.pdf)
+
+- (arXiv 2022.07) FashionViL: Fashion-Focused **Vision-and-Language** Representation Learning, [[Paper]](https://arxiv.org/pdf/2207.08150.pdf), [[Code]](https://github.com/BrandonHanx/mmf)
+
+- (arXiv 2022.07) Zero-Shot **Temporal Action Detection** via Vision-Language Prompting, [[Paper]](https://arxiv.org/pdf/2207.08184.pdf), [[Code]](https://github.com/sauradip/STALE)
+
+- (arXiv 2022.07) Rethinking Alignment in **Video Super-Resolution** Transformers, [[Paper]](https://arxiv.org/pdf/2207.08494.pdf), [[Code]](https://github.com/XPixelGroup/RethinkVSRAlignment)
+
+- (arXiv 2022.07) Open-world **Semantic Segmentation** via Contrasting and Clustering Vision-Language Embedding, [[Paper]](https://arxiv.org/pdf/2207.08455.pdf)
+
+- (arXiv 2022.07) TokenMix: Rethinking Image Mixing for Data **Augmentation** in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2207.08409.pdf), [[Code]](https://github.com/Sense-X/TokenMix)
+
+- (arXiv 2022.07) Towards the Human Global Context: Does the **Vision-Language** Model Really Judge Like a Human Being? [[Paper]](https://arxiv.org/pdf/2207.08333.pdf)
+
+- (arXiv 2022.07) Defect Transformer: An Efficient Hybrid Transformer Architecture for **Surface Defect Detection**, [[Paper]](https://arxiv.org/pdf/2207.08319.pdf)
+
+- (arXiv 2022.07) Semantic **Novelty Detection** via Relational Reasoning, [[Paper]](https://arxiv.org/pdf/2207.08699.pdf)
+
+- (arXiv 2022.07) Unifying **Event Detection** and **Captioning** as Sequence Generation via Pre-Training, [[Paper]](https://arxiv.org/pdf/2207.08625.pdf), [[Code]](https://github.com/QiQAng/UEDVC)
+
+- (arXiv 2022.07) Multi-manifold **Attention** for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2207.08569.pdf)
+
+- (arXiv 2022.07) UniFormer: Unified Multi-view Fusion Transformer for Spatial-Temporal Representation in **Bird’s-Eye-View**, [[Paper]](https://arxiv.org/pdf/2207.08536.pdf)
+
+- (arXiv 2022.07) **Position Prediction** as an Effective Pretraining Strategy, [[Paper]](https://arxiv.org/pdf/2207.07611.pdf)
+
+- (arXiv 2022.07) **Lightweight** Vision Transformer with Cross Feature Attention, [[Paper]](https://arxiv.org/pdf/2207.07268.pdf)
+
+- (arXiv 2022.07) Parameterization of **Cross-Token Relations** with Relative Positional Encoding for Vision **MLP**, [[Paper]](https://arxiv.org/pdf/2207.07284.pdf), [[Code]](https://github.com/Zhicaiwww/PosMLP)
+
+- (arXiv 2022.07) X-CLIP: End-to-End Multi-grained Contrastive Learning for **Video-Text Retrieval**, [[Paper]](https://arxiv.org/pdf/2207.07285.pdf)
+
+- (arXiv 2022.07) Learning Parallax Transformer Network for **Stereo Image JPEG Artifacts Removal**, [[Paper]](https://arxiv.org/pdf/2207.07335.pdf)
+
+- (arXiv 2022.07) A Dual-Masked Auto-Encoder for **Robust Motion Capture** with Spatial-Temporal Skeletal Token Completion, [[Paper]](https://arxiv.org/pdf/2207.07381.pdf)
+
+- (arXiv 2022.07) Is a **Caption** Worth a Thousand **Images**? A Controlled Study for **Representation** Learning, [[Paper]](https://arxiv.org/pdf/2207.07635.pdf)
+
+- (arXiv 2022.07) Multimodal **Open-Vocabulary Video Classification** via Pre-Trained Vision and Language Models, [[Paper]](https://arxiv.org/pdf/2207.07646.pdf)
 
 - (arXiv 2022.07) Cross-Attention Transformer for **Video Interpolation**, [[Paper]](https://arxiv.org/pdf/2207.04132.pdf)
 
