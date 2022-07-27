@@ -123,17 +123,17 @@ Keep updated.
 
 - (arXiv 2022.07) , [[Paper]]()
 
-- (arXiv 2022.07) , [[Paper]]()
-
-- (arXiv 2022.07) , [[Paper]]()
-
-- (arXiv 2022.07) , [[Paper]]()
-
-- (arXiv 2022.07) , [[Paper]]()
-
-- (arXiv 2022.07) , [[Paper]]()
-
 - (arXiv 2022.07) , [[Paper]]() -->
+
+- (arXiv 2022.07) Time Is MattEr: **Temporal Self-supervision** for Video Transformers, [[Paper]](https://arxiv.org/pdf/2207.09067.pdf)
+
+- (arXiv 2022.07) IDET: Iterative Difference-Enhanced Transformers for **High-Quality Change Detection**, [[Paper]](https://arxiv.org/pdf/2207.09240.pdf)
+
+- (arXiv 2022.07) Don’t Stop Learning: Towards **Continual Learning** for the **CLIP** Model, [[Paper]](https://arxiv.org/pdf/2207.09248.pdf)
+
+- (arXiv 2022.07) **Action Quality Assessment** with Temporal Parsing Transformer, [[Paper]](https://arxiv.org/pdf/2207.09270.pdf)
+
+- (arXiv 2022.07) Visual **Representation** Learning with Transformer: A Sequence-to-Sequence Perspective, [[Paper]](https://arxiv.org/pdf/2207.09339.pdf), [[Code]](https://github.com/fudan-zvg/SETR)
 
 - (arXiv 2022.07) Structural Prior Guided Generative Adversarial Transformers for **Low-Light Image Enhancement**, [[Paper]](https://arxiv.org/pdf/2207.07828.pdf)
 
