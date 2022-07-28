@@ -123,7 +123,29 @@ Keep updated.
 
 - (arXiv 2022.07) , [[Paper]]()
 
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
 - (arXiv 2022.07) , [[Paper]]() -->
+
+- (arXiv 2022.07) Conditional **DETR** V2: **Efficient** Detection Transformer with Box Queries, [[Paper]](https://arxiv.org/pdf/2207.08914.pdf)
+
+- (arXiv 2022.07) Exploiting Unlabeled Data with **Vision and Language** Models for Object **Detection**, [[Paper]](https://arxiv.org/pdf/2207.08954.pdf), [[Code]](https://github.com/xiaofeng94/VL-PLM)
+
+- (arXiv 2022.07) TTVFI: Learning Trajectory-Aware Transformer for **Video Frame Interpolation**, [[Paper]](https://arxiv.org/pdf/2207.09048.pdf), [[Code]](https://github.com/researchmm/TTVFI.git)
 
 - (arXiv 2022.07) Time Is MattEr: **Temporal Self-supervision** for Video Transformers, [[Paper]](https://arxiv.org/pdf/2207.09067.pdf)
 
