@@ -123,23 +123,23 @@ Keep updated.
 
 - (arXiv 2022.07) , [[Paper]]()
 
-- (arXiv 2022.07) , [[Paper]]()
-
-- (arXiv 2022.07) , [[Paper]]()
-
-- (arXiv 2022.07) , [[Paper]]()
-
-- (arXiv 2022.07) , [[Paper]]()
-
-- (arXiv 2022.07) , [[Paper]]()
-
-- (arXiv 2022.07) , [[Paper]]()
-
-- (arXiv 2022.07) , [[Paper]]()
-
-- (arXiv 2022.07) , [[Paper]]()
-
 - (arXiv 2022.07) , [[Paper]]() -->
+
+- (arXiv 2022.07) OTPose: Occlusion-Aware Transformer for **Pose Estimation** in Sparsely-Labeled Videos, [[Paper]](https://arxiv.org/pdf/2207.09725.pdf)
+
+- (arXiv 2022.07) FaceFormer: Scale-aware Blind **Face Restoration** with Transformers, [[Paper]](https://arxiv.org/pdf/2207.09790.pdf)
+
+- (arXiv 2022.07) Multimodal Transformer for **Automatic 3D Annotation** and Object **Detection**, [[Paper]](https://arxiv.org/pdf/2207.09805.pdf), [[Code]](https://github.com/Cliu2/MTrans)
+
+- (arXiv 2022.07) Temporal and cross-modal attention for **audio-visual** **zero-shot** learning, [[Paper]](https://arxiv.org/pdf/2207.09966.pdf), [[Code]](https://github.com/ExplainableML/TCAF-GZSL)
+
+- (arXiv 2022.07) Locality Guidance for Improving Vision Transformers on **Tiny Datasets**, [[Paper]](https://arxiv.org/pdf/2207.10026.pdf), [[Code]](https://github.com/lkhl/tiny-transformers)
+
+- (arXiv 2022.07) Is an Object-Centric Video Representation Beneficial for Transfer? [[Paper]](https://arxiv.org/pdf/2207.10075.pdf)
+
+- (arXiv 2022.07) DUQIM-Net: Probabilistic Object Hierarchy Representation for Multi-View **Manipulation**, [[Paper]](https://arxiv.org/pdf/2207.09105.pdf)
+
+- (arXiv 2022.07) RELATIONAL FUTURE **CAPTIONING** MODEL FOR EXPLAINING LIKELY COLLISIONS IN DAILY TASKS, [[Paper]](https://arxiv.org/pdf/2207.09083.pdf)
 
 - (arXiv 2022.07) Conditional **DETR** V2: **Efficient** Detection Transformer with Box Queries, [[Paper]](https://arxiv.org/pdf/2207.08914.pdf)
 
