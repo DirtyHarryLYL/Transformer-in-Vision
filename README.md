@@ -101,6 +101,14 @@ Keep updated.
 
 ## Recent Papers
 
+<!-- ### 2022.08
+
+- (arXiv 2022.08) , [[Paper]]()
+
+- (arXiv 2022.08) , [[Paper]]()
+
+- (arXiv 2022.08) , [[Paper]]() -->
+
 ### 2022.07 
 
 <!-- - (arXiv 2022.07) , [[Paper]]()
@@ -113,17 +121,35 @@ Keep updated.
 
 - (arXiv 2022.07) , [[Paper]]()
 
-- (arXiv 2022.07) , [[Paper]]()
-
-- (arXiv 2022.07) , [[Paper]]()
-
-- (arXiv 2022.07) , [[Paper]]()
-
-- (arXiv 2022.07) , [[Paper]]()
-
-- (arXiv 2022.07) , [[Paper]]()
-
 - (arXiv 2022.07) , [[Paper]]() -->
+
+- (arXiv 2022.07) LocVTP: **Video-Text** Pre-training for Temporal Localization, [[Paper]](https://arxiv.org/pdf/2207.10362.pdf), [[Code]](https://github.com/mengcaopku/LocVTP)
+
+- (arXiv 2022.07) Temporal Saliency Query Network for **Efficient Video Recognition**, [[Paper]](https://arxiv.org/pdf/2207.10379.pdf), [[Code]](https://lawrencexia2008.github.io/projects/tsqnet)
+
+- (arXiv 2022.07) Pose for Everything: Towards Category-Agnostic **Pose Estimation**, [[Paper]](https://arxiv.org/pdf/2207.10387.pdf), [[Code]](https://github.com/luminxu/Pose-for-Everything)
+
+- (arXiv 2022.07) Weakly Supervised **Object Localization** via Transformer with Implicit Spatial Calibration, [[Paper]](https://arxiv.org/pdf/2207.10447.pdf), [[Code]](https://github.com/164140757/SCM)
+
+- (arXiv 2022.07) An Efficient **Spatio-Temporal** Pyramid Transformer for **Action Detection**, [[Paper]](https://arxiv.org/pdf/2207.10448.pdf)
+
+- (arXiv 2022.07) Towards **Efficient Adversarial Training** on Vision Transformers, [[Paper]](https://arxiv.org/pdf/2207.10498.pdf)
+
+- (arXiv 2022.07) TinyViT: Fast Pretraining Distillation for **Small** Vision Transformers, [[Paper]](https://arxiv.org/pdf/2207.10666.pdf), [[Code]](https://github.com/microsoft/Cream/tree/main/TinyViT)
+
+- (arXiv 2022.07) Hierarchically Self-Supervised Transformer for Human **Skeleton Representation** Learning, [[Paper]](https://arxiv.org/pdf/2207.09644.pdf), [[Code]]( https://github.com/yuxiaochen1103/Hi-TRS)
+
+- (arXiv 2022.07) Explicit Image **Caption Editing**, [[Paper]](https://arxiv.org/pdf/2207.09625.pdf), [[Code]](https://github.com/baaaad/ECE)
+
+- (arXiv 2022.07) AiATrack: Attention in Attention for Transformer Visual **Tracking**, [[Paper]](https://arxiv.org/pdf/2207.09603.pdf), [[Code]](https://github.com/Little-Podi/AiATrack)
+
+- (arXiv 2022.07) Tip-Adapter: Training-free Adaption of **CLIP** for **Few-shot Classification**, [[Paper]](https://arxiv.org/pdf/2207.09519.pdf), [[Code]](https://github.com/gaopengcuhk/Tip-Adapter)
+
+- (arXiv 2022.07) Single Frame **Atmospheric Turbulence Mitigation**: A Benchmark Study and A New Physics-Inspired Transformer Model, [[Paper]](https://arxiv.org/pdf/2207.10040.pdf), [[Code]](https://github.com/VITA-Group/TurbNet)
+
+- (arXiv 2022.07) HTNet: Anchor-free **Temporal Action Localization** with Hierarchical Transformers, [[Paper]](https://arxiv.org/pdf/2207.09662.pdf)
+
+- (arXiv 2022.07) GRIT: Faster and Better Image **captioning** Transformer Using Dual Visual Features, [[Paper]](https://arxiv.org/pdf/2207.09666.pdf)
 
 - (arXiv 2022.07) OTPose: Occlusion-Aware Transformer for **Pose Estimation** in Sparsely-Labeled Videos, [[Paper]](https://arxiv.org/pdf/2207.09725.pdf)
 
