@@ -121,7 +121,35 @@ Keep updated.
 
 - (arXiv 2022.07) , [[Paper]]()
 
+- (arXiv 2022.07) , [[Paper]]()
+
 - (arXiv 2022.07) , [[Paper]]() -->
+
+- (arXiv 2022.07) Self-Distilled Vision Transformer for **Domain Generalization**, [[Paper]](https://arxiv.org/pdf/2207.12392.pdf), [[Code]](https://github.com/maryam089/SDViT)
+
+- (arXiv 2022.07) Exploring **CLIP** for **Assessing** the Look and Feel of **Images**, [[Paper]](https://arxiv.org/pdf/2207.12396.pdf), [[Code]](https://github.com/IceClear/CLIP-IQA)
+
+- (arXiv 2022.07) Transformer with Implicit Edges for Particle-based **Physics Simulation**, [[Paper]](https://arxiv.org/pdf/2207.10860.pdf), [[Code]](https://github.com/ftbabi/TIE_ECCV2022.git)
+
+- (arXiv 2022.07) Auto-regressive **Image Synthesis** with Integrated Quantization, [[Paper]](https://arxiv.org/pdf/2207.10776.pdf)
+
+- (arXiv 2022.07) Efficient Modeling of Future Context for Image **Captioning**, [[Paper]](https://arxiv.org/pdf/2207.10897.pdf), [[Code]](https://github.com/feizc/Future-Caption)
+
+- (arXiv 2022.07) Zero-Shot Video **Captioning** with Evolving Pseudo-Tokens, [[Paper]](https://arxiv.org/pdf/2207.11100.pdf), [[Code]](https://github.com/YoadTew/zero-shot-video-to-text)
+
+- (arXiv 2022.07) Panoptic **Scene Graph** Generation, [[Paper]](https://arxiv.org/pdf/2207.11247.pdf), [[Project]](https://psgdataset.org/), [[Code]](https://github.com/Jingkang50/OpenPSG)
+
+- (arXiv 2022.07) **Facial Expression Recognition** using Vanilla ViT backbones with MAE Pretraining, [[Paper]](https://arxiv.org/pdf/2207.11081.pdf)
+
+- (arXiv 2022.07) Target-Driven Structured Transformer Planner for **Vision-Language Navigation**, [[Paper]](https://arxiv.org/pdf/2207.11201.pdf)
+
+- (arXiv 2022.07) **Scaling Laws** vs Model Architectures: How does Inductive Bias Influence Scaling? [[Paper]](https://arxiv.org/pdf/2207.10551.pdf)
+
+- (arXiv 2022.07) Hybrid CNN-Transformer Model For **Facial Affect Recognition** In the ABAW4 Challenge, [[Paper]](https://arxiv.org/pdf/2207.10201.pdf)
+
+- (arXiv 2022.07) Mesh**MAE**: Masked Autoencoders for 3D **Mesh** Data Analysis, [[Paper]](https://arxiv.org/pdf/2207.10228.pdf)
+
+- (arXiv 2022.07) SeedFormer: Patch Seeds based **Point Cloud Completion** with Upsample Transformer, [[Paper]](https://arxiv.org/pdf/2207.10315.pdf), [[Code]](https://github.com/hrzhou2/seedformer)
 
 - (arXiv 2022.07) LocVTP: **Video-Text** Pre-training for Temporal Localization, [[Paper]](https://arxiv.org/pdf/2207.10362.pdf), [[Code]](https://github.com/mengcaopku/LocVTP)
 
