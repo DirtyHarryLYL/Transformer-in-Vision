@@ -125,7 +125,7 @@ Keep updated.
 
 - (arXiv 2022.07) V^2L: Leveraging Vision and **Vision-language** Models into Large-scale **Product Retrieval**, [[Paper]](https://arxiv.org/pdf/2207.12994.pdf), [[Code]](https://github.com/WangWenhao0716/V2L)
 
-- (arXiv 2022.07) NewsStories: Illustrating **articles** with **visual** summaries, [[Paper]](https://arxiv.org/pdf/2207.13061.pdf)
+- (arXiv 2022.07) NewsStories: Illustrating **articles** with **visual** summaries, [[Paper]](https://arxiv.org/pdf/2207.13061.pdf), [[Project]](https://github.com/NewsStoriesData/newsstories.github.io)
 
 - (arXiv 2022.07) **DETR**s with Hybrid **Matching**, [[Paper]](https://arxiv.org/pdf/2207.13080.pdf), [[Code]](https://github.com/HDETR)
 
