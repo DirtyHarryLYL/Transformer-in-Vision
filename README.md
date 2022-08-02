@@ -121,21 +121,21 @@ Keep updated.
 
 - (arXiv 2022.07) , [[Paper]]()
 
-- (arXiv 2022.07) , [[Paper]]()
-
-- (arXiv 2022.07) , [[Paper]]()
-
-- (arXiv 2022.07) , [[Paper]]()
-
-- (arXiv 2022.07) , [[Paper]]()
-
-- (arXiv 2022.07) , [[Paper]]()
-
-- (arXiv 2022.07) , [[Paper]]()
-
-- (arXiv 2022.07) , [[Paper]]()
-
 - (arXiv 2022.07) , [[Paper]]() -->
+
+- (arXiv 2022.07) V^2L: Leveraging Vision and **Vision-language** Models into Large-scale **Product Retrieval**, [[Paper]](https://arxiv.org/pdf/2207.12994.pdf), [[Code]](https://github.com/WangWenhao0716/V2L)
+
+- (arXiv 2022.07) NewsStories: Illustrating **articles** with **visual** summaries, [[Paper]](https://arxiv.org/pdf/2207.13061.pdf)
+
+- (arXiv 2022.07) **DETR**s with Hybrid **Matching**, [[Paper]](https://arxiv.org/pdf/2207.13080.pdf), [[Code]](https://github.com/HDETR)
+
+- (arXiv 2022.07) GROUP **DETR**: **FAST** TRAINING CONVERGENCE WITH DECOUPLED ONE-TO-MANY LABEL ASSIGNMENT, [[Paper]](https://arxiv.org/pdf/2207.13085.pdf)
+
+- (arXiv 2022.07) Improved **Super Resolution** of MR Images Using CNNs and Vision Transformers, [[Paper]](https://arxiv.org/pdf/2207.11748.pdf)
+
+- (arXiv 2022.07) Video Swin Transformers for **Egocentric Video** Understanding @ Ego4D Challenges 2022, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2207/2207.11329.pdf), [[Code]](https://github.com/BCV-Uniandes/PNR_OSCC)
+
+- (arXiv 2022.07) An Impartial Take to the CNN vs Transformer **Robustness** Contest, [[Paper]](https://arxiv.org/pdf/2207.11347.pdf)
 
 - (arXiv 2022.07) **Generative** Artisan: A Semantic-Aware and Controllable **CLIP**styler, [[Paper]](https://arxiv.org/pdf/2207.11598.pdf)
 
