@@ -101,9 +101,9 @@ Keep updated.
 
 ## Recent Papers
 
-<!-- ### 2022.08
+### 2022.08
 
-- (arXiv 2022.08) , [[Paper]]()
+<!-- - (arXiv 2022.08) , [[Paper]]()
 
 - (arXiv 2022.08) , [[Paper]]()
 
@@ -123,7 +123,45 @@ Keep updated.
 
 - (arXiv 2022.07) , [[Paper]]()
 
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
 - (arXiv 2022.07) , [[Paper]]() -->
+
+- (arXiv 2022.07) **Generative** Artisan: A Semantic-Aware and Controllable **CLIP**styler, [[Paper]](https://arxiv.org/pdf/2207.11598.pdf)
+
+- (arXiv 2022.07) MAR: Masked Autoencoders for Efficient **Action Recognition**, [[Paper]](https://arxiv.org/pdf/2207.11660.pdf), [[Code]](https://github.com/alibaba-mmai-research/Masked-Action-Recognition)
+
+- (arXiv 2022.07) **Object State Change Classification** in **Egocentric** Videos using the Divided Space-Time Attention Mechanism, [[Paper]](https://arxiv.org/pdf/2207.11814.pdf), [[Cpde]](https://github.com/md-mohaiminul/ObjectStateChange)
+
+- (arXiv 2022.07) Behind Every Domain There is a Shift: Adapting Distortion-aware Vision Transformers for **Panoramic Semantic Segmentation**, [[Paper]](https://arxiv.org/pdf/2207.11860.pdf), [[Code]](https://github.com/jamycheung/Trans4PASS)
+
+- (arXiv 2022.07) Reference-based Image **Super-Resolution** with Deformable Attention Transformer, [[Paper]](https://arxiv.org/pdf/2207.11938.pdf), [[Code]](https://github.com/caojiezhang/DATSR)
+
+- (arXiv 2022.07) JIGSAW-VIT: LEARNING **JIGSAW PUZZLES** IN VISION TRANSFORMER, [[Paper]](https://arxiv.org/pdf/2207.11971.pdf), [[Code]](https://yingyichen-cyy.github.io/Jigsaw-ViT)
+
+- (arXiv 2022.07) TransCL: Transformer Makes Strong and Flexible **Compressive Learning**, [[Paper]](https://arxiv.org/pdf/2207.11972.pdf), [[Code]](https://github.com/MC-E/TransCL/)
+
+- (arXiv 2022.07) 3D Siamese Transformer Network for Single Object **Tracking** on **Point Clouds**, [[Paper]](https://arxiv.org/pdf/2207.11995.pdf), [[Code]](https://github.com/fpthink/STNet)
+
+- (arXiv 2022.07) Intention-Conditioned Long-Term Human **Egocentric Action Forecasting** @ EGO4D Challenge 2022, [[Paper]](https://arxiv.org/pdf/2207.12080.pdf), [[Code]](https://github.com/Evm7/ego4dlta-icvae)
+
+- (arXiv 2022.07) IGFormer: Interaction Graph Transformer for **Skeleton**-based **Human Interaction Recognition**, [[Paper]](https://arxiv.org/pdf/2207.12100.pdf)
+
+- (arXiv 2022.07) Is **GPT-3** all you need for **Visual Question Answering** in Cultural Heritage? [[Paper]](https://arxiv.org/pdf/2207.12101.pdf)
+
+- (arXiv 2022.07) Applying Spatiotemporal Attention to **Identify Distracted** and **Drowsy Driving** with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2207.12148.pdf)
+
+- (arXiv 2022.07) **Action Quality Assessment** using Transformers, [[Paper]](https://arxiv.org/pdf/2207.12318.pdf)
 
 - (arXiv 2022.07) Self-Distilled Vision Transformer for **Domain Generalization**, [[Paper]](https://arxiv.org/pdf/2207.12392.pdf), [[Code]](https://github.com/maryam089/SDViT)
 
