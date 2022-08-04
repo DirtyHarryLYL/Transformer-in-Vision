@@ -125,7 +125,35 @@ Keep updated.
 
 - (arXiv 2022.07) , [[Paper]]()
 
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
 - (arXiv 2022.07) , [[Paper]]() -->
+
+- (arXiv 2022.07) A **Variational AutoEncoder** for Transformers with Nonparametric Variational Information Bottleneck, [[Paper]](https://arxiv.org/pdf/2207.13529.pdf)
+
+- (arXiv 2022.07) Online **Continual Learning** with Contrastive Vision Transformer, [[Paper]](https://arxiv.org/pdf/2207.13516.pdf)
+
+- (arXiv 2022.07) Retrieval-Augmented Transformer for Image **Captioning**, [[Paper]](https://arxiv.org/pdf/2207.13162.pdf)
+
+- (arXiv 2022.07) Spatiotemporal Self-attention Modeling with Temporal Patch Shift for **Action Recognition**, [[Paper]](https://arxiv.org/pdf/2207.13259.pdf), [[Code]](https://github.com/MartinXM/TPS)
+
+- (arXiv 2022.07) Is Attention All **NeRF** Needs?, [[Paper]](https://arxiv.org/pdf/2207.13298.pdf), [[Code]](https://vita-group.github.io/GNT/)
+
+- (arXiv 2022.07) **Convolutional Embedding** Makes Hierarchical Vision Transformer Stronger, [[Paper]](https://arxiv.org/pdf/2207.13317.pdf)
+
+- (arXiv 2022.07) SiRi: A Simple Selective Retraining Mechanism for Transformer-based **Visual Grounding**, [[Paper]](https://arxiv.org/pdf/2207.13325.pdf), [[Code]](https://github.com/qumengxue/siri-vg.git)
+
+- (arXiv 2022.07) Deep **Clustering** with Features from **Self-Supervised** Pretraining, [[Paper]](https://arxiv.org/pdf/2207.13364.pdf)
+
+- (arXiv 2022.07) Contrastive **Masked Autoencoders** are Stronger Vision Learners, [[Paper]](https://arxiv.org/pdf/2207.13532.pdf)
+
+- (arXiv 2022.07) VICTOR: VISUAL **INCOMPATIBILITY DETECTION** WITH TRANSFORMERS AND FASHION-SPECIFIC CONTRASTIVE PRE-TRAINING, [[Paper]](https://arxiv.org/pdf/2207.13458.pdf)
 
 - (arXiv 2022.07) Compositional **Human-Scene Interaction Synthesis** with Semantic Control, [[Paper]](https://arxiv.org/pdf/2207.12824.pdf), [[Code]](https://github.com/zkf1997/COINS)
 
