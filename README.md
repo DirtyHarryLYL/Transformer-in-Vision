@@ -121,7 +121,31 @@ Keep updated.
 
 - (arXiv 2022.07) , [[Paper]]()
 
+- (arXiv 2022.07) , [[Paper]]()
+
+- (arXiv 2022.07) , [[Paper]]()
+
 - (arXiv 2022.07) , [[Paper]]() -->
+
+- (arXiv 2022.07) Compositional **Human-Scene Interaction Synthesis** with Semantic Control, [[Paper]](https://arxiv.org/pdf/2207.12824.pdf), [[Code]](https://github.com/zkf1997/COINS)
+
+- (arXiv 2022.07) Static and Dynamic Concepts for **Self-supervised** **Video** Representation Learning, [[Paper]](https://arxiv.org/pdf/2207.12795.pdf)
+
+- (arXiv 2022.07) Unsupervised Domain Adaptation for Video Transformers in **Action Recognition**, [[Paper]](https://arxiv.org/pdf/2207.12842.pdf), [[Code]](https://github.com/vturrisi/UDAVT)
+
+- (arXiv 2022.07) LaKo: Knowledge-driven **Visual Question Answering** via Late Knowledge-to-Text Injection, [[Paper]](https://arxiv.org/pdf/2207.12888.pdf)
+
+- (arXiv 2022.07) TransFiner: A Full-Scale Refinement Approach for **Multiple Object Tracking**, [[Paper]](https://arxiv.org/pdf/2207.12967.pdf)
+
+- (arXiv 2022.07) S-Prompts Learning with Pre-trained Transformers: An Occam’s Razor for **Domain Incremental Learning**, [[Paper]](https://arxiv.org/pdf/2207.12819.pdf)
+
+- (arXiv 2022.07) WinoGAViL: Gamified Association **Benchmark** to Challenge **Vision-and-Language** Models, [[Paper]](https://arxiv.org/pdf/2207.12576.pdf), [[Project]](https://winogavil.github.io/)
+
+- (arXiv 2022.07) Cross-Modal Causal Relational Reasoning for Event-Level **Visual Question Answering**, [[Paper]](https://arxiv.org/pdf/2207.12647.pdf)
+
+- (arXiv 2022.07) Graph Neural Network and Spatiotemporal Transformer Attention for **3D** Video Object **Detection** from Point Clouds, [[Paper]](https://arxiv.org/pdf/2207.12659.pdf)
+
+- (arXiv 2022.07) Learning Visual Representation from Modality-Shared Contrastive **Language-Image** Pre-training, [[Paper]](https://arxiv.org/pdf/2207.12661.pdf), [[Code]](https://github.com/Hxyou/MSCLIP)
 
 - (arXiv 2022.07) V^2L: Leveraging Vision and **Vision-language** Models into Large-scale **Product Retrieval**, [[Paper]](https://arxiv.org/pdf/2207.12994.pdf), [[Code]](https://github.com/WangWenhao0716/V2L)
 
