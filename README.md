@@ -129,11 +129,25 @@ Keep updated.
 
 - (arXiv 2022.07) , [[Paper]]()
 
-- (arXiv 2022.07) , [[Paper]]()
-
-- (arXiv 2022.07) , [[Paper]]()
-
 - (arXiv 2022.07) , [[Paper]]() -->
+
+- (arXiv 2022.07) Pro-tuning: Unified **Prompt Tuning** for Vision Tasks, [[Paper]](https://arxiv.org/pdf/2207.14381.pdf)
+
+- (arXiv 2022.07) ALADIN: Distilling Fine-grained Alignment Scores for Efficient **Image-Text** Matching and Retrieval, [[Paper]](https://arxiv.org/pdf/2207.14757.pdf), [[Code]](https://github.com/mesnico/ALADIN)
+
+- (arXiv 2022.07) Curriculum Learning for Data-Efficient **Vision-Language** Alignme, [[Paper]](https://arxiv.org/pdf/2207.14525.pdf)
+
+- (arXiv 2022.07) DnSwin: Toward Real-World **Denoising** via Continuous Wavelet Sliding-Transformer, [[Paper]](https://arxiv.org/pdf/2207.13861.pdf)
+
+- (arXiv 2022.07) Cross-Attention of Disentangled Modalities for **3D Human Mesh Recovery** with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
+
+- (arXiv 2022.07) AvatarPoser: Articulated **Full-Body Pose Tracking** from Sparse Motion Sensing, [[Paper]](https://arxiv.org/pdf/2207.13784.pdf), [[Project]](https://github.com/eth-siplab/AvatarPoser)
+
+- (arXiv 2022.07) Semantic-Aligned Matching for Enhanced **DETR** Convergence and Multi-Scale Feature Fusion, [[Paper]](https://arxiv.org/pdf/2207.14172.pdf), [[Code]](https://github.com/ZhangGongjie/SAM-DETR)
+
+- (arXiv 2022.07) Safety-Enhanced **Autonomous Driving** Using Interpretable Sensor Fusion Transformer, [[Paper]](https://arxiv.org/pdf/2207.14024.pdf), [[Code]](https://github.com/opendilab/InterFuser)
+
+- (arXiv 2022.07) Video Mask Transfiner for High-Quality **Video Instance Segmentation**, [[Paper]](https://arxiv.org/pdf/2207.14012.pdf), [[Project]](http://vis.xyz/pub/vmt)
 
 - (arXiv 2022.07) A **Variational AutoEncoder** for Transformers with Nonparametric Variational Information Bottleneck, [[Paper]](https://arxiv.org/pdf/2207.13529.pdf)
 
