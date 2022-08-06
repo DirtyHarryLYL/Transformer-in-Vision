@@ -47,6 +47,8 @@ Keep updated.
 
 ## Survey
 
+- (arXic 2022.08) A Survey on **Masked Autoencoder** for Self-supervised Learning in Vision and Beyond, [[Paper]](https://arxiv.org/pdf/2208.00173.pdf)
+
 - (arXiv 2022.07) **Vision** Transformers: State of the Art and Research Challenges, [[Paper]](https://arxiv.org/pdf/2207.03041.pdf)
 
 - (arXiv 2022.07) **SELF-SUPERVISED** LEARNING FOR **VIDEOS**: A SURVEY, [[Paper]](https://arxiv.org/pdf/2207.00419.pdf)
@@ -127,31 +129,31 @@ Keep updated.
 
 - (arXiv 2022.08) , [[Paper]]()
 
-- (arXiv 2022.08) , [[Paper]]()
-
-- (arXiv 2022.08) , [[Paper]]()
-
-- (arXiv 2022.08) , [[Paper]]()
-
-- (arXiv 2022.08) , [[Paper]]()
-
-- (arXiv 2022.08) , [[Paper]]()
-
-- (arXiv 2022.08) , [[Paper]]()
-
-- (arXiv 2022.08) , [[Paper]]()
-
-- (arXiv 2022.08) , [[Paper]]()
-
-- (arXiv 2022.08) , [[Paper]]()
-
-- (arXiv 2022.08) , [[Paper]]()
-
-- (arXiv 2022.08) , [[Paper]]()
-
-- (arXiv 2022.08) , [[Paper]]()
-
 - (arXiv 2022.08) , [[Paper]]() -->
+
+- (arXiv 2022.08) Testing Relational Understanding in **Text-Guided Image Generation**, [[Paper]](https://arxiv.org/pdf/2208.00005.pdf)
+
+- (arXiv 2022.08) UAVM: A Unified Model for **Audio-Visual** Learning, [[Paper]](https://arxiv.org/pdf/2208.00061.pdf)
+
+- (arXiv 2022.08) Meta-**DETR**: Image-Level **Few-Shot** Detection with Inter-Class Correlation Exploitation, [[Paper]](https://arxiv.org/pdf/2208.00219.pdf), [[Code]](https://github.com/ZhangGongjie/Meta-DETR)
+
+- (arXiv 2022.08) Point Primitive Transformer for Long-Term **4D Point Cloud Video Understanding**, [[Paper]](https://arxiv.org/pdf/2208.00281.pdf)
+
+- (arXiv 2022.08) One for All: One-stage **Referring Expression Comprehension** with Dynamic Reasoning, [[Paper]](https://arxiv.org/pdf/2208.00361.pdf)
+
+- (arXiv 2022.08) Toward Understanding WordArt: Corner-Guided Transformer for **Scene Text Recognition**, [[Paper]](https://arxiv.org/pdf/2208.00438.pdf), [[Code]](https://github.com/xdxie/WordArt)
+
+- (arXiv 2022.08) SdAE: Self-distillated **Masked Autoencoder**, [[Paper]](https://arxiv.org/pdf/2208.00449.pdf), [[Code]](https://github.com/AbrahamYabo/SdAE)
+
+- (arXiv 2022.08) Augmenting **Vision Language** Pretraining by Learning Codebook with Visual Semantics, [[Paper]](https://arxiv.org/pdf/2208.00475.pdf)
+
+- (arXiv 2022.08) STrajNet: **Occupancy Flow Prediction** via Multi-modal Swin Transformer, [[Paper]](https://arxiv.org/pdf/2208.00394.pdf)
+
+- (arXiv 2022.08) D^3Former: Debiased Dual Distilled Transformer for Incremental Learning, [[Paper]](https://arxiv.org/pdf/2208.00777.pdf), [[Code]](https://tinyurl.com/d3former)
+
+- (arXiv 2022.08) Local Perception-Aware Transformer for **Aerial Tracking**, [[Paper]](https://arxiv.org/pdf/2208.00662.pdf), [[Code]](https://github.com/vision4robotics/LPAT)
+
+- (arXiv 2022.08) SIAMIXFORMER: A SIAMESE TRANSFORMER NETWORK FOR BUILDING DETECTION AND CHANGE DETECTION FROM BI-TEMPORAL **REMOTE SENSING** IMAGES, [[Paper]](https://arxiv.org/pdf/2208.00657.pdf)
 
 - (arXiv 2022.08) Transformers as Meta-Learners for **Implicit Neural Representations**, [[Paper]](https://arxiv.org/pdf/2208.02801.pdf), [[Code]](https://yinboc.github.io/trans-inr/)
 
