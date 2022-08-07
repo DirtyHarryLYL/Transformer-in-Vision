@@ -127,9 +127,9 @@ Keep updated.
 
 - (arXiv 2022.08) , [[Paper]]()
 
-- (arXiv 2022.08) , [[Paper]]()
-
 - (arXiv 2022.08) , [[Paper]]() -->
+
+- (arXiv 2022.08) Momentum Transformer: Closing the Performance Gap Between Self-attention and Its **Linearization**, [[Paper]](https://arxiv.org/pdf/2208.00579.pdf)
 
 - (arXiv 2022.08) Testing Relational Understanding in **Text-Guided Image Generation**, [[Paper]](https://arxiv.org/pdf/2208.00005.pdf)
 
