@@ -127,7 +127,31 @@ Keep updated.
 
 - (arXiv 2022.08) , [[Paper]]()
 
+- (arXiv 2022.08) , [[Paper]]()
+
 - (arXiv 2022.08) , [[Paper]]() -->
+
+- (arXiv 2022.08) Two-Stream Transformer Architecture for **Long Form Video Understanding**, [[Paper]](https://arxiv.org/pdf/2208.01753.pdf)
+
+- (arXiv 2022.08) A Fast **Text-Driven** Approach for **Generating Artistic Content**, [[Paper]](https://arxiv.org/pdf/2208.01748.pdf)
+
+- (arXiv 2022.08) DAHITRA: **DAMAGE ASSESSMENT** USING A NOVEL HIERARCHICAL TRANSFORMER ARCHITECTURE, [[Paper]](https://arxiv.org/pdf/2208.02205.pdf)
+
+- (arXiv 2022.08) MinVIS: A Minimal **Video Instance Segmentation** Framework without Video-based Training, [[Paper]](https://arxiv.org/pdf/2208.02245.pdf), [[Code]](https://github.com/NVlabs/MinVIS)
+
+- (arXiv 2022.08) **Masked** **Vision and Language** Modeling for Multi-modal Representation Learning, [[Paper]](https://arxiv.org/pdf/2208.02131.pdf)
+
+- (arXiv 2022.08) SSformer: A **Lightweight** Transformer for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2208.02034.pdf), [[Code]](https://github.com/shiwt03/SSformer)
+
+- (arXiv 2022.08) **Pose** Uncertainty Aware **Movement Synchrony Estimation** via Spatial-Temporal Graph Transformer, [[Paper]](https://arxiv.org/pdf/2208.01161.pdf)
+
+- (arXiv 2022.08) Making the Best of Both Worlds: A Domain-Oriented Transformer for **Unsupervised Domain Adaptation**, [[Paper]](https://arxiv.org/pdf/2208.01195.pdf), [[Code]](https://github.com/BIT-DA/Domain-Oriented-Transformer)
+
+- (arXiv 2022.08) Unified Normalization for **Accelerating** and **Stabilizing** Transformers, [[Paper]](https://arxiv.org/pdf/2208.01313.pdf)
+
+- (arXiv 2022.08) An Image is Worth One Word: Personalizing **Text-to-Image Generation** using Textual Inversion, [[Paper]](https://arxiv.org/pdf/2208.01618.pdf), [[Project]](https://textual-inversion.github.io/)
+
+- (arXiv 2022.08) Prompt-to-**Prompt** **Image Editing** with Cross Attention Control, [[Paper]](https://arxiv.org/pdf/2208.01626.pdf)
 
 - (arXiv 2022.08) Momentum Transformer: Closing the Performance Gap Between Self-attention and Its **Linearization**, [[Paper]](https://arxiv.org/pdf/2208.00579.pdf)
 
