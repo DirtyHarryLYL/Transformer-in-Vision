@@ -123,13 +123,13 @@ Keep updated.
 
 - (arXiv 2022.08) , [[Paper]]()
 
-- (arXiv 2022.08) , [[Paper]]()
-
-- (arXiv 2022.08) , [[Paper]]()
-
-- (arXiv 2022.08) , [[Paper]]()
-
 - (arXiv 2022.08) , [[Paper]]() -->
+
+- (arXiv 2022.08) Combined CNN Transformer Encoder for Enhanced Fine-grained Human **Action Recognition**, [[Paper]](https://arxiv.org/pdf/2208.01897.pdf)
+
+- (arXiv 2022.08) RE-ATTENTION TRANSFORMER FOR WEAKLY SUPERVISED **OBJECT LOCALIZATION**, [[Paper]](https://arxiv.org/pdf/2208.01838.pdf), [[Code]](https://github.com/su-hui-zz/ReAttentionTransformer)
+
+- (arXiv 2022.08) TAG: Boosting Text-**VQA** via Text-aware Visual Question-answer Generation, [[Paper]](https://arxiv.org/pdf/2208.01813.pdf)
 
 - (arXiv 2022.08) Two-Stream Transformer Architecture for **Long Form Video Understanding**, [[Paper]](https://arxiv.org/pdf/2208.01753.pdf)
 
