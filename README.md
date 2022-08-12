@@ -123,7 +123,47 @@ Keep updated.
 
 - (arXiv 2022.08) , [[Paper]]()
 
+- (arXiv 2022.08) , [[Paper]]()
+
+- (arXiv 2022.08) , [[Paper]]()
+
+- (arXiv 2022.08) , [[Paper]]()
+
+- (arXiv 2022.08) , [[Paper]]()
+
+- (arXiv 2022.08) , [[Paper]]()
+
+- (arXiv 2022.08) , [[Paper]]()
+
+- (arXiv 2022.08) , [[Paper]]()
+
 - (arXiv 2022.08) , [[Paper]]() -->
+
+- (arXiv 2022.08) PointConvFormer: Revenge of the **Point-based Convolution**, [[Paper]](https://arxiv.org/pdf/2208.02879.pdf)
+
+- (arXiv 2022.08) ChiQA: A Large Scale Image-based Real-World **Question Answering Dataset** for Multi-Modal Understanding, [[Paper]](https://arxiv.org/pdf/2208.03030.pdf)
+
+- (arXiv 2022.08) LaTTe: **Language** **Trajectory** TransformEr, [[Paper]](https://arxiv.org/pdf/2208.02918.pdf), [[Code]](https://github.com/arthurfenderbucker/NL_trajectory_reshaper)
+
+- (arXiv 2022.08) Learning Spatiotemporal Frequency-Transformer for **Compressed Video Super-Resolution**, [[Paper]](https://arxiv.org/pdf/2208.03012.pdf), [[Code]](https://github.com/researchmm/FTVSR)
+
+- (arXiv 2022.08) TransMatting: Enhancing **Transparent Objects Matting** with Transformers, [[Paper]](https://arxiv.org/pdf/2208.03007.pdf), [[Project]](https://github.com/AceCHQ/TransMatting)
+
+- (arXiv 2022.08) Word-Level Fine-Grained **Story Visualization**, [[Paper]](https://arxiv.org/pdf/2208.02341.pdf)
+
+- (arXiv 2022.08) Fine-Grained Semantically Aligned **Vision-Language** Pre-Training, [[Paper]](https://arxiv.org/pdf/2208.02515.pdf)
+
+- (arXiv 2022.08) Expanding **Language-Image** Pretrained Models for General **Video Recognition**, [[Paper]](https://arxiv.org/pdf/2208.02816.pdf), [[Code]](https://github.com/microsoft/VideoX/tree/master/X-CLIP)
+
+- (arXiv 2022.08) P2P: Tuning Pre-trained Image Models for **Point Cloud Analysis** with Point-to-Pixel Prompting, [[Paper]](https://arxiv.org/pdf/2208.02812.pdf), [[Code]](https://github.com/wangzy22/P2P)
+
+- (arXiv 2022.08) **Drop**Key, [[Paper]](https://arxiv.org/pdf/2208.02646.pdf)
+
+- (arXiv 2022.08) MVSFormer: **Multi-View Stereo** with Pre-trained Vision Transformers and Temperature-based Depth, [[Paper]](https://arxiv.org/pdf/2208.02541.pdf)
+
+- (arXiv 2022.08) Per-Clip Video Object **Segmentation**, [[Paper]](https://arxiv.org/pdf/2208.01924.pdf)
+
+- (arXiv 2022.08) XCon: Learning with Experts for **Fine-grained Category Discovery**, [[Paper]](https://arxiv.org/pdf/2208.01898.pdf), [[Code]](https://github.com/YiXXin/XCon)
 
 - (arXiv 2022.08) Combined CNN Transformer Encoder for Enhanced Fine-grained Human **Action Recognition**, [[Paper]](https://arxiv.org/pdf/2208.01897.pdf)
 
