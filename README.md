@@ -129,15 +129,15 @@ Keep updated.
 
 - (arXiv 2022.08) , [[Paper]]()
 
-- (arXiv 2022.08) , [[Paper]]()
-
-- (arXiv 2022.08) , [[Paper]]()
-
-- (arXiv 2022.08) , [[Paper]]()
-
-- (arXiv 2022.08) , [[Paper]]()
-
 - (arXiv 2022.08) , [[Paper]]() -->
+
+- (arXiv 2022.08) Ghost-free **High Dynamic Range Imaging** with Context-aware Transformer, [[Paper]](https://arxiv.org/pdf/2208.05114.pdf), [[Code]](https://github.com/megvii-research/HDR-Transformer)
+
+- (arXiv 2022.08) **CLIP**-based Neural Neighbor **Style Transfer** for **3D Assets**, [[Paper]](https://arxiv.org/pdf/2208.04370.pdf)
+
+- (arXiv 2022.08) **Sports Video Analysis** on Large-Scale Data, [[Paper]](https://arxiv.org/pdf/2208.04897.pdf), [[Code]](https://github.com/jackwu502/NSVA)
+
+- (arXiv 2022.08) How Well Do Vision Transformers (VTs) Transfer To The Non-Natural Image Domain? An Empirical Study Involving **Art Classification**, [[Paper]](https://arxiv.org/pdf/2208.04693.pdf)
 
 - (arXiv 2022.08) In the Eye of Transformer: Global-Local Correlation for **Egocentric Gaze Estimation**, [[Paper]](https://arxiv.org/pdf/2208.04464.pdf), [[Code]](https://bolinlai.github.io/GLC-EgoGazeEst)
 
