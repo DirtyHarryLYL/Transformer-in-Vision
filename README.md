@@ -47,7 +47,9 @@ Keep updated.
 
 ## Survey
 
-- (arXic 2022.08) A Survey on **Masked Autoencoder** for Self-supervised Learning in Vision and Beyond, [[Paper]](https://arxiv.org/pdf/2208.00173.pdf)
+- (arXiv 2022.08) **3D Vision** with Transformers: A Survey, [[Paper]](https://arxiv.org/pdf/2208.04309.pdf), [[Code]](https://github.com/lahoud/3d-vision-transformers)
+
+- (arXiv 2022.08) A Survey on **Masked Autoencoder** for Self-supervised Learning in Vision and Beyond, [[Paper]](https://arxiv.org/pdf/2208.00173.pdf)
 
 - (arXiv 2022.07) **Vision** Transformers: State of the Art and Research Challenges, [[Paper]](https://arxiv.org/pdf/2207.03041.pdf)
 
@@ -135,9 +137,37 @@ Keep updated.
 
 - (arXiv 2022.08) , [[Paper]]()
 
-- (arXiv 2022.08) , [[Paper]]()
-
 - (arXiv 2022.08) , [[Paper]]() -->
+
+- (arXiv 2022.08) In the Eye of Transformer: Global-Local Correlation for **Egocentric Gaze Estimation**, [[Paper]](https://arxiv.org/pdf/2208.04464.pdf), [[Code]](https://bolinlai.github.io/GLC-EgoGazeEst)
+
+- (arXiv 2022.08) **DALLE**-URBAN: Capturing the **urban** design expertise of large **text to image** transformers, [[Paper]](https://arxiv.org/pdf/2208.04139.pdf), [[Code]](https://github.com/sachith500/DALLEURBAN)
+
+- (arXiv 2022.08) PlaneFormers: From Sparse View Planes to **3D Reconstruction**, [[Paper]](https://arxiv.org/pdf/2208.04307.pdf), [[Code]](https://samiragarwala.github.io/PlaneFormers)
+
+- (arXiv 2022.08) Boosting **Video-Text Retrieval** with Explicit High-Level Semantics, [[Paper]](https://arxiv.org/pdf/2208.04215.pdf)
+
+- (arXiv 2022.08) Distinctive Image **Captioning** via **CLIP** Guided Group Optimization, [[Paper]](https://arxiv.org/pdf/2208.04254.pdf)
+
+- (arXiv 2022.08) Understanding **Masked Image Modeling** via Learning Occlusion Invariant Feature, [[Paper]](https://arxiv.org/pdf/2208.04164.pdf)
+
+- (arXiv 2022.08) GRIT-VLP: Grouped Mini-batch Sampling for Efficient **Vision and Language** Pre-training, [[Paper]](https://arxiv.org/pdf/2208.04060.pdf), [[Code]](https://github.com/jaeseokbyun/GRIT-VLP)
+
+- (arXiv 2022.08) Advancing Plain Vision Transformer Towards **Remote Sensing** Foundation Model, [[Paper]](https://arxiv.org/pdf/2208.03987.pdf), [[Code]](https://github.com/ViTAE-Transformer/Remote-Sensing-RVSA)
+
+- (arXiv 2022.08) Domain Randomization-Enhanced Depth Simulation and Restoration for Perceiving and **Grasping** Specular and Transparent Objects, [[Paper]](https://arxiv.org/pdf/2208.03792.pdf), [[Code]](https://github.com/PKU-EPIC/DREDS)
+
+- (arXiv 2022.08) Jointformer: Single-Frame Lifting Transformer with Error Prediction and Refinement for **3D Human Pose Estimation**, [[Paper]](https://arxiv.org/pdf/2208.03704.pdf)
+
+- (arXiv 2022.08) Frozen **CLIP** Models are **Efficient Video** Learners, [[Paper]](https://arxiv.org/pdf/2208.03550.pdf), [[Code]](https://github.com/OpenGVLab/efficient-video-recognition)
+
+- (arXiv 2022.08) MonoViT: Self-Supervised **Monocular Depth Estimation** with a Vision Transformer, [[Paper]](https://arxiv.org/pdf/2208.03543.pdf), [[Code]](https://github.com/zxcqlf/MonoViT)
+
+- (arXiv 2022.08) HaloAE: An HaloNet based Local Transformer Auto-Encoder for **Anomaly Detection** and **Localization**, [[Paper]](https://arxiv.org/pdf/2208.03486.pdf), [[Code]](https://anonymous.4open.science/r/HaloAE-E27B/README.md)
+
+- (arXiv 2022.08) IVT: An End-to-End Instance-guided Video Transformer for **3D Pose Estimation**, [[Paper]](https://arxiv.org/pdf/2208.03431.pdf)
+
+- (arXiv 2022.08) A Sketch Is Worth a Thousand Words: **Image Retrieval** with **Text** and **Sketch**, [[Paper]](https://arxiv.org/pdf/2208.03354.pdf), [[Code]](https://janesjanes.github.io/tsbir/)
 
 - (arXiv 2022.08) PointConvFormer: Revenge of the **Point-based Convolution**, [[Paper]](https://arxiv.org/pdf/2208.02879.pdf)
 
