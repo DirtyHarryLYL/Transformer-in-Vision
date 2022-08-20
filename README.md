@@ -129,7 +129,37 @@ Keep updated.
 
 - (arXiv 2022.08) , [[Paper]]()
 
+- (arXiv 2022.08) , [[Paper]]()
+
+- (arXiv 2022.08) , [[Paper]]()
+
+- (arXiv 2022.08) , [[Paper]]()
+
+- (arXiv 2022.08) , [[Paper]]()
+
+- (arXiv 2022.08) , [[Paper]]()
+
+- (arXiv 2022.08) , [[Paper]]()
+
+- (arXiv 2022.08) , [[Paper]]()
+
+- (arXiv 2022.08) , [[Paper]]()
+
 - (arXiv 2022.08) , [[Paper]]() -->
+
+- (arXiv 2022.08) MILAN: **Masked Image Pretraining** on Language Assisted Representation, [[Paper]](https://arxiv.org/pdf/2208.06049.pdf), [[Code]](https://github.com/zejiangh/MILAN)
+
+- (arXiv 2022.08) Hybrid Transformer Network for **Deepfake Detection**, [[Paper]](https://arxiv.org/pdf/2208.05820.pdf)
+
+- (arXiv 2022.08) **Semi-supervised** Vision Transformers at Scale, [[Paper]](https://arxiv.org/pdf/2208.05688.pdf)
+
+- (arXiv 2022.08) PPMN: Pixel-Phrase Matching Network for One-Stage **Panoptic Narrative Grounding**, [[Paper]](https://arxiv.org/pdf/2208.05647.pdf), [[Code]](https://github.com/dzh19990407/PPMN)
+
+- (arXiv 2022.08) Exploring Anchor-based Detection for **Ego4D** Natural **Language Query**, [[Paper]](https://arxiv.org/pdf/2208.05375.pdf)
+
+- (arXiv 2022.08) Language Supervised Training for **Skeleton-based Action Recognition**, [[Paper]](https://arxiv.org/pdf/2208.05318.pdf), [[Code]](https://github.com/MartinXM/LST)
+
+- (arXiv 2022.08) Exploring Point-BEV Fusion for 3D **Point Cloud Object Tracking** with Transformer, [[Paper]](https://arxiv.org/pdf/2208.05216.pdf), [[Code]](https://github.com/Jasonkks/PTTR)
 
 - (arXiv 2022.08) Ghost-free **High Dynamic Range Imaging** with Context-aware Transformer, [[Paper]](https://arxiv.org/pdf/2208.05114.pdf), [[Code]](https://github.com/megvii-research/HDR-Transformer)
 
