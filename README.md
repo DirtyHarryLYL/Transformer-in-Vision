@@ -5,6 +5,8 @@ Keep updated.
 
 ## Resource
 
+- Stable Difffusion [[Page]](https://ommer-lab.com/research/latent-diffusion-models/), [[Paper]](https://arxiv.org/pdf/2112.10752.pdf)
+
 - Microsof NUWA-Infinity [[Page]](https://nuwa-infinity.microsoft.com/#/), [[Paper]](https://arxiv.org/pdf/2207.09814.pdf)
 
 - Google Parti [[Page]](https://parti.research.google/), [[Code]](https://github.com/google-research/parti)
@@ -131,21 +133,21 @@ Keep updated.
 
 - (arXiv 2022.08) , [[Paper]]()
 
-- (arXiv 2022.08) , [[Paper]]()
-
-- (arXiv 2022.08) , [[Paper]]()
-
-- (arXiv 2022.08) , [[Paper]]()
-
-- (arXiv 2022.08) , [[Paper]]()
-
-- (arXiv 2022.08) , [[Paper]]()
-
-- (arXiv 2022.08) , [[Paper]]()
-
-- (arXiv 2022.08) , [[Paper]]()
-
 - (arXiv 2022.08) , [[Paper]]() -->
+
+- (arXiv 2022.08) LLM.int8(): 8-bit **Matrix Multiplication** for Transformers at **Scale**, [[Paper]](https://arxiv.org/pdf/2208.07339.pdf)
+
+- (arXiv 2022.08) ExpansionNet v2: Block Static Expansion in fast end to end training for Image **Captioning**, [[Paper]](https://arxiv.org/pdf/2208.06551.pdf), [[Code]](https://github.com/jchenghu/ExpansionNet_v2)
+
+- (arXiv 2022.08) Multi-modal Transformer **Path Prediction** for Autonomous Vehicle, [[Paper]](https://arxiv.org/pdf/2208.07256.pdf)
+
+- (arXiv 2022.08) Flow-Guided Transformer for **Video Inpainting**, [[Paper]](https://arxiv.org/pdf/2208.06768.pdf), [[Code]](https://github.com/hitachinsk/FGT)
+
+- (arXiv 2022.08) TL;DW? **Summarizing Instructional Videos** with Task Relevance & Cross-Modal Saliency, [[Paper]](https://arxiv.org/pdf/2208.06773.pdf), [[Project]](https://medhini.github.io/ivsum/)
+
+- (arXiv 2022.08) HoW-3D: Holistic **3D Wireframe Perception** from a Single Image, [[Paper]](https://arxiv.org/pdf/2208.06999.pdf), [[Code]](https://github.com/Wenchao-M/HoW-3D)
+
+- (arXiv 2022.08) **BEIT V2**: **Masked Image Modeling** with Vector-Quantized Visual Tokenizers, [[Paper]](https://arxiv.org/pdf/2208.06366.pdf), [[Code]](https://github.com/microsoft/unilm)
 
 - (arXiv 2022.08) MILAN: **Masked Image Pretraining** on Language Assisted Representation, [[Paper]](https://arxiv.org/pdf/2208.06049.pdf), [[Code]](https://github.com/zejiangh/MILAN)
 
