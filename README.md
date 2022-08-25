@@ -133,7 +133,39 @@ Keep updated.
 
 - (arXiv 2022.08) , [[Paper]]()
 
+- (arXiv 2022.08) , [[Paper]]()
+
+- (arXiv 2022.08) , [[Paper]]()
+
+- (arXiv 2022.08) , [[Paper]]()
+
+- (arXiv 2022.08) , [[Paper]]()
+
 - (arXiv 2022.08) , [[Paper]]() -->
+
+- (arXiv 2022.08) Class-Aware Visual Prompt Tuning for **Vision-Language** Pre-Trained Model, [[Paper]](https://arxiv.org/pdf/2208.08340.pdf)
+
+- (arXiv 2022.08) Unifying Visual **Perception** by Dispersible **Points** Learning, [[Paper]](https://arxiv.org/pdf/2208.08630.pdf), [[Code]](https://github.com/Sense-X/UniHead)
+
+- (arXiv 2022.08) **Text-to-Image Generation** via Implicit Visual Guidance and Hypernetwork, [[Paper]](https://arxiv.org/pdf/2208.08493.pdf)
+
+- (arXiv 2022.08) ConMatch: **Semi-Supervised Learning** with Confidence-Guided Consistency Regularization, [[Paper]](https://arxiv.org/pdf/2208.08631.pdf), [[Code]](https://github.com/JiwonCocoder/ConMatch)
+
+- (arXiv 2022.08) The 8-Point Algorithm as an Inductive Bias for **Relative Pose Prediction** by ViTs, [[Paper]](https://arxiv.org/pdf/2208.08988.pdf)
+
+- (arXiv 2022.08) Open-Vocabulary **Panoptic Segmentation** with Mask**CLIP**, [[Paper]](https://arxiv.org/pdf/2208.08984.pdf)
+
+- (arXiv 2022.08) Prompt Vision Transformer for **Domain Generalization**, [[Paper]](https://arxiv.org/pdf/2208.08914.pdf)
+
+- (arXiv 2022.08) GSRFormer: **Grounded Situation Recognition** Transformer with Alternate Semantic Attention Refinement, [[Paper]](https://arxiv.org/pdf/2208.08965.pdf)
+
+- (arXiv 2022.08) CONVIFORMERS: **CONVOLUTIONALLY** GUIDED VISION TRANSFORMER, [[Paper]](https://arxiv.org/pdf/2208.08900.pdf)
+
+- (arXiv 2022.08) Learning Spatial-Frequency Transformer for Visual Object **Tracking**, [[Paper]](https://arxiv.org/pdf/2208.08829.pdf), [[Code]](https://github.com/Tchuanm/SFTransT.git)
+
+- (arXiv 2022.08) **Efficient** **Multimodal** Transformer with Dual-Level Feature Restoration for Robust Multimodal Sentiment Analysis, [[Paper]](https://arxiv.org/pdf/2208.07589.pdf)
+
+- (arXiv 2022.08) Your ViT is Secretly a Hybrid **Discriminative-Generative** **Diffusion** Model, [[Paper]](https://arxiv.org/pdf/2208.07791.pdf), [[Code]](https://github.com/sndnyang/Diffusion_ViT)
 
 - (arXiv 2022.08) LLM.int8(): 8-bit **Matrix Multiplication** for Transformers at **Scale**, [[Paper]](https://arxiv.org/pdf/2208.07339.pdf)
 
