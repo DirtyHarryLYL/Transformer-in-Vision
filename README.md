@@ -129,19 +129,19 @@ Keep updated.
 
 - (arXiv 2022.08) , [[Paper]]()
 
-- (arXiv 2022.08) , [[Paper]]()
-
-- (arXiv 2022.08) , [[Paper]]()
-
-- (arXiv 2022.08) , [[Paper]]()
-
-- (arXiv 2022.08) , [[Paper]]()
-
-- (arXiv 2022.08) , [[Paper]]()
-
-- (arXiv 2022.08) , [[Paper]]()
-
 - (arXiv 2022.08) , [[Paper]]() -->
+
+- (arXiv 2022.08) ILLUME: Rationalizing **Vision-Language** Models by Interacting with their Jabber, [[Paper]](https://arxiv.org/pdf/2208.08241.pdf)
+
+- (arXiv 2022.08) ViT-ReT: Vision and Recurrent Transformer Neural Networks for Human **Activity Recognition** in Videos, [[Paper]](https://arxiv.org/pdf/2208.07929.pdf)
+
+- (arXiv 2022.08) UniLayout: Taming Unified Sequence-to-Sequence Transformers for **Graphic Layout Generation**, [[Paper]](https://arxiv.org/pdf/2208.08037.pdf)
+
+- (arXiv 2022.08) InterTrack: Interaction Transformer for **3D Multi-Object Tracking**, [[Paper]](https://arxiv.org/pdf/2208.08041.pdf)
+
+- (arXiv 2022.08) Understanding **Attention** for **Vision-and-Language** Task, [[Paper]](https://arxiv.org/pdf/2208.08104.pdf)
+
+- (arXiv 2022.08) Towards **Open-vocabulary Scene Graph Generation** with Prompt-based Finetuning, [[Paper]](https://arxiv.org/pdf/2208.08165.pdf)
 
 - (arXiv 2022.08) Class-Aware Visual Prompt Tuning for **Vision-Language** Pre-Trained Model, [[Paper]](https://arxiv.org/pdf/2208.08340.pdf)
 
