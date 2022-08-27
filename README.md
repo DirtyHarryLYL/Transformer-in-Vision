@@ -129,7 +129,27 @@ Keep updated.
 
 - (arXiv 2022.08) , [[Paper]]()
 
+- (arXiv 2022.08) , [[Paper]]()
+
+- (arXiv 2022.08) , [[Paper]]()
+
 - (arXiv 2022.08) , [[Paper]]() -->
+
+- (arXiv 2022.08) **Dance Style Transfer** with Cross-modal Transformer, [[Paper]](https://arxiv.org/pdf/2208.09406.pdf)
+
+- (arXiv 2022.08) Improved **Image Classification** with Token Fusion , [[Paper]](https://arxiv.org/ftp/arxiv/papers/2208/2208.09183.pdf)
+
+- (arXiv 2022.08) VAuLT: Augmenting the **Vision-and-Language** Transformer with the Propagation of Deep Language Representations, [[Paper]](https://arxiv.org/pdf/2208.09021.pdf), [[Code]](https://github.com/gchochla/VAuLT)
+
+- (arXiv 2022.08) **TEXT TO IMAGE GENERATION**: LEAVING NO LANGUAGE BEHIND, [[Paper]](https://arxiv.org/pdf/2208.09333.pdf)
+
+- (arXiv 2022.08) Aspect-based **Sentiment Classification** with Sequential Cross-modal Semantic Graph, [[Paper]](https://arxiv.org/pdf/2208.09417.pdf)
+
+- (arXiv 2022.08) Diverse **Video Captioning** by Adaptive Spatio-temporal Attention, [[Paper]](https://arxiv.org/pdf/2208.09266.pdf)
+
+- (arXiv 2022.08) VL**MAE**: **Vision-Language** Masked Autoencoder, [[Paper]](https://arxiv.org/pdf/2208.09374.pdf)
+
+- (arXiv 2022.08) SoMoFormer: Social-Aware Motion Transformer for **Multi-Person Motion Prediction**, [[Paper]](https://arxiv.org/pdf/2208.09224.pdf)
 
 - (arXiv 2022.08) ILLUME: Rationalizing **Vision-Language** Models by Interacting with their Jabber, [[Paper]](https://arxiv.org/pdf/2208.08241.pdf)
 
