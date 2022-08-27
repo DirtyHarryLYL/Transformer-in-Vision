@@ -133,7 +133,31 @@ Keep updated.
 
 - (arXiv 2022.08) , [[Paper]]()
 
+- (arXiv 2022.08) , [[Paper]]()
+
 - (arXiv 2022.08) , [[Paper]]() -->
+
+- (arXiv 2022.08) M2HF: MULTI-LEVEL MULTI-MODAL HYBRID FUSION FOR **TEXT-VIDEO RETRIEVAL**, [[Paper]](https://arxiv.org/pdf/2208.07664.pdf)
+
+- (arXiv 2022.08) **Accelerating** Vision Transformer Training via a Patch Sampling Schedule, [[Paper]](https://arxiv.org/pdf/2208.09520.pdf), [[Project]](https://github.com/BradMcDanel/pss)
+
+- (arXiv 2022.08) A Dual Modality Approach For (Zero-Shot) **Multi-Label Classification**, [[Paper]](https://arxiv.org/pdf/2208.09562.pdf)
+
+- (arXiv 2022.08) Offline **Handwritten Mathematical Recognition** using Adversarial Learning and Transformers, [[Paper]](https://arxiv.org/pdf/2208.09662.pdf)
+
+- (arXiv 2022.08) Semantic-enhanced Image **Clustering**, [[Paper]](https://arxiv.org/pdf/2208.09849.pdf)
+
+- (arXiv 2022.08) DPTNet: A Dual-Path Transformer Architecture for **Scene Text Detection**, [[Paper]](https://arxiv.org/pdf/2208.09878.pdf)
+
+- (arXiv 2022.08) ProtoPFormer: Concentrating on Prototypical Parts in Vision Transformers for **Interpretable Image Recognition**, [[Paper]](https://arxiv.org/pdf/2208.10431.pdf), [[Code]](https://github.com/zju-vipa/ProtoPFormer)
+
+- (arXiv 2022.08) Image as a Foreign Language: BEIT Pretraining for All Vision and **Vision-Language** Tasks, [[Paper]](https://arxiv.org/pdf/2208.10442.pdf), [[Project]](https://aka.ms/beit-3)
+
+- (arXiv 2022.08) PoseBERT: A Generic Transformer Module for **Temporal 3D Human Modeling**, [[Paper]](https://arxiv.org/pdf/2208.10211.pdf), [[Code]](https://github.com/naver/posebert)
+
+- (arXiv 2022.08) **EFFICIENT** ATTENTION-FREE **VIDEO** SHIFT TRANSFORMERS, [[Paper]](https://arxiv.org/pdf/2208.11108.pdf)
+
+- (arXiv 2022.08) Flat Multi-modal Interaction Transformer for **Named Entity Recognition**, [[Paper]](https://arxiv.org/pdf/2208.11039.pdf)
 
 - (arXiv 2022.08) **Dance Style Transfer** with Cross-modal Transformer, [[Paper]](https://arxiv.org/pdf/2208.09406.pdf)
 
