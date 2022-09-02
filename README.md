@@ -107,6 +107,18 @@ Keep updated.
 
 ## Recent Papers
 
+### 2022.09
+
+<!-- - (arXiv 2022.09) , [[Paper]]()
+
+- (arXiv 2022.09) , [[Paper]]()
+
+- (arXiv 2022.09) , [[Paper]]()
+
+- (arXiv 2022.09) , [[Paper]]()
+
+- (arXiv 2022.09) , [[Paper]]() -->
+
 ### 2022.08
 
 <!-- - (arXiv 2022.08) , [[Paper]]()
@@ -133,9 +145,9 @@ Keep updated.
 
 - (arXiv 2022.08) , [[Paper]]()
 
-- (arXiv 2022.08) , [[Paper]]()
-
 - (arXiv 2022.08) , [[Paper]]() -->
+
+- (arXiv 2022.08) **EFFICIENT** SPARSELY ACTIVATED TRANSFORMERS, [[Paper]](https://arxiv.org/pdf/2208.14580.pdf)
 
 - (arXiv 2022.08) M2HF: MULTI-LEVEL MULTI-MODAL HYBRID FUSION FOR **TEXT-VIDEO RETRIEVAL**, [[Paper]](https://arxiv.org/pdf/2208.07664.pdf)
 
