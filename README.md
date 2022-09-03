@@ -129,23 +129,37 @@ Keep updated.
 
 - (arXiv 2022.08) , [[Paper]]()
 
-- (arXiv 2022.08) , [[Paper]]()
-
-- (arXiv 2022.08) , [[Paper]]()
-
-- (arXiv 2022.08) , [[Paper]]()
-
-- (arXiv 2022.08) , [[Paper]]()
-
-- (arXiv 2022.08) , [[Paper]]()
-
-- (arXiv 2022.08) , [[Paper]]()
-
-- (arXiv 2022.08) , [[Paper]]()
-
-- (arXiv 2022.08) , [[Paper]]()
-
 - (arXiv 2022.08) , [[Paper]]() -->
+
+- (arXiv 2022.08) g**Swin**: Gated **MLP** Vision Model with Hierarchical Structure of Shifted Window, [[Paper]](https://arxiv.org/pdf/2208.11718.pdf)
+
+- (arXiv 2022.08) Adaptive Perception Transformer for **Temporal Action Localization**, [[Paper]](https://arxiv.org/pdf/2208.11908.pdf), [[Code]](https://github.com/SouperO/AdaPerFormer)
+
+- (arXiv 2022.08) Symbolic Replay: **Scene Graph** as Prompt for Continual Learning on **VQA** Task, [[Paper]](https://arxiv.org/pdf/2208.12037.pdf), [[Code]](https://github.com/showlab/CLVQA)
+
+- (arXiv 2022.08) **Masked** Autoencoders Enable Efficient **Knowledge Distillers**, [[Paper]](https://arxiv.org/pdf/2208.12256.pdf), [[Code]](https://github.com/UCSC-VLAA/DMAE)
+
+- (arXiv 2022.08) LaTe**RF**: Label and **Text** Driven Object Radiance Fields, [[Paper]](https://arxiv.org/pdf/2207.01583.pdf)
+
+- (arXiv 2022.08) Video Mobile-Former: **Video Recognition** with **Efficient** Global Spatial-temporal Modeling, [[Paper]](https://arxiv.org/pdf/2208.12257.pdf)
+
+- (arXiv 2022.08) Pix4Point: Image Pretrained Transformers for 3D **Point Cloud Understanding**, [[Paper]](https://arxiv.org/pdf/2208.12259.pdf), [[Code]](https://github.com/guochengqian/Pix4Point)
+
+- (arXiv 2022.08) Mask**CLIP**: **Masked** Self-Distillation Advances Contrastive Language-Image Pretraining, [[Paper]](https://arxiv.org/pdf/2208.12262.pdf)
+
+- (arXiv 2022.08) Visual Subtitle Feature Enhanced **Video Outline Generation**, [[Paper]](https://arxiv.org/pdf/2208.11307.pdf), [[Code]](https://github.com/Aopolin-Lv/VSENet)
+
+- (arXiv 2022.08) CATS: COMPLEMENTARY **CNN** AND TRANSFORMER ENCODERS FOR **SEGMENTATION**, [[Paper]](https://arxiv.org/pdf/2208.11572.pdf)
+
+- (arXiv 2022.08) Modeling Paragraph-Level **Vision-Language** Semantic Alignment for Multi-Modal Summarization, [[Paper]](https://arxiv.org/pdf/2208.11303.pdf)
+
+- (arXiv 2022.08) Fashion**VQA**: A Domain-Specific Visual Question Answering System, [[Paper]](https://arxiv.org/pdf/2208.11253.pdf)
+
+- (arXiv 2022.08) K-ORDER GRAPH-ORIENTED TRANSFORMER WITH GRAATTENTION FOR **3D POSE AND SHAPE ESTIMATION**, [[Paper]](https://arxiv.org/pdf/2208.11328.pdf)
+
+- (arXiv 2022.08) Towards **Efficient** Use of Multi-Scale Features in Transformer-Based Object **Detectors**, [[Paper]](https://arxiv.org/pdf/2208.11356.pdf), [[Code]](https://github.com/ZhangGongjie/IMFA)
+
+- (arXiv 2022.08) Improving **video retrieval** using **multilingual** knowledge transfer, [[Paper]](https://arxiv.org/pdf/2208.11553.pdf)
 
 - (arXiv 2022.08) **EFFICIENT** SPARSELY ACTIVATED TRANSFORMERS, [[Paper]](https://arxiv.org/pdf/2208.14580.pdf)
 
