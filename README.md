@@ -131,6 +131,36 @@ Keep updated.
 
 - (arXiv 2022.08) , [[Paper]]() -->
 
+- (arXiv 2022.08) ASpanFormer: Detector-Free **Image Matching** with Adaptive Span Transformer, [[Paper]](https://arxiv.org/pdf/2208.14201.pdf)
+
+- (arXiv 2022.08) Robust Sound-Guided **Image Manipulation**, [[Paper]](https://arxiv.org/pdf/2208.14114.pdf)
+
+- (arXiv 2022.08) TrojViT: **Trojan Insertion** in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2208.13049.pdf)
+
+- (arXiv 2022.08) User-Controllable Latent Transformer for StyleGAN **Image Layout Editing**, [[Paper]](https://arxiv.org/pdf/2208.12408.pdf)
+
+- (arXiv 2022.08) Few-Shot Learning Meets Transformer: Unified Query-Support Transformers for **Few-Shot Classification**, [[Paper]](https://arxiv.org/pdf/2208.12398.pdf)
+
+- (arXiv 2022.08) JARVIS: A Neuro-Symbolic Commonsense Reasoning Framework for Conversational **Embodied Agents**, [[Paper]](https://arxiv.org/pdf/2208.13266.pdf)
+
+- (arXiv 2022.08) TFusion: Transformer based N-to-One **Multimodal** Fusion Block, [[Paper]](https://arxiv.org/pdf/2208.12776.pdf)
+
+- (arXiv 2022.08) VMFormer: End-to-End **Video Matting** with Transformer, [[Paper]](https://arxiv.org/pdf/2208.12801.pdf), [[Code]](https://chrisjuniorli.github.io/project/VMFormer/)
+
+- (arXiv 2022.08) LOGICRANK: Logic Induced Reranking for Generative **Text-to-Image** Systems, [[Paper]](https://arxiv.org/pdf/2208.13518.pdf)
+
+- (arXiv 2022.08) CLUSTR: EXPLORING **EFFICIENT SELF-ATTENTION** VIA CLUSTERING FOR VISION TRANSFORMERS, [[Paper]](https://arxiv.org/pdf/2208.13138.pdf)
+
+- (arXiv 2022.08) **Federated Zero-Shot Learning** with Mid-Level Semantic Knowledge Transfer, [[Paper]](https://arxiv.org/pdf/2208.13465.pdf)
+
+- (arXiv 2022.08) **Prompt Tuning** with Soft Context Sharing for **Vision-Language** Models, [[Paper]](https://arxiv.org/pdf/2208.13474.pdf)
+
+- (arXiv 2022.08) Efficient **Vision-Language** Pretraining with Visual Concepts and Hierarchical Alignment, [[Paper]](https://arxiv.org/pdf/2208.13628.pdf), [[Code]](https://github.com/mshukor/ViCHA)
+
+- (arXiv 2022.08) CounTR: Transformer-based Generalised Visual **Counting**, [[Paper]](https://arxiv.org/pdf/2208.13721.pdf), [[Code]](https://verg-avesta.github.io/CounTR_Webpage/)
+
+- (arXiv 2022.08) **Open-Set** Semi-Supervised Object **Detection**, [[Paper]](https://arxiv.org/pdf/2208.13722.pdf)
+
 - (arXiv 2022.08) g**Swin**: Gated **MLP** Vision Model with Hierarchical Structure of Shifted Window, [[Paper]](https://arxiv.org/pdf/2208.11718.pdf)
 
 - (arXiv 2022.08) Adaptive Perception Transformer for **Temporal Action Localization**, [[Paper]](https://arxiv.org/pdf/2208.11908.pdf), [[Code]](https://github.com/SouperO/AdaPerFormer)
