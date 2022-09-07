@@ -115,9 +115,9 @@ Keep updated.
 
 - (arXiv 2022.09) , [[Paper]]()
 
-- (arXiv 2022.09) , [[Paper]]()
-
 - (arXiv 2022.09) , [[Paper]]() -->
+
+- (arXiv 2022.09) RLIP: Relational **Language-Image** Pre-training for **Human-Object Interaction** Detection, [[Paper]](https://arxiv.org/pdf/2209.01814.pdf), [[Code]](https://github.com/JacobYuan7/RLIP)
 
 ### 2022.08
 
