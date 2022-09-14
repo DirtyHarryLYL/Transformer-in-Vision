@@ -115,21 +115,43 @@ Keep updated.
 
 - (arXiv 2022.09) , [[Paper]]()
 
+- (arXiv 2022.09) , [[Paper]]()
+
+- (arXiv 2022.09) , [[Paper]]()
+
+- (arXiv 2022.09) , [[Paper]]()
+
+- (arXiv 2022.09) , [[Paper]]()
+
+- (arXiv 2022.09) , [[Paper]]()
+
+- (arXiv 2022.09) , [[Paper]]()
+
+- (arXiv 2022.09) , [[Paper]]()
+
+- (arXiv 2022.09) , [[Paper]]()
+
 - (arXiv 2022.09) , [[Paper]]() -->
+
+- (arXiv 2022.09) Video-Guided Curriculum Learning for **Spoken Video Grounding**, [[Paper]](https://arxiv.org/pdf/2209.00277.pdf), [[Code]](https://github.com/marmot-xy/Spoken-Video-Grounding)
+
+- (arXiv 2022.09) FLAME: Free-form Language-based **Motion Synthesis** & **Editing**, [[Paper]](https://arxiv.org/pdf/2209.00349.pdf)
+
+- (arXiv 2022.09) TOKENCUT: **SEGMENTING** OBJECTS IN IMAGES AND VIDEOS WITH SELF-SUPERVISED TRANSFORMER AND NORMALIZED CUT, [[Paper]](https://arxiv.org/pdf/2209.00383.pdf), [[Code]](https://www.m-psi.fr/Papers/TokenCut2022/)
+
+- (arXiv 2022.09) Unified Fully and Timestamp Supervised **Temporal Action Segmentation** via Sequence to Sequence Translation, [[Paper]](https://arxiv.org/pdf/2209.00638.pdf)
+
+- (arXiv 2022.09) MAPLE: Masked Pseudo-Labeling autoEncoder for Semi-supervised **Point Cloud Action Recognition**, [[Paper]](https://arxiv.org/pdf/2209.00407.pdf), [[Project]](http://xiaodongchen.cn/MAPLE/)
+
+- (arXiv 2022.09) **Visual Prompting** via Image Inpainting, [[Paper]](https://arxiv.org/pdf/2209.00647.pdf), [[Project]](https://yossigandelsman.github.io/visual_prompt)
 
 - (arXiv 2022.09) RLIP: Relational **Language-Image** Pre-training for **Human-Object Interaction** Detection, [[Paper]](https://arxiv.org/pdf/2209.01814.pdf), [[Code]](https://github.com/JacobYuan7/RLIP)
 
 ### 2022.08
 
-<!-- - (arXiv 2022.08) , [[Paper]]()
+- (arXiv 2022.08) SoMoFormer: **Multi-Person Pose Forecasting** with Transformers, [[Paper]](https://arxiv.org/pdf/2208.14023.pdf)
 
-- (arXiv 2022.08) , [[Paper]]()
-
-- (arXiv 2022.08) , [[Paper]]()
-
-- (arXiv 2022.08) , [[Paper]]()
-
-- (arXiv 2022.08) , [[Paper]]() -->
+- (arXiv 2022.08) A Circular Window-based Cascade Transformer for **Online Action Detection**, [[Paper]](https://arxiv.org/pdf/2208.14209.pdf)
 
 - (arXiv 2022.08) ASpanFormer: Detector-Free **Image Matching** with Adaptive Span Transformer, [[Paper]](https://arxiv.org/pdf/2208.14201.pdf)
 
