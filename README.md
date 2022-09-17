@@ -49,6 +49,8 @@ Keep updated.
 
 ## Survey
 
+- (arXiv 2022.09) Transformers in **Remote Sensing**: A Survey, [[Paper]](https://arxiv.org/pdf/2209.01206.pdf), [[Code]](https://github.com/VIROBO-15/Transformer-in-Remote-Sensing)
+
 - (arXiv 2022.08) **3D Vision** with Transformers: A Survey, [[Paper]](https://arxiv.org/pdf/2208.04309.pdf), [[Code]](https://github.com/lahoud/3d-vision-transformers)
 
 - (arXiv 2022.08) A Survey on **Masked Autoencoder** for Self-supervised Learning in Vision and Beyond, [[Paper]](https://arxiv.org/pdf/2208.00173.pdf)
@@ -125,13 +127,13 @@ Keep updated.
 
 - (arXiv 2022.09) , [[Paper]]()
 
-- (arXiv 2022.09) , [[Paper]]()
-
-- (arXiv 2022.09) , [[Paper]]()
-
-- (arXiv 2022.09) , [[Paper]]()
-
 - (arXiv 2022.09) , [[Paper]]() -->
+
+- (arXiv 2022.09) Zero-Shot Multi-Modal **Artist-Controlled Retrieval** and **Exploration** of **3D** Object Sets, [[Paper]](https://arxiv.org/pdf/2209.00682.pdf)
+
+- (arXiv 2022.09) Geometry Aligned Variational Transformer for **Image-conditioned Layout Generation**, [[Paper]](https://arxiv.org/pdf/2209.00852.pdf)
+
+- (arXiv 2022.09) Real-time **3D** Single Object **Tracking** with Transformer, [[Paper]](https://arxiv.org/pdf/2209.00860.pdf), [[Code]](https://github.com/shanjiayao/PTT)
 
 - (arXiv 2022.09) Video-Guided Curriculum Learning for **Spoken Video Grounding**, [[Paper]](https://arxiv.org/pdf/2209.00277.pdf), [[Code]](https://github.com/marmot-xy/Spoken-Video-Grounding)
 
@@ -148,6 +150,24 @@ Keep updated.
 - (arXiv 2022.09) RLIP: Relational **Language-Image** Pre-training for **Human-Object Interaction** Detection, [[Paper]](https://arxiv.org/pdf/2209.01814.pdf), [[Code]](https://github.com/JacobYuan7/RLIP)
 
 ### 2022.08
+
+- (arXiv 2022.08) On Grounded Planning for **Embodied** Tasks with Language Models, [[Paper]](https://arxiv.org/pdf/2209.00465.pdf), [[Project]](https://inklab.usc.edu/G-PlanET/)
+
+- (arXiv 2022.08) **Group Activity Recognition** in Basketball Tracking Data - Neural Embeddings in Team Sports (NETS), [[Paper]](https://arxiv.org/pdf/2209.00451.pdf)
+
+- (arXiv 2022.08) SWIN-TRANSFORMER-YOLOV5 FOR REAL-TIME WINE GRAPE BUNCH **DETECTION**, [[Paper]](https://arxiv.org/pdf/2208.14508.pdf)
+
+- (arXiv 2022.08) SIM-Trans: Structure Information Modeling Transformer for **Fine-grained Visual Categorization**, [[Paper]](https://arxiv.org/pdf/2208.14607.pdf), [[Code]](https://github.com/PKU-ICST-MIPL/SIM-Trans_ACMMM2022)
+
+- (arXiv 2022.08) INJECTING **IMAGE DETAILS** INTO **CLIP**’S FEATURE SPACE, [[Paper]](https://arxiv.org/pdf/2208.14649.pdf)
+
+- (arXiv 2022.08) Hierarchical Local-Global Transformer for **Temporal Sentence Grounding**, [[Paper]](https://arxiv.org/pdf/2208.14882.pdf)
+
+- (arXiv 2022.08) EViT: **Privacy**-Preserving **Image Retrieval** via Encrypted Vision Transformer in Cloud Computing, [[Paper]](https://arxiv.org/pdf/2208.14657.pdf)
+
+- (arXiv 2022.08) TRUST: An Accurate and End-to-End **Table structure Recognizer** Using Splitting-based Transformers, [[Paper]](https://arxiv.org/pdf/2208.14687.pdf)
+
+- (arXiv 2022.08) ELMformer: Efficient Raw **Image Restoration** with a Locally Multiplicative Transformer, [[Paper]](https://arxiv.org/pdf/2208.14704.pdf), [[Code]](https://github.com/leonmakise/ELMformer)
 
 - (arXiv 2022.08) SoMoFormer: **Multi-Person Pose Forecasting** with Transformers, [[Paper]](https://arxiv.org/pdf/2208.14023.pdf)
 
