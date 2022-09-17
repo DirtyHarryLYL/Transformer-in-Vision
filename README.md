@@ -127,7 +127,47 @@ Keep updated.
 
 - (arXiv 2022.09) , [[Paper]]()
 
+- (arXiv 2022.09) , [[Paper]]()
+
+- (arXiv 2022.09) , [[Paper]]()
+
+- (arXiv 2022.09) , [[Paper]]()
+
+- (arXiv 2022.09) , [[Paper]]()
+
+- (arXiv 2022.09) , [[Paper]]()
+
+- (arXiv 2022.09) , [[Paper]]()
+
+- (arXiv 2022.09) , [[Paper]]()
+
+- (arXiv 2022.09) , [[Paper]]()
+
+- (arXiv 2022.09) , [[Paper]]()
+
+- (arXiv 2022.09) , [[Paper]]()
+
+- (arXiv 2022.09) , [[Paper]]()
+
+- (arXiv 2022.09) , [[Paper]]()
+
+- (arXiv 2022.09) , [[Paper]]()
+
 - (arXiv 2022.09) , [[Paper]]() -->
+
+- (arXiv 2022.09) VITKD: PRACTICAL GUIDELINES FOR VIT FEATURE **KNOWLEDGE DISTILLATION**, [[Paper]](https://arxiv.org/pdf/2209.02432.pdf), [[Code]](https://github.com/yzd-v/cls_KD)
+
+- (arXiv 2022.09) DPIT: Dual-Pipeline Integrated Transformer for Human **Pose Estimation**, [[Paper]](https://arxiv.org/pdf/2209.02431.pdf)
+
+- (arXiv 2022.09) SkeletonMAE: Spatial-Temporal **Masked Autoencoders** for Self-supervised **Skeleton Action Recognition**, [[Paper]](https://arxiv.org/pdf/2209.02399.pdf)
+
+- (arXiv 2022.09) What does a platypus look like? Generating customized prompts for **zero-shot image classification**, [[Paper]](https://arxiv.org/pdf/2209.03320.pdf), [[Code]](https://github.com/sarahpratt/CuPL)
+
+- (arXiv 2022.09) AI Illustrator: Translating Raw Descriptions into **Images** by **Prompt**-based Cross-Modal **Generation**, [[Paper]](https://arxiv.org/pdf/2209.03160.pdf), [[Code]](https://github.com/researchmm/AI_Illustrator)
+
+- (arXiv 2022.09) MimCo: **Masked** Image Modeling Pre-training with Contrastive Teacher, [[Paper]](https://arxiv.org/pdf/2209.03063.pdf)
+
+- (arXiv 2022.09) **Multi-modal** Contrastive Representation Learning for **Entity Alignment**, [[Paper]](https://arxiv.org/pdf/2209.00891.pdf)
 
 - (arXiv 2022.09) Zero-Shot Multi-Modal **Artist-Controlled Retrieval** and **Exploration** of **3D** Object Sets, [[Paper]](https://arxiv.org/pdf/2209.00682.pdf)
 
