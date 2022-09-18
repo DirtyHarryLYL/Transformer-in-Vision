@@ -139,21 +139,41 @@ Keep updated.
 
 - (arXiv 2022.09) , [[Paper]]()
 
-- (arXiv 2022.09) , [[Paper]]()
-
-- (arXiv 2022.09) , [[Paper]]()
-
-- (arXiv 2022.09) , [[Paper]]()
-
-- (arXiv 2022.09) , [[Paper]]()
-
-- (arXiv 2022.09) , [[Paper]]()
-
-- (arXiv 2022.09) , [[Paper]]()
-
-- (arXiv 2022.09) , [[Paper]]()
-
 - (arXiv 2022.09) , [[Paper]]() -->
+
+- (arXiv 2022.09) FETA: Towards Specializing **Foundation Models** for **Expert Task** Applications, [[Paper]](https://arxiv.org/pdf/2209.03648.pdf)
+
+- (arXiv 2022.09) Prior Knowledge-Guided **Attention** in Self-Supervised Vision Transformers, [[Paper]](https://arxiv.org/pdf/2209.03745.pdf)
+
+- (arXiv 2022.09) Exploring Target Representations for **Masked Autoencoders**, [[Paper]](https://arxiv.org/pdf/2209.03917.pdf)
+
+- (arXiv 2022.09) ISS: IMAGE AS STEPPING STONE FOR **TEXT-GUIDED 3D SHAPE GENERATION**, [[Paper]](https://arxiv.org/pdf/2209.04145.pdf)
+
+- (arXiv 2022.09) Towards Confidence-guided **Shape Completion** for **Robotic** Applications, [[Paper]](https://arxiv.org/pdf/2209.04300.pdf), [[Code]](https://github.com/andrearosasco/hyperpcr)
+
+- (arXiv 2022.09) Pre-training **image-language** transformers for **open-vocabulary** tasks, [[Paper]](https://arxiv.org/pdf/2209.04372.pdf)
+
+- (arXiv 2022.09) Improved Masked **Image Generation** with Token-Critic, [[Paper]](https://arxiv.org/pdf/2209.04439.pdf)
+
+- (arXiv 2022.09) Do As I Can, Not As I Say: **Grounding Language** in **Robotic** Affordances, [[Paper]](https://arxiv.org/pdf/2204.01691.pdf), [[Code]](https://say-can.github.io/)
+
+- (arXiv 2022.09) Uformer-ICS: A Specialized U-Shaped Transformer for **Image Compressive Sensing**, [[Paper]](https://arxiv.org/pdf/2209.01763.pdf)
+
+- (arXiv 2022.09) An Empirical Study of End-to-End **Video-Language** Transformers with **Masked** Visual Modeling, [[Paper]](https://arxiv.org/pdf/2209.01540.pdf)
+
+- (arXiv 2022.09) Spatial-Temporal Transformer for **Video Snapshot Compressive Imaging**, [[Paper]](https://arxiv.org/pdf/2209.01578.pdf), [[Code]](https://github.com/ucaswangls/STFormer)
+
+- (arXiv 2022.09) MAFormer: A Transformer Network with Multi-scale **Attention** Fusion for Visual Recognition, [[Paper]](https://arxiv.org/pdf/2209.01620.pdf)
+
+- (arXiv 2022.09) SEFormer: Structure Embedding Transformer for **3D Object Detection**, [[Paper]](https://arxiv.org/pdf/2209.01745.pdf)
+
+- (arXiv 2022.09) ADTR: **Anomaly Detection** Transformer with Feature Reconstruction, [[Paper]](https://arxiv.org/pdf/2209.01816.pdf)
+
+- (arXiv 2022.09) Learning Canonical Embeddings for Unsupervised Shape **Correspondence** with Locally Linear Transformations, [[Paper]](https://arxiv.org/pdf/2209.02152.pdf)
+
+- (arXiv 2022.09) Transformer-CNN Cohort: **Semi-supervised Semantic Segmentation** by the Best of Both Students, [[Paper]](https://arxiv.org/pdf/2209.02178.pdf)
+
+- (arXiv 2022.09) PTSEFormer: Progressive Temporal-Spatial Enhanced TransFormer Towards **Video Object Detection**, [[Paper]](https://arxiv.org/pdf/2209.02242.pdf), [[Code]](https://github.com/Hon-Wong/PTSEFormer)
 
 - (arXiv 2022.09) VITKD: PRACTICAL GUIDELINES FOR VIT FEATURE **KNOWLEDGE DISTILLATION**, [[Paper]](https://arxiv.org/pdf/2209.02432.pdf), [[Code]](https://github.com/yzd-v/cls_KD)
 
