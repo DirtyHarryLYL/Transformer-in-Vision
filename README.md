@@ -135,11 +135,11 @@ Keep updated.
 
 - (arXiv 2022.09) , [[Paper]]()
 
-- (arXiv 2022.09) , [[Paper]]()
-
-- (arXiv 2022.09) , [[Paper]]()
-
 - (arXiv 2022.09) , [[Paper]]() -->
+
+- (arXiv 2022.09) GLOBAL PROTOTYPE ENCODING FOR INCREMENTAL **VIDEO HIGHLIGHTS DETECTION**, [[Paper]](https://arxiv.org/pdf/2209.05166.pdf), [[Code]](https://github.com/ForeverPs/GPE)
+
+- (arXiv 2022.09) Self-Supervised Multimodal Fusion Transformer for **Passive Activity Recognition**, [[Paper]](https://arxiv.org/pdf/2209.03765.pdf)
 
 - (arXiv 2022.09) FETA: Towards Specializing **Foundation Models** for **Expert Task** Applications, [[Paper]](https://arxiv.org/pdf/2209.03648.pdf)
 
