@@ -137,13 +137,13 @@ Keep updated.
 
 - (arXiv 2022.09) , [[Paper]]()
 
-- (arXiv 2022.09) , [[Paper]]()
-
-- (arXiv 2022.09) , [[Paper]]()
-
-- (arXiv 2022.09) , [[Paper]]()
-
 - (arXiv 2022.09) , [[Paper]]() -->
+
+- (arXiv 2022.09) PaLI: A Jointly-Scaled **Multilingual** **Language-Image** Model, [[Paper]](https://arxiv.org/pdf/2209.06794.pdf)
+
+- (arXiv 2022.09) MUST-VQA: MUltilingual Scene-text **VQA**, [[Paper]](https://arxiv.org/pdf/2209.06730.pdf), [[Code]](https://www.ethnologue.com/enterprise-faq/how-many-languages-world-are-unwritten-0)
+
+- (arXiv 2022.09) Leveraging Large Language Models for **Robot 3D Scene Understanding**, [[Paper]](https://arxiv.org/pdf/2209.05629.pdf), [[Code]](https://github.com/MIT-SPARK/llm_scene_understanding)
 
 - (arXiv 2022.09) A lightweight Transformer-based model for **fish landmark detection**, [[Paper]](https://arxiv.org/pdf/2209.05777.pdf)
 
