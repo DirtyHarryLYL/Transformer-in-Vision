@@ -49,6 +49,8 @@ Keep updated.
 
 ## Survey
 
+- (arXiv 2022.09) VISION TRANSFORMERS FOR **ACTION RECOGNITION**: A SURVEY, [[Paper]](https://arxiv.org/pdf/2209.05700.pdf)
+
 - (arXiv 2022.09) Transformers in **Remote Sensing**: A Survey, [[Paper]](https://arxiv.org/pdf/2209.01206.pdf), [[Code]](https://github.com/VIROBO-15/Transformer-in-Remote-Sensing)
 
 - (arXiv 2022.08) **3D Vision** with Transformers: A Survey, [[Paper]](https://arxiv.org/pdf/2208.04309.pdf), [[Code]](https://github.com/lahoud/3d-vision-transformers)
@@ -135,7 +137,43 @@ Keep updated.
 
 - (arXiv 2022.09) , [[Paper]]()
 
+- (arXiv 2022.09) , [[Paper]]()
+
+- (arXiv 2022.09) , [[Paper]]()
+
+- (arXiv 2022.09) , [[Paper]]()
+
 - (arXiv 2022.09) , [[Paper]]() -->
+
+- (arXiv 2022.09) A lightweight Transformer-based model for **fish landmark detection**, [[Paper]](https://arxiv.org/pdf/2209.05777.pdf)
+
+- (arXiv 2022.09) PSAQ-ViT V2: Towards Accurate and General Data-Free **Quantization** for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2209.05687.pdf), [[Code]](https://github.com/zkkli/PSAQ-ViT)
+
+- (arXiv 2022.09) ComplETR: Reducing the cost of annotations for object **detection** in dense scenes with vision transformers, [[Paper]](https://arxiv.org/pdf/2209.05654.pdf)
+
+- (arXiv 2022.09) Semantic2Graph: Graph-based Multi-modal Feature for **Action Segmentation** in **Videos**, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2209/2209.05653.pdf)
+
+- (arXiv 2022.09) CenterFormer: Center-based Transformer for **3D Object Detection**, [[Paper]](https://arxiv.org/pdf/2209.05588.pdf), [[Code]](https://github.com/TuSimple/centerformer)
+
+- (arXiv 2022.09) PreSTU: Pre-Training for **Scene-Text** Understanding, [[Paper]](https://arxiv.org/pdf/2209.05534.pdf)
+
+- (arXiv 2022.09) OmDet: Language-Aware Object **Detection** with Large-scale **Vision-Language** Multi-dataset Pre-training, [[Paper]](https://arxiv.org/pdf/2209.05946.pdf)
+
+- (arXiv 2022.09) DMTNet: Dynamic Multi-scale Network for Dual-pixel Images **Defocus Deblurring** with Transformer, [[Paper]](https://arxiv.org/pdf/2209.06040.pdf)
+
+- (arXiv 2022.09) SeRP: Self-Supervised Representation Learning Using Perturbed **Point Clouds**, [[Paper]](https://arxiv.org/pdf/2209.06067.pdf)
+
+- (arXiv 2022.09) VL-Taboo: An Analysis of Attribute-based Zero-shot Capabilities of **Vision-Language** Models, [[Paper]](https://arxiv.org/pdf/2209.06103.pdf)
+
+- (arXiv 2022.09) Story**DALL-E**: Adapting Pretrained Text-to-Image Transformers for **Story Continuation**, [[Paper]](https://arxiv.org/pdf/2209.06192.pdf), [[Code]](https://github.com/adymaharana/storydalle)
+
+- (arXiv 2022.09) ON THE **COMPUTATIONAL COMPLEXITY** OF SELF-ATTENTION, [[Paper]](https://arxiv.org/pdf/2209.04881.pdf)
+
+- (arXiv 2022.09) Instruction-driven history-aware policies for **robotic manipulations**, [[Paper]](https://arxiv.org/pdf/2209.04899.pdf), [[Code]](https://guhur.github.io/hiveformer/)
+
+- (arXiv 2022.09) Towards Multi-Lingual **Visual Question Answering**, [[Paper]](https://arxiv.org/pdf/2209.05401.pdf)
+
+- (arXiv 2022.09) PERCEIVER-ACTOR: A Multi-Task Transformer for **Robotic Manipulation**, [[Paper]](https://arxiv.org/pdf/2209.05451.pdf), [[Project]](https://peract.github.io/)
 
 - (arXiv 2022.09) GLOBAL PROTOTYPE ENCODING FOR INCREMENTAL **VIDEO HIGHLIGHTS DETECTION**, [[Paper]](https://arxiv.org/pdf/2209.05166.pdf), [[Code]](https://github.com/ForeverPs/GPE)
 
