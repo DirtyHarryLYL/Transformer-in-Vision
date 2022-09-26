@@ -137,7 +137,23 @@ Keep updated.
 
 - (arXiv 2022.09) , [[Paper]]()
 
+- (arXiv 2022.09) , [[Paper]]()
+
+- (arXiv 2022.09) , [[Paper]]()
+
+- (arXiv 2022.09) , [[Paper]]()
+
 - (arXiv 2022.09) , [[Paper]]() -->
+
+- (arXiv 2022.09) Revisiting Neural **Scaling Laws** in Language and Vision, [[Paper]](https://arxiv.org/pdf/2209.06640.pdf)
+
+- (arXiv 2022.09) Small Transformers Compute Universal **Metric Embeddings**, [[Paper]](https://arxiv.org/pdf/2209.06788.pdf)
+
+- (arXiv 2022.09) **CLIP**-ViP: Adapting Pre-trained Image-Text Model to **Video-Language** Representation Alignment, [[Paper]](https://arxiv.org/pdf/2209.06430.pdf), [[Code]](https://github.com/microsoft/XPretrain/tree/main/CLIP-ViP)
+
+- (arXiv 2022.09) CRAFT: Camera-Radar **3D Object Detection** with Spatio-Contextual Fusion Transformer, [[Paper]](https://arxiv.org/pdf/2209.06535.pdf)
+
+- (arXiv 2022.09) Transformers and CNNs both Beat Humans on **SBIR**, [[Paper]](https://arxiv.org/pdf/2209.06629.pdf)
 
 - (arXiv 2022.09) PaLI: A Jointly-Scaled **Multilingual** **Language-Image** Model, [[Paper]](https://arxiv.org/pdf/2209.06794.pdf)
 
