@@ -141,9 +141,9 @@ Keep updated.
 
 - (arXiv 2022.09) , [[Paper]]()
 
-- (arXiv 2022.09) , [[Paper]]()
-
 - (arXiv 2022.09) , [[Paper]]() -->
+
+- (arXiv 2022.09) Global Semantic Descriptors for **Zero-Shot Action Recognition**, [[Paper]](https://arxiv.org/pdf/2209.12061.pdf), [[Code]](https://github.com/valterlej/objsentzsar)
 
 - (arXiv 2022.09) Revisiting Neural **Scaling Laws** in Language and Vision, [[Paper]](https://arxiv.org/pdf/2209.06640.pdf)
 
