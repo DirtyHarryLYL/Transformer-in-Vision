@@ -143,6 +143,26 @@ Keep updated.
 
 - (arXiv 2022.09) , [[Paper]]() -->
 
+- (arXiv 2022.09) Can We Solve **3D** Vision Tasks Starting from A **2D** Vision **Transformer**? [[Paper]](https://arxiv.org/pdf/2209.07026.pdf), [[Code]](https://github.com/VITA-Group/Simple3D-Former.git)
+
+- (arXiv 2022.09) EXPLORING VISUAL INTERPRETABILITY FOR CONTRASTIVE **LANGUAGE-IMAGE** PRE-TRAINING, [[Paper]](https://arxiv.org/pdf/2209.07046.pdf)
+
+- (arXiv 2022.09) OmniVL: One Foundation Model for **Image-Language** and **Video-Language** Tasks, [[Paper]](https://arxiv.org/pdf/2209.07526.pdf)
+
+- (arXiv 2022.09) Test-Time Training with **Masked Autoencoders**, [[Paper]](https://arxiv.org/pdf/2209.07522.pdf), [[Code]](https://yossigandelsman.github.io/ttt_mae/index.html)
+
+- (arXiv 2022.09) VISUAL **RECOGNITION** WITH DEEP NEAREST **CENTROIDS**, [[Paper]](https://arxiv.org/pdf/2209.07383.pdf), [[Code]](https://github.com/ChengHan111/DNC)
+
+- (arXiv 2022.09) One-Shot Transfer of **Affordance** Regions? AffCorrs! [[Paper]](https://arxiv.org/pdf/2209.07147.pdf), [[Code]](https://sites.google.com/view/affcorrs)
+
+- (arXiv 2022.09) Test-Time **Prompt Tuning** for Zero-Shot Generalization in **Vision-Language** Models, [[Paper]](https://arxiv.org/pdf/2209.07511.pdf), [[Code]](https://azshue.github.io/TPT/)
+
+- (arXiv 2022.09) A Light Recipe to Train **Robust** Vision Transformers, [[Paper]](https://arxiv.org/pdf/2209.07399.pdf), [[Code]](https://github.com/dedeswim/vits-robustness-torch)
+
+- (arXiv 2022.09) On the Surprising Effectiveness of Transformers in Low-Labeled **Video Recognition**, [[Paper]](https://arxiv.org/pdf/2209.07474.pdf)
+
+- (arXiv 2022.09) Number of **Attention Heads** vs. Number of Transformer-**Encoders** in Computer Vision, [[Paper]](https://arxiv.org/pdf/2209.07221.pdf)
+
 - (arXiv 2022.09) Global Semantic Descriptors for **Zero-Shot Action Recognition**, [[Paper]](https://arxiv.org/pdf/2209.12061.pdf), [[Code]](https://github.com/valterlej/objsentzsar)
 
 - (arXiv 2022.09) Revisiting Neural **Scaling Laws** in Language and Vision, [[Paper]](https://arxiv.org/pdf/2209.06640.pdf)
