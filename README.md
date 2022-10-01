@@ -5,19 +5,23 @@ Keep updated.
 
 ## Resource
 
+- DREAMFUSION [[Page]](https://dreamfusion3d.github.io/), [[Paper]](https://arxiv.org/pdf/2209.14988.pdf)
+
+- MAKE-A-VIDEO [[Page]](https://make-a-video.github.io/), [[Paper]](https://arxiv.org/pdf/2209.14792.pdf)
+
 - Stable Difffusion [[Page]](https://ommer-lab.com/research/latent-diffusion-models/), [[Paper]](https://arxiv.org/pdf/2112.10752.pdf)
 
-- Microsof NUWA-Infinity [[Page]](https://nuwa-infinity.microsoft.com/#/), [[Paper]](https://arxiv.org/pdf/2207.09814.pdf)
+- NUWA-Infinity [[Page]](https://nuwa-infinity.microsoft.com/#/), [[Paper]](https://arxiv.org/pdf/2207.09814.pdf)
 
-- Google Parti [[Page]](https://parti.research.google/), [[Code]](https://github.com/google-research/parti)
+- Parti [[Page]](https://parti.research.google/), [[Code]](https://github.com/google-research/parti)
 
-- Google Imagen [[Page]](https://imagen.research.google/), [[Paper]](https://arxiv.org/pdf/2205.11487.pdf)
+- Imagen [[Page]](https://imagen.research.google/), [[Paper]](https://arxiv.org/pdf/2205.11487.pdf)
 
-- DeepMind Gato: A Generalist Agent, [[Paper]](https://storage.googleapis.com/deepmind-media/A%20Generalist%20Agent/Generalist%20Agent.pdf)
+- Gato: A Generalist Agent, [[Paper]](https://storage.googleapis.com/deepmind-media/A%20Generalist%20Agent/Generalist%20Agent.pdf)
 
-- Google PaLM: Scaling Language Modeling with Pathways, [[Paper]](https://arxiv.org/pdf/2204.02311.pdf)
+- PaLM: Scaling Language Modeling with Pathways, [[Paper]](https://arxiv.org/pdf/2204.02311.pdf)
 
-- OpenAI DALL·E 2 [[Page]](https://openai.com/dall-e-2/), [[Paper]](https://cdn.openai.com/papers/dall-e-2.pdf)
+- DALL·E 2 [[Page]](https://openai.com/dall-e-2/), [[Paper]](https://cdn.openai.com/papers/dall-e-2.pdf)
 
 - SCENIC: A JAX Library for Computer Vision Research and Beyond, [[Code]](https://github.com/google-research/scenic)
 
@@ -25,9 +29,9 @@ Keep updated.
 
 - Attention is all you need, [[Paper]](https://arxiv.org/pdf/1706.03762.pdf)
 
-- OpenAI CLIP [[Page]](https://openai.com/blog/clip/), [[Paper]](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language_Supervision.pdf), [[Code]](https://github.com/openai/CLIP), [[arXiv]](https://arxiv.org/pdf/2103.00020.pdf)
+- CLIP [[Page]](https://openai.com/blog/clip/), [[Paper]](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language_Supervision.pdf), [[Code]](https://github.com/openai/CLIP), [[arXiv]](https://arxiv.org/pdf/2103.00020.pdf)
 
-- OpenAI DALL·E [[Page]](https://openai.com/blog/dall-e/), [[Code]](https://github.com/openai/DALL-E), [[Paper]](https://arxiv.org/pdf/2102.12092.pdf)
+- DALL·E [[Page]](https://openai.com/blog/dall-e/), [[Code]](https://github.com/openai/DALL-E), [[Paper]](https://arxiv.org/pdf/2102.12092.pdf)
 
 - [huggingface/transformers](https://github.com/huggingface/transformers)
 
@@ -141,7 +145,43 @@ Keep updated.
 
 - (arXiv 2022.09) , [[Paper]]()
 
+- (arXiv 2022.09) , [[Paper]]()
+
+- (arXiv 2022.09) , [[Paper]]()
+
+- (arXiv 2022.09) , [[Paper]]()
+
+- (arXiv 2022.09) , [[Paper]]()
+
+- (arXiv 2022.09) , [[Paper]]()
+
+- (arXiv 2022.09) , [[Paper]]()
+
+- (arXiv 2022.09) , [[Paper]]()
+
+- (arXiv 2022.09) , [[Paper]]()
+
+- (arXiv 2022.09) , [[Paper]]()
+
+- (arXiv 2022.09) , [[Paper]]()
+
 - (arXiv 2022.09) , [[Paper]]() -->
+
+- (arXiv 2022.09) Domain-Unified Prompt Representations for Source-Free **Domain Generalization**, [[Paper]](https://arxiv.org/pdf/2209.14926.pdf), [[Code]](https://github.com/muse1998/Source-Free-Domain-Generalization)
+
+- (arXiv 2022.09) BRIDGING THE GAP TO REAL-WORLD **OBJECTCENTRIC LEARNING**, [[Paper]](https://arxiv.org/pdf/2209.14860.pdf)
+
+- (arXiv 2022.09) Prompt-guided **Scene Generation** for **3D** Zero-Shot Learning, [[Paper]](https://arxiv.org/pdf/2209.14690.pdf)
+
+- (arXiv 2022.09) RE-IMAGEN: RETRIEVAL-AUGMENTED **TEXT-TO-IMAGE** GENERATOR, [[Paper]](https://arxiv.org/pdf/2209.14491.pdf)
+
+- (arXiv 2022.09) Distribution Aware **Metrics** for Conditional Natural **Language Generation**, [[Paper]](https://arxiv.org/pdf/2209.07518.pdf)
+
+- (arXiv 2022.09) **CLIP**ping Privacy: Identity Inference **Attacks** on Multi-Modal Machine Learning Models, [[Paper]](https://arxiv.org/pdf/2209.07341.pdf)
+
+- (arXiv 2022.09) Finetuning Pretrained **Vision-Language** Models with Correlation Information Bottleneck for Robust **Visual Question Answering**, [[Paper]](https://arxiv.org/pdf/2209.06954.pdf)
+
+- (arXiv 2022.09) PriorLane: A Prior Knowledge Enhanced **Lane Detection** Approach Based on Transformer, [[Paper]](https://arxiv.org/pdf/2209.06994.pdf), [[Code]](https://github.com/vincentqqb/PriorLane)
 
 - (arXiv 2022.09) Can We Solve **3D** Vision Tasks Starting from A **2D** Vision **Transformer**? [[Paper]](https://arxiv.org/pdf/2209.07026.pdf), [[Code]](https://github.com/VITA-Group/Simple3D-Former.git)
 
