@@ -5,6 +5,10 @@ Keep updated.
 
 ## Resource
 
+- Imagen Video [[Page]](https://imagen.research.google/video/), [[Paper]](https://imagen.research.google/video/paper.pdf)
+
+- Phenaki [[Page]](https://phenaki.video/), [[Paper]](https://openreview.net/pdf?id=vOEXS39nOF)
+
 - DREAMFUSION [[Page]](https://dreamfusion3d.github.io/), [[Paper]](https://arxiv.org/pdf/2209.14988.pdf)
 
 - MAKE-A-VIDEO [[Page]](https://make-a-video.github.io/), [[Paper]](https://arxiv.org/pdf/2209.14792.pdf)
@@ -114,6 +118,14 @@ Keep updated.
 - (arXiv 2020.1) **Transformers in Vision**: A Survey, [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
+
+<!-- ### 2022.10
+
+- (arXiv 2022.10) , [[Paper]]()
+
+- (arXiv 2022.10) , [[Paper]]()
+
+- (arXiv 2022.10) , [[Paper]]() -->
 
 ### 2022.09
 
