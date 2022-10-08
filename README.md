@@ -5,6 +5,8 @@ Keep updated.
 
 ## Resource
 
+- LAVIS [[Page]](https://github.com/salesforce/LAVIS), [[Paper]](https://arxiv.org/pdf/2209.09019.pdf)
+
 - Imagen Video [[Page]](https://imagen.research.google/video/), [[Paper]](https://imagen.research.google/video/paper.pdf)
 
 - Phenaki [[Page]](https://phenaki.video/), [[Paper]](https://openreview.net/pdf?id=vOEXS39nOF)
@@ -119,13 +121,45 @@ Keep updated.
 
 ## Recent Papers
 
-<!-- ### 2022.10
+### 2022.10
+
+<!-- - (arXiv 2022.10) , [[Paper]]()
+
+- (arXiv 2022.10) , [[Paper]]()
+
+- (arXiv 2022.10) , [[Paper]]()
+
+- (arXiv 2022.10) , [[Paper]]()
+
+- (arXiv 2022.10) , [[Paper]]()
+
+- (arXiv 2022.10) , [[Paper]]()
+
+- (arXiv 2022.10) , [[Paper]]()
+
+- (arXiv 2022.10) , [[Paper]]()
+
+- (arXiv 2022.10) , [[Paper]]()
+
+- (arXiv 2022.10) , [[Paper]]()
+
+- (arXiv 2022.10) , [[Paper]]()
+
+- (arXiv 2022.10) , [[Paper]]()
+
+- (arXiv 2022.10) , [[Paper]]()
+
+- (arXiv 2022.10) , [[Paper]]()
 
 - (arXiv 2022.10) , [[Paper]]()
 
 - (arXiv 2022.10) , [[Paper]]()
 
 - (arXiv 2022.10) , [[Paper]]() -->
+
+- (arXiv 2022.10) DMMGAN: Diverse Multi **Motion Prediction of 3D Human Joints** using Attention-Based Generative Adversarial Network, [[Paper]](https://arxiv.org/pdf/2209.09124.pdf)
+
+- (arXiv 2022.10) PIZZA: A Powerful Image-only Zero-Shot Zero-CAD Approach to **6 DoF Tracking**, [[Paper]](https://arxiv.org/pdf/2209.07589.pdf), [[Code]](https://github.com/nv-nguyen/pizza)
 
 ### 2022.09
 
@@ -153,31 +187,31 @@ Keep updated.
 
 - (arXiv 2022.09) , [[Paper]]()
 
-- (arXiv 2022.09) , [[Paper]]()
-
-- (arXiv 2022.09) , [[Paper]]()
-
-- (arXiv 2022.09) , [[Paper]]()
-
-- (arXiv 2022.09) , [[Paper]]()
-
-- (arXiv 2022.09) , [[Paper]]()
-
-- (arXiv 2022.09) , [[Paper]]()
-
-- (arXiv 2022.09) , [[Paper]]()
-
-- (arXiv 2022.09) , [[Paper]]()
-
-- (arXiv 2022.09) , [[Paper]]()
-
-- (arXiv 2022.09) , [[Paper]]()
-
-- (arXiv 2022.09) , [[Paper]]()
-
-- (arXiv 2022.09) , [[Paper]]()
-
 - (arXiv 2022.09) , [[Paper]]() -->
+
+- (arXiv 2022.09) UNCERTAINTY AWARE MULTITASK PYRAMID VISION TRANSFORMER FOR **UAV**-BASED **OBJECT RE-IDENTIFICATION**, [[Paper]](https://arxiv.org/pdf/2209.08686.pdf)
+
+- (arXiv 2022.09) TASKED: Transformer-based Adversarial learning for **human activity recognition** using **wearable sensors** via Self-KnowledgE Distillation, [[Paper]](https://arxiv.org/pdf/2209.09092.pdf)
+
+- (arXiv 2022.09) EcoFormer: Energy-Saving Attention with **Linear Complexity**, [[Paper]](https://arxiv.org/pdf/2209.09004.pdf), [[Code]]](https://github.com/ziplab/EcoFormer)
+
+- (arXiv 2022.09) **Panoramic** Vision Transformer for **Saliency Detection** in 360◦ Videos, [[Paper]](https://arxiv.org/pdf/2209.08956.pdf)
+
+- (arXiv 2022.09) THE BIASED ARTIST: EXPLOITING CULTURAL **BIASES** VIA HOMOGLYPHS IN **TEXT-GUIDED IMAGE GENERATION MODELS**, [[Paper]](https://arxiv.org/pdf/2209.08891.pdf)
+
+- (arXiv 2022.09) **Scene Graph Modification** as Incremental Structure Expanding, [[Paper]](https://arxiv.org/pdf/2209.09093.pdf), [[Code]](https://github.com/THU-BPM/SGM)
+
+- (arXiv 2022.09) Discriminative Sampling of Proposals in Self-Supervised Transformers for **Weakly Supervised Object Localization**, [[Paper]](https://arxiv.org/pdf/2209.09209.pdf), [[Code]](https://github.com/shakeebmurtaza/dips)
+
+- (arXiv 2022.09) Real-time **Online Video Detection** with Temporal Smoothing Transformers, [[Paper]](https://arxiv.org/pdf/2209.09236.pdf)
+
+- (arXiv 2022.09) ViT-DD: Multi-Task Vision Transformer for Semi-Supervised **Driver Distraction Detection**, [[Paper]](https://arxiv.org/pdf/2209.09178.pdf), [[Code]](https://github.com/PurdueDigitalTwin/ViT-DD)
+
+- (arXiv 2022.09) Code as Policies: Language Model Programs for **Embodied Control**, [[Paper]](https://arxiv.org/pdf/2209.07753.pdf), [[Project]](https://code-as-policies.github.io/)
+
+- (arXiv 2022.09) SQ-Swin: a Pretrained Siamese Quadratic Swin Transformer for **Lettuce Browning Prediction**, [[Paper]](https://arxiv.org/pdf/2209.07683.pdf)
+
+- (arXiv 2022.09) Self-Attentive Pooling for **Efficient** Deep Learning, [[Paper]](https://arxiv.org/pdf/2209.07659.pdf)
 
 - (arXiv 2022.09) Domain-Unified Prompt Representations for Source-Free **Domain Generalization**, [[Paper]](https://arxiv.org/pdf/2209.14926.pdf), [[Code]](https://github.com/muse1998/Source-Free-Domain-Generalization)
 
