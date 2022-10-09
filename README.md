@@ -151,11 +151,11 @@ Keep updated.
 
 - (arXiv 2022.10) , [[Paper]]()
 
-- (arXiv 2022.10) , [[Paper]]()
-
-- (arXiv 2022.10) , [[Paper]]()
-
 - (arXiv 2022.10) , [[Paper]]() -->
+
+- (arXiv 2022.10) VIMA: GENERAL **ROBOT MANIPULATION** WITH MULTIMODAL **PROMPTS**, [[Paper]](https://arxiv.org/pdf/2210.03094.pdf), [[Project]](https://vimalabs.github.io/)
+
+- (arXiv 2022.10) What Should the System Do Next?: **Operative Action Captioning** for Estimating System Actions, [[Paper]](https://arxiv.org/pdf/2210.02735.pdf)
 
 - (arXiv 2022.10) DMMGAN: Diverse Multi **Motion Prediction of 3D Human Joints** using Attention-Based Generative Adversarial Network, [[Paper]](https://arxiv.org/pdf/2209.09124.pdf)
 
