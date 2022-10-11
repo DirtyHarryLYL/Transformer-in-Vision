@@ -173,21 +173,21 @@ Keep updated.
 
 - (arXiv 2022.09) , [[Paper]]()
 
-- (arXiv 2022.09) , [[Paper]]()
-
-- (arXiv 2022.09) , [[Paper]]()
-
-- (arXiv 2022.09) , [[Paper]]()
-
-- (arXiv 2022.09) , [[Paper]]()
-
-- (arXiv 2022.09) , [[Paper]]()
-
-- (arXiv 2022.09) , [[Paper]]()
-
-- (arXiv 2022.09) , [[Paper]]()
-
 - (arXiv 2022.09) , [[Paper]]() -->
+
+- (arXiv 2022.09) Active **Visual Search** in the Wild, [[Paper]](https://arxiv.org/pdf/2209.08803.pdf)
+
+- (arXiv 2022.09) PPT: token-Pruned Pose Transformer for monocular and multi-view human **pose estimation**, [[Paper]](https://arxiv.org/pdf/2209.08194.pdf), [[Code]](https://github.com/HowieMa/PPT)
+
+- (arXiv 2022.09) Learning Distinct and Representative **Modes** for Image **Captioning**, [[Paper]](https://arxiv.org/pdf/2209.08231.pdf), [[Code]](https://github.com/bladewaltz1/ModeCap)
+
+- (arXiv 2022.09) TODE-Trans: **Transparent** Object **Depth Estimation** with Transformer, [[Paper]](https://arxiv.org/pdf/2209.08455.pdf), [[Code]](https://github.com/yuchendoudou/TODE)
+
+- (arXiv 2022.09) Tree-based **Text-Vision** BERT for Video Search in Baidu Video Advertising, [[Paper]](https://arxiv.org/pdf/2209.08759.pdf)
+
+- (arXiv 2022.09) Integrative Feature and Cost Aggregation with Transformers for **Dense Correspondence**, [[Paper]](https://arxiv.org/pdf/2209.08742.pdf)
+
+- (arXiv 2022.09) Axially Expanded Windows for **Local-Global Interaction** in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2209.08726.pdf)
 
 - (arXiv 2022.09) UNCERTAINTY AWARE MULTITASK PYRAMID VISION TRANSFORMER FOR **UAV**-BASED **OBJECT RE-IDENTIFICATION**, [[Paper]](https://arxiv.org/pdf/2209.08686.pdf)
 
