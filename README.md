@@ -173,7 +173,19 @@ Keep updated.
 
 - (arXiv 2022.09) , [[Paper]]()
 
+- (arXiv 2022.09) , [[Paper]]()
+
+- (arXiv 2022.09) , [[Paper]]()
+
+- (arXiv 2022.09) , [[Paper]]()
+
+- (arXiv 2022.09) , [[Paper]]()
+
+- (arXiv 2022.09) , [[Paper]]()
+
 - (arXiv 2022.09) , [[Paper]]() -->
+
+- (arXiv 2022.09) **Quantum** Vision Transformers, [[Paper]](https://arxiv.org/pdf/2209.08167.pdf)
 
 - (arXiv 2022.09) Active **Visual Search** in the Wild, [[Paper]](https://arxiv.org/pdf/2209.08803.pdf)
 
