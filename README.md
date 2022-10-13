@@ -149,9 +149,9 @@ Keep updated.
 
 - (arXiv 2022.10) , [[Paper]]()
 
-- (arXiv 2022.10) , [[Paper]]()
-
 - (arXiv 2022.10) , [[Paper]]() -->
+
+- (arXiv 2022.10) Human Joint Kinematics Diffusion-Refinement for Stochastic **Motion Prediction**, [[Paper]](https://arxiv.org/pdf/2210.05976.pdf)
 
 - (arXiv 2022.10) VIMA: GENERAL **ROBOT MANIPULATION** WITH MULTIMODAL **PROMPTS**, [[Paper]](https://arxiv.org/pdf/2210.03094.pdf), [[Project]](https://vimalabs.github.io/)
 
