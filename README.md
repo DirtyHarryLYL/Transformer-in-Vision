@@ -147,9 +147,9 @@ Keep updated.
 
 - (arXiv 2022.10) , [[Paper]]()
 
-- (arXiv 2022.10) , [[Paper]]()
-
 - (arXiv 2022.10) , [[Paper]]() -->
+
+- (arXiv 2022.10) Visual Knowledge Graph for Human **Action Reasoning in Videos**, [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3503161.3548257)
 
 - (arXiv 2022.10) Human Joint Kinematics Diffusion-Refinement for Stochastic **Motion Prediction**, [[Paper]](https://arxiv.org/pdf/2210.05976.pdf)
 
@@ -181,9 +181,9 @@ Keep updated.
 
 - (arXiv 2022.09) , [[Paper]]()
 
-- (arXiv 2022.09) , [[Paper]]()
-
 - (arXiv 2022.09) , [[Paper]]() -->
+
+- (arXiv 2022.09) **Graph** Reasoning Transformer for **Image Parsing**, [[Paper]](https://arxiv.org/pdf/2209.09545.pdf)
 
 - (arXiv 2022.09) **Quantum** Vision Transformers, [[Paper]](https://arxiv.org/pdf/2209.08167.pdf)
 
