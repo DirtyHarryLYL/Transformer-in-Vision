@@ -147,7 +147,23 @@ Keep updated.
 
 - (arXiv 2022.10) , [[Paper]]()
 
+- (arXiv 2022.10) , [[Paper]]()
+
+- (arXiv 2022.10) , [[Paper]]()
+
+- (arXiv 2022.10) , [[Paper]]()
+
 - (arXiv 2022.10) , [[Paper]]() -->
+
+- (arXiv 2022.10) RaP: Redundancy-aware Video-language Pre-training for **Text-Video** Retrieval, [[Paper]](https://arxiv.org/pdf/2210.06881.pdf), [[Code]](https://github.com/caskcsg/VLP/tree/main/RaP)
+
+- (arXiv 2022.10) Intermediate Prototype Mining Transformer for Few-Shot **Semantic Segmentation**, [[Paper]](https://arxiv.org/pdf/2210.06780.pdf), [[Code]](https://github.com/LIUYUANWEI98/IPMT)
+
+- (arXiv 2022.10) Decoding Visual Neural Representations by Multimodal Learning of **Brain-Visual-Linguistic** Features, [[Paper]](https://arxiv.org/pdf/2210.06756.pdf), [[Code]](https://github.com/ChangdeDu/BraVL)
+
+- (arXiv 2022.10) Q-ViT: Accurate and Fully **Quantized** Low-bit Vision Transformer, [[Paper]](https://arxiv.org/pdf/2210.06707.pdf), [[Code]](https://github.com/YanjingLi0202/Q-ViT)
+
+- (arXiv 2022.10) Prepended Domain Transformer: Heterogeneous **Face Recognition** without Bells and Whistles, [[Paper]](https://arxiv.org/pdf/2210.06529.pdf)
 
 - (arXiv 2022.10) Visual Knowledge Graph for Human **Action Reasoning in Videos**, [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3503161.3548257)
 
