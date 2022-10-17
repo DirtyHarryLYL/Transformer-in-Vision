@@ -197,7 +197,31 @@ Keep updated.
 
 - (arXiv 2022.09) , [[Paper]]()
 
+- (arXiv 2022.09) , [[Paper]]()
+
+- (arXiv 2022.09) , [[Paper]]()
+
+- (arXiv 2022.09) , [[Paper]]()
+
+- (arXiv 2022.09) , [[Paper]]()
+
+- (arXiv 2022.09) , [[Paper]]()
+
+- (arXiv 2022.09) , [[Paper]]()
+
 - (arXiv 2022.09) , [[Paper]]() -->
+
+- (arXiv 2022.09) Toward 3D Spatial Reasoning for Human-like Text-based **Visual Question Answering**, [[Paper]](https://arxiv.org/pdf/2209.10326.pdf)
+
+- (arXiv 2022.09) I2DFormer: Learning **Image** to **Document** Attention for **Zero-Shot Image Classification**, [[Paper]](https://arxiv.org/pdf/2209.10304.pdf)
+
+- (arXiv 2022.09) **Integer** Fine-tuning of Transformer-based Models, [[Paper]](https://arxiv.org/pdf/2209.09815.pdf)
+
+- (arXiv 2022.09) Open-vocabulary Queryable Scene Representations for **Real World Planning**, [[Paper]](https://arxiv.org/pdf/2209.09874.pdf), [[Code]](https://nlmap-saycan.github.io/)
+
+- (arXiv 2022.09) Det**CLIP**: Dictionary-Enriched Visual-Concept Paralleled Pre-training for **Open-world Detection**, [[Paper]](https://arxiv.org/pdf/2209.09407.pdf)
+
+- (arXiv 2022.09) Hierarchical Temporal Transformer for **3D Hand Pose Estimation** and **Action Recognition** from **Egocentric** RGB Videos, [[Paper]](https://arxiv.org/pdf/2209.09484.pdf)
 
 - (arXiv 2022.09) **Graph** Reasoning Transformer for **Image Parsing**, [[Paper]](https://arxiv.org/pdf/2209.09545.pdf)
 
