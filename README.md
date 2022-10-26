@@ -201,15 +201,15 @@ Keep updated.
 
 - (arXiv 2022.09) , [[Paper]]()
 
-- (arXiv 2022.09) , [[Paper]]()
-
-- (arXiv 2022.09) , [[Paper]]()
-
-- (arXiv 2022.09) , [[Paper]]()
-
-- (arXiv 2022.09) , [[Paper]]()
-
 - (arXiv 2022.09) , [[Paper]]() -->
+
+- (arXiv 2022.09) **Recipe Generation** from Unsegmented Cooking Videos, [[Paper]](https://arxiv.org/pdf/2209.10134.pdf)
+
+- (arXiv 2022.09) PicT: A Slim Weakly Supervised Vision Transformer for **Pavement Distress Classification**, [[Paper]](https://arxiv.org/pdf/2209.10074.pdf), [[Code]](https://github.com/DearCaat/PicT)
+
+- (arXiv 2022.09) Show, Interpret and Tell: Entity-aware Contextualised Image **Captioning** in Wikipedia, [[Paper]](https://arxiv.org/pdf/2209.10474.pdf)
+
+- (arXiv 2022.09) RNGDet++: **Road Network Graph Detection** by Transformer with Instance Segmentation and Multi-scale Features Enhancement, [[Paper]](https://arxiv.org/pdf/2209.10150.pdf), [[Code]](https://tonyxuqaq.github.io/projects/RNGDetPlusPlus/)
 
 - (arXiv 2022.09) Toward 3D Spatial Reasoning for Human-like Text-based **Visual Question Answering**, [[Paper]](https://arxiv.org/pdf/2209.10326.pdf)
 
