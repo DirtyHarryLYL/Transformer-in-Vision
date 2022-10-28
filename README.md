@@ -191,17 +191,17 @@ Keep updated.
 
 - (arXiv 2022.09) , [[Paper]]()
 
-- (arXiv 2022.09) , [[Paper]]()
-
-- (arXiv 2022.09) , [[Paper]]()
-
-- (arXiv 2022.09) , [[Paper]]()
-
-- (arXiv 2022.09) , [[Paper]]()
-
-- (arXiv 2022.09) , [[Paper]]()
-
 - (arXiv 2022.09) , [[Paper]]() -->
+
+- (arXiv 2022.09) **LIGHTWEIGHT** TRANSFORMERS FOR HUMAN **ACTIVITY RECOGNITION** ON MOBILE DEVICES, [[Paper]](https://arxiv.org/pdf/2209.11750.pdf)
+
+- (arXiv 2022.09) PACT: Perception-Action Causal Transformer for **Autoregressive Robotics Pre-Training**, [[Paper]](https://arxiv.org/pdf/2209.11133.pdf)
+
+- (arXiv 2022.09) UniColor: A Unified Framework for Multi-Modal **Colorization** with Transformer, [[Paper]](https://arxiv.org/pdf/2209.11223.pdf), [[Code]](https://luckyhzt.github.io/unicolor)
+
+- (arXiv 2022.09) **Traffic Accident Risk Forecasting** using Contextual Vision Transformers, [[Paper]](https://arxiv.org/pdf/2209.11180.pdf)
+
+- (arXiv 2022.09) CONE: An Efficient COarse-to-fiNE Alignment Framework for **Long Video Temporal Grounding**, [[Paper]](https://arxiv.org/pdf/2209.10918.pdf)
 
 - (arXiv 2022.09) **Recipe Generation** from Unsegmented Cooking Videos, [[Paper]](https://arxiv.org/pdf/2209.10134.pdf)
 
