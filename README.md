@@ -151,9 +151,9 @@ Keep updated.
 
 - (arXiv 2022.10) , [[Paper]]()
 
-- (arXiv 2022.10) , [[Paper]]()
-
 - (arXiv 2022.10) , [[Paper]]() -->
+
+- (arXiv 2022.10) LGDN: Language-Guided Denoising Network for **Video-Language** Modeling, [[Paper]](https://arxiv.org/pdf/2209.11388.pdf)
 
 - (arXiv 2022.10) RaP: Redundancy-aware Video-language Pre-training for **Text-Video** Retrieval, [[Paper]](https://arxiv.org/pdf/2210.06881.pdf), [[Code]](https://github.com/caskcsg/VLP/tree/main/RaP)
 
@@ -191,7 +191,21 @@ Keep updated.
 
 - (arXiv 2022.09) , [[Paper]]()
 
+- (arXiv 2022.09) , [[Paper]]()
+
 - (arXiv 2022.09) , [[Paper]]() -->
+
+- (arXiv 2022.09) Paraphrasing Is All You Need for Novel Object **Captioning**, [[Paper]](https://arxiv.org/pdf/2209.12343.pdf)
+
+- (arXiv 2022.09) Collaboration of Pre-trained Models Makes Better **Few-shot** Learner, [[Paper]](https://arxiv.org/pdf/2209.12255.pdf)
+
+- (arXiv 2022.09) Multi-modal **Video Chapter Generation**, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2209/2209.12694.pdf), [[Code]](https://github.com/czt117/MVCG)
+
+- (arXiv 2022.09) **Best Prompts** for **Text-to-Image** Models and How to Find Them, [[Paper]](https://arxiv.org/pdf/2209.11711)
+
+- (arXiv 2022.09) Swin2SR: SwinV2 Transformer for **Compressed Image Super-Resolution** and **Restoration**, [[Paper]](https://arxiv.org/pdf/2209.11345.pdf), [[Code]](https://github.com/mv-lab/swin2sr)
+
+- (arXiv 2022.09) 3DPCT: 3D **Point Cloud** Transformer with Dual Self-attention, [[Paper]](https://arxiv.org/pdf/2209.11255.pdf)
 
 - (arXiv 2022.09) **LIGHTWEIGHT** TRANSFORMERS FOR HUMAN **ACTIVITY RECOGNITION** ON MOBILE DEVICES, [[Paper]](https://arxiv.org/pdf/2209.11750.pdf)
 
