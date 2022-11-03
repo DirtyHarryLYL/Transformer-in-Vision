@@ -149,9 +149,9 @@ Keep updated.
 
 - (arXiv 2022.10) , [[Paper]]()
 
-- (arXiv 2022.10) , [[Paper]]()
-
 - (arXiv 2022.10) , [[Paper]]() -->
+
+- (arXiv 2022.10) Multi-Scale **Human-Object Interaction** Detector, [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9927451)
 
 - (arXiv 2022.10) LGDN: Language-Guided Denoising Network for **Video-Language** Modeling, [[Paper]](https://arxiv.org/pdf/2209.11388.pdf)
 
