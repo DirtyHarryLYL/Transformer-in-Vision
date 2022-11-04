@@ -59,6 +59,8 @@ Keep updated.
 
 ## Survey
 
+- (arXiv 2022.10) A Survey on Graph Neural Networks and **Graph** Transformers in Computer Vision: A Task-Oriented Perspective, [[Paper]](https://arxiv.org/pdf/2209.13232.pdf)
+
 - (arXiv 2022.09) VISION TRANSFORMERS FOR **ACTION RECOGNITION**: A SURVEY, [[Paper]](https://arxiv.org/pdf/2209.05700.pdf)
 
 - (arXiv 2022.09) Transformers in **Remote Sensing**: A Survey, [[Paper]](https://arxiv.org/pdf/2209.01206.pdf), [[Code]](https://github.com/VIROBO-15/Transformer-in-Remote-Sensing)
@@ -121,6 +123,24 @@ Keep updated.
 
 ## Recent Papers
 
+### 2022.11
+
+<!-- - (arXiv 2022.11) , [[Paper]]()
+
+- (arXiv 2022.11) , [[Paper]]()
+
+- (arXiv 2022.11) , [[Paper]]()
+
+- (arXiv 2022.11) , [[Paper]]()
+
+- (arXiv 2022.11) , [[Paper]]()
+
+- (arXiv 2022.11) , [[Paper]]()
+
+- (arXiv 2022.11) , [[Paper]]()
+
+- (arXiv 2022.11) , [[Paper]]()
+ -->
 ### 2022.10
 
 <!-- - (arXiv 2022.10) , [[Paper]]()
@@ -144,12 +164,12 @@ Keep updated.
 - (arXiv 2022.10) , [[Paper]]()
 
 - (arXiv 2022.10) , [[Paper]]()
+ -->
+- (arXiv 2022.10) Uni**CLIP**: Unified Framework for Contrastive **Language–Image** Pre-training, [[Paper]](https://arxiv.org/pdf/2209.13430.pdf)
 
-- (arXiv 2022.10) , [[Paper]]()
+- (arXiv 2022.10) CrossDTR: Cross-view and Depth-guided Transformers for **3D Object Detection**, [[Paper]](https://arxiv.org/pdf/2209.13507.pdf), [[Code]](https://github.com/sty61010/CrossDTR)
 
-- (arXiv 2022.10) , [[Paper]]()
-
-- (arXiv 2022.10) , [[Paper]]() -->
+- (arXiv 2022.10) Multi-dataset Training of Transformers for Robust **Action Recognition**, [[Paper]](https://arxiv.org/pdf/2209.12362.pdf), [[Code]](https://github.com/JunweiLiang/MultiTrain)
 
 - (arXiv 2022.10) Multi-Scale **Human-Object Interaction** Detector, [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9927451)
 
@@ -187,13 +207,33 @@ Keep updated.
 
 - (arXiv 2022.09) , [[Paper]]()
 
-- (arXiv 2022.09) , [[Paper]]()
-
-- (arXiv 2022.09) , [[Paper]]()
-
-- (arXiv 2022.09) , [[Paper]]()
-
 - (arXiv 2022.09) , [[Paper]]() -->
+
+- (arXiv 2022.09) NEURAL MARIONETTE: A Transformer-based Multi-action Human **Motion Synthesis** System, [[Paper]](https://arxiv.org/pdf/2209.13204.pdf), [[Code]](https://wjohnnyw.github.io/blog/tag2motion/)
+
+- (arXiv 2022.09) Embracing Consistency: A One-Stage Approach for **Spatio-Temporal Video Grounding**, [[Paper]](https://arxiv.org/pdf/2209.13306.pdf), [[Code]](https://github.com/jy0205/STCAT)
+
+- (arXiv 2022.09) Text-Adaptive Multiple Visual Prototype Matching for **Video-Text** Retrieval, [[Paper]](https://arxiv.org/pdf/2209.13307.pdf)
+
+- (arXiv 2022.09) Towards Parameter-Efficient Integration of Pre-Trained **Language** Models In Temporal **Video** Grounding, [[Paper]](https://arxiv.org/pdf/2209.13359.pdf)
+
+- (arXiv 2022.09) **Anomaly Detection** in **Aerial** Videos with Transformers, [[Paper]](https://arxiv.org/pdf/2209.13363.pdf), [[Code]](https://youtu.be/ancczYryOBY)
+
+- (arXiv 2022.09) AdaFocusV3: On Unified Spatial-temporal Dynamic **Video Recognition**, [[Paper]](https://arxiv.org/pdf/2209.13465.pdf)
+
+- (arXiv 2022.09) **Motion** Transformer with Global Intention **Localization** and Local Movement Refinement, [[Paper]](https://arxiv.org/pdf/2209.13508.pdf), [[Code]](https://github.com/sshaoshuai/MTR)
+
+- (arXiv 2022.09) FREESEG: FREE MASK FROM INTERPRETABLE CONTRASTIVE LANGUAGE-IMAGE PRETRAINING FOR **SEMANTIC SEGMENTATION**, [[Paper]](https://arxiv.org/pdf/2209.13558.pdf)
+
+- (arXiv 2022.09) Learning State-Aware Visual Representations from Audible **Interactions**, [[Paper]](https://arxiv.org/pdf/2209.13583.pdf), [[Code]](https://github.com/HimangiM/RepLAI)
+
+- (arXiv 2022.09) Towards Explainable **3D** Grounded **Visual Question Answering**: A New Benchmark and Strong Baseline, [[Paper]](https://arxiv.org/pdf/2209.12028.pdf)
+
+- (arXiv 2022.09) Leveraging Self-Supervised Training for **Unintentional Action Recognition**, [[Paper]](https://arxiv.org/pdf/2209.11870.pdf)
+
+- (arXiv 2022.09) NeRF-Loc: Transformer-Based **Object Localization** Within **Neural Radiance Fields**, [[Paper]](https://arxiv.org/pdf/2209.12068.pdf)
+
+- (arXiv 2022.09) All are Worth Words: a ViT Backbone for Score-based **Diffusion** Models, [[Paper]](https://arxiv.org/pdf/2209.12152.pdf)
 
 - (arXiv 2022.09) Paraphrasing Is All You Need for Novel Object **Captioning**, [[Paper]](https://arxiv.org/pdf/2209.12343.pdf)
 
