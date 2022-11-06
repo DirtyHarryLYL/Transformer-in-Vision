@@ -137,10 +137,10 @@ Keep updated.
 
 - (arXiv 2022.11) , [[Paper]]()
 
-- (arXiv 2022.11) , [[Paper]]()
+- (arXiv 2022.11) , [[Paper]]() -->
 
-- (arXiv 2022.11) , [[Paper]]()
- -->
+- (arXiv 2022.11) TVLT: Textless **Vision-Language** Transformer, [[Paper]](https://arxiv.org/pdf/2209.14156.pdf), [[Code]](https://github.com/zinengtang/TVLT)
+
 ### 2022.10
 
 <!-- - (arXiv 2022.10) , [[Paper]]()
@@ -207,7 +207,27 @@ Keep updated.
 
 - (arXiv 2022.09) , [[Paper]]()
 
+- (arXiv 2022.09) , [[Paper]]()
+
+- (arXiv 2022.09) , [[Paper]]()
+
+- (arXiv 2022.09) , [[Paper]]()
+
 - (arXiv 2022.09) , [[Paper]]() -->
+
+- (arXiv 2022.09) DeViT: Deformed Vision Transformers in **Video Inpainting**, [[Paper]](https://arxiv.org/pdf/2209.13925.pdf)
+
+- (arXiv 2022.09) Obj2Seq: Formatting **Objects** as Sequences with Class Prompt for Visual Tasks, [[Paper]](https://arxiv.org/pdf/2209.13948.pdf), [[Code]](https://github.com/CASIA-IVA-Lab/Obj2Seq)
+
+- (arXiv 2022.09) Dynamic MDETR: A Dynamic Multimodal Transformer Decoder for Visual **Grounding**, [[Paper]](https://arxiv.org/pdf/2209.13959.pdf)
+
+- (arXiv 2022.09) Motion Transformer for Unsupervised **Image Animation**, [[Paper]](https://arxiv.org/pdf/2209.14024.pdf)
+
+- (arXiv 2022.09) Weighted Contrastive **Hashing**, [[Paper]](https://arxiv.org/pdf/2209.14099.pdf), [[Code]](http://github.com/RosieYuu/WCH)
+
+- (arXiv 2022.09) CALIP: **Zero-Shot** Enhancement of **CLIP** with Parameter-free Attention, [[Paper]](https://arxiv.org/pdf/2209.14169.pdf)
+
+- (arXiv 2022.09) Dialog Acts for Task-Driven Embodied Agents, [[Paper]](https://arxiv.org/pdf/2209.12953.pdf)
 
 - (arXiv 2022.09) NEURAL MARIONETTE: A Transformer-based Multi-action Human **Motion Synthesis** System, [[Paper]](https://arxiv.org/pdf/2209.13204.pdf), [[Code]](https://wjohnnyw.github.io/blog/tag2motion/)
 
