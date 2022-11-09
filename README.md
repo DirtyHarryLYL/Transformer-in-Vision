@@ -135,9 +135,9 @@ Keep updated.
 
 - (arXiv 2022.11) , [[Paper]]()
 
-- (arXiv 2022.11) , [[Paper]]()
-
 - (arXiv 2022.11) , [[Paper]]() -->
+
+- (arXiv 2022.11) Unified Loss of Pair Similarity Optimization for **Vision-Language Retrieval**, [[Paper]](https://arxiv.org/pdf/2209.13869.pdf)
 
 - (arXiv 2022.11) TVLT: Textless **Vision-Language** Transformer, [[Paper]](https://arxiv.org/pdf/2209.14156.pdf), [[Code]](https://github.com/zinengtang/TVLT)
 
@@ -161,10 +161,10 @@ Keep updated.
 
 - (arXiv 2022.10) , [[Paper]]()
 
-- (arXiv 2022.10) , [[Paper]]()
+- (arXiv 2022.10) , [[Paper]]() -->
 
-- (arXiv 2022.10) , [[Paper]]()
- -->
+- (arXiv 2022.10) TokenFlow: Rethinking Fine-grained Cross-modal Alignment in **Vision-Language Retrieval**, [[Paper]](https://arxiv.org/pdf/2209.13822.pdf)
+
 - (arXiv 2022.10) Uni**CLIP**: Unified Framework for Contrastive **Language–Image** Pre-training, [[Paper]](https://arxiv.org/pdf/2209.13430.pdf)
 
 - (arXiv 2022.10) CrossDTR: Cross-view and Depth-guided Transformers for **3D Object Detection**, [[Paper]](https://arxiv.org/pdf/2209.13507.pdf), [[Code]](https://github.com/sty61010/CrossDTR)
@@ -207,13 +207,13 @@ Keep updated.
 
 - (arXiv 2022.09) , [[Paper]]()
 
-- (arXiv 2022.09) , [[Paper]]()
-
-- (arXiv 2022.09) , [[Paper]]()
-
-- (arXiv 2022.09) , [[Paper]]()
-
 - (arXiv 2022.09) , [[Paper]]() -->
+
+- (arXiv 2022.09) Revisiting **Few-Shot** Learning from a **Causal** Perspective, [[Paper]](https://arxiv.org/pdf/2209.13816.pdf)
+
+- (arXiv 2022.09) **Attacking** Compressed Vision Transformers, [[Paper]](https://arxiv.org/pdf/2209.13785.pdf)
+
+- (arXiv 2022.09) Adaptive Sparse ViT: Towards Learnable Adaptive **Token Pruning** by Fully Exploiting Self-Attention, [[Paper]](https://arxiv.org/pdf/2209.13802.pdf)
 
 - (arXiv 2022.09) DeViT: Deformed Vision Transformers in **Video Inpainting**, [[Paper]](https://arxiv.org/pdf/2209.13925.pdf)
 
