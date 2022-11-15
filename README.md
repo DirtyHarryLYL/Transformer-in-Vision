@@ -131,11 +131,11 @@ Keep updated.
 
 - (arXiv 2022.11) , [[Paper]]()
 
-- (arXiv 2022.11) , [[Paper]]()
-
-- (arXiv 2022.11) , [[Paper]]()
-
 - (arXiv 2022.11) , [[Paper]]() -->
+
+- (arXiv 2022.11) ACCURATE **IMAGE RESTORATION** WITH ATTENTION RETRACTABLE TRANSFORMER, [[Paper]](https://arxiv.org/pdf/2210.01427.pdf), [[Code]](https://github.com/gladzhang/ART)
+
+- (arXiv 2022.11) **Dilated** Neighborhood **Attention** Transformer, [[Paper]](https://arxiv.org/pdf/2209.15001.pdf), [[Code]](https://github.com/SHI-Labs/Neighborhood-Attention-Transformer)
 
 - (arXiv 2022.11) Unified Loss of Pair Similarity Optimization for **Vision-Language Retrieval**, [[Paper]](https://arxiv.org/pdf/2209.13869.pdf)
 
@@ -161,7 +161,21 @@ Keep updated.
 
 - (arXiv 2022.10) , [[Paper]]()
 
+- (arXiv 2022.10) , [[Paper]]()
+
+- (arXiv 2022.10) , [[Paper]]()
+
+- (arXiv 2022.10) , [[Paper]]()
+
 - (arXiv 2022.10) , [[Paper]]() -->
+
+- (arXiv 2022.10) PROMPT LEARNING WITH **OPTIMAL TRANSPORT** FOR **VISION-LANGUAGE** MODELS, [[Paper]](https://arxiv.org/pdf/2210.01253.pdf)
+
+- (arXiv 2022.10) Bridged Transformer for Vision and Point Cloud **3D Object Detection**, [[Paper]](https://arxiv.org/pdf/2210.01391.pdf)
+
+- (arXiv 2022.10) Dense Prediction Transformer for Scale Estimation in Monocular Visual **Odometry**, [[Paper]](https://arxiv.org/pdf/2210.01723.pdf)
+
+- (arXiv 2022.10) HUMAN **MOTION** **DIFFUSION** MODEL, [[Paper]](https://arxiv.org/pdf/2209.14916.pdf), [[Project]](https://guytevet.github.io/mdm-page/)
 
 - (arXiv 2022.10) TokenFlow: Rethinking Fine-grained Cross-modal Alignment in **Vision-Language Retrieval**, [[Paper]](https://arxiv.org/pdf/2209.13822.pdf)
 
@@ -207,7 +221,23 @@ Keep updated.
 
 - (arXiv 2022.09) , [[Paper]]()
 
+- (arXiv 2022.09) , [[Paper]]()
+
+- (arXiv 2022.09) , [[Paper]]()
+
 - (arXiv 2022.09) , [[Paper]]() -->
+
+- (arXiv 2022.09) EDA: Explicit Text-Decoupling and Dense Alignment for **3D Visual and Language** Learning, [[Paper]](https://arxiv.org/pdf/2209.14941.pdf), [[Code]](https://github.com/yanmin-wu/EDA)
+
+- (arXiv 2022.09) SPOTLIGHT: **MOBILE UI UNDERSTANDING** USING VISION-LANGUAGE MODELS WITH A FOCUS, [[Paper]](https://arxiv.org/pdf/2209.14927.pdf)
+
+- (arXiv 2022.09) DREAMFUSION: **TEXT-TO-3D** USING 2D **DIFFUSION**, [[Paper]](https://arxiv.org/pdf/2209.14988.pdf), [[Project]](https://dreamfusion3d.github.io/)
+
+- (arXiv 2022.09) REST: RETRIEVE & SELF-TRAIN FOR GENERATIVE **ACTION RECOGNITION**, [[Paper]](https://arxiv.org/pdf/2209.15000.pdf)
+
+- (arXiv 2022.09) **Effective** Vision Transformer **Training**: A Data-Centric Perspective, [[Paper]](https://arxiv.org/pdf/2209.15006.pdf)
+
+- (arXiv 2022.09) Human-in-the-loop Robotic **Grasping** using BERT Scene Representation, [[Paper]](https://arxiv.org/pdf/2209.14026.pdf), [[Project]](https://sites.google.com/view/hitl-grasping-bert)
 
 - (arXiv 2022.09) Revisiting **Few-Shot** Learning from a **Causal** Perspective, [[Paper]](https://arxiv.org/pdf/2209.13816.pdf)
 
