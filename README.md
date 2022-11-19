@@ -169,6 +169,30 @@ Keep updated.
 
 - (arXiv 2022.10) , [[Paper]]() -->
 
+- (arXiv 2022.10) Motion-inductive Self-supervised **Object Discovery** in Videos, [[Paper]](https://arxiv.org/pdf/2210.00221.pdf)
+
+- (arXiv 2022.10) Fully Transformer Network for Change Detection of **Remote Sensing** Images, [[Paper]](https://arxiv.org/pdf/2210.00757.pdf), [[Code]](https://github.com/AI-Zhpp/FTN)
+
+- (arXiv 2022.10) TOWARDS A UNIFIED VIEW ON VISUAL PARAMETER-**EFFICIENT** **TRANSFER LEARNING**, [[Paper]](https://arxiv.org/pdf/2210.00788.pdf)
+
+- (arXiv 2022.10) Visual **Prompt** Tuning for Generative **Transfer Learning**, [[Paper]](https://arxiv.org/pdf/2210.00990.pdf)
+
+- (arXiv 2022.10) A Strong Transfer Baseline for **RGB-D Fusion** in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2210.00843.pdf)
+
+- (arXiv 2022.10) LPT: **LONG-TAILED** **PROMPT** TUNING FOR IMAGE CLASSIFICATION, [[Paper]](https://arxiv.org/pdf/2210.01033.pdf)
+
+- (arXiv 2022.10) Expediting Large-Scale Vision Transformer for **Dense Prediction** without Fine-tuning, [[Paper]](https://arxiv.org/pdf/2210.01035.pdf)
+
+- (arXiv 2022.10) CLIP2POINT: TRANSFER **CLIP** TO **POINT CLOUD CLASSIFICATION** WITH IMAGE-DEPTH PRE-TRAINING, [[Paper]](https://arxiv.org/pdf/2210.01055.pdf)
+
+- (arXiv 2022.10) Dual-former: Hybrid Self-attention Transformer for Efficient **Image Restoration**, [[Paper]](https://arxiv.org/pdf/2210.01069.pdf)
+
+- (arXiv 2022.10) LANGUAGE-AWARE **SOFT PROMPTING** FOR **VISION & LANGUAGE** FOUNDATION MODELS, [[Paper]](https://arxiv.org/pdf/2210.01115.pdf)
+
+- (arXiv 2022.10) ASIF: COUPLED DATA TURNS UNIMODAL MODELS TO **MULTIMODAL** WITHOUT TRAINING, [[Paper]](https://arxiv.org/pdf/2210.01738.pdf)
+
+- (arXiv 2022.10) ImmFusion: Robust mmWave-RGB Fusion for **3D Human Body Reconstruction** in All Weather Conditions, [[Paper]](https://arxiv.org/pdf/2210.01346.pdf)
+
 - (arXiv 2022.10) PROMPT LEARNING WITH **OPTIMAL TRANSPORT** FOR **VISION-LANGUAGE** MODELS, [[Paper]](https://arxiv.org/pdf/2210.01253.pdf)
 
 - (arXiv 2022.10) Bridged Transformer for Vision and Point Cloud **3D Object Detection**, [[Paper]](https://arxiv.org/pdf/2210.01391.pdf)
@@ -213,19 +237,7 @@ Keep updated.
 
 ### 2022.09
 
-<!-- - (arXiv 2022.09) , [[Paper]]()
-
-- (arXiv 2022.09) , [[Paper]]()
-
-- (arXiv 2022.09) , [[Paper]]()
-
-- (arXiv 2022.09) , [[Paper]]()
-
-- (arXiv 2022.09) , [[Paper]]()
-
-- (arXiv 2022.09) , [[Paper]]()
-
-- (arXiv 2022.09) , [[Paper]]() -->
+- (arXiv 2022.09) Alignment-guided Temporal Attention for **Video Action Recognition**, [[Paper]](https://arxiv.org/pdf/2210.00132.pdf)
 
 - (arXiv 2022.09) EDA: Explicit Text-Decoupling and Dense Alignment for **3D Visual and Language** Learning, [[Paper]](https://arxiv.org/pdf/2209.14941.pdf), [[Code]](https://github.com/yanmin-wu/EDA)
 
