@@ -163,11 +163,11 @@ Keep updated.
 
 - (arXiv 2022.10) , [[Paper]]()
 
-- (arXiv 2022.10) , [[Paper]]()
-
-- (arXiv 2022.10) , [[Paper]]()
-
 - (arXiv 2022.10) , [[Paper]]() -->
+
+- (arXiv 2022.10) Differentiable Parsing and Visual **Grounding** of Verbal Instructions for **Object Placement**, [[Paper]](https://arxiv.org/pdf/2210.00215.pdf), [[Project]](https://1989ryan.github.io/projects/paragon.html)
+
+- (arXiv 2022.10) EAPruning: Evolutionary **Pruning** for Vision Transformers and CNNs, [[Paper]](https://arxiv.org/pdf/2210.00181.pdf)
 
 - (arXiv 2022.10) Motion-inductive Self-supervised **Object Discovery** in Videos, [[Paper]](https://arxiv.org/pdf/2210.00221.pdf)
 
@@ -236,6 +236,12 @@ Keep updated.
 - (arXiv 2022.10) PIZZA: A Powerful Image-only Zero-Shot Zero-CAD Approach to **6 DoF Tracking**, [[Paper]](https://arxiv.org/pdf/2209.07589.pdf), [[Code]](https://github.com/nv-nguyen/pizza)
 
 ### 2022.09
+
+- SPIKFORMER: WHEN **SPIKING NEURAL NETWORK** MEETS TRANSFORMER, [[Paper]](https://arxiv.org/pdf/2209.15425.pdf)
+
+- F-VLM: OPEN-VOCABULARY OBJECT **DETECTION** UPON FROZEN VISION AND LANGUAGE MODELS, [[Paper]](https://arxiv.org/pdf/2209.15639.pdf)
+
+- (arXiv 2022.09) CONTRASTIVE CORPUS ATTRIBUTION FOR EXPLAINING REPRESENTATIONS, [[Paper]](https://arxiv.org/pdf/2210.00107.pdf)
 
 - (arXiv 2022.09) Alignment-guided Temporal Attention for **Video Action Recognition**, [[Paper]](https://arxiv.org/pdf/2210.00132.pdf)
 
