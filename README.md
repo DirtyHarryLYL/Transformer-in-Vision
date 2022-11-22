@@ -124,14 +124,14 @@ Keep updated.
 ## Recent Papers
 
 ### 2022.11
-
-<!-- - (arXiv 2022.11) , [[Paper]]()
-
+<!-- 
 - (arXiv 2022.11) , [[Paper]]()
 
 - (arXiv 2022.11) , [[Paper]]()
 
 - (arXiv 2022.11) , [[Paper]]() -->
+
+- (arXiv 2022.11) Decomposed Soft Prompt Guided Fusion Enhancing for **Compositional Zero-Shot Learning**, [[Paper]](https://arxiv.org/pdf/2211.10681.pdf), [[Code]](https://github.com/Forest-art/DFSP.git)
 
 - (arXiv 2022.11) ACCURATE **IMAGE RESTORATION** WITH ATTENTION RETRACTABLE TRANSFORMER, [[Paper]](https://arxiv.org/pdf/2210.01427.pdf), [[Code]](https://github.com/gladzhang/ART)
 
