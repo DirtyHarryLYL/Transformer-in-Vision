@@ -124,7 +124,51 @@ Keep updated.
 ## Recent Papers
 
 ### 2022.11
-<!-- 
+
+- (arXiv 2022.11) Human or Machine? **Turing Tests** for **Vision** and **Language**, [[Paper]](https://arxiv.org/pdf/2211.13087.pdf), [[Code]](https://tinyurl.com/8x8nha7p)
+
+<!-- - (arXiv 2022.11) , [[Paper]]()
+
+- (arXiv 2022.11) , [[Paper]]()
+
+- (arXiv 2022.11) , [[Paper]]()
+
+- (arXiv 2022.11) , [[Paper]]()
+
+- (arXiv 2022.11) , [[Paper]]()
+
+- (arXiv 2022.11) , [[Paper]]()
+
+- (arXiv 2022.11) , [[Paper]]()
+
+- (arXiv 2022.11) , [[Paper]]()
+
+- (arXiv 2022.11) , [[Paper]]()
+
+- (arXiv 2022.11) , [[Paper]]()
+
+- (arXiv 2022.11) , [[Paper]]()
+
+- (arXiv 2022.11) , [[Paper]]()
+
+- (arXiv 2022.11) , [[Paper]]()
+
+- (arXiv 2022.11) , [[Paper]]()
+
+- (arXiv 2022.11) , [[Paper]]()
+
+- (arXiv 2022.11) , [[Paper]]()
+
+- (arXiv 2022.11) , [[Paper]]()
+
+- (arXiv 2022.11) , [[Paper]]()
+
+- (arXiv 2022.11) , [[Paper]]()
+
+- (arXiv 2022.11) , [[Paper]]()
+
+- (arXiv 2022.11) , [[Paper]]()
+
 - (arXiv 2022.11) , [[Paper]]()
 
 - (arXiv 2022.11) , [[Paper]]()
