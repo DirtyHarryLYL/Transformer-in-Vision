@@ -161,9 +161,9 @@ Keep updated.
 
 - (arXiv 2022.10) , [[Paper]]()
 
-- (arXiv 2022.10) , [[Paper]]()
-
 - (arXiv 2022.10) , [[Paper]]() -->
+
+- (arXiv 2022.10) MOBILEVITV3: **MOBILE**-FRIENDLY VISION TRANSFORMER WITH SIMPLE AND EFFECTIVE FUSION OF LOCAL, GLOBAL AND INPUT FEATURES, [[Paper]](https://arxiv.org/pdf/2209.15159.pdf), [[Code]](https://github.com/micronDLA/MobileViTv3)
 
 - (arXiv 2022.10) Differentiable Parsing and Visual **Grounding** of Verbal Instructions for **Object Placement**, [[Paper]](https://arxiv.org/pdf/2210.00215.pdf), [[Project]](https://1989ryan.github.io/projects/paragon.html)
 
@@ -237,9 +237,37 @@ Keep updated.
 
 ### 2022.09
 
-- SPIKFORMER: WHEN **SPIKING NEURAL NETWORK** MEETS TRANSFORMER, [[Paper]](https://arxiv.org/pdf/2209.15425.pdf)
+<!-- - (arXiv 2022.09) , [[Paper]]()
 
-- F-VLM: OPEN-VOCABULARY OBJECT **DETECTION** UPON FROZEN VISION AND LANGUAGE MODELS, [[Paper]](https://arxiv.org/pdf/2209.15639.pdf)
+- (arXiv 2022.09) , [[Paper]]()
+
+- (arXiv 2022.09) , [[Paper]]()
+
+- (arXiv 2022.09) , [[Paper]]()
+
+- (arXiv 2022.09) , [[Paper]]()
+
+- (arXiv 2022.09) , [[Paper]]()
+
+- (arXiv 2022.09) , [[Paper]]() -->
+
+- (arXiv 2022.09) UNDERSTANDING PURE **CLIP** GUIDANCE FOR **VOXEL** GRID **NERF** MODELS, [[Paper]](https://arxiv.org/pdf/2209.15172.pdf), [[Project]](https://hanhung.github.io/PureCLIPNeRF/)
+
+- (arXiv 2022.09) Dual Progressive Transformations for Weakly Supervised Semantic **Segmentation**, [[Paper]](https://arxiv.org/pdf/2209.15211.pdf), [[Code]](https://github.com/huodongjian0603/crt)
+
+- (arXiv 2022.09) Transformers for Object **Detection** in Large **Point Clouds**, [[Paper]](https://arxiv.org/pdf/2209.15258.pdf)
+
+- (arXiv 2022.09) **DIFFUSION**-BASED **IMAGE TRANSLATION** USING DISENTANGLED STYLE AND CONTENT REPRESENTATION, [[Paper]](https://arxiv.org/pdf/2209.15264.pdf)
+
+- (arXiv 2022.09) ERNIE-VIL 2.0: MULTI-VIEW CONTRASTIVE LEARNING FOR **IMAGE-TEXT** PRE-TRAINING, [[Paper]](https://arxiv.org/pdf/2209.15270.pdf), [[Code]](https://github.com/PaddlePaddle/ERNIE/)
+
+- (arXiv 2022.09) LEARNING TRANSFERABLE **SPATIOTEMPORAL** REPRESENTATIONS FROM NATURAL **SCRIPT** KNOWLEDGE, [[Paper]](https://arxiv.org/pdf/2209.15280.pdf)
+
+- (arXiv 2022.09) SMALLCAP: Lightweight Image **Captioning** Prompted with Retrieval Augmentation, [[Paper]](https://arxiv.org/pdf/2209.15323.pdf), [[Code]](https://github.com/RitaRamo/smallcap)
+
+- (arXiv 2022.09) SPIKFORMER: WHEN **SPIKING NEURAL NETWORK** MEETS TRANSFORMER, [[Paper]](https://arxiv.org/pdf/2209.15425.pdf)
+
+- (arXiv 2022.09) F-VLM: OPEN-VOCABULARY OBJECT **DETECTION** UPON FROZEN VISION AND LANGUAGE MODELS, [[Paper]](https://arxiv.org/pdf/2209.15639.pdf)
 
 - (arXiv 2022.09) CONTRASTIVE CORPUS ATTRIBUTION FOR EXPLAINING REPRESENTATIONS, [[Paper]](https://arxiv.org/pdf/2210.00107.pdf)
 
