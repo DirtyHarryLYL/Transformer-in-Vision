@@ -59,6 +59,8 @@ Keep updated.
 
 ## Survey
 
+- (arXiv 2022.11) A survey on **knowledge**-enhanced **multimodal** learning, [[Paper]](https://arxiv.org/pdf/2211.12328.pdf)
+
 - (arXiv 2022.10) A Survey on Graph Neural Networks and **Graph** Transformers in Computer Vision: A Task-Oriented Perspective, [[Paper]](https://arxiv.org/pdf/2209.13232.pdf)
 
 - (arXiv 2022.09) VISION TRANSFORMERS FOR **ACTION RECOGNITION**: A SURVEY, [[Paper]](https://arxiv.org/pdf/2209.05700.pdf)
@@ -127,9 +129,9 @@ Keep updated.
 
 - (arXiv 2022.11) Human or Machine? **Turing Tests** for **Vision** and **Language**, [[Paper]](https://arxiv.org/pdf/2211.13087.pdf), [[Code]](https://tinyurl.com/8x8nha7p)
 
-<!-- - (arXiv 2022.11) , [[Paper]]()
+- (arXiv 2022.11) Knowledge **Prompting** for Few-shot **Action Recognition**, [[Paper]](https://arxiv.org/pdf/2211.12030.pdf)
 
-- (arXiv 2022.11) , [[Paper]]()
+<!-- - (arXiv 2022.11) , [[Paper]]()
 
 - (arXiv 2022.11) , [[Paper]]()
 
