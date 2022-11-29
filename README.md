@@ -127,6 +127,20 @@ Keep updated.
 
 ### 2022.11
 
+<!-- - (arXiv 2022.11) , [[Paper]]()
+
+- (arXiv 2022.11) , [[Paper]]()
+
+- (arXiv 2022.11) , [[Paper]]()
+
+- (arXiv 2022.11) , [[Paper]]()
+
+- (arXiv 2022.11) , [[Paper]]()
+
+- (arXiv 2022.11) , [[Paper]]() -->
+
+- (arXiv 2022.11) Action-**GPT**: Leveraging Large-scale Language Models for Improved and Generalized Zero Shot **Action Generation**, [[Paper]](https://arxiv.org/pdf/2211.15603.pdf), [[Project]](https://actiongpt.github.io/)
+
 - (arXiv 2022.11) Human or Machine? **Turing Tests** for **Vision** and **Language**, [[Paper]](https://arxiv.org/pdf/2211.13087.pdf), [[Code]](https://tinyurl.com/8x8nha7p)
 
 - (arXiv 2022.11) Knowledge **Prompting** for Few-shot **Action Recognition**, [[Paper]](https://arxiv.org/pdf/2211.12030.pdf)
