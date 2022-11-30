@@ -135,9 +135,9 @@ Keep updated.
 
 - (arXiv 2022.11) , [[Paper]]()
 
-- (arXiv 2022.11) , [[Paper]]()
-
 - (arXiv 2022.11) , [[Paper]]() -->
+
+- (arXiv 2022.11) UDE: A Unified Driving Engine for Human **Motion Generation**, [[Paper]](https://arxiv.org/pdf/2211.16016.pdf), [[Code]](https://github.com/zixiangzhou916/UDE/)
 
 - (arXiv 2022.11) Action-**GPT**: Leveraging Large-scale Language Models for Improved and Generalized Zero Shot **Action Generation**, [[Paper]](https://arxiv.org/pdf/2211.15603.pdf), [[Project]](https://actiongpt.github.io/)
 
