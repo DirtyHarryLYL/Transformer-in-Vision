@@ -133,9 +133,9 @@ Keep updated.
 
 - (arXiv 2022.11) , [[Paper]]()
 
-- (arXiv 2022.11) , [[Paper]]()
-
 - (arXiv 2022.11) , [[Paper]]() -->
+
+- (arXiv 2022.11) Interaction Visual Transformer for **Egocentric Action Anticipation**, [[Paper]](https://arxiv.org/pdf/2211.14154.pdf)
 
 - (arXiv 2022.11) UDE: A Unified Driving Engine for Human **Motion Generation**, [[Paper]](https://arxiv.org/pdf/2211.16016.pdf), [[Code]](https://github.com/zixiangzhou916/UDE/)
 
