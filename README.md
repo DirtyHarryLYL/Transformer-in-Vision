@@ -125,6 +125,24 @@ Keep updated.
 
 ## Recent Papers
 
+### 2022.12
+
+- (arXiv 2022.12) Hyperbolic **Contrastive** Learning for Visual **Representations** beyond Objects, [[Paper]](https://arxiv.org/pdf/2212.00653.pdf), [[Code]](https://github.com/shlokk/HCL/tree/main/HCL)
+
+<!-- - (arXiv 2022.12) , [[Paper]]()
+
+- (arXiv 2022.12) , [[Paper]]()
+
+- (arXiv 2022.12) , [[Paper]]()
+
+- (arXiv 2022.12) , [[Paper]]()
+
+- (arXiv 2022.12) , [[Paper]]()
+
+- (arXiv 2022.12) , [[Paper]]()
+
+- (arXiv 2022.12) , [[Paper]]() -->
+
 ### 2022.11
 
 <!-- - (arXiv 2022.11) , [[Paper]]()
