@@ -233,13 +233,13 @@ Keep updated.
 
 - (arXiv 2022.10) , [[Paper]]()
 
-- (arXiv 2022.10) , [[Paper]]()
-
-- (arXiv 2022.10) , [[Paper]]()
-
-- (arXiv 2022.10) , [[Paper]]()
-
 - (arXiv 2022.10) , [[Paper]]() -->
+
+- (arXiv 2022.10) SYSTEMATIC GENERALIZATION AND EMERGENT STRUCTURES IN TRANSFORMERS TRAINED ON **STRUCTURED TASKS**, [[Paper]](https://arxiv.org/pdf/2210.00400.pdf)
+
+- (arXiv 2022.10) WIDE **ATTENTION** IS THE WAY FORWARD FOR TRANSFORMERS? [[Paper]](https://arxiv.org/pdf/2210.00640.pdf)
+
+- (arXiv 2022.10) DARTFORMER: **FINDING** THE BEST TYPE OF **ATTENTION**, [[Paper]](https://arxiv.org/pdf/2210.00641.pdf)
 
 - (arXiv 2022.10) MOBILEVITV3: **MOBILE**-FRIENDLY VISION TRANSFORMER WITH SIMPLE AND EFFECTIVE FUSION OF LOCAL, GLOBAL AND INPUT FEATURES, [[Paper]](https://arxiv.org/pdf/2209.15159.pdf), [[Code]](https://github.com/micronDLA/MobileViTv3)
 
@@ -314,9 +314,7 @@ Keep updated.
 - (arXiv 2022.10) PIZZA: A Powerful Image-only Zero-Shot Zero-CAD Approach to **6 DoF Tracking**, [[Paper]](https://arxiv.org/pdf/2209.07589.pdf), [[Code]](https://github.com/nv-nguyen/pizza)
 
 ### 2022.09
-
-<!-- - (arXiv 2022.09) , [[Paper]]()
-
+<!-- 
 - (arXiv 2022.09) , [[Paper]]()
 
 - (arXiv 2022.09) , [[Paper]]()
@@ -328,6 +326,8 @@ Keep updated.
 - (arXiv 2022.09) , [[Paper]]()
 
 - (arXiv 2022.09) , [[Paper]]() -->
+
+- (arXiv 2022.09) **Visuo-Tactile** Transformers for Manipulation, [[Paper]](https://arxiv.org/pdf/2210.00121.pdf), [[Project]](https://www.mmintlab.com/vtt)
 
 - (arXiv 2022.09) UNDERSTANDING PURE **CLIP** GUIDANCE FOR **VOXEL** GRID **NERF** MODELS, [[Paper]](https://arxiv.org/pdf/2209.15172.pdf), [[Project]](https://hanhung.github.io/PureCLIPNeRF/)
 
