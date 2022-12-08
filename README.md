@@ -225,15 +225,15 @@ Keep updated.
 
 - (arXiv 2022.10) , [[Paper]]()
 
-- (arXiv 2022.10) , [[Paper]]()
-
-- (arXiv 2022.10) , [[Paper]]()
-
-- (arXiv 2022.10) , [[Paper]]()
-
-- (arXiv 2022.10) , [[Paper]]()
-
 - (arXiv 2022.10) , [[Paper]]() -->
+
+- (arXiv 2022.10) **EFFECTIVE** **SELF-SUPERVISED** PRE-TRAINING ON LOW-COMPUTE NETWORKS WITHOUT DISTILLATION, [[Paper]](https://arxiv.org/pdf/2210.02808.pdf)
+
+- (arXiv 2022.10) **CLIP** MODEL IS AN EFFICIENT **CONTINUAL LEARNER**, [[Paper]](https://arxiv.org/pdf/2210.03114.pdf)
+
+- (arXiv 2022.10) Content-Based Search for Deep **Generative** Models, [[Paper]](https://arxiv.org/pdf/2210.03116.pdf)
+
+- (arXiv 2022.10) MAPLE: **MULTI-MODAL** **PROMPT** LEARNING, [[Paper]](https://arxiv.org/pdf/2210.03117.pdf), [[Code]](https://tinyurl.com/2dzs8f3w)
 
 - (arXiv 2022.10) SYSTEMATIC GENERALIZATION AND EMERGENT STRUCTURES IN TRANSFORMERS TRAINED ON **STRUCTURED TASKS**, [[Paper]](https://arxiv.org/pdf/2210.00400.pdf)
 
@@ -314,10 +314,8 @@ Keep updated.
 - (arXiv 2022.10) PIZZA: A Powerful Image-only Zero-Shot Zero-CAD Approach to **6 DoF Tracking**, [[Paper]](https://arxiv.org/pdf/2209.07589.pdf), [[Code]](https://github.com/nv-nguyen/pizza)
 
 ### 2022.09
-<!-- 
-- (arXiv 2022.09) , [[Paper]]()
 
-- (arXiv 2022.09) , [[Paper]]()
+<!-- - (arXiv 2022.09) , [[Paper]]()
 
 - (arXiv 2022.09) , [[Paper]]()
 
@@ -326,6 +324,8 @@ Keep updated.
 - (arXiv 2022.09) , [[Paper]]()
 
 - (arXiv 2022.09) , [[Paper]]() -->
+
+- (arXiv 2022.09) SELF-DISTILLATION FOR FURTHER **PRE-TRAINING** OF TRANSFORMERS, [[Paper]](https://arxiv.org/pdf/2210.02871.pdf)
 
 - (arXiv 2022.09) **Visuo-Tactile** Transformers for Manipulation, [[Paper]](https://arxiv.org/pdf/2210.00121.pdf), [[Project]](https://www.mmintlab.com/vtt)
 
