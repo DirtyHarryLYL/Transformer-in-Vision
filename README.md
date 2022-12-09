@@ -127,8 +127,6 @@ Keep updated.
 
 ### 2022.12
 
-- (arXiv 2022.12) Hyperbolic **Contrastive** Learning for Visual **Representations** beyond Objects, [[Paper]](https://arxiv.org/pdf/2212.00653.pdf), [[Code]](https://github.com/shlokk/HCL/tree/main/HCL)
-
 <!-- - (arXiv 2022.12) , [[Paper]]()
 
 - (arXiv 2022.12) , [[Paper]]()
@@ -142,6 +140,8 @@ Keep updated.
 - (arXiv 2022.12) , [[Paper]]()
 
 - (arXiv 2022.12) , [[Paper]]() -->
+
+- (arXiv 2022.12) Hyperbolic **Contrastive** Learning for Visual **Representations** beyond Objects, [[Paper]](https://arxiv.org/pdf/2212.00653.pdf), [[Code]](https://github.com/shlokk/HCL/tree/main/HCL)
 
 ### 2022.11
 
@@ -205,9 +205,9 @@ Keep updated.
 
 - (arXiv 2022.11) , [[Paper]]()
 
-- (arXiv 2022.11) , [[Paper]]()
-
 - (arXiv 2022.11) , [[Paper]]() -->
+
+- (arXiv 2022.11) **DALL-E**-Bot: Introducing Web-Scale Diffusion Models to **Robotics**, [[Paper]](https://arxiv.org/pdf/2210.02438.pdf), [[Project]](https://www.robot-learning.uk/dall-e-bot)
 
 - (arXiv 2022.11) Decomposed Soft Prompt Guided Fusion Enhancing for **Compositional Zero-Shot Learning**, [[Paper]](https://arxiv.org/pdf/2211.10681.pdf), [[Code]](https://github.com/Forest-art/DFSP.git)
 
@@ -225,7 +225,61 @@ Keep updated.
 
 - (arXiv 2022.10) , [[Paper]]()
 
+- (arXiv 2022.10) , [[Paper]]()
+
+- (arXiv 2022.10) , [[Paper]]()
+
+- (arXiv 2022.10) , [[Paper]]()
+
+- (arXiv 2022.10) , [[Paper]]()
+
+- (arXiv 2022.10) , [[Paper]]()
+
+- (arXiv 2022.10) , [[Paper]]()
+
+- (arXiv 2022.10) , [[Paper]]()
+
+- (arXiv 2022.10) , [[Paper]]()
+
+- (arXiv 2022.10) , [[Paper]]()
+
+- (arXiv 2022.10) , [[Paper]]()
+
+- (arXiv 2022.10) , [[Paper]]()
+
+- (arXiv 2022.10) , [[Paper]]()
+
+- (arXiv 2022.10) , [[Paper]]()
+
 - (arXiv 2022.10) , [[Paper]]() -->
+
+- (arXiv 2022.10) Grounding **Language** with **Visual** **Affordances** over Unstructured Data, [[Paper]](https://arxiv.org/pdf/2210.01911.pdf), [[Project]](http://hulc2.cs.uni-freiburg.de/)
+
+- (arXiv 2022.10) Granularity-aware Adaptation for **Image Retrieval** over Multiple Tasks, [[Paper]](https://arxiv.org/pdf/2210.02254.pdf)
+
+- (arXiv 2022.10) WHEN AND WHY **VISION-LANGUAGE** MODELS BEHAVE LIKE BAGS-OF-WORDS, AND WHAT TO DO ABOUT IT? [[Paper]](https://arxiv.org/pdf/2210.01936.pdf)
+
+- (arXiv 2022.10) Multi-view **Human** Body **Mesh** Translator, [[Paper]](https://arxiv.org/pdf/2210.01886.pdf)
+
+- (arXiv 2022.10) EXPLORING THE ROLE OF MEAN TEACHERS IN **SELFSUPERVISED** **MASKED** AUTO-ENCODERS, [[Paper]](https://arxiv.org/pdf/2210.02077.pdf)
+
+- (arXiv 2022.10) **Point Cloud Recognition** with Position-to-Structure Attention Transformers, [[Paper]](https://arxiv.org/pdf/2210.02030.pdf)
+
+- (arXiv 2022.10) TEMPORALLY CONSISTENT VIDEO TRANSFORMER FOR LONG-TERM **VIDEO PREDICTION**, [[Paper]](https://arxiv.org/pdf/2210.02396.pdf), [[Code]](https://wilson1yan.github.io/teco)
+
+- (arXiv 2022.10) PHENAKI: VARIABLE LENGTH **VIDEO GENERATION** FROM OPEN DOMAIN TEXTUAL DESCRIPTIONS, [[Paper]](https://arxiv.org/pdf/2210.02399.pdf)
+
+- (arXiv 2022.10) MuRAG: Multimodal Retrieval-Augmented Generator for **Open Question Answering** over Images and Text, [[Paper]](https://arxiv.org/pdf/2210.02928.pdf)
+
+- (arXiv 2022.10) Real-World **Robot Learning** with **Masked** Visual Pre-training, [[Paper]](https://arxiv.org/pdf/2210.03109.pdf), [[Project]](https://tetexiao.com/projects/real-mvp)
+
+- (arXiv 2022.10) BaseTransformers: Attention over base data-points for **One Shot** Learning, [[Paper]](https://arxiv.org/pdf/2210.02476.pdf), [[Code]](https://github.com/mayug/BaseTransformers)
+
+- (arXiv 2022.10) Focal and Global Spatial-Temporal Transformer for **Skeleton**-based **Action Recognition**, [[Paper]](https://arxiv.org/pdf/2210.02693.pdf)
+
+- (arXiv 2022.10) Vision Transformer Based Model for **Describing** a Set of **Images** as a Story, [[Paper]](https://arxiv.org/pdf/2210.02762.pdf)
+
+- (arXiv 2022.10) **Video Referring Expression Comprehension** via Transformer with Content-aware Query, [[Paper]](https://arxiv.org/pdf/2210.02953.pdf), [[Code]](https://github.com/mengcaopku/ContFormer)
 
 - (arXiv 2022.10) **EFFECTIVE** **SELF-SUPERVISED** PRE-TRAINING ON LOW-COMPUTE NETWORKS WITHOUT DISTILLATION, [[Paper]](https://arxiv.org/pdf/2210.02808.pdf)
 
