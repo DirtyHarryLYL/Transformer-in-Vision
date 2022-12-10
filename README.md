@@ -139,7 +139,27 @@ Keep updated.
 
 - (arXiv 2022.12) , [[Paper]]()
 
+- (arXiv 2022.12) , [[Paper]]()
+
+- (arXiv 2022.12) , [[Paper]]()
+
+- (arXiv 2022.12) , [[Paper]]()
+
+- (arXiv 2022.12) , [[Paper]]()
+
 - (arXiv 2022.12) , [[Paper]]() -->
+
+- (arXiv 2022.12) Learning **Video** Representations from **Large Language Models**, [[Paper]](https://arxiv.org/pdf/2212.04501.pdf), [[Project]](https://facebookresearch.github.io/LaViLa)
+
+- (arXiv 2022.12) Frozen **CLIP** Model is Efficient **Point Cloud** Backbone, [[Paper]](https://arxiv.org/pdf/2212.04098.pdf)
+
+- (arXiv 2022.12) DialogCC: Large-scale **Multi-Modal Dialogue** Dataset, [[Paper]](https://arxiv.org/pdf/2212.04119.pdf), [[Project]](https://github.com/passing2961/DialogCC)
+
+- (arXiv 2022.12) Group Generalized Mean **Pooling** for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2212.04114.pdf)
+
+- (arXiv 2022.12) LEARNING DOMAIN INVARIANT **PROMPT** FOR **VISION-LANGUAGE** MODELS, [[Paper]](https://arxiv.org/pdf/2212.04196.pdf)
+
+- (arXiv 2022.12) LLM-Planner: Few-Shot Grounded **Planning** for **Embodied** Agents with **Large Language Models**, [[Paper]](https://arxiv.org/pdf/2212.04088.pdf)
 
 - (arXiv 2022.12) Hyperbolic **Contrastive** Learning for Visual **Representations** beyond Objects, [[Paper]](https://arxiv.org/pdf/2212.00653.pdf), [[Code]](https://github.com/shlokk/HCL/tree/main/HCL)
 
