@@ -147,7 +147,27 @@ Keep updated.
 
 - (arXiv 2022.12) , [[Paper]]()
 
+- (arXiv 2022.12) , [[Paper]]()
+
+- (arXiv 2022.12) , [[Paper]]()
+
 - (arXiv 2022.12) , [[Paper]]() -->
+
+- (arXiv 2022.12) ViTPose+: Vision Transformer Foundation Model for Generic Body **Pose Estimation**, [[Paper]](https://arxiv.org/pdf/2212.04246.pdf), [[Code]](https://github.com/ViTAE-Transformer/ViTPose)
+
+- (arXiv 2022.12) Structured **Vision-Language** Pretraining for **Computational** Cooking, [[Paper]](https://arxiv.org/pdf/2212.04267.pdf)
+
+- (arXiv 2022.12) MIME: **Human**-Aware **3D Scene Generation**, [[Paper]](https://arxiv.org/pdf/2212.04360.pdf), [[Project]](https://mime.is.tue.mpg.de/)
+
+- (arXiv 2022.12) OFASY S: A **Multi-Modal Multi-Task** Learning System for Building **Generalist Models**, [[Paper]](https://arxiv.org/pdf/2212.04408.pdf), [[Code]](https://github.com/OFA-Sys/OFASys)
+
+- (arXiv 2022.12) Task **Bias** in **Vision-Language** Models, [[Paper]](https://arxiv.org/pdf/2212.04412.pdf)
+
+- (arXiv 2022.12) Multi-Concept Customization of **Text-to-Image** **Diffusion**, [[Paper]](https://arxiv.org/pdf/2212.04488.pdf), [[Code]](https://www.cs.cmu.edu/~custom-diffusion/)
+
+- (arXiv 2022.12) Few-View Object **Reconstruction** with Unknown Categories and Camera Poses, [[Paper]](https://arxiv.org/pdf/2212.04492.pdf), [[Project]](https://ut-austin-rpl.github.io/FORGE/)
+
+- (arXiv 2022.12) Masked Video Distillation: Rethinking **Masked** Feature Modeling for **Self-supervised** **Video Representation** Learning, [[Paper]](https://arxiv.org/pdf/2212.04500.pdf), [[Code]](https://github.com/ruiwang2021/mvd)
 
 - (arXiv 2022.12) Learning **Video** Representations from **Large Language Models**, [[Paper]](https://arxiv.org/pdf/2212.04501.pdf), [[Project]](https://facebookresearch.github.io/LaViLa)
 
@@ -388,16 +408,6 @@ Keep updated.
 - (arXiv 2022.10) PIZZA: A Powerful Image-only Zero-Shot Zero-CAD Approach to **6 DoF Tracking**, [[Paper]](https://arxiv.org/pdf/2209.07589.pdf), [[Code]](https://github.com/nv-nguyen/pizza)
 
 ### 2022.09
-
-<!-- - (arXiv 2022.09) , [[Paper]]()
-
-- (arXiv 2022.09) , [[Paper]]()
-
-- (arXiv 2022.09) , [[Paper]]()
-
-- (arXiv 2022.09) , [[Paper]]()
-
-- (arXiv 2022.09) , [[Paper]]() -->
 
 - (arXiv 2022.09) SELF-DISTILLATION FOR FURTHER **PRE-TRAINING** OF TRANSFORMERS, [[Paper]](https://arxiv.org/pdf/2210.02871.pdf)
 
