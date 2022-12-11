@@ -149,9 +149,9 @@ Keep updated.
 
 - (arXiv 2022.12) , [[Paper]]()
 
-- (arXiv 2022.12) , [[Paper]]()
-
 - (arXiv 2022.12) , [[Paper]]() -->
+
+- (arXiv 2022.12) Beyond Object Recognition: A New Benchmark towards **Object Concept Learning**, [[Paper]](https://arxiv.org/pdf/2212.02710.pdf), [[Project]](https://mvig-rhos.com/ocl)
 
 - (arXiv 2022.12) ViTPose+: Vision Transformer Foundation Model for Generic Body **Pose Estimation**, [[Paper]](https://arxiv.org/pdf/2212.04246.pdf), [[Code]](https://github.com/ViTAE-Transformer/ViTPose)
 
