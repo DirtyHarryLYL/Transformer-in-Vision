@@ -147,9 +147,9 @@ Keep updated.
 
 - (arXiv 2022.12) , [[Paper]]()
 
-- (arXiv 2022.12) , [[Paper]]()
-
 - (arXiv 2022.12) , [[Paper]]() -->
+
+- (arXiv 2022.12) A New Path: Scaling **Vision-and-Language Navigation** with Synthetic Instructions and Imitation Learning, [[Paper]](https://arxiv.org/pdf/2210.03112.pdf)
 
 - (arXiv 2022.12) Beyond Object Recognition: A New Benchmark towards **Object Concept Learning**, [[Paper]](https://arxiv.org/pdf/2212.02710.pdf), [[Project]](https://mvig-rhos.com/ocl)
 
@@ -241,11 +241,11 @@ Keep updated.
 
 - (arXiv 2022.11) , [[Paper]]()
 
-- (arXiv 2022.11) , [[Paper]]()
-
-- (arXiv 2022.11) , [[Paper]]()
-
 - (arXiv 2022.11) , [[Paper]]() -->
+
+- (arXiv 2022.11) Fast**CLIP**styler: Optimisation-free Text-based **Image Style Transfer** Using Style Representations, [[Paper]](https://arxiv.org/pdf/2210.03461.pdf)
+
+- (arXiv 2022.11) PROGRESSIVE DENOISING MODEL FOR FINEGRAINED **TEXT-TO-IMAGE** GENERATION, [[Paper]](https://arxiv.org/pdf/2210.02291.pdf)
 
 - (arXiv 2022.11) **DALL-E**-Bot: Introducing Web-Scale Diffusion Models to **Robotics**, [[Paper]](https://arxiv.org/pdf/2210.02438.pdf), [[Project]](https://www.robot-learning.uk/dall-e-bot)
 
@@ -271,27 +271,27 @@ Keep updated.
 
 - (arXiv 2022.10) , [[Paper]]()
 
-- (arXiv 2022.10) , [[Paper]]()
-
-- (arXiv 2022.10) , [[Paper]]()
-
-- (arXiv 2022.10) , [[Paper]]()
-
-- (arXiv 2022.10) , [[Paper]]()
-
-- (arXiv 2022.10) , [[Paper]]()
-
-- (arXiv 2022.10) , [[Paper]]()
-
-- (arXiv 2022.10) , [[Paper]]()
-
-- (arXiv 2022.10) , [[Paper]]()
-
-- (arXiv 2022.10) , [[Paper]]()
-
-- (arXiv 2022.10) , [[Paper]]()
-
 - (arXiv 2022.10) , [[Paper]]() -->
+
+- (arXiv 2022.10) Polyhistor: Parameter-**Efficient** **Multi-Task Adaptation** for Dense Vision Tasks, [[Paper]](https://arxiv.org/pdf/2210.03265.pdf)
+
+- (arXiv 2022.10) C2KD: Cross-Lingual Cross-Modal Knowledge Distillation for Multilingual **Text-Video Retrieval**, [[Paper]](https://arxiv.org/pdf/2210.03625.pdf)
+
+- (arXiv 2022.10) **Pose** Guided **Human Image Synthesis** with Partially Decoupled GAN, [[Paper]](https://arxiv.org/pdf/2210.03627.pdf)
+
+- (arXiv 2022.10) A Simple Plugin for Transforming **Images** to **Arbitrary Scales**, [[Paper]](https://arxiv.org/pdf/2210.03417.pdf), [[Project]](https://lipurple.github.io/ARIS_Webpage/)
+
+- (arXiv 2022.10) Time-Space Transformers for **Video Panoptic Segmentation**, [[Paper]](https://arxiv.org/pdf/2210.03546.pdf)
+
+- (arXiv 2022.10) MOAT: ALTERNATING **MOBILE** CONVOLUTION AND ATTENTION BRINGS STRONG VISION MODELS, [[Paper]](https://arxiv.org/pdf/2210.01820.pdf), [[Code]](https://github.com/google-research/deeplab2)
+
+- (arXiv 2022.10) **IMAGEN** VIDEO: HIGH DEFINITION **VIDEO GENERATION** WITH **DIFFUSION** MODELS, [[Paper]](https://arxiv.org/pdf/2210.02303.pdf), [[Project]](https://imagen.research.google/video/)
+
+- (arXiv 2022.10) clip2latent: **Text** driven sampling of a pre-trained **StyleGAN** using denoising diffusion and **CLIP**, [[Paper]](https://arxiv.org/pdf/2210.02347.pdf)
+
+- (arXiv 2022.10) FQDet: **Fast**-converging Query-based **Detector**, [[Paper]](https://arxiv.org/pdf/2210.02318.pdf), [[Code]](https://github.com/CedricPicron/FQDet)
+
+- (arXiv 2022.10) VARIATIONAL **PROMPT** TUNING IMPROVES GENERALIZATION OF **VISION-LANGUAGE** MODELS, [[Paper]](https://arxiv.org/pdf/2210.02390.pdf)
 
 - (arXiv 2022.10) Grounding **Language** with **Visual** **Affordances** over Unstructured Data, [[Paper]](https://arxiv.org/pdf/2210.01911.pdf), [[Project]](http://hulc2.cs.uni-freiburg.de/)
 
