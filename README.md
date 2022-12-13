@@ -146,8 +146,8 @@ Keep updated.
 - (arXiv 2022.12) , [[Paper]]()
 
 - (arXiv 2022.12) , [[Paper]]()
-
-- (arXiv 2022.12) , [[Paper]]() -->
+ -->
+- (arXiv 2022.12) MultiAct: Long-Term **3D Human Motion Generation** from Multiple Action Labels, [[Paper]](https://arxiv.org/pdf/2212.05897.pdf)
 
 - (arXiv 2022.12) A New Path: Scaling **Vision-and-Language Navigation** with Synthetic Instructions and Imitation Learning, [[Paper]](https://arxiv.org/pdf/2210.03112.pdf)
 
