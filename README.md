@@ -143,10 +143,10 @@ Keep updated.
 
 - (arXiv 2022.12) , [[Paper]]()
 
-- (arXiv 2022.12) , [[Paper]]()
+- (arXiv 2022.12) , [[Paper]]() -->
 
-- (arXiv 2022.12) , [[Paper]]()
- -->
+- (arXiv 2022.12) IMoS: Intent-Driven Full-Body **Motion Synthesis** for **Human-Object Interactions**, [[Paper]](https://arxiv.org/pdf/2212.07555.pdf)
+
 - (arXiv 2022.12) MultiAct: Long-Term **3D Human Motion Generation** from Multiple Action Labels, [[Paper]](https://arxiv.org/pdf/2212.05897.pdf)
 
 - (arXiv 2022.12) A New Path: Scaling **Vision-and-Language Navigation** with Synthetic Instructions and Imitation Learning, [[Paper]](https://arxiv.org/pdf/2210.03112.pdf)
@@ -239,9 +239,9 @@ Keep updated.
 
 - (arXiv 2022.11) , [[Paper]]()
 
-- (arXiv 2022.11) , [[Paper]]()
-
 - (arXiv 2022.11) , [[Paper]]() -->
+
+- (arXiv 2022.11) VISUAL PROMPT TUNING FOR **TEST-TIME DOMAIN ADAPTATION**, [[Paper]](https://arxiv.org/pdf/2210.04831.pdf)
 
 - (arXiv 2022.11) Fast**CLIP**styler: Optimisation-free Text-based **Image Style Transfer** Using Style Representations, [[Paper]](https://arxiv.org/pdf/2210.03461.pdf)
 
@@ -271,7 +271,39 @@ Keep updated.
 
 - (arXiv 2022.10) , [[Paper]]()
 
+- (arXiv 2022.10) , [[Paper]]()
+
+- (arXiv 2022.10) , [[Paper]]()
+
 - (arXiv 2022.10) , [[Paper]]() -->
+
+- (arXiv 2022.10) VOLTA: **VISION-LANGUAGE** TRANSFORMER WITH WEAKLY-SUPERVISED LOCAL-FEATURE ALIGNMENT, [[Paper]](https://arxiv.org/pdf/2210.04135.pdf)
+
+- (arXiv 2022.10) OPEN-VOCABULARY SEMANTIC **SEGMENTATION** WITH MASK-ADAPTED **CLIP**, [[Paper]](https://arxiv.org/pdf/2210.04150.pdf), [[Project]](https://jeff-liangf.github.io/projects/ovseg)
+
+- (arXiv 2022.10) MAMO: Masked Multimodal Modeling for Fine-Grained **Vision-Language** Representation Learning, [[Paper]](https://arxiv.org/pdf/2210.04183.pdf)
+
+- (arXiv 2022.10) SELF-SUPERVISED **VIDEO** REPRESENTATION LEARNING WITH MOTION-AWARE **MASKED AUTOENCODERS**, [[Paper]](https://arxiv.org/pdf/2210.04154.pdf), [[Code]](https://github.com/happy-hsy/MotionMAE)
+
+- (arXiv 2022.10) LEARNING TO DECOMPOSE **VISUAL** FEATURES WITH LATENT **TEXTUAL** PROMPTS, [[Paper]](https://arxiv.org/pdf/2210.04287.pdf)
+
+- (arXiv 2022.10) DCVQE: A Hierarchical Transformer for **Video Quality Assessment**, [[Paper]](https://arxiv.org/pdf/2210.04377.pdf)
+
+- (arXiv 2022.10) **Fine-grained Object** Categorization for Service **Robots**, [[Paper]](https://arxiv.org/pdf/2210.04613.pdf)
+
+- (arXiv 2022.10) **CLIP**-DIFFUSION-LM: APPLY DIFFUSION MODEL ON IMAGE **CAPTIONING**, [[Paper]](https://arxiv.org/pdf/2210.04559.pdf), [[Code]](https://github.com/xu-shitong/diffusion-image-captioning)
+
+- (arXiv 2022.10) A Memory Transformer Network for **Incremental Learning**, [[Paper]](https://arxiv.org/pdf/2210.04485.pdf)
+
+- (arXiv 2022.10) Bridging **CLIP** and StyleGAN through Latent Alignment for **Image Editing**, [[Paper]](https://arxiv.org/pdf/2210.04506.pdf)
+
+- (arXiv 2022.10) LMQFormer: A Laplace-Prior-Guided Mask Query Transformer for **Lightweight Snow Removal**, [[Paper]](https://arxiv.org/pdf/2210.04787.pdf)
+
+- (arXiv 2022.10) FS-DETR: **FEW-SHOT** **DETECTION** TRANSFORMER WITH PROMPTING AND WITHOUT RE-TRAINING, [[Paper]](https://arxiv.org/pdf/2210.04845.pdf)
+
+- (arXiv 2022.10) Transformer-based Localization from **Embodied** Dialog with Large-scale Pre-training, [[Paper]](https://arxiv.org/pdf/2210.04864.pdf)
+
+- (arXiv 2022.10) Turbo Training with Token **Dropout**, [[Paper]](https://arxiv.org/pdf/2210.04889.pdf)
 
 - (arXiv 2022.10) Polyhistor: Parameter-**Efficient** **Multi-Task Adaptation** for Dense Vision Tasks, [[Paper]](https://arxiv.org/pdf/2210.03265.pdf)
 
