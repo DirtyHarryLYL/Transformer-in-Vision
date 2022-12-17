@@ -143,7 +143,31 @@ Keep updated.
 
 - (arXiv 2022.12) , [[Paper]]()
 
+- (arXiv 2022.12) , [[Paper]]()
+
+- (arXiv 2022.12) , [[Paper]]()
+
 - (arXiv 2022.12) , [[Paper]]() -->
+
+- (arXiv 2022.12) Structure-Guided **Image Completion** with Image-level and Object-level Semantic Discriminators, [[Paper]](https://arxiv.org/pdf/2212.06310.pdf)
+
+- (arXiv 2022.12) Localized Latent Updates for **Fine-Tuning** **Vision-Language** Models, [[Paper]](https://arxiv.org/pdf/2212.06556.pdf)
+
+- (arXiv 2022.12) CamoFormer: Masked Separable Attention for **Camouflaged Object Detection**, [[Paper]](https://arxiv.org/pdf/2212.06570.pdf)
+
+- (arXiv 2022.12) FastMIM: Expediting **Masked** Image Modeling Pre-training for Vision, [[Paper]](https://arxiv.org/pdf/2212.06593.pdf), [[Code]](https://github.com/ggjy/FastMIM.pytorch)
+
+- (arXiv 2022.12) OAMixer: Object-aware **Mixing** Layer for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2212.06595.pdf), [[Code]](https://github.com/alinlab/OAMixer)
+
+- (arXiv 2022.12) Doubly Right **Object Recognition**: A Why **Prompt** for Visual **Rationales**, [[Paper]](https://arxiv.org/pdf/2212.06202.pdf)
+
+- (arXiv 2022.12) RT-1: **ROBOTICS** TRANSFORMER FOR REAL-WORLD CONTROL AT SCALE, [[Paper]](https://arxiv.org/pdf/2212.06817.pdf), [[Project]](https://robotics-transformer.github.io/)
+
+- (arXiv 2022.12) **Egocentric Video** Task Translation, [[Paper]](https://arxiv.org/pdf/2212.06301.pdf)
+
+- (arXiv 2022.12) ScanEnts3D: Exploiting Phrase-to-3D-Object Correspondences for Improved **Visio-Linguistic** Models in **3D** Scenes, [[Paper]](https://arxiv.org/pdf/2212.06250.pdf), [[Project]](https://scanents3d.github.io/)
+
+- (arXiv 2022.12) **Curriculum Learning** Meets Weakly Supervised **Modality Correlation** Learning, [[Paper]](https://arxiv.org/pdf/2212.07619.pdf)
 
 - (arXiv 2022.12) IMoS: Intent-Driven Full-Body **Motion Synthesis** for **Human-Object Interactions**, [[Paper]](https://arxiv.org/pdf/2212.07555.pdf)
 
