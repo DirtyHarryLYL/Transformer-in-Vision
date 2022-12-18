@@ -147,7 +147,73 @@ Keep updated.
 
 - (arXiv 2022.12) , [[Paper]]()
 
+- (arXiv 2022.12) , [[Paper]]()
+
+- (arXiv 2022.12) , [[Paper]]()
+
+- (arXiv 2022.12) , [[Paper]]()
+
+- (arXiv 2022.12) , [[Paper]]()
+
+- (arXiv 2022.12) , [[Paper]]()
+
+- (arXiv 2022.12) , [[Paper]]()
+
+- (arXiv 2022.12) , [[Paper]]()
+
+- (arXiv 2022.12) , [[Paper]]()
+
+- (arXiv 2022.12) , [[Paper]]()
+
 - (arXiv 2022.12) , [[Paper]]() -->
+
+- (arXiv 2022.12) **Image-and-Language** Understanding from Pixels Only, [[Paper]](https://arxiv.org/pdf/2212.08045.pdf), [[Code]](https://github.com/google-research/big_vision)
+
+- (arXiv 2022.12) FlexiViT: One Model for All **Patch Sizes**, [[Paper]](https://arxiv.org/pdf/2212.08013.pdf), [[Code]](https://github.com/google-research/big_vision)
+
+- (arXiv 2022.12) **Unsupervised** Object **Localization**: Observing the Background to Discover Objects, [[Paper]](https://arxiv.org/pdf/2212.07834.pdf), [[Code]](https://github.com/valeoai/FOUND)
+
+- (arXiv 2022.12) Vision Transformers are Parameter-Efficient **Audio-Visual** Learners, [[Paper]](https://arxiv.org/pdf/2212.07983.pdf), [[Project]](https://genjib.github.io/project_page/LAVISH/)
+
+- (arXiv 2022.12) Full Contextual Attention for Multi-resolution Transformers in **Semantic Segmentation**, [[Paper]](https://arxiv.org/pdf/2212.07890.pdf)
+
+- (arXiv 2022.12) DETR4D: Direct Multi-View **3D Object Detection** with Sparse Attention, [[Paper]](https://arxiv.org/pdf/2212.07849.pdf)
+
+- (arXiv 2022.12) Enhanced Training of Query-Based Object **Detection** via Selective Query Recollection, [[Paper]](https://arxiv.org/pdf/2212.07593.pdf), [[Code]](https://github.com/Fangyi-Chen/SQR)
+
+- (arXiv 2022.12) TEXT-GUIDED MASK-FREE LOCAL **IMAGE RETOUCHING**, [[Paper]](https://arxiv.org/pdf/2212.07603.pdf)
+
+- (arXiv 2022.12) Summary-Oriented Vision Modeling for **Multimodal Abstractive Summarization**, [[Paper]](https://arxiv.org/pdf/2212.07672.pdf), [[Code]](https://github.com/XL2248/SOV-MAS)
+
+- (arXiv 2022.12) One-Shot Domain Adaptive and Generalizable **Semantic Segmentation** with Class-Aware Cross-Domain Transformers, [[Paper]](https://arxiv.org/pdf/2212.07292.pdf)
+
+- (arXiv 2022.12) ConQueR: Query Contrast Voxel-DETR for **3D Object Detection**, [[Paper]](https://arxiv.org/pdf/2212.07289.pdf)
+
+- (arXiv 2022.12) Examining the **Difference** Among **Transformers** and **CNNs** with Explanation Methods, [[Paper]](https://arxiv.org/pdf/2212.06872.pdf)
+
+- (arXiv 2022.12) Find Someone Who: Visual Commonsense Understanding in Human-Centric **Grounding**, [[Paper]](https://arxiv.org/pdf/2212.06971.pdf), [[Code]](https://github.com/Hxyou/HumanCog)
+
+- (arXiv 2022.12) Dual-branch Cross-Patch Attention Learning for **Group Affect Recognition**, [[Paper]](https://arxiv.org/pdf/2212.07055.pdf)
+
+- (arXiv 2022.12) Cross-Modal Similarity-Based Curriculum Learning for Image **Captioning**, [[Paper]](https://arxiv.org/pdf/2212.07075.pdf)
+
+- (arXiv 2022.12) NLIP: Noise-robust **Language-Image** Pre-training, [[Paper]](https://arxiv.org/pdf/2212.07086.pdf)
+
+- (arXiv 2022.12) Lidar**CLIP** or: How I Learned to Talk to **Point Clouds**, [[Paper]](https://arxiv.org/pdf/2212.06858.pdf), [[Code]](https://github.com/atonderski/lidarclip)
+
+- (arXiv 2022.12) **CLIP**SEP: LEARNING TEXT-QUERIED **SOUND SEPARATION** WITH NOISY UNLABELED VIDEOS, [[Paper]](https://arxiv.org/pdf/2212.07065.pdf)
+
+- (arXiv 2022.12) Reproducible **scaling laws** for contrastive language-image learning, [[Paper]](https://arxiv.org/pdf/2212.07143.pdf), [[Code]](https://github.com/LAION-AI/scaling-laws-openclip)
+
+- (arXiv 2022.12) WHAT DO VISION TRANSFORMERS LEARN? A VISUAL **EXPLORATION**, [[Paper]](https://arxiv.org/pdf/2212.06727.pdf)
+
+- (arXiv 2022.12) Self-Play and Self-Describe: **Policy Adaptation** with **Vision-Language** Foundation Models, [[Paper]](https://arxiv.org/pdf/2212.07398.pdf), [[Project]](https://geyuying.github.io/SPLAYD)
+
+- (arXiv 2022.12) GPVIT: A **HIGH RESOLUTION** NON-HIERARCHICAL VISION TRANSFORMER WITH GROUP PROPAGATION, [[Paper]](https://arxiv.org/pdf/2212.06795.pdf), [[Code]](https://github.com/ChenhongyiYang/GPViT)
+
+- (arXiv 2022.12) Learning 3D Representations from 2D Pre-trained Models via **Image-to-Point** Masked Autoencoders, [[Paper]](https://arxiv.org/pdf/2212.06785.pdf), [[Code]](https://github.com/ZrrSkywalker/I2P-MAE)
+
+- (arXiv 2022.12) Parallel Queries for **Human-Object Interaction Detection**, [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3551626.3564944)
 
 - (arXiv 2022.12) Structure-Guided **Image Completion** with Image-level and Object-level Semantic Discriminators, [[Paper]](https://arxiv.org/pdf/2212.06310.pdf)
 
@@ -299,7 +365,31 @@ Keep updated.
 
 - (arXiv 2022.10) , [[Paper]]()
 
+- (arXiv 2022.10) , [[Paper]]()
+
+- (arXiv 2022.10) , [[Paper]]()
+
+- (arXiv 2022.10) , [[Paper]]()
+
+- (arXiv 2022.10) , [[Paper]]()
+
+- (arXiv 2022.10) , [[Paper]]()
+
+- (arXiv 2022.10) , [[Paper]]()
+
 - (arXiv 2022.10) , [[Paper]]() -->
+
+- (arXiv 2022.10) Learning Fine-Grained Visual Understanding for **Video Question Answering** via Decoupling Spatial-Temporal Modeling, [[Paper]](https://arxiv.org/pdf/2210.03941.pdf), [[Code]](https://github.com/shinying/dest)
+
+- (arXiv 2022.10) (Fusionformer):Exploiting the Joint Motion Synergy with Fusion Network Based On Transformer for **3D Human Pose Estimation**, [[Paper]](https://arxiv.org/pdf/2210.04006.pdf)
+
+- (arXiv 2022.10) Fast-ParC: Position Aware Global **Kernel** for ConvNets and ViTs, [[Paper]](https://arxiv.org/pdf/2210.04020.pdf), [[Code]](https://github.com/yangtao2019yt/Fast_ParC.git)
+
+- (arXiv 2022.10) OGC: Unsupervised **3D Object Segmentation** from Rigid Dynamics of Point Clouds, [[Paper]](https://arxiv.org/pdf/2210.04458.pdf), [[Code]](https://github.com/vLAR-group/OGC)
+
+- (arXiv 2022.10) Multi-Modal Fusion Transformer for **Visual Question Answering** in **Remote Sensing**, [[Paper]](https://arxiv.org/pdf/2210.04510.pdf), [[Code]](https://git.tu-berlin.de/rsim/multi-modal-fusion-transformer-for-vqa-in-rs)
+
+- (arXiv 2022.10) Semantics-Consistent **Cross-domain Summarization** via Optimal Transport Alignment, [[Paper]](https://arxiv.org/pdf/2210.04722.pdf)
 
 - (arXiv 2022.10) VOLTA: **VISION-LANGUAGE** TRANSFORMER WITH WEAKLY-SUPERVISED LOCAL-FEATURE ALIGNMENT, [[Paper]](https://arxiv.org/pdf/2210.04135.pdf)
 
