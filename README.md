@@ -161,9 +161,9 @@ Keep updated.
 
 - (arXiv 2022.12) , [[Paper]]()
 
-- (arXiv 2022.12) , [[Paper]]()
-
 - (arXiv 2022.12) , [[Paper]]() -->
+
+- (arXiv 2022.12) Point·E: A System for **Generating 3D Point Clouds** from Complex **Prompts**, [[Paper]](https://arxiv.org/pdf/2212.08751.pdf), [[Code]](https://github.com/openai/point-e)
 
 - (arXiv 2022.12) Inductive Attention for **Video Action Anticipation**, [[Paper]](https://arxiv.org/pdf/2212.08830.pdf)
 
