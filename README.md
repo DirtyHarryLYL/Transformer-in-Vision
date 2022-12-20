@@ -163,9 +163,9 @@ Keep updated.
 
 - (arXiv 2022.12) , [[Paper]]()
 
-- (arXiv 2022.12) , [[Paper]]()
-
 - (arXiv 2022.12) , [[Paper]]() -->
+
+- (arXiv 2022.12) Inductive Attention for **Video Action Anticipation**, [[Paper]](https://arxiv.org/pdf/2212.08830.pdf)
 
 - (arXiv 2022.12) **Image-and-Language** Understanding from Pixels Only, [[Paper]](https://arxiv.org/pdf/2212.08045.pdf), [[Code]](https://github.com/google-research/big_vision)
 
