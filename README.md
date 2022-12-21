@@ -323,13 +323,13 @@ Keep updated.
 
 - (arXiv 2022.11) , [[Paper]]()
 
-- (arXiv 2022.11) , [[Paper]]()
-
-- (arXiv 2022.11) , [[Paper]]()
-
-- (arXiv 2022.11) , [[Paper]]()
-
 - (arXiv 2022.11) , [[Paper]]() -->
+
+- (arXiv 2022.11) **CLIP**-Fields: Weakly Supervised Semantic Fields for **Robotic** Memory, [[Paper]](https://arxiv.org/pdf/2210.05663.pdf), [[Code]](https://mahis.life/clip-fields)
+
+- (arXiv 2022.11) Multi-Scale Wavelet Transformer for **Face Forgery Detection**, [[Paper]](https://arxiv.org/pdf/2210.03899.pdf)
+
+- (arXiv 2022.11) **CLIP**-PAE: PROJECTION-AUGMENTATION EMBEDDING TO EXTRACT RELEVANT FEATURES FOR A DISENTANGLED, INTERPRETABLE, AND CONTROLLABLE **TEXT-GUIDED IMAGE MANIPULATION**, [[Paper]](https://arxiv.org/pdf/2210.03919.pdf)
 
 - (arXiv 2022.11) VISUAL PROMPT TUNING FOR **TEST-TIME DOMAIN ADAPTATION**, [[Paper]](https://arxiv.org/pdf/2210.04831.pdf)
 
@@ -378,6 +378,30 @@ Keep updated.
 - (arXiv 2022.10) , [[Paper]]()
 
 - (arXiv 2022.10) , [[Paper]]() -->
+
+- (arXiv 2022.10) Contrastive **Video-Language** Learning with Fine-grained Frame Sampling, [[Paper]](https://arxiv.org/pdf/2210.05039.pdf)
+
+- (arXiv 2022.10) Style-Guided Inference of Transformer for High-resolution **Image Synthesis**, [[Paper]](https://arxiv.org/pdf/2210.05533.pdf)
+
+- (arXiv 2022.10) MAP: Modality-Agnostic Uncertainty-Aware **Vision-Language** Pre-training Model, [[Paper]](https://arxiv.org/pdf/2210.05335.pdf), [[Code]](https://github.com/IIGROUP/MAP)
+
+- (arXiv 2022.10) LEARNING TO LOCATE VISUAL **ANSWER** IN **VIDEO** CORPUS USING **QUESTION**, [[Paper]](https://arxiv.org/pdf/2210.05423.pdf), [[Code]](https://github.com/WENGSYX/CCGS)
+
+- (arXiv 2022.10) UNDERSTANDING **EMBODIED** REFERENCE WITH TOUCH-LINE TRANSFORMER, [[Paper]](https://arxiv.org/pdf/2210.05668.pdf)
+
+- (arXiv 2022.10) **Point** Transformer V2: Grouped Vector Attention and Partition-based Pooling, [[Paper]](https://arxiv.org/pdf/2210.05666.pdf), [[Code]](https://github.com/Gofinge/PointTransformerV2)
+
+- (arXiv 2022.10) See, Plan, Predict: Language-guided Cognitive **Planning** with Video Prediction, [[Paper]](https://arxiv.org/pdf/2210.03825.pdf)
+
+- (arXiv 2022.10) USING BOTH DEMONSTRATIONS AND LANGUAGE INSTRUCTIONS TO EFFICIENTLY LEARN **ROBOTIC** TASKS, [[Paper]](https://arxiv.org/pdf/2210.04476.pdf), [[Project]](https://sites.google.com/view/del-taco-learning)
+
+- (arXiv 2022.10) Generating image **captions** with external encyclopedic knowledge, [[Paper]](https://arxiv.org/pdf/2210.04806.pdf)
+
+- (arXiv 2022.10) LOCL: Learning **Object-Attribute Composition** using Localization, [[Paper]](https://arxiv.org/pdf/2210.03780.pdf)
+
+- (arXiv 2022.10) SVL-Adapter: Self-Supervised Adapter for **Vision-Language** Pretrained Models, [[Paper]](https://arxiv.org/pdf/2210.03794.pdf), [[Code]](https://github.com/omipan/svl_adapter)
+
+- (arXiv 2022.10) ConTra: (Con)text (Tra)nsformer for **Cross-Modal Video Retrieval**, [[Paper]](https://arxiv.org/pdf/2210.04341.pdf)
 
 - (arXiv 2022.10) Learning Fine-Grained Visual Understanding for **Video Question Answering** via Decoupling Spatial-Temporal Modeling, [[Paper]](https://arxiv.org/pdf/2210.03941.pdf), [[Code]](https://github.com/shinying/dest)
 
