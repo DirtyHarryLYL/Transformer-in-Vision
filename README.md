@@ -321,9 +321,9 @@ Keep updated.
 
 - (arXiv 2022.11) , [[Paper]]()
 
-- (arXiv 2022.11) , [[Paper]]()
-
 - (arXiv 2022.11) , [[Paper]]() -->
+
+- (arXiv 2022.11) **Token-Label Alignment** for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2210.06455.pdf), [[Code]](https://github.com/Euphoria16/TL-Align)
 
 - (arXiv 2022.11) **CLIP**-Fields: Weakly Supervised Semantic Fields for **Robotic** Memory, [[Paper]](https://arxiv.org/pdf/2210.05663.pdf), [[Code]](https://mahis.life/clip-fields)
 
@@ -364,20 +364,20 @@ Keep updated.
 - (arXiv 2022.10) , [[Paper]]()
 
 - (arXiv 2022.10) , [[Paper]]()
+ -->
+- (arXiv 2022.10) One does not fit all! On the Complementarity of Vision Encoders for **Vision and Language** Tasks, [[Paper]](https://arxiv.org/pdf/2210.06379.pdf)
 
-- (arXiv 2022.10) , [[Paper]]()
+- (arXiv 2022.10) **PROMPT GENERATION** NETWORKS FOR EFFICIENT **ADAPTATION** OF FROZEN VISION TRANSFORMERS, [[Paper]](https://arxiv.org/pdf/2210.06466.pdf), [[Code]](https://github.com/jochemloedeman/PGN)
 
-- (arXiv 2022.10) , [[Paper]]()
+- (arXiv 2022.10) Generating Executable Action **Plans** with Environmentally-Aware Language Models, [[Paper]](https://arxiv.org/pdf/2210.04964.pdf)
 
-- (arXiv 2022.10) , [[Paper]]()
+- (arXiv 2022.10) AVE-**CLIP**: AudioCLIP-based Multi-window Temporal Transformer for **Audio Visual Event Localization**, [[Paper]](https://arxiv.org/pdf/2210.05060.pdf)
 
-- (arXiv 2022.10) , [[Paper]]()
+- (arXiv 2022.10) Improving Dense **Contrastive Learning** with Dense Negative Pairs, [[Paper]](https://arxiv.org/pdf/2210.05063.pdf)
 
-- (arXiv 2022.10) , [[Paper]]()
+- (arXiv 2022.10) Fine-Grained **Image Style Transfer** with Visual Transformers, [[Paper]](https://arxiv.org/pdf/2210.05176.pdf), [[Code]](https://github.com/researchmm/STTR)
 
-- (arXiv 2022.10) , [[Paper]]()
-
-- (arXiv 2022.10) , [[Paper]]() -->
+- (arXiv 2022.10) IT TAKES TWO: **MASKED** APPEARANCE-MOTION MODELING FOR **SELF-SUPERVISED VIDEO** TRANSFORMER PRE-TRAINING, [[Paper]](https://arxiv.org/pdf/2210.05234.pdf)
 
 - (arXiv 2022.10) Contrastive **Video-Language** Learning with Fine-grained Frame Sampling, [[Paper]](https://arxiv.org/pdf/2210.05039.pdf)
 
