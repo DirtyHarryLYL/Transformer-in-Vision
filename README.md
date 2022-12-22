@@ -127,41 +127,41 @@ Keep updated.
 
 ### 2022.12
 
-<!-- - (arXiv 2022.12) , [[Paper]]()
+<!-- - (arXiv 2022.12) , [[Paper]](), [[Code]]()
 
-- (arXiv 2022.12) , [[Paper]]()
+- (arXiv 2022.12) , [[Paper]](), [[Code]]()
 
-- (arXiv 2022.12) , [[Paper]]()
+- (arXiv 2022.12) , [[Paper]](), [[Code]]()
 
-- (arXiv 2022.12) , [[Paper]]()
+- (arXiv 2022.12) , [[Paper]](), [[Code]]()
 
-- (arXiv 2022.12) , [[Paper]]()
+- (arXiv 2022.12) , [[Paper]](), [[Code]]()
 
-- (arXiv 2022.12) , [[Paper]]()
+- (arXiv 2022.12) , [[Paper]](), [[Code]]()
 
-- (arXiv 2022.12) , [[Paper]]()
+- (arXiv 2022.12) , [[Paper]](), [[Code]]()
 
-- (arXiv 2022.12) , [[Paper]]()
+- (arXiv 2022.12) , [[Paper]](), [[Code]]()
 
-- (arXiv 2022.12) , [[Paper]]()
+- (arXiv 2022.12) , [[Paper]](), [[Code]]()
 
-- (arXiv 2022.12) , [[Paper]]()
+- (arXiv 2022.12) , [[Paper]](), [[Code]]()
 
-- (arXiv 2022.12) , [[Paper]]()
+- (arXiv 2022.12) , [[Paper]](), [[Code]]()
 
-- (arXiv 2022.12) , [[Paper]]()
+- (arXiv 2022.12) , [[Paper]](), [[Code]]()
 
-- (arXiv 2022.12) , [[Paper]]()
+- (arXiv 2022.12) , [[Paper]](), [[Code]]()
 
-- (arXiv 2022.12) , [[Paper]]()
+- (arXiv 2022.12) , [[Paper]](), [[Code]]()
 
-- (arXiv 2022.12) , [[Paper]]()
+- (arXiv 2022.12) , [[Paper]](), [[Code]]()
 
-- (arXiv 2022.12) , [[Paper]]()
+- (arXiv 2022.12) , [[Paper]](), [[Code]]() -->
 
-- (arXiv 2022.12) , [[Paper]]()
+- (arXiv 2022.12) SegViT: **Semantic Segmentation** with Plain Vision Transformers, [[Paper]](https://arxiv.org/pdf/2210.05844.pdf), [[Code]](https://github.com/zbwxp/SegVit)
 
-- (arXiv 2022.12) , [[Paper]]() -->
+- (arXiv 2022.12) Open-Vocabulary **Temporal Action Detection** with Off-the-Shelf Image-Text Features, [[Paper]](https://arxiv.org/pdf/2212.10596.pdf)
 
 - (arXiv 2022.12) Point·E: A System for **Generating 3D Point Clouds** from Complex **Prompts**, [[Paper]](https://arxiv.org/pdf/2212.08751.pdf), [[Code]](https://github.com/openai/point-e)
 
@@ -317,9 +317,9 @@ Keep updated.
 
 - (arXiv 2022.11) , [[Paper]]()
 
-- (arXiv 2022.11) , [[Paper]]()
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
 
-- (arXiv 2022.11) , [[Paper]]()
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
 
 - (arXiv 2022.11) , [[Paper]]() -->
 
@@ -351,20 +351,48 @@ Keep updated.
 
 ### 2022.10
 
-<!-- - (arXiv 2022.10) , [[Paper]]()
+<!-- - (arXiv 2022.10) , [[Paper]](), [[Code]]()
 
-- (arXiv 2022.10) , [[Paper]]()
+- (arXiv 2022.10) , [[Paper]](), [[Code]]()
 
-- (arXiv 2022.10) , [[Paper]]()
+- (arXiv 2022.10) , [[Paper]](), [[Code]]()
 
-- (arXiv 2022.10) , [[Paper]]()
+- (arXiv 2022.10) , [[Paper]](), [[Code]]()
 
-- (arXiv 2022.10) , [[Paper]]()
+- (arXiv 2022.10) , [[Paper]](), [[Code]]()
 
-- (arXiv 2022.10) , [[Paper]]()
+- (arXiv 2022.10) , [[Paper]](), [[Code]]() -->
 
-- (arXiv 2022.10) , [[Paper]]()
- -->
+- (arXiv 2022.10) Underspecification in **Scene Description-to-Depiction** Tasks, [[Paper]](https://arxiv.org/pdf/2210.05815.pdf)
+
+- (arXiv 2022.10) Continuous conditional **video synthesis** by neural processes, [[Paper]](https://arxiv.org/pdf/2210.05810.pdf), [[Code]](https://github.com/NPVS/NPVS)
+
+- (arXiv 2022.10) SAIT: SPARSE VISION TRANSFORMERS THROUGH ADAPTIVE TOKEN **PRUNING**, [[Paper]](https://arxiv.org/pdf/2210.05832.pdf)
+
+- (arXiv 2022.10) ZITS++: **Image Inpainting** by Improving the Incremental Transformer on Structural Priors, [[Paper]](https://arxiv.org/pdf/2210.05950.pdf)
+
+- (arXiv 2022.10) SLOTFORMER: UNSUPERVISED VISUAL **DYNAMICS SIMULATION** WITH OBJECT-CENTRIC MODELS, [[Paper]](https://arxiv.org/pdf/2210.05861.pdf), [[Project]](https://slotformer.github.io/)
+
+- (arXiv 2022.10) Learning by Asking Questions for Knowledge-based Novel **Object Recognition**, [[Paper]](https://arxiv.org/pdf/2210.05879.pdf)
+
+- (arXiv 2022.10) Bridging the **Gap** Between Vision Transformers and **Convolutional Neural Networks** on Small Datasets, [[Paper]](https://arxiv.org/pdf/2210.05958.pdf), [[Code]](https://github.com/ArieSeirack/DHVT)
+
+- (arXiv 2022.10) GGViT:Multistream Vision Transformer Network in Face2Face **Facial Reenactment Detection**, [[Paper]](https://arxiv.org/pdf/2210.05990.pdf)
+
+- (arXiv 2022.10) Distilling Knowledge from Language Models for **Video-based Action Anticipation**, [[Paper]](https://arxiv.org/pdf/2210.05991.pdf)
+
+- (arXiv 2022.10) Long-Form **Video-Language** Pre-Training with Multimodal Temporal Contrastive Learning, [[Paper]](https://arxiv.org/pdf/2210.06031.pdf), [[Code]](https://github.com/microsoft/XPretrain)
+
+- (arXiv 2022.10) M3VIDEO: **MASKED** MOTION MODELING FOR SELFSUPERVISED **VIDEO REPRESENTATION** LEARNING, [[Paper]](https://arxiv.org/pdf/2210.06096.pdf)
+
+- (arXiv 2022.10) Uplift and Upsample: Efficient **3D Human Pose Estimation** with Uplifting Transformers, [[Paper]](https://arxiv.org/pdf/2210.06110.pdf), [[Code]](https://github.com/goldbricklemon/uplift-upsample-3dhpe)
+
+- (arXiv 2022.10) FontTransformer: Few-shot High-resolution Chinese **Glyph Image Synthesis** via Stacked Transformers, [[Paper]](https://arxiv.org/pdf/2210.06301.pdf)
+
+- (arXiv 2022.10) AISFormer: Amodal **Instance Segmentation** with Transformer, [[Paper]](https://arxiv.org/pdf/2210.06323.pdf), [[Code]](https://github.com/UARK-AICV/AISFormer)
+
+- (arXiv 2022.10) ViewBirdiformer: Learning to **recover** ground-plane **crowd trajectories** and **ego-motion** from a single ego-centric view, [[Paper]](https://arxiv.org/pdf/2210.06332.pdf)
+
 - (arXiv 2022.10) One does not fit all! On the Complementarity of Vision Encoders for **Vision and Language** Tasks, [[Paper]](https://arxiv.org/pdf/2210.06379.pdf)
 
 - (arXiv 2022.10) **PROMPT GENERATION** NETWORKS FOR EFFICIENT **ADAPTATION** OF FROZEN VISION TRANSFORMERS, [[Paper]](https://arxiv.org/pdf/2210.06466.pdf), [[Code]](https://github.com/jochemloedeman/PGN)
