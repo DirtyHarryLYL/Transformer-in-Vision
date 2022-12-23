@@ -275,11 +275,11 @@ Keep updated.
 
 ### 2022.11
 
-<!-- - (arXiv 2022.11) , [[Paper]]()
+<!-- - (arXiv 2022.11) , [[Paper]](), [[Code]]()
 
-- (arXiv 2022.11) , [[Paper]]()
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
 
-- (arXiv 2022.11) , [[Paper]]()
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
 
 - (arXiv 2022.11) , [[Paper]]() -->
 
@@ -293,35 +293,35 @@ Keep updated.
 
 - (arXiv 2022.11) Knowledge **Prompting** for Few-shot **Action Recognition**, [[Paper]](https://arxiv.org/pdf/2211.12030.pdf)
 
-<!-- - (arXiv 2022.11) , [[Paper]]()
-
-- (arXiv 2022.11) , [[Paper]]()
-
-- (arXiv 2022.11) , [[Paper]]()
-
-- (arXiv 2022.11) , [[Paper]]()
-
-- (arXiv 2022.11) , [[Paper]]()
-
-- (arXiv 2022.11) , [[Paper]]()
-
-- (arXiv 2022.11) , [[Paper]]()
-
-- (arXiv 2022.11) , [[Paper]]()
-
-- (arXiv 2022.11) , [[Paper]]()
-
-- (arXiv 2022.11) , [[Paper]]()
-
-- (arXiv 2022.11) , [[Paper]]()
-
-- (arXiv 2022.11) , [[Paper]]()
+<!-- - (arXiv 2022.11) , [[Paper]](), [[Code]]()
 
 - (arXiv 2022.11) , [[Paper]](), [[Code]]()
 
 - (arXiv 2022.11) , [[Paper]](), [[Code]]()
 
-- (arXiv 2022.11) , [[Paper]]() -->
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.11) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2022.11) DENOISING **MASKED AUTOENCODERS** ARE CERTIFIABLE ROBUST VISION LEARNERS, [[Paper]](https://arxiv.org/pdf/2210.06983.pdf), [[Code]](https://github.com/quanlin-wu/dmae)
 
 - (arXiv 2022.11) **Token-Label Alignment** for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2210.06455.pdf), [[Code]](https://github.com/Euphoria16/TL-Align)
 
@@ -361,7 +361,31 @@ Keep updated.
 
 - (arXiv 2022.10) , [[Paper]](), [[Code]]()
 
+- (arXiv 2022.10) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.10) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.10) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.10) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.10) , [[Paper]](), [[Code]]()
+
 - (arXiv 2022.10) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2022.10) Interactive **Language**: Talking to **Robots** in Real Time, [[Paper]](https://arxiv.org/pdf/2210.06407.pdf), [[Project]](https://interactive-language.github.io/)
+
+- (arXiv 2022.10) RTFormer: Efficient Design for Real-Time **Semantic Segmentation** with Transformer, [[Paper]](https://arxiv.org/pdf/2210.07124.pdf), [[Code]](https://github.com/PaddlePaddle/PaddleSeg)
+
+- (arXiv 2022.10) How to **Train** Vision Transformer on **Small-scale Datasets**?, [[Paper]](https://arxiv.org/pdf/2210.07240.pdf), [[Code]](https://github.com/hananshafi/vits-for-small-scale-datasets)
+
+- (arXiv 2022.10) Hate-CLIPper: Multimodal Hateful **Meme Classification** based on Cross-modal Interaction of **CLIP** Features, [[Paper]](https://arxiv.org/pdf/2210.05916.pdf), [[Code]](https://github.com/gokulkarthik/hateclipper)
+
+- (arXiv 2022.10) Large Models are Parsimonious Learners: **Activation Sparsity** in Trained Transformers, [[Paper]](https://arxiv.org/pdf/2210.06313.pdf)
+
+- (arXiv 2022.10) CURVED **REPRESENTATION SPACE** OF VISION TRANSFORMERS, [[Paper]](https://arxiv.org/pdf/2210.05742.pdf)
+
+- (arXiv 2022.10) **Foundation** Transformers, [[Paper]](https://arxiv.org/pdf/2210.06423.pdf), [[Code]](https://github.com/microsoft/unilm)
 
 - (arXiv 2022.10) Underspecification in **Scene Description-to-Depiction** Tasks, [[Paper]](https://arxiv.org/pdf/2210.05815.pdf)
 
