@@ -373,6 +373,38 @@ Keep updated.
 
 - (arXiv 2022.10) , [[Paper]](), [[Code]]() -->
 
+- (arXiv 2022.10) IS SYNTHETIC DATA FROM **GENERATIVE** MODELS READY FOR IMAGE **RECOGNITION**?, [[Paper]](https://arxiv.org/pdf/2210.07574.pdf), [[Code]](https://github.com/CVMI-Lab/SyntheticData)
+
+- (arXiv 2022.10) Towards Transformer-based Homogenization of **Satellite Imagery** for Landsat-8 and Sentinel-2, [[Paper]](https://arxiv.org/pdf/2210.07654.pdf)
+
+- (arXiv 2022.10) MCTNET: A MULTI-SCALE CNN-TRANSFORMER NETWORK FOR **CHANGE DETECTION** IN OPTICAL **REMOTE SENSING** IMAGES, [[Paper]](https://arxiv.org/pdf/2210.07601.pdf)
+
+- (arXiv 2022.10) Vision Transformer **Visualization**: What Neurons Tell and How Neurons Behave? [[Paper]](https://arxiv.org/pdf/2210.07646.pdf), [[Code]](https://github.com/byM1902/ViT_visualization)
+
+- (arXiv 2022.10) TokenMixup: Efficient Attention-guided Token-level Data **Augmentation** for Transformers, [[Paper]](https://arxiv.org/pdf/2210.07562.pdf), [[Code]](https://github.com/mlvlab/TokenMixup)
+
+- (arXiv 2022.10) SQA3D: SITUATED **QUESTION ANSWERING** IN **3D** SCENES, [[Paper]](https://arxiv.org/pdf/2210.07474.pdf)
+
+- (arXiv 2022.10) When **Adversarial** Training Meets Vision Transformers: Recipes from Training to Architecture, [[Paper]](https://arxiv.org/pdf/2210.07540.pdf), [[Code]](https://github.com/mo666666/When-Adversarial-Training-Meets-Vision-Transformers)
+
+- (arXiv 2022.10) STAR-Transformer: A Spatio-temporal Cross Attention Transformer for Human **Action Recognition**, [[Paper]](https://arxiv.org/pdf/2210.07503.pdf)
+
+- (arXiv 2022.10) PedFormer: **Pedestrian Behavior Prediction** via Cross-Modal Attention Modulation and Gated Multitask Learning, [[Paper]](https://arxiv.org/pdf/2210.07886.pdf)
+
+- (arXiv 2022.10) One Model to Edit Them All: Free-Form Text-Driven **Image Manipulation** with Semantic Modulations, [[Paper]](https://arxiv.org/pdf/2210.07883.pdf), [[Code]](https://github.com/KumapowerLIU/FFCLIP)
+
+- (arXiv 2022.10) IMAGINARYNET: LEARNING OBJECT **DETECTORS** WITHOUT REAL IMAGES AND ANNOTATIONS, [[Paper]](https://arxiv.org/pdf/2210.06886.pdf), [[Code]](https://github.com/kodenii/ImaginaryNet)
+
+- (arXiv 2022.10) Feature-Proxy Transformer for **Few-Shot Segmentation**, [[Paper]](https://arxiv.org/pdf/2210.06908.pdf), [[Code]](https://github.com/Jarvis73/FPTrans)
+
+- (arXiv 2022.10) Scene **Text Image Super-Resolution** via Content Perceptual Loss and Criss-Cross Transformer Blocks, [[Paper]](https://arxiv.org/pdf/2210.06924.pdf)
+
+- (arXiv 2022.10) UNIFIED **VISION AND LANGUAGE** **PROMPT** LEARNING, [[Paper]](https://arxiv.org/pdf/2210.07225.pdf), [[Code]](https://github.com/yuhangzang/UPT)
+
+- (arXiv 2022.10) Exploring Long-Sequence **Masked Autoencoders**, [[Paper]](https://arxiv.org/pdf/2210.07224.pdf), [[Code]](https://github.com/facebookresearch/long_seq_mae)
+
+- (arXiv 2022.10) MAPL: Parameter-Efficient Adaptation of Unimodal Pre-Trained Models for **Vision-Language** Few-Shot **Prompting**, [[Paper]](https://arxiv.org/pdf/2210.07179.pdf)
+
 - (arXiv 2022.10) Interactive **Language**: Talking to **Robots** in Real Time, [[Paper]](https://arxiv.org/pdf/2210.06407.pdf), [[Project]](https://interactive-language.github.io/)
 
 - (arXiv 2022.10) RTFormer: Efficient Design for Real-Time **Semantic Segmentation** with Transformer, [[Paper]](https://arxiv.org/pdf/2210.07124.pdf), [[Code]](https://github.com/PaddlePaddle/PaddleSeg)
