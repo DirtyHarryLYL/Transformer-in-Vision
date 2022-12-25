@@ -145,19 +145,73 @@ Keep updated.
 
 - (arXiv 2022.12) , [[Paper]](), [[Code]]()
 
-- (arXiv 2022.12) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.12) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.12) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.12) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.12) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.12) , [[Paper]](), [[Code]]()
-
 - (arXiv 2022.12) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2022.12) Optimizing **Prompts** for **Text-to-Image** Generation, [[Paper]](https://arxiv.org/pdf/2212.09611.pdf), [[Code]](https://aka.ms/promptist)
+
+- (arXiv 2022.12) Attentive **Mask** **CLIP**, [[Paper]](https://arxiv.org/pdf/2212.08653.pdf)
+
+- (arXiv 2022.12) Rethinking **Cooking State Recognition** with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2212.08586.pdf)
+
+- (arXiv 2022.12) Enhancing **Multi-modal** and **Multi-hop Question Answering** via Structured Knowledge and Unified Retrieval-Generation, [[Paper]](https://arxiv.org/pdf/2212.08632.pdf), [[Code]]()
+
+- (arXiv 2022.12) MM-SHAP: A Performance-agnostic Metric for Measuring Multimodal Contributions in **Vision and Language** Models & Tasks, [[Paper]](https://arxiv.org/pdf/2212.08158.pdf), [[Code]](https://github.com/Heidelberg-NLP/MM-SHAP)
+
+- (arXiv 2022.12) RepQ-ViT: Scale Reparameterization for Post-Training **Quantization** of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2212.08254.pdf)
+
+- (arXiv 2022.12) WAVENHANCER: UNIFYING WAVELET AND TRANSFORMER FOR **IMAGE ENHANCEMENT**, [[Paper]](https://arxiv.org/pdf/2212.08327.pdf)
+
+- (arXiv 2022.12) AUTOENCODERS AS CROSS-MODAL TEACHERS: CAN PRETRAINED 2D IMAGE TRANSFORMERS HELP **3D REPRESENTATION** LEARNING?, [[Paper]](https://arxiv.org/pdf/2212.08320.pdf), [[Code]](https://github.com/RunpeiDong/ACT)
+
+- (arXiv 2022.12) SceneGATE: Scene-Graph based co-Attention networks for TExt **visual question answering**, [[Paper]](https://arxiv.org/pdf/2212.08283.pdf)
+
+- (arXiv 2022.12) Emergent **Analogical Reasoning** in Large Language Models, [[Paper]](https://arxiv.org/pdf/2212.09196.pdf)
+
+- (arXiv 2022.12) Unleashing the Power of **Visual Prompting** At the Pixel Level, [[Paper]](https://arxiv.org/pdf/2212.10556.pdf), [[Code]](https://github.com/UCSC-VLAA/EVP)
+
+- (arXiv 2022.12) Does **CLIP** Bind Concepts? Probing **Compositionality** in Large Image Models, [[Paper]](https://arxiv.org/pdf/2212.10537.pdf)
+
+- (arXiv 2022.12) LayoutDETR: Detection Transformer Is a Good Multimodal **Layout Designer**, [[Paper]](https://arxiv.org/pdf/2212.09877.pdf), [[Code]](https://github.com/salesforce/LayoutDETR)
+
+- (arXiv 2022.12) Towards Unsupervised **Visual Reasoning**: Do Off-The-Shelf Features Know How to Reason?, [[Paper]](https://arxiv.org/pdf/2212.10292.pdf)
+
+- (arXiv 2022.12) Benchmarking **Spatial Relationships** in **Text-to-Image** Generation, [[Paper]](https://arxiv.org/pdf/2212.10015.pdf), [[Project]](https://visort2i.github.io/)
+
+- (arXiv 2022.12) MetaCLUE: Towards Comprehensive **Visual Metaphors** Research, [[Paper]](https://arxiv.org/pdf/2212.09898.pdf), [[Project]](https://metaclue.github.io/)
+
+- (arXiv 2022.12) Tackling Ambiguity with Images: Improved **Multimodal** Machine **Translation** and Contrastive Evaluation, [[Paper]](https://arxiv.org/pdf/2212.10140.pdf), [[Code]](https://github.com/MatthieuFP/CoMMuTE.git)
+
+- (arXiv 2022.12) Cross-modal Attention Congruence Regularization for **Vision-Language** **Relation** Alignment, [[Paper]](https://arxiv.org/pdf/2212.10549.pdf)
+
+- (arXiv 2022.12) Does unsupervised **grammar induction** need pixels?, [[Paper]](https://arxiv.org/pdf/2212.10564.pdf)
+
+- (arXiv 2022.12) Hi-LASSIE: High-Fidelity **Articulated** Shape and Skeleton **Discovery** from Sparse **Image** Ensemble, [[Paper]](https://arxiv.org/pdf/2212.11042.pdf)
+
+- (arXiv 2022.12) MAViC: Multimodal Active Learning for **Video Captioning**, [[Paper]](https://arxiv.org/pdf/2212.11109.pdf)
+
+- (arXiv 2022.12) What Makes for Good **Tokenizers** in Vision Transformer? [[Paper]](https://arxiv.org/pdf/2212.11115.pdf)
+
+- (arXiv 2022.12) Not Just Pretty Pictures: **Text-to-Image** Generators Enable Interpretable Interventions for **Robust** Representations, [[Paper]](https://arxiv.org/pdf/2212.11237.pdf), [[Code]]()
+
+- (arXiv 2022.12) Generalized Decoding for **Pixel**, **Image**, and **Language**, [[Paper]](https://arxiv.org/pdf/2212.11270.pdf), [[Project]](https://x-decoder-vl.github.io/)
+
+- (arXiv 2022.12) METEOR Guided Divergence for **Video Captioning**, [[Paper]](https://arxiv.org/pdf/2212.10690.pdf), [[Code]](https://github.com/d-rothen/bmhrl)
+
+- (arXiv 2022.12) SLGTFORMER: AN ATTENTION-BASED APPROACH TO **SIGN LANGUAGE RECOGNITION**, [[Paper]](https://arxiv.org/pdf/2212.10746.pdf), [[Code]](https://github.com/neilsong/slt)
+
+- (arXiv 2022.12) FROM IMAGES TO TEXTUAL **PROMPTS**: ZERO-SHOT **VQA** WITH FROZEN LARGE LANGUAGE MODELS, [[Paper]](https://arxiv.org/pdf/2212.10846.pdf), [[Code]](https://github.com/salesforce/LAVIS/tree/main/projects/img2prompt-vqa)
+
+- (arXiv 2022.12) 3D Highlighter: Localizing Regions on **3D** Shapes via **Text** Descriptions, [[Paper]](https://arxiv.org/pdf/2212.11263.pdf), [[Code]](https://github.com/threedle/3DHighlighter)
+
+- (arXiv 2022.12) Contrastive **Language-Vision** AI Models Pretrained on Web-Scraped Multimodal Data Exhibit Sexual Objectification **Bias**, [[Paper]](https://arxiv.org/pdf/2212.11261.pdf)
+
+- (arXiv 2022.12) Ultra-High-Definition **Low-Light Image Enhancement**: A Benchmark and Transformer-Based Method, [[Paper]](https://arxiv.org/pdf/2212.11548.pdf), [[Code]](https://github.com/TaoWangzj/LLFormer)
+
+- (arXiv 2022.12) Tune-A-Video: One-Shot Tuning of Image Diffusion Models for **Text-to-Video** Generation, [[Paper]](https://arxiv.org/pdf/2212.11565.pdf), [[Project]](https://tuneavideo.github.io/)
+
+- (arXiv 2022.12) Beyond SOT: It’s Time to **Track** **Multiple** Generic **Objects** at Once, [[Paper]](https://arxiv.org/pdf/2212.11920.pdf)
+
+- (arXiv 2022.12) KNOWLEDGE-DRIVEN SCENE PRIORS FOR SEMANTIC AUDIO-VISUAL **EMBODIED NAVIGATION**, [[Paper]](https://arxiv.org/pdf/2212.11345.pdf)
 
 - (arXiv 2022.12) SegViT: **Semantic Segmentation** with Plain Vision Transformers, [[Paper]](https://arxiv.org/pdf/2210.05844.pdf), [[Code]](https://github.com/zbwxp/SegVit)
 
@@ -371,7 +425,37 @@ Keep updated.
 
 - (arXiv 2022.10) , [[Paper]](), [[Code]]()
 
+- (arXiv 2022.10) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.10) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.10) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.10) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.10) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.10) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.10) , [[Paper]](), [[Code]]()
+
 - (arXiv 2022.10) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2022.10) Frame Mining: a Free Lunch for Learning Robotic **Manipulation** from 3D Point Clouds, [[Paper]](https://arxiv.org/pdf/2210.07442.pdf), [[Project]](https://colin97.github.io/FrameMining/)
+
+- (arXiv 2022.10) Pretrained Transformers Do not Always Improve **Robustness**, [[Paper]](https://arxiv.org/pdf/2210.07663.pdf)
+
+- (arXiv 2022.10) Plausible May Not Be Faithful: Probing Object Hallucination in **Vision-Language** Pre-training, [[Paper]](https://arxiv.org/pdf/2210.07688.pdf)
+
+- (arXiv 2022.10) CONTRASTIVE **AUDIO-VISUAL** **MASKED** AUTOENCODER, [[Paper]](https://arxiv.org/pdf/2210.07839.pdf)
+
+- (arXiv 2022.10) SWFormer: Sparse Window Transformer for **3D Object Detection** in Point Clouds, [[Paper]](https://arxiv.org/pdf/2210.07372.pdf)
+
+- (arXiv 2022.10) Trailers12k: Improving Transfer Learning with a Dual Image and Video Transformer for Multi-label **Movie Trailer Genre Classification**, [[Paper]](https://arxiv.org/pdf/2210.07983.pdf)
+
+- (arXiv 2022.10) AVLEN: Audio-Visual-Language Embodied **Navigation** in 3D Environments, [[Paper]](https://arxiv.org/pdf/2210.07940.pdf)
+
+- (arXiv 2022.10) MOVE: Unsupervised Movable Object **Segmentation** and **Detection**, [[Paper]](https://arxiv.org/pdf/2210.07920.pdf)
 
 - (arXiv 2022.10) IS SYNTHETIC DATA FROM **GENERATIVE** MODELS READY FOR IMAGE **RECOGNITION**?, [[Paper]](https://arxiv.org/pdf/2210.07574.pdf), [[Code]](https://github.com/CVMI-Lab/SyntheticData)
 
