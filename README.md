@@ -61,6 +61,8 @@ Keep updated.
 
 - (arXiv 2022.11) A survey on **knowledge**-enhanced **multimodal** learning, [[Paper]](https://arxiv.org/pdf/2211.12328.pdf)
 
+- (arXiv 2022.10) Vision-Language Pre-training: Basics, Recent Advances, and Future Trends, [[Paper]](https://arxiv.org/pdf/2210.09263.pdf)
+
 - (arXiv 2022.10) A Survey on Graph Neural Networks and **Graph** Transformers in Computer Vision: A Task-Oriented Perspective, [[Paper]](https://arxiv.org/pdf/2209.13232.pdf)
 
 - (arXiv 2022.09) VISION TRANSFORMERS FOR **ACTION RECOGNITION**: A SURVEY, [[Paper]](https://arxiv.org/pdf/2209.05700.pdf)
@@ -367,13 +369,13 @@ Keep updated.
 
 - (arXiv 2022.11) , [[Paper]](), [[Code]]()
 
-- (arXiv 2022.11) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.11) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.11) , [[Paper]](), [[Code]]()
-
 - (arXiv 2022.11) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2022.11) Plug-and-Play VQA: Zero-shot **VQA** by Conjoining Large Pretrained Models with Zero Training, [[Paper]](https://arxiv.org/pdf/2210.08773.pdf)
+
+- (arXiv 2022.11) Selective Query-guided Debiasing for **Video** Corpus Moment **Retrieval**, [[Paper]](https://arxiv.org/pdf/2210.08714.pdf)
+
+- (arXiv 2022.11) Scaling & Shifting Your Features: A New Baseline for **Efficient Model Tuning**, [[Paper]](https://arxiv.org/pdf/2210.08823.pdf), [[Code]](https://github.com/dongzelian/SSF)
 
 - (arXiv 2022.11) DENOISING **MASKED AUTOENCODERS** ARE CERTIFIABLE ROBUST VISION LEARNERS, [[Paper]](https://arxiv.org/pdf/2210.06983.pdf), [[Code]](https://github.com/quanlin-wu/dmae)
 
@@ -421,25 +423,25 @@ Keep updated.
 
 - (arXiv 2022.10) , [[Paper]](), [[Code]]()
 
-- (arXiv 2022.10) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.10) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.10) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.10) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.10) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.10) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.10) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.10) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.10) , [[Paper]](), [[Code]]()
-
 - (arXiv 2022.10) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2022.10) Temporal and Contextual Transformer for **Multi-Camera Editing** of TV Shows, [[Paper]](https://arxiv.org/pdf/2210.08737.pdf)
+
+- (arXiv 2022.10) **Forecasting** Human **Trajectory** from Scene History, [[Paper]](https://arxiv.org/pdf/2210.08732.pdf), [[Code]](https://github.com/MaKaRuiNah/SHENet)
+
+- (arXiv 2022.10) SGRAM: Improving **Scene Graph Parsing** via Abstract Meaning Representation, [[Paper]](https://arxiv.org/pdf/2210.08675.pdf)
+
+- (arXiv 2022.10) Contrastive **Language-Image** Pre-Training with Knowledge Graphs, [[Paper]](https://arxiv.org/pdf/2210.08901.pdf)
+
+- (arXiv 2022.10) A Saccaded Visual Transformer for General **Object Spotting**, [[Paper]](https://arxiv.org/pdf/2210.09220.pdf)
+
+- (arXiv 2022.10) Vision Transformers provably learn **spatial structure**, [[Paper]](https://arxiv.org/pdf/2210.09221.pdf)
+
+- (arXiv 2022.10) oViT: An Accurate Second-Order **Pruning** Framework for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2210.09223.pdf)
+
+- (arXiv 2022.10) Fine-grained **Category Discovery** under Coarse-grained supervision with Hierarchical Weighted Self-contrastive Learning, [[Paper]](https://arxiv.org/pdf/2210.07733.pdf), [[Code]](https://github.com/Lackel/Hierarchical_Weighted_SCL)
+
+- (arXiv 2022.10) Non-Contrastive Learning Meets **Language-Image** Pre-Training, [[Paper]](https://arxiv.org/pdf/2210.09304.pdf)
 
 - (arXiv 2022.10) Frame Mining: a Free Lunch for Learning Robotic **Manipulation** from 3D Point Clouds, [[Paper]](https://arxiv.org/pdf/2210.07442.pdf), [[Project]](https://colin97.github.io/FrameMining/)
 
