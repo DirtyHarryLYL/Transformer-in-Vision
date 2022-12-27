@@ -5,6 +5,8 @@ Keep updated.
 
 ## Resource
 
+- LAION-5B [[Page]](https://laion.ai/laion-5b-a-new-era-of-open-large-scale-multi-modal-datasets/), [[Paper]](https://arxiv.org/pdf/2210.08402.pdf)
+
 - LAVIS [[Page]](https://github.com/salesforce/LAVIS), [[Paper]](https://arxiv.org/pdf/2209.09019.pdf)
 
 - Imagen Video [[Page]](https://imagen.research.google/video/), [[Paper]](https://imagen.research.google/video/paper.pdf)
@@ -423,7 +425,37 @@ Keep updated.
 
 - (arXiv 2022.10) , [[Paper]](), [[Code]]()
 
+- (arXiv 2022.10) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.10) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.10) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.10) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.10) , [[Paper]](), [[Code]]()
+
 - (arXiv 2022.10) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2022.10) **LINEAR** **VIDEO** TRANSFORMER WITH FEATURE FIXATION, [[Paper]](https://arxiv.org/pdf/2210.08164.pdf), [[Code]]()
+
+- (arXiv 2022.10) Transformer-based **dimensionality reduction**, [[Paper]](https://arxiv.org/pdf/2210.08288.pdf)
+
+- (arXiv 2022.10) Bridging the Domain Gap for **Multi-Agent Perception**, [[Paper]](https://arxiv.org/pdf/2210.08451.pdf)
+
+- (arXiv 2022.10) TransVisDrone: Spatio-Temporal Transformer for Vision-based Drone-to-**Drone** **Detection** in **Aerial** Videos, [[Paper]](https://arxiv.org/pdf/2210.08423.pdf), [[Code]](https://github.com/tusharsangam/TransVisDrone)
+
+- (arXiv 2022.10) SCRATCHING VISUAL TRANSFORMER’S BACK WITH UNIFORM **ATTENTION**, [[Paper]](https://arxiv.org/pdf/2210.08457.pdf)
+
+- (arXiv 2022.10) Increasing Visual Awareness in **Multimodal Neural Machine Translation** from an Information Theoretic Perspective, [[Paper]](https://arxiv.org/pdf/2210.08478.pdf)
+
+- (arXiv 2022.10) TLDW: Extreme Multimodal **Summarisation** of News **Videos**, [[Paper]](https://arxiv.org/pdf/2210.08481.pdf), [[Code]]()
+
+- (arXiv 2022.10) Character-Centric **Story Visualization** via Visual Planning and Token Alignment, [[Paper]](https://arxiv.org/pdf/2210.08465.pdf), [[Code]](https://github.com/PlusLabNLP/VP-CSV)
+
+- (arXiv 2022.10) COFAR: Commonsense and Factual Reasoning in **Image Search**, [[Paper]](https://arxiv.org/pdf/2210.08554.pdf), [[Code]](https://vl2g.github.io/projects/cofar)
+
+- (arXiv 2022.10) Learning Self-Regularized **Adversarial** Views for Self-Supervised Vision Transformers, [[Paper]](https://arxiv.org/pdf/2210.08458.pdf), [[Code]](https://github.com/Trent-tangtao/AutoView)
 
 - (arXiv 2022.10) Temporal and Contextual Transformer for **Multi-Camera Editing** of TV Shows, [[Paper]](https://arxiv.org/pdf/2210.08737.pdf)
 
