@@ -141,15 +141,11 @@ Keep updated.
 
 - (arXiv 2022.12) , [[Paper]](), [[Code]]()
 
-- (arXiv 2022.12) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.12) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.12) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.12) , [[Paper]](), [[Code]]()
-
 - (arXiv 2022.12) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2022.12) ViTCoD: Vision Transformer **Acceleration** via Dedicated Algorithm and Accelerator Co-Design, [[Paper]](https://arxiv.org/pdf/2210.09573.pdf), [[Code]](https://github.com/GATECH-EIC/ViTCoD)
+
+- (arXiv 2022.12) FROM PLAY TO POLICY: CONDITIONAL BEHAVIOR GENERATION FROM UNCURATED **ROBOT** DATA, [[Paper]](https://arxiv.org/pdf/2210.10047.pdf), [[Project]](https://play-to-policy.github.io/)
 
 - (arXiv 2022.12) Optimizing **Prompts** for **Text-to-Image** Generation, [[Paper]](https://arxiv.org/pdf/2212.09611.pdf), [[Code]](https://aka.ms/promptist)
 
@@ -421,21 +417,23 @@ Keep updated.
 
 - (arXiv 2022.10) , [[Paper]](), [[Code]]()
 
-- (arXiv 2022.10) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.10) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.10) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.10) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.10) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.10) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.10) , [[Paper]](), [[Code]]()
-
 - (arXiv 2022.10) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2022.10) BOAT: Bilateral Local **Attention** Vision Transformer, [[Paper]](https://arxiv.org/pdf/2201.13027.pdf)
+
+- (arXiv 2022.12) **TOKEN MERGING**: YOUR VIT BUT **FASTER**, [[Paper]](https://arxiv.org/pdf/2210.09461.pdf), [[Code]](https://github.com/facebookresearch/ToMe)
+
+- (arXiv 2022.10) Using Language to Extend to **Unseen Domains**, [[Paper]](https://arxiv.org/pdf/2210.09520.pdf), [[Code]]()
+
+- (arXiv 2022.10) SWINV2-IMAGEN: HIERARCHICAL VISION TRANSFORMER DIFFUSION MODELS FOR **TEXT-TO-IMAGE** GENERATION, [[Paper]](https://arxiv.org/pdf/2210.09549.pdf)
+
+- (arXiv 2022.10) HUMANISE: Language-conditioned Human **Motion Generation** in **3D Scenes**, [[Paper]](https://arxiv.org/pdf/2210.09729.pdf), [[Project]](https://silverster98.github.io/HUMANISE/)
+
+- (arXiv 2022.10) Transfer-learning for **video classification**: Video Swin Transformer on multiple domains, [[Paper]](https://arxiv.org/pdf/2210.09969.pdf)
+
+- (arXiv 2022.10) PERCEPTUAL **GROUPING** IN **VISION-LANGUAGE** MODELS, [[Paper]](https://arxiv.org/pdf/2210.09996.pdf)
+
+- (arXiv 2022.10) How Mask Matters: Towards **Theoretical Understandings** of **Masked Autoencoders**, [[Paper]](https://arxiv.org/pdf/2210.08344.pdf), [[Code]](https://github.com/zhangq327/U-MAE)
 
 - (arXiv 2022.10) **LINEAR** **VIDEO** TRANSFORMER WITH FEATURE FIXATION, [[Paper]](https://arxiv.org/pdf/2210.08164.pdf), [[Code]]()
 
@@ -2756,6 +2754,10 @@ Keep updated.
 - (arXiv 2022.04) MaxViT: **Multi-Axis** Vision Transformer, [[Paper]](https://arxiv.org/pdf/2204.01697.pdf)
 
 ### 2022.03
+
+- (arXiv 2022.03) A **ConvNet** for the 2020s, [[Paper]](https://arxiv.org/pdf/2201.03545.pdf), [[Code]](https://github.com/facebookresearch/ConvNeXt)
+
+- (arXiv 2022.03) DeepNet: Scaling Transformers to **1,000 Layers**, [[Paper]](https://arxiv.org/pdf/2203.00555.pdf)
 
 - (arXiv 2022.03) Spatial-Temporal Parallel Transformer for **Arm-Hand Dynamic Estimation**, [[Paper]](https://arxiv.org/pdf/2203.16202.pdf)
 
