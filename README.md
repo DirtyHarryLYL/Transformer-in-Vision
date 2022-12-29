@@ -141,6 +141,18 @@ Keep updated.
 
 - (arXiv 2022.12) , [[Paper]](), [[Code]]()
 
+- (arXiv 2022.12) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.12) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.12) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.12) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.12) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.12) , [[Paper]](), [[Code]]()
+
 - (arXiv 2022.12) , [[Paper]](), [[Code]]() -->
 
 - (arXiv 2022.12) ViTCoD: Vision Transformer **Acceleration** via Dedicated Algorithm and Accelerator Co-Design, [[Paper]](https://arxiv.org/pdf/2210.09573.pdf), [[Code]](https://github.com/GATECH-EIC/ViTCoD)
@@ -415,9 +427,9 @@ Keep updated.
 
 - (arXiv 2022.10) , [[Paper]](), [[Code]]()
 
-- (arXiv 2022.10) , [[Paper]](), [[Code]]()
-
 - (arXiv 2022.10) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2022.10) Cross-Modal Fusion Distillation for Fine-Grained **Sketch-Based Image Retrieval**, [[Paper]](https://arxiv.org/pdf/2210.10486.pdf), [[Code]](https://github.com/abhrac/xmodal-vit)
 
 - (arXiv 2022.10) BOAT: Bilateral Local **Attention** Vision Transformer, [[Paper]](https://arxiv.org/pdf/2201.13027.pdf)
 
