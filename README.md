@@ -373,13 +373,13 @@ Keep updated.
 
 - (arXiv 2022.11) , [[Paper]](), [[Code]]()
 
-- (arXiv 2022.11) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.11) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.11) , [[Paper]](), [[Code]]()
-
 - (arXiv 2022.11) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2022.11) SimpleClick: **Interactive** Image **Segmentation** with Simple Vision Transformers, [[Paper]](https://arxiv.org/pdf/2210.11006.pdf), [[Code]](https://github.com/uncbiag/SimpleClick)
+
+- (arXiv 2022.11) TANGO: **Text-driven** Photorealistic and Robust **3D Stylization** via Lighting Decomposition, [[Paper]](https://arxiv.org/pdf/2210.11277.pdf), [[Code]](https://cyw-3d.github.io/tango/)
+
+- (arXiv 2022.11) CPL: Counterfactual **Prompt** Learning for **Vision and Language** Models, [[Paper]](https://arxiv.org/pdf/2210.10362.pdf), [[Code]](https://github.com/eric-ai-lab/CPL)
 
 - (arXiv 2022.11) Plug-and-Play VQA: Zero-shot **VQA** by Conjoining Large Pretrained Models with Zero Training, [[Paper]](https://arxiv.org/pdf/2210.08773.pdf)
 
@@ -427,7 +427,51 @@ Keep updated.
 
 - (arXiv 2022.10) , [[Paper]](), [[Code]]()
 
+- (arXiv 2022.10) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.10) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.10) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.10) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.10) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.10) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.10) , [[Paper]](), [[Code]]()
+
 - (arXiv 2022.10) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2022.10) Visual Spatial Description: Controlled **Spatial**-Oriented **Image-to-Text** Generation, [[Paper]](https://arxiv.org/pdf/2210.11109.pdf), [[Code]](https://github.com/zhaoyucs/VSD)
+
+- (arXiv 2022.10) Movie**CLIP**: Visual **Scene Recognition** in Movies, [[Paper]](https://arxiv.org/pdf/2210.11065.pdf)
+
+- (arXiv 2022.10) PointTAD: Multi-Label **Temporal Action Detection** with Learnable Query Points, [[Paper]](https://arxiv.org/pdf/2210.11035.pdf), [[Code]](https://github.com/MCG-NJU/PointTAD)
+
+- (arXiv 2022.10) TOWARDS SUSTAINABLE **SELF-SUPERVISED** LEARNING, [[Paper]](https://arxiv.org/pdf/2210.11016.pdf)
+
+- (arXiv 2022.10) **Visual-Semantic** Contrastive Alignment for Few-Shot Image Classification, [[Paper]](https://arxiv.org/pdf/2210.11000.pdf)
+
+- (arXiv 2022.10) i-MAE: ARE LATENT REPRESENTATIONS IN **MASKED AUTOENCODERS** LINEARLY SEPARABLE? [[Paper]](https://arxiv.org/pdf/2210.11470.pdf), [[Code]](https://github.com/vision-learning-acceleration-lab/i-mae)
+
+- (arXiv 2022.10) 2nd Place Solution to ECCV 2022 Challenge: Transformer-based **Action recognition** in **hand-object** interacting scenarios, [[Paper]](https://arxiv.org/pdf/2210.11387.pdf)
+
+- (arXiv 2022.10) 1st Place Solution to ECCV 2022 Challenge on HBHA: Transformer-based Global **3D Hand Pose Estimation** in Two Hands Manipulating Objects Scenarios, [[Paper]](https://arxiv.org/pdf/2210.11384.pdf)
+
+- (arXiv 2022.10) **DALLE-2** is Seeing Double: **Flaws** in Word-to-Concept Mapping in Text2Image Models, [[Paper]](https://arxiv.org/pdf/2210.10606.pdf)
+
+- (arXiv 2022.10) **CLIP**-Driven Fine-grained Text-Image **Person Re-identification**, [[Paper]](https://arxiv.org/pdf/2210.10276.pdf)
+
+- (arXiv 2022.10) Dense but Efficient **VideoQA** for Intricate Compositional Reasoning, [[Paper]](https://arxiv.org/pdf/2210.10300.pdf)
+
+- (arXiv 2022.10) Multi-view **Gait Recognition** based on SiameseVisionTransformer, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2210/2210.10421.pdf)
+
+- (arXiv 2022.10) TOIST: Task Oriented **Instance Segmentation** Transformer with Noun-Pronoun Distillation, [[Paper]](https://arxiv.org/pdf/2210.10775.pdf), [[Code]](https://github.com/AIR-DISCOVER/TOIST)
+
+- (arXiv 2022.10) CroCo: **Self-Supervised** Pre-training for **3D** Vision Tasks by Cross-View **Completion**, [[Paper]](https://arxiv.org/pdf/2210.10716.pdf), [[Project]](https://europe.naverlabs.com/research/computer-vision/croco/)
+
+- (arXiv 2022.10) A Unified View of **Masked** Image Modeling, [[Paper]](https://arxiv.org/pdf/2210.10615.pdf), [[Code]](https://aka.ms/unimim)
 
 - (arXiv 2022.10) Cross-Modal Fusion Distillation for Fine-Grained **Sketch-Based Image Retrieval**, [[Paper]](https://arxiv.org/pdf/2210.10486.pdf), [[Code]](https://github.com/abhrac/xmodal-vit)
 
