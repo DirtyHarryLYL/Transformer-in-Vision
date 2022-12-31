@@ -149,11 +149,11 @@ Keep updated.
 
 - (arXiv 2022.12) , [[Paper]](), [[Code]]()
 
-- (arXiv 2022.12) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.12) , [[Paper]](), [[Code]]()
-
 - (arXiv 2022.12) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2022.12) INSTRUCTION-FOLLOWING **AGENTS** WITH JOINTLY PRE-TRAINED **VISION-LANGUAGE** MODELS, [[Paper]](https://arxiv.org/pdf/2210.13431.pdf), [[Code]](https://github.com/lhao499/instructrl)
+
+- (arXiv 2022.12) MetaFormer **Baselines** for Vision, [[Paper]](https://arxiv.org/pdf/2210.13452.pdf), [[Code]](https://github.com/sail-sg/metaformer)
 
 - (arXiv 2022.12) ViTCoD: Vision Transformer **Acceleration** via Dedicated Algorithm and Accelerator Co-Design, [[Paper]](https://arxiv.org/pdf/2210.09573.pdf), [[Code]](https://github.com/GATECH-EIC/ViTCoD)
 
@@ -368,12 +368,12 @@ Keep updated.
 - (arXiv 2022.11) , [[Paper]](), [[Code]]()
 
 - (arXiv 2022.11) , [[Paper]](), [[Code]]()
+ -->
+- (arXiv 2022.11) S2WAT: **Image Style Transfer** via Hierarchical Vision Transformer using Strips Window Attention, [[Paper]](https://arxiv.org/pdf/2210.12381.pdf), [[Code]](https://github.com/AlienZhang1996/S2WAT)
 
-- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+- (arXiv 2022.11) Holistic Interaction Transformer Network for **Action Detection**, [[Paper]](https://arxiv.org/pdf/2210.12686.pdf), [[Code]](https://github.com/joslefaure/HIT)
 
-- (arXiv 2022.11) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.11) , [[Paper]](), [[Code]]() -->
+- (arXiv 2022.11) Learning and Retrieval from Prior Data for Skill-based **Imitation Learning**, [[Paper]](https://arxiv.org/pdf/2210.11435.pdf), [[Code]](https://ut-austin-rpl.github.io/sailor)
 
 - (arXiv 2022.11) SimpleClick: **Interactive** Image **Segmentation** with Simple Vision Transformers, [[Paper]](https://arxiv.org/pdf/2210.11006.pdf), [[Code]](https://github.com/uncbiag/SimpleClick)
 
@@ -441,7 +441,51 @@ Keep updated.
 
 - (arXiv 2022.10) , [[Paper]](), [[Code]]()
 
+- (arXiv 2022.10) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.10) , [[Paper]](), [[Code]]()
+
 - (arXiv 2022.10) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2022.10) Context-Enhanced **Stereo** Transformer, [[Paper]](https://arxiv.org/pdf/2210.11719.pdf), [[Code]](https://github.com/guoweiyu/Context-Enhanced-Stereo-Transformer)
+
+- (arXiv 2022.10) CRT-6D: Fast **6D Object Pose Estimation** with Cascaded Refinement Transformers, [[Paper]](https://arxiv.org/pdf/2210.11718.pdf), [[Code]](https://github.com/PedroCastro/CRT-6D)
+
+- (arXiv 2022.10) Rethinking Learning Approaches for Long-Term **Action Anticipation**, [[Paper]](https://arxiv.org/pdf/2210.11566.pdf), [[Code]](https://github.com/Nmegha2601/anticipatr)
+
+- (arXiv 2022.10) Extending **Phrase Grounding** with Pronouns in Visual Dialogues, [[Paper]](https://arxiv.org/pdf/2210.12658.pdf), [[Code]]()
+
+- (arXiv 2022.10) Accumulated Trivial **Attention** Matters in Vision Transformers on **Small Datasets**, [[Paper]](https://arxiv.org/pdf/2210.12333.pdf), [[Code]](https://github.com/xiangyu8/SATA)
+
+- (arXiv 2022.10) Transformers For **Recognition** In **Overhead Imagery**: A Reality Check, [[Paper]](https://arxiv.org/pdf/2210.12599.pdf)
+
+- (arXiv 2022.10) Anticipative Feature Fusion Transformer for Multi-Modal **Action Anticipation**, [[Paper]](https://arxiv.org/pdf/2210.12649.pdf), [[Code]](https://github.com/zeyun-zhong/AFFT)
+
+- (arXiv 2022.10) UIA-ViT: Unsupervised Inconsistency-Aware Method based on Vision Transformer for **Face Forgery Detection**, [[Paper]](https://arxiv.org/pdf/2210.12752.pdf)
+
+- (arXiv 2022.10) LCPFormer: Towards Effective 3D **Point Cloud** Analysis via Local Context Propagation in Transformers, [[Paper]](https://arxiv.org/pdf/2210.12755.pdf)
+
+- (arXiv 2022.10) Towards Real-Time **Text2Video** via **CLIP**-Guided, Pixel-Level Optimization, [[Paper]](https://arxiv.org/pdf/2210.12826.pdf), [[Code]](https://pschaldenbrand.github.io/text2video/)
+
+- (arXiv 2022.10) Language-free Training for Zero-shot **Video Grounding**, [[Paper]](https://arxiv.org/pdf/2210.12977.pdf), [[Code]]()
+
+- (arXiv 2022.10) Foreground Guidance and Multi-Layer Feature Fusion for **Unsupervised Object Discovery** with Transformers, [[Paper]](https://arxiv.org/pdf/2210.13053.pdf), [[Code]](https://github.com/VDIGPKU/FORMULA)
+
+- (arXiv 2022.10) Towards Unifying **Reference Expression** Generation and Comprehension, [[Paper]](https://arxiv.org/pdf/2210.13076.pdf)
+
+- (arXiv 2022.10) Robust **Self-Supervised Learning** with Lie Groups, [[Paper]](https://arxiv.org/pdf/2210.13356.pdf)
+
+- (arXiv 2022.10) VIOLA: Imitation Learning for Vision-Based **Manipulation** with Object Proposal Priors, [[Paper]](https://arxiv.org/pdf/2210.11339.pdf), [[Code]](https://ut-austin-rpl.github.io/VIOLA)
+
+- (arXiv 2022.10) VTC: Improving **Video-Text Retrieval** with User Comments, [[Paper]](https://arxiv.org/pdf/2210.10820.pdf), [[Project]](https://unitaryai.github.io/vtc-paper)
+
+- (arXiv 2022.10) SOLVING **REASONING** TASKS WITH A SLOT TRANSFORMER, [[Paper]](https://arxiv.org/pdf/2210.11394.pdf), [[Code]]()
+
+- (arXiv 2022.10) Prompting through Prototype: A Prototype-based **Prompt** Learning on Pretrained **Vision-Language** Models, [[Paper]](https://arxiv.org/pdf/2210.10841.pdf)
+
+- (arXiv 2022.10) Grounded **Video Situation Recognition**, [[Paper]](https://arxiv.org/pdf/2210.10828.pdf), [[Project]](https://zeeshank95.github.io/grvidsitu)
+
+- (arXiv 2022.10) Single **Image Super-Resolution** Using Lightweight Networks Based on Swin Transformer, [[Paper]](https://arxiv.org/pdf/2210.11019.pdf)
 
 - (arXiv 2022.10) Visual Spatial Description: Controlled **Spatial**-Oriented **Image-to-Text** Generation, [[Paper]](https://arxiv.org/pdf/2210.11109.pdf), [[Code]](https://github.com/zhaoyucs/VSD)
 
