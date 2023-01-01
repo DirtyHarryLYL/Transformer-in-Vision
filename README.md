@@ -434,18 +434,18 @@ Keep updated.
 - (arXiv 2022.10) , [[Paper]](), [[Code]]()
 
 - (arXiv 2022.10) , [[Paper]](), [[Code]]()
+ -->
+- (arXiv 2022.10) COMPOSING **ENSEMBLES** OF **PRE-TRAINED MODELS** VIA ITERATIVE CONSENSUS, [[Paper]](https://arxiv.org/pdf/2210.11522.pdf), [[Code]](https://energy-based-model.github.io/composing-pretrained-models)
 
-- (arXiv 2022.10) , [[Paper]](), [[Code]]()
+- (arXiv 2022.10) Do **Vision-and-Language** Transformers Learn Grounded **Predicate-Noun Dependencies**?, [[Paper]](https://arxiv.org/pdf/2210.12079.pdf)
 
-- (arXiv 2022.10) , [[Paper]](), [[Code]]()
+- (arXiv 2022.10) Boosting vision transformers for **image retrieval**, [[Paper]](https://arxiv.org/pdf/2210.11909.pdf), [[Code]](https://github.com/dealicious-inc/DToP)
 
-- (arXiv 2022.10) , [[Paper]](), [[Code]]()
+- (arXiv 2022.10) LiteVL: Efficient **Video-Language** Learning with Enhanced Spatial-Temporal Modeling, [[Paper]](https://arxiv.org/pdf/2210.11929.pdf)
 
-- (arXiv 2022.10) , [[Paper]](), [[Code]]()
+- (arXiv 2022.10) Fine-grained Semantic Alignment Network for Weakly Supervised **Temporal Language Grounding**, [[Paper]](https://arxiv.org/pdf/2210.11933.pdf)
 
-- (arXiv 2022.10) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.10) , [[Paper]](), [[Code]]() -->
+- (arXiv 2022.10) **Face** **Pyramid** Vision Transformer, [[Paper]](https://arxiv.org/pdf/2210.11974.pdf), [[Code]](https://khawar-islam.github.io/fpvt/)
 
 - (arXiv 2022.10) Context-Enhanced **Stereo** Transformer, [[Paper]](https://arxiv.org/pdf/2210.11719.pdf), [[Code]](https://github.com/guoweiyu/Context-Enhanced-Stereo-Transformer)
 
