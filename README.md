@@ -5,6 +5,8 @@ Keep updated.
 
 ## Resource
 
+- DIFFUSIONDB [[Page]](https://poloclub.github.io/diffusiondb), [[Paper]](https://arxiv.org/pdf/2210.14896.pdf)
+
 - LAION-5B [[Page]](https://laion.ai/laion-5b-a-new-era-of-open-large-scale-multi-modal-datasets/), [[Paper]](https://arxiv.org/pdf/2210.08402.pdf)
 
 - LAVIS [[Page]](https://github.com/salesforce/LAVIS), [[Paper]](https://arxiv.org/pdf/2209.09019.pdf)
@@ -365,10 +367,10 @@ Keep updated.
 
 - (arXiv 2022.11) , [[Paper]](), [[Code]]()
 
-- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+- (arXiv 2022.11) , [[Paper]](), [[Code]]() -->
 
-- (arXiv 2022.11) , [[Paper]](), [[Code]]()
- -->
+- (arXiv 2022.11) Video based Object **6D Pose Estimation** using Transformers, [[Paper]](https://arxiv.org/pdf/2210.13540.pdf), [[Code]](https://github.com/ApoorvaBeedu/VideoPose)
+
 - (arXiv 2022.11) S2WAT: **Image Style Transfer** via Hierarchical Vision Transformer using Strips Window Attention, [[Paper]](https://arxiv.org/pdf/2210.12381.pdf), [[Code]](https://github.com/AlienZhang1996/S2WAT)
 
 - (arXiv 2022.11) Holistic Interaction Transformer Network for **Action Detection**, [[Paper]](https://arxiv.org/pdf/2210.12686.pdf), [[Code]](https://github.com/joslefaure/HIT)
@@ -434,7 +436,31 @@ Keep updated.
 - (arXiv 2022.10) , [[Paper]](), [[Code]]()
 
 - (arXiv 2022.10) , [[Paper]](), [[Code]]()
- -->
+
+- (arXiv 2022.10) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2022.10) Visual **Semantic Parsing**: From Images to Abstract Meaning Representation, [[Paper]](https://arxiv.org/pdf/2210.14862.pdf), [[Code]]()
+
+- (arXiv 2022.10) End-to-end Transformer for **Compressed Video Quality Enhancement**, [[Paper]](https://arxiv.org/pdf/2210.13827.pdf), [[Code]]()
+
+- (arXiv 2022.10) PlanT: Explainable **Planning** Transformers via Object-Level Representations, [[Paper]](https://arxiv.org/pdf/2210.14222.pdf), [[Project]](https://www.katrinrenz.de/plant)
+
+- (arXiv 2022.10) Strong-TransCenter: Improved **Multi-Object Tracking** based on Transformers with Dense Representations, [[Paper]](https://arxiv.org/pdf/2210.13570.pdf), [[Code]](https://github.com/amitgalor18/STC_Tracker)
+
+- (arXiv 2022.10) GliTr: Glimpse Transformers with Spatiotemporal Consistency for Online **Action Prediction**, [[Paper]](https://arxiv.org/pdf/2210.13605.pdf)
+
+- (arXiv 2022.10) VLC-BERT: **Visual Question Answering** with Contextualized Commonsense Knowledge, [[Paper]](https://arxiv.org/pdf/2210.13626.pdf), [[Code]](https://github.com/aditya10/VLC-BERT)
+
+- (arXiv 2022.10) Learning by Hallucinating: **Vision-Language** Pre-training with Weak Supervision, [[Paper]](https://arxiv.org/pdf/2210.13591.pdf)
+
+- (arXiv 2022.10) Learning Explicit **Object-Centric Representations** with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2210.14139.pdf)
+
+- (arXiv 2022.10) Abductive **Action** Inference, [[Paper]](https://arxiv.org/pdf/2210.13984.pdf)
+
+- (arXiv 2022.10) Minutiae-Guided **Fingerprint** Embeddings via Vision Transformers, [[Paper]](https://arxiv.org/pdf/2210.13994.pdf), [[Code]](https://github.com/tba)
+
+- (arXiv 2022.10) 3DALL-E: Integrating **Text-to-Image** AI in **3D** Design Workflows, [[Paper]](https://arxiv.org/pdf/2210.11603.pdf)
+
 - (arXiv 2022.10) COMPOSING **ENSEMBLES** OF **PRE-TRAINED MODELS** VIA ITERATIVE CONSENSUS, [[Paper]](https://arxiv.org/pdf/2210.11522.pdf), [[Code]](https://energy-based-model.github.io/composing-pretrained-models)
 
 - (arXiv 2022.10) Do **Vision-and-Language** Transformers Learn Grounded **Predicate-Noun Dependencies**?, [[Paper]](https://arxiv.org/pdf/2210.12079.pdf)
