@@ -131,6 +131,24 @@ Keep updated.
 
 ## Recent Papers
 
+### 2023.1
+
+<!-- - (arXiv 2023.1) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.1) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.1) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.1) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.1) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.1) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.1) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.1) **Scene Synthesis** from Human **Motion**, [[Paper]](https://arxiv.org/pdf/2301.01424.pdf), [[Project]](https://lijiaman.github.io/projects/summon/)
+
 ### 2022.12
 
 <!-- - (arXiv 2022.12) , [[Paper]](), [[Code]]()
