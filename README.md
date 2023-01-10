@@ -142,10 +142,10 @@ Keep updated.
 - (arXiv 2023.1) , [[Paper]](), [[Code]]()
 
 - (arXiv 2023.1) , [[Paper]](), [[Code]]()
+ -->
+- (arXiv 2023.1) Parallel Reasoning Network for **Human-Object Interaction** Detection, [[Paper]](https://arxiv.org/pdf/2301.03510.pdf)
 
-- (arXiv 2023.1) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.1) , [[Paper]](), [[Code]]() -->
+- (arXiv 2023.1) In Defense of Structural Symbolic Representation for **Video Event-Relation Prediction**, [[Paper]](https://arxiv.org/pdf/2301.03410.pdf)
 
 - (arXiv 2023.1) **Scene Synthesis** from Human **Motion**, [[Paper]](https://arxiv.org/pdf/2301.01424.pdf), [[Project]](https://lijiaman.github.io/projects/summon/)
 
