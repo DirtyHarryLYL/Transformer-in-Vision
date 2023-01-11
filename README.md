@@ -139,10 +139,10 @@ Keep updated.
 
 - (arXiv 2023.1) , [[Paper]](), [[Code]]()
 
-- (arXiv 2023.1) , [[Paper]](), [[Code]]()
+- (arXiv 2023.1) , [[Paper]](), [[Code]]() -->
 
-- (arXiv 2023.1) , [[Paper]](), [[Code]]()
- -->
+- (arXiv 2023.1) FGAHOI: Fine-Grained Anchors for **Human-Object Interaction** Detection, [[Paper]](https://arxiv.org/pdf/2301.04019.pdf), [[Code]](https://github.com/xiaomabufei/FGAHOI)
+
 - (arXiv 2023.1) Parallel Reasoning Network for **Human-Object Interaction** Detection, [[Paper]](https://arxiv.org/pdf/2301.03510.pdf)
 
 - (arXiv 2023.1) In Defense of Structural Symbolic Representation for **Video Event-Relation Prediction**, [[Paper]](https://arxiv.org/pdf/2301.03410.pdf)
