@@ -139,7 +139,19 @@ Keep updated.
 
 - (arXiv 2023.1) , [[Paper]](), [[Code]]()
 
+- (arXiv 2023.1) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.1) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.1) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.1) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.1) , [[Paper]](), [[Code]]()
+
 - (arXiv 2023.1) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.1) Multimodal Inverse Cloze Task for Knowledge-based **Visual Question Answering**? [[Paper]](https://arxiv.org/pdf/2301.04366.pdf), [[Code]]()
 
 - (arXiv 2023.1) FGAHOI: Fine-Grained Anchors for **Human-Object Interaction** Detection, [[Paper]](https://arxiv.org/pdf/2301.04019.pdf), [[Code]](https://github.com/xiaomabufei/FGAHOI)
 
@@ -168,8 +180,8 @@ Keep updated.
 - (arXiv 2022.12) , [[Paper]](), [[Code]]()
 
 - (arXiv 2022.12) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.12) , [[Paper]](), [[Code]]() -->
+ -->
+- (arXiv 2022.12) CLIP-FLOW: CONTRASTIVE LEARNING BY SEMISUPERVISED ITERATIVE PSEUDO LABELING FOR **OPTICAL FLOW ESTIMATION**, [[Paper]](https://arxiv.org/pdf/2210.14383.pdf), [[Code]]()
 
 - (arXiv 2022.12) INSTRUCTION-FOLLOWING **AGENTS** WITH JOINTLY PRE-TRAINED **VISION-LANGUAGE** MODELS, [[Paper]](https://arxiv.org/pdf/2210.13431.pdf), [[Code]](https://github.com/lhao499/instructrl)
 
@@ -383,9 +395,9 @@ Keep updated.
 
 - (arXiv 2022.11) , [[Paper]](), [[Code]]()
 
-- (arXiv 2022.11) , [[Paper]](), [[Code]]()
-
 - (arXiv 2022.11) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2022.11) PROCONTEXT: PROGRESSIVE CONTEXT TRANSFORMER FOR **TRACKING**, [[Paper]](https://arxiv.org/pdf/2210.15511.pdf), [[Code]](https://github.com/jp-lan/ProContEXT)
 
 - (arXiv 2022.11) Video based Object **6D Pose Estimation** using Transformers, [[Paper]](https://arxiv.org/pdf/2210.13540.pdf), [[Code]](https://github.com/ApoorvaBeedu/VideoPose)
 
@@ -453,13 +465,55 @@ Keep updated.
 
 - (arXiv 2022.10) , [[Paper]](), [[Code]]()
 
-- (arXiv 2022.10) , [[Paper]](), [[Code]]()
-
 - (arXiv 2022.10) , [[Paper]](), [[Code]]() -->
 
-- (arXiv 2022.10) Visual **Semantic Parsing**: From Images to Abstract Meaning Representation, [[Paper]](https://arxiv.org/pdf/2210.14862.pdf), [[Code]]()
+- (arXiv 2022.10) Generalization Differences between End-to-End and Neuro-Symbolic **Vision-Language** **Reasoning** Systems, [[Paper]](), [[Code]]()
 
-- (arXiv 2022.10) End-to-end Transformer for **Compressed Video Quality Enhancement**, [[Paper]](https://arxiv.org/pdf/2210.13827.pdf), [[Code]]()
+- (arXiv 2022.10) FaD-VLP: **Fashion** **Vision-and-Language** Pre-training towards Unified Retrieval and Captioning, [[Paper]](https://arxiv.org/pdf/2210.15028.pdf)
+
+- (arXiv 2022.10) Masked **Vision-Language** Transformer in **Fashion**, [[Paper]](https://arxiv.org/pdf/2210.15110.pdf), [[Code]](https://github.com/GewelsJI/MVLT)
+
+- (arXiv 2022.10) Learning Variational Motion Prior for **Video-based Motion Capture**, [[Paper]](https://arxiv.org/pdf/2210.15134.pdf)
+
+- (arXiv 2022.10) **Open-vocabulary Semantic Segmentation** with Frozen Vision-Language Models, [[Paper]](https://arxiv.org/pdf/2210.15138.pdf), [[Code]](https://yyh-rain-song.github.io/Fusioner_webpage/)
+
+- (arXiv 2022.10) **TEXT2MODEL**: MODEL INDUCTION FOR ZERO-SHOT GENERALIZATION USING TASK DESCRIPTIONS, [[Paper]](https://arxiv.org/pdf/2210.15182.pdf)
+
+- (arXiv 2022.10) Learning Joint Representation of **Human Motion** and **Language**, [[Paper]](https://arxiv.org/pdf/2210.15187.pdf)
+
+- (arXiv 2022.10) ERNIE-ViLG 2.0: Improving **Text-to-Image** Diffusion Model with Knowledge-Enhanced Mixture-of-Denoising-Experts, [[Paper]](https://arxiv.org/pdf/2210.15257.pdf)
+
+- (arXiv 2022.10) MSF3DDETR: Multi-Sensor Fusion **3D** Detection Transformer for **Autonomous Driving**, [[Paper]](https://arxiv.org/pdf/2210.15316.pdf)
+
+- (arXiv 2022.10) Li3DeTr: A **LiDAR** based **3D Detection** Transformer, [[Paper]](Li3DeTr: A LiDAR based 3D Detection Transformer)
+
+- (arXiv 2022.10) Masked Transformer for **image Anomaly Localization**, [[Paper]](https://arxiv.org/pdf/2210.15540.pdf)
+
+- (arXiv 2022.10) Discovering Design Concepts for **CAD Sketches**, [[Paper]](https://arxiv.org/pdf/2210.14451.pdf)
+
+- (arXiv 2022.10) Compressing And Debiasing Vision-Language Pre-Trained Models for **Visual Question Answering**, [[Paper]](https://arxiv.org/pdf/2210.14558.pdf)
+
+- (arXiv 2022.10) End-to-End Multimodal Representation Learning for **Video Dialog**, [[Paper]](https://arxiv.org/pdf/2210.14512.pdf)
+
+- (arXiv 2022.10) TPFNet: A Novel **Text In-painting** Transformer for Text Removal, [[Paper]](https://arxiv.org/pdf/2210.14461.pdf), [[Code]](https://github.com/CandleLabAI/TPFNet)
+
+- (arXiv 2022.10) IMU2CLIP: MULTIMODAL CONTRASTIVE LEARNING FOR **IMU MOTION SENSORS** FROM **EGOCENTRIC** VIDEOS AND TEXT NARRATIONS, [[Paper]](https://arxiv.org/pdf/2210.14395.pdf)
+
+- (arXiv 2022.10) Can Transformer Attention Spread Give Insights Into **Uncertainty** of **Detected** and **Tracked** Objects? [[Paper]](https://arxiv.org/pdf/2210.14391.pdf)
+
+- (arXiv 2022.10) SemFormer: Semantic Guided Activation Transformer for **Weakly Supervised Semantic Segmentation**, [[Paper]](https://arxiv.org/pdf/2210.14618.pdf), [[Code]](https://github.com/JLChen-C/SemFormer)
+
+- (arXiv 2022.10) End-to-end **Tracking** with a Multi-query Transformer, [[Paper]](https://arxiv.org/pdf/2210.14601.pdf)
+
+- (arXiv 2022.10) Explicitly Increasing **Input Information Density** for Vision Transformers on **Small Datasets**, [[Paper]](https://arxiv.org/pdf/2210.14319.pdf), [[Code]](https://github.com/xiangyu8/DenseVT)
+
+- (arXiv 2022.10) TAMFORMER: MULTI-MODAL TRANSFORMER WITH LEARNED ATTENTION MASK FOR **EARLY INTENT PREDICTION**, [[Paper]](https://arxiv.org/pdf/2210.14714.pdf)
+
+- (arXiv 2022.10) **VISUAL ANSWER LOCALIZATION** WITH CROSS-MODAL MUTUAL KNOWLEDGE TRANSFER, [[Paper]](https://arxiv.org/pdf/2210.14823.pdf), [[Code]](https://github.com/WENGSYX/MutualSL)
+
+- (arXiv 2022.10) Visual **Semantic Parsing**: From Images to Abstract Meaning Representation, [[Paper]](https://arxiv.org/pdf/2210.14862.pdf)
+
+- (arXiv 2022.10) End-to-end Transformer for **Compressed Video Quality Enhancement**, [[Paper]](https://arxiv.org/pdf/2210.13827.pdf)
 
 - (arXiv 2022.10) PlanT: Explainable **Planning** Transformers via Object-Level Representations, [[Paper]](https://arxiv.org/pdf/2210.14222.pdf), [[Project]](https://www.katrinrenz.de/plant)
 
