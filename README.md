@@ -63,6 +63,8 @@ Keep updated.
 
 ## Survey
 
+- (arXiv 2023.1) ChatGPT is not all you need. A State of the Art Review of large Generative AI models, [[Paper]](https://arxiv.org/pdf/2301.04655.pdf)
+
 - (arXiv 2022.11) A survey on **knowledge**-enhanced **multimodal** learning, [[Paper]](https://arxiv.org/pdf/2211.12328.pdf)
 
 - (arXiv 2022.10) Vision-Language Pre-training: Basics, Recent Advances, and Future Trends, [[Paper]](https://arxiv.org/pdf/2210.09263.pdf)
@@ -147,9 +149,9 @@ Keep updated.
 
 - (arXiv 2023.1) , [[Paper]](), [[Code]]()
 
-- (arXiv 2023.1) , [[Paper]](), [[Code]]()
-
 - (arXiv 2023.1) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.1) Toward Building General **Foundation Models** for Language, Vision, and Vision-Language Understanding Tasks, [[Paper]](https://arxiv.org/pdf/2301.05065.pdf)
 
 - (arXiv 2023.1) Multimodal Inverse Cloze Task for Knowledge-based **Visual Question Answering**? [[Paper]](https://arxiv.org/pdf/2301.04366.pdf), [[Code]]()
 
@@ -379,8 +381,8 @@ Keep updated.
 
 - (arXiv 2022.11) , [[Paper]](), [[Code]]()
 
-- (arXiv 2022.11) , [[Paper]]() -->
-
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+ -->
 - (arXiv 2022.11) Interaction Visual Transformer for **Egocentric Action Anticipation**, [[Paper]](https://arxiv.org/pdf/2211.14154.pdf)
 
 - (arXiv 2022.11) UDE: A Unified Driving Engine for Human **Motion Generation**, [[Paper]](https://arxiv.org/pdf/2211.16016.pdf), [[Code]](https://github.com/zixiangzhou916/UDE/)
@@ -391,11 +393,9 @@ Keep updated.
 
 - (arXiv 2022.11) Knowledge **Prompting** for Few-shot **Action Recognition**, [[Paper]](https://arxiv.org/pdf/2211.12030.pdf)
 
-<!-- - (arXiv 2022.11) , [[Paper]](), [[Code]]()
+- (arXiv 2022.11) UPainting: Unified Text-to-Image Diffusion Generation with Cross-modal Guidance, [[Paper]](https://arxiv.org/pdf/2210.16031.pdf), [[Project]](https://upainting.github.io/)
 
-- (arXiv 2022.11) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.11) , [[Paper]](), [[Code]]() -->
+- (arXiv 2022.11) LVP-M^3: Language-aware Visual Prompt for **Multilingual Multimodal Machine Translation**, [[Paper]](https://arxiv.org/pdf/2210.15461.pdf)
 
 - (arXiv 2022.11) PROCONTEXT: PROGRESSIVE CONTEXT TRANSFORMER FOR **TRACKING**, [[Paper]](https://arxiv.org/pdf/2210.15511.pdf), [[Code]](https://github.com/jp-lan/ProContEXT)
 
@@ -455,19 +455,19 @@ Keep updated.
 
 - (arXiv 2022.10) , [[Paper]](), [[Code]]()
 
-- (arXiv 2022.10) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.10) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.10) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.10) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.10) , [[Paper]](), [[Code]]()
-
 - (arXiv 2022.10) , [[Paper]](), [[Code]]() -->
 
-- (arXiv 2022.10) Generalization Differences between End-to-End and Neuro-Symbolic **Vision-Language** **Reasoning** Systems, [[Paper]](), [[Code]]()
+- (arXiv 2022.10) Differentially **Private** CutMix for Split Learning with Vision Transformer, [[Paper]](https://arxiv.org/pdf/2210.15986.pdf)
+
+- (arXiv 2022.10) OHMG: ZERO-SHOT OPEN-VOCABULARY HUMAN **MOTION GENERATION**, [[Paper]](https://arxiv.org/pdf/2210.15929.pdf)
+
+- (arXiv 2022.10) VLT: Vision-Language Transformer and Query Generation for **Referring Segmentation**, [[Paper]](https://arxiv.org/pdf/2210.15871.pdf)
+
+- (arXiv 2022.10) PSFORMER: POINT TRANSFORMER FOR **3D SALIENT OBJECT DETECTION**, [[Paper]](https://arxiv.org/pdf/2210.15933.pdf)
+
+- (arXiv 2022.10) **GRAFTING** VISION TRANSFORMERS, [[Paper]](https://arxiv.org/pdf/2210.15943.pdf)
+
+- (arXiv 2022.10) Generalization Differences between End-to-End and Neuro-Symbolic **Vision-Language** **Reasoning** Systems, [[Paper]](https://arxiv.org/pdf/2210.15037)
 
 - (arXiv 2022.10) FaD-VLP: **Fashion** **Vision-and-Language** Pre-training towards Unified Retrieval and Captioning, [[Paper]](https://arxiv.org/pdf/2210.15028.pdf)
 
