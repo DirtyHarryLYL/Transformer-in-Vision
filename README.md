@@ -177,13 +177,13 @@ Keep updated.
 
 - (arXiv 2022.12) , [[Paper]](), [[Code]]()
 
-- (arXiv 2022.12) , [[Paper]](), [[Code]]()
+- (arXiv 2022.12) , [[Paper]](), [[Code]]() -->
 
-- (arXiv 2022.12) , [[Paper]](), [[Code]]()
+- (arXiv 2022.12) Why is Winoground Hard? Investigating Failures in **Visuolinguistic Compositionality**, [[Paper]](https://arxiv.org/pdf/2211.00768.pdf), [[Code]](https://github.com/ajd12342/why-winoground-hard)
 
-- (arXiv 2022.12) , [[Paper]](), [[Code]]()
- -->
-- (arXiv 2022.12) CLIP-FLOW: CONTRASTIVE LEARNING BY SEMISUPERVISED ITERATIVE PSEUDO LABELING FOR **OPTICAL FLOW ESTIMATION**, [[Paper]](https://arxiv.org/pdf/2210.14383.pdf), [[Code]]()
+- (arXiv 2022.12) Multimodal **Information Bottleneck**: Learning Minimal Sufficient Unimodal and **Multimodal** Representations, [[Paper]](https://arxiv.org/pdf/2210.17444.pdf), [[Code]](https://github.com/TmacMai/Multimodal-Information-Bottleneck)
+
+- (arXiv 2022.12) CLIP-FLOW: CONTRASTIVE LEARNING BY SEMISUPERVISED ITERATIVE PSEUDO LABELING FOR **OPTICAL FLOW ESTIMATION**, [[Paper]](https://arxiv.org/pdf/2210.14383.pdf)
 
 - (arXiv 2022.12) INSTRUCTION-FOLLOWING **AGENTS** WITH JOINTLY PRE-TRAINED **VISION-LANGUAGE** MODELS, [[Paper]](https://arxiv.org/pdf/2210.13431.pdf), [[Code]](https://github.com/lhao499/instructrl)
 
@@ -382,7 +382,51 @@ Keep updated.
 - (arXiv 2022.11) , [[Paper]](), [[Code]]()
 
 - (arXiv 2022.11) , [[Paper]](), [[Code]]()
- -->
+
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.11) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2022.11) MAEDAY: MAE for few and zero shot **AnomalY-Detection**, [[Paper]](https://arxiv.org/pdf/2211.14307.pdf), [[Code]](https://github.com/EliSchwartz/MAEDAY)
+
+- (arXiv 2022.11) Degenerate Swin to Win: Plain **Window-based** Transformer without Sophisticated Operations, [[Paper]](https://arxiv.org/pdf/2211.14255.pdf)
+
+- (arXiv 2022.11) Look Around and Refer: 2D Synthetic Semantics Knowledge Distillation for **3D Visual Grounding**, [[Paper]](https://arxiv.org/pdf/2211.14241.pdf), [[Code]](https://eslambakr.github.io/LAR.github.io/)
+
+- (arXiv 2022.11) SpaText: Spatio-Textual Representation for **Controllable Image Generation**, [[Paper]](https://arxiv.org/pdf/2211.14305.pdf), [[Project]](https://omriavrahami.com/spatext)
+
+- (arXiv 2022.11) Learning **3D** Scene Priors with **2D** Supervision, [[Paper]](https://arxiv.org/pdf/2211.14157.pdf), [[Project]](https://yinyunie.github.io/sceneprior-page/)
+
+- (arXiv 2022.11) PoET: Pose Estimation Transformer for Single-View, Multi-Object **6D Pose Estimation**, [[Paper]](https://arxiv.org/pdf/2211.14125.pdf), [[Code]](https://github.com/aau-cns/poet)
+
+- (arXiv 2022.11) Spatial-Spectral Transformer for **Hyperspectral Image Denoising**, [[Paper]](https://arxiv.org/pdf/2211.14090.pdf), [[Code]](https://github.com/MyuLi/SST)
+
+- (arXiv 2022.11) Training **Vision-Language** Models with Less Bimodal Supervision, [[Paper]](https://arxiv.org/pdf/2211.00262.pdf)
+
+- (arXiv 2022.11) Text-Only Training for Image **Captioning** using Noise-Injected **CLIP**, [[Paper]](https://arxiv.org/pdf/2211.00575.pdf), [[Code]](https://github.com/DavidHuji/CapDec)
+
+- (arXiv 2022.11) Attention-based **Neural Cellular Automata**, [[Paper]](https://arxiv.org/pdf/2211.01233.pdf)
+
+- (arXiv 2022.11) eDiff-I: **Text-to-Image** Diffusion Models with an Ensemble of Expert Denoisers, [[Paper]](https://arxiv.org/pdf/2211.01324.pdf), [[Code]](https://deepimagination.cc/eDiff-I/)
+
+- (arXiv 2022.11) Chinese CLIP: Contrastive **Vision-Language** Pretraining in **Chinese**, [[Paper]](https://arxiv.org/pdf/2211.01335.pdf), [[Code]](https://github.com/OFA-Sys/Chinese-CLIP)
+
+- (arXiv 2022.11) P^3OVD: Fine-grained Visual-Text Prompt-Driven Self-Training for **Open-Vocabulary Object Detection**, [[Paper]](https://arxiv.org/pdf/2211.00849.pdf)
+
+- (arXiv 2022.11) tSF: Transformer-based Semantic Filter for **Few-Shot Learning**, [[Paper]](https://arxiv.org/pdf/2211.00868.pdf)
+
+- (arXiv 2022.11) WITT: A WIRELESS IMAGE TRANSMISSION TRANSFORMER FOR **SEMANTIC COMMUNICATIONS**, [[Paper]](https://arxiv.org/pdf/2211.00937.pdf), [[Code]](https://github.com/KeYang8/WITT)
+
+- (arXiv 2022.11) Pair DETR: Contrastive Learning **Speeds Up** **DETR** Training, [[Paper]](https://arxiv.org/pdf/2210.16476.pdf)
+
 - (arXiv 2022.11) Interaction Visual Transformer for **Egocentric Action Anticipation**, [[Paper]](https://arxiv.org/pdf/2211.14154.pdf)
 
 - (arXiv 2022.11) UDE: A Unified Driving Engine for Human **Motion Generation**, [[Paper]](https://arxiv.org/pdf/2211.16016.pdf), [[Code]](https://github.com/zixiangzhou916/UDE/)
@@ -449,13 +493,31 @@ Keep updated.
 
 ### 2022.10
 
-<!-- - (arXiv 2022.10) , [[Paper]](), [[Code]]()
+- (arXiv 2022.10) DiMBERT: Learning **Vision-Language** Grounded Representations with Disentangled Multimodal-Attention, [[Paper]](https://arxiv.org/pdf/2210.16431.pdf)
 
-- (arXiv 2022.10) , [[Paper]](), [[Code]]()
+- (arXiv 2022.10) TFORMER: **3D TOOTH SEGMENTATION** IN MESH SCANS WITH GEOMETRY GUIDED TRANSFORMER, [[Paper]](https://arxiv.org/pdf/2210.16627.pdf)
 
-- (arXiv 2022.10) , [[Paper]](), [[Code]]()
+- (arXiv 2022.10) **ON-THE-FLY** OBJECT **DETECTION** USING STYLEGAN WITH **CLIP** GUIDANCE, [[Paper]](https://arxiv.org/pdf/2210.16742.pdf)
 
-- (arXiv 2022.10) , [[Paper]](), [[Code]]() -->
+- (arXiv 2022.10) Image-free Domain Generalization via **CLIP** for **3D Hand Pose Estimation**, [[Paper]](https://arxiv.org/pdf/2210.16788.pdf)
+
+- (arXiv 2022.10) Temporal-Viewpoint Transportation Plan for **Skeletal Few-shot Action Recognition**, [[Paper]](https://arxiv.org/pdf/2210.16820.pdf)
+
+- (arXiv 2022.10) A SIMPLE, EFFICIENT AND SCALABLE CONTRASTIVE **MASKED AUTOENCODER** FOR LEARNING VISUAL REPRESENTATIONS, [[Paper]](https://arxiv.org/pdf/2210.16870.pdf)
+
+- (arXiv 2022.10) Time-rEversed diffusioN tEnsor Transformer: A new TENET of **Few-Shot Object Detection**, [[Paper]](https://arxiv.org/pdf/2210.16897.pdf)
+
+- (arXiv 2022.10) **Foreign Object Debris Detection** for Airport Pavement Images based on Self-supervised Localization and Vision Transformer, [[Paper]](https://arxiv.org/pdf/2210.16901.pdf)
+
+- (arXiv 2022.10) ViT-LSLA: Vision Transformer with **Light Self-Limited-Attention**, [[Paper]](https://arxiv.org/pdf/2210.17115.pdf)
+
+- (arXiv 2022.10) Generative Negative Text Replay for Continual **Vision-Language** Pretraining, [[Paper]](https://arxiv.org/pdf/2210.17322.pdf)
+
+- (arXiv 2022.10) PatchRot: A **Self-Supervised** Technique for Training Vision Transformers, [[Paper]](https://arxiv.org/pdf/2210.15722.pdf)
+
+- (arXiv 2022.10) MULTIMODAL TRANSFORMER DISTILLATION FOR **AUDIO-VISUAL** SYNCHRONIZATION, [[Paper]](https://arxiv.org/pdf/2210.15563.pdf)
+
+- (arXiv 2022.10) **Multimodal** Transformer for Parallel Concatenated Variational Autoencoders, [[Paper]](https://arxiv.org/pdf/2210.16174.pdf)
 
 - (arXiv 2022.10) Differentially **Private** CutMix for Split Learning with Vision Transformer, [[Paper]](https://arxiv.org/pdf/2210.15986.pdf)
 
