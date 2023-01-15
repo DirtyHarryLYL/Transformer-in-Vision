@@ -393,7 +393,37 @@ Keep updated.
 
 - (arXiv 2022.11) , [[Paper]](), [[Code]]()
 
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
 - (arXiv 2022.11) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2022.11) Understanding and Mitigating Overfitting in **Prompt** Tuning for **Vision-Language** Models, [[Paper]](https://arxiv.org/pdf/2211.02219.pdf), [[Code]](https://tinyurl.com/mpe64f89)
+
+- (arXiv 2022.11) Zero-shot **Video Moment Retrieval** With Off-the-Shelf Models, [[Paper]](https://arxiv.org/pdf/2211.02178.pdf)
+
+- (arXiv 2022.11) Scaling **Multimodal** Pre-Training via Cross-Modality Gradient Harmonization, [[Paper]](https://arxiv.org/pdf/2211.02077.pdf)
+
+- (arXiv 2022.11) A Transformer Architecture for Online **Gesture Recognition** of Mathematical Expressions, [[Paper]](https://arxiv.org/pdf/2211.02643.pdf)
+
+- (arXiv 2022.11) Evaluating and Improving Factuality in **Multimodal Abstractive Summarization**, [[Paper]](https://arxiv.org/pdf/2211.02580.pdf), [[Code]](https://github.com/meetdavidwan/faithful-multimodal-summ)
+
+- (arXiv 2022.11) RCDPT: **RADAR-CAMERA FUSION** DENSE PREDICTION TRANSFORMER, [[Paper]](https://arxiv.org/pdf/2211.02432.pdf)
+
+- (arXiv 2022.11) **Video Event Extraction** via Tracking Visual States of Arguments, [[Paper]](https://arxiv.org/pdf/2211.01781.pdf)
+
+- (arXiv 2022.11) The **Lottery Ticket** Hypothesis for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2211.01484.pdf)
+
+- (arXiv 2022.11) TEXTCRAFT: ZERO-SHOT GENERATION OF HIGHFIDELITY AND DIVERSE **SHAPES FROM TEXT**, [[Paper]](https://arxiv.org/pdf/2211.01427.pdf)
+
+- (arXiv 2022.11) PolyBuilding: Polygon Transformer for End-to-End **Building Extraction**, [[Paper]](https://arxiv.org/pdf/2211.01589.pdf)
+
+- (arXiv 2022.11) RETHINKING **HIERARCHIES** IN PRE-TRAINED PLAIN VISION TRANSFORMER, [[Paper]](https://arxiv.org/pdf/2211.01785.pdf), [[Code]](https://github.com/ViTAE-Transformer/HPViT)
+
+- (arXiv 2022.11) SAP-**DETR**: Bridging the Gap Between Salient Points and Queries-Based Transformer Detector for Fast Model Convergency, [[Paper]](https://arxiv.org/pdf/2211.02006.pdf)
+
+- (arXiv 2022.11) Could Giant Pretrained Image Models Extract **Universal Representations**? [[Paper]](https://arxiv.org/pdf/2211.02043.pdf)
 
 - (arXiv 2022.11) MAEDAY: MAE for few and zero shot **AnomalY-Detection**, [[Paper]](https://arxiv.org/pdf/2211.14307.pdf), [[Code]](https://github.com/EliSchwartz/MAEDAY)
 
