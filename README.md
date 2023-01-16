@@ -385,19 +385,19 @@ Keep updated.
 
 - (arXiv 2022.11) , [[Paper]](), [[Code]]()
 
-- (arXiv 2022.11) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.11) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.11) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.11) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.11) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.11) , [[Paper]](), [[Code]]()
-
 - (arXiv 2022.11) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2022.11) CASA: Category-agnostic **Skeletal Animal Reconstruction**, [[Paper]](https://arxiv.org/pdf/2211.03568.pdf), [[Code]]()
+
+- (arXiv 2022.11) ViT-CX: Causal **Explanation** of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2211.03064.pdf)
+
+- (arXiv 2022.11) Disentangling Content and Motion for **Text-Based Neural Video Manipulation**, [[Paper]](https://arxiv.org/pdf/2211.02980.pdf)
+
+- (arXiv 2022.11) **Efficient** Multi-order Gated Aggregation Network, [[Paper]](https://arxiv.org/pdf/2211.03295.pdf)
+
+- (arXiv 2022.11) CLOP: **Video-and-Language** Pre-Training with Knowledge Regularizations, [[Paper]](https://arxiv.org/pdf/2211.03314.pdf)
+
+- (arXiv 2022.11) MSMG-Net: Multi-scale Multi-grained Supervised Metworks for Multi-task Image Manipulation **Detection** and **Localization**, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2211/2211.03140.pdf)
 
 - (arXiv 2022.11) Understanding and Mitigating Overfitting in **Prompt** Tuning for **Vision-Language** Models, [[Paper]](https://arxiv.org/pdf/2211.02219.pdf), [[Code]](https://tinyurl.com/mpe64f89)
 
