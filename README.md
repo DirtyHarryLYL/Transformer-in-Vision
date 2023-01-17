@@ -147,9 +147,9 @@ Keep updated.
 
 - (arXiv 2023.1) , [[Paper]](), [[Code]]()
 
-- (arXiv 2023.1) , [[Paper]](), [[Code]]()
-
 - (arXiv 2023.1) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.1) **Token** Transformer: Can class token help window-based transformer build better **long-range interactions**? [[Paper]](https://arxiv.org/pdf/2211.06083.pdf)
 
 - (arXiv 2023.1) Toward Building General **Foundation Models** for Language, Vision, and Vision-Language Understanding Tasks, [[Paper]](https://arxiv.org/pdf/2301.05065.pdf)
 
@@ -173,11 +173,11 @@ Keep updated.
 
 - (arXiv 2022.12) , [[Paper]](), [[Code]]()
 
-- (arXiv 2022.12) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.12) , [[Paper]](), [[Code]]()
-
 - (arXiv 2022.12) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2022.12) OneFormer: One Transformer to Rule Universal Image **Segmentation**, [[Paper]](https://arxiv.org/pdf/2211.06220.pdf), [[Code]](https://github.com/SHI-Labs/OneFormer)
+
+- (arXiv 2022.12) MMDialog: A Large-scale Multi-turn Dialogue Dataset Towards **Multi-modal Open-domain Conversation**, [[Paper]](https://arxiv.org/pdf/2211.05719.pdf), [[Project]](https://github.com/victorsungo/MMDialog)
 
 - (arXiv 2022.12) Why is Winoground Hard? Investigating Failures in **Visuolinguistic Compositionality**, [[Paper]](https://arxiv.org/pdf/2211.00768.pdf), [[Code]](https://github.com/ajd12342/why-winoground-hard)
 
@@ -385,9 +385,71 @@ Keep updated.
 
 - (arXiv 2022.11) , [[Paper]](), [[Code]]()
 
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
 - (arXiv 2022.11) , [[Paper]](), [[Code]]() -->
 
-- (arXiv 2022.11) CASA: Category-agnostic **Skeletal Animal Reconstruction**, [[Paper]](https://arxiv.org/pdf/2211.03568.pdf), [[Code]]()
+- (arXiv 2022.11) SSGVS: Semantic **Scene Graph-to-Video** Synthesis, [[Paper]](https://arxiv.org/pdf/2211.06119.pdf)
+
+- (arXiv 2022.11) One-Time **Model Adaptation** to Heterogeneous Clients: An Intra-Client and Inter-Image Attention Design, [[Paper]](https://arxiv.org/pdf/2211.06276.pdf)
+
+- (arXiv 2022.11) An Improved End-to-End **Multi-Target Tracking** Method Based on Transformer Self-Attention, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2211/2211.06001.pdf)
+
+- (arXiv 2022.11) Zero-shot Visual Commonsense **Immorality Prediction**, [[Paper]](https://arxiv.org/pdf/2211.05521.pdf), [[Code]](https://github.com/ku-vai/Zero-shot-Visual-Commonsense-Immorality-Prediction)
+
+- (arXiv 2022.11) Hyperbolic Cosine Transformer for **LiDAR 3D Object Detection**, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2211/2211.05580.pdf)
+
+- (arXiv 2022.11) **Training** a Vision Transformer from scratch in less than 24 hours with 1 GPU, [[Paper]](https://arxiv.org/pdf/2211.05187.pdf), [[Code]](https://github.com/BorealisAI/efficient-vit-training)
+
+- (arXiv 2022.11) ViTALiTy: Unifying Low-rank and Sparse Approximation for Vision Transformer **Acceleration** with a Linear Taylor Attention, [[Paper]](https://arxiv.org/pdf/2211.05109.pdf)
+
+- (arXiv 2022.11) SimOn: A Simple Framework for **Online Temporal Action Localization**, [[Paper]](https://arxiv.org/pdf/2211.04905.pdf), [[Code]](https://github.com/TuanTNG/SimOn)
+
+- (arXiv 2022.11) ERNIE-UNIX^2: A UNIFIED **CROSS-LINGUAL CROSS-MODAL** FRAMEWORK FOR UNDERSTANDING AND GENERATION, [[Paper]](https://arxiv.org/pdf/2211.04861.pdf)
+
+- (arXiv 2022.11) SG-Shuffle: Multi-aspect Shuffle Transformer for **Scene Graph Generation**, [[Paper]](https://arxiv.org/pdf/2211.04773.pdf)
+
+- (arXiv 2022.11) Understanding Cross-modal Interactions in V&L Models that Generate **Scene Descriptions**, [[Paper]](https://arxiv.org/pdf/2211.04971.pdf)
+
+- (arXiv 2022.11) VieCap4H - VLSP 2021: ObjectAoA - Enhancing performance of Object Relation Transformer with Attention on Attention for **Vietnamese** image **captioning**, [[Paper]](https://arxiv.org/pdf/2211.05405.pdf)
+
+- (arXiv 2022.11) Watching the News: Towards **VideoQA** Models that can Read, [[Paper]](https://arxiv.org/pdf/2211.05588.pdf), [[Project]](http://cvit.iiit.ac.in/research/projects/cvit-projects/videoqa)
+
+- (arXiv 2022.11) Efficient Joint **Detection** and **Multiple Object Tracking** with Spatially Aware Transformer, [[Paper]](https://arxiv.org/pdf/2211.05654.pdf)
+
+- (arXiv 2022.11) **Demystify** Transformers & **Convolutions** in Modern Image Deep Networks, [[Paper]](https://arxiv.org/pdf/2211.05781.pdf), [[Code]](https://github.com/OpenGVLab/STM-Evaluation)
+
+- (arXiv 2022.11) InternImage: Exploring Large-Scale Vision Foundation Models with **Deformable Convolutions**, [[Paper]](https://arxiv.org/pdf/2211.05778.pdf), [[Code]](https://github.com/OpenGVLab/InternImage)
+
+- (arXiv 2022.11) DEPTHFORMER: MULTIMODAL POSITIONAL ENCODINGS AND CROSS-INPUT ATTENTION FOR TRANSFORMER-BASED **SEGMENTATION** NETWORKS, [[Paper]](https://arxiv.org/pdf/2211.04188.pdf)
+
+- (arXiv 2022.11) Sequential Transformer for End-to-End **Person Search**, [[Paper]](https://arxiv.org/pdf/2211.04323.pdf)
+
+- (arXiv 2022.11) Prompting Large Pre-trained Vision-Language Models For **Compositional Concept Learning**, [[Paper]](https://arxiv.org/pdf/2211.05077.pdf)
+
+- (arXiv 2022.11) CASA: Category-agnostic **Skeletal Animal Reconstruction**, [[Paper]](https://arxiv.org/pdf/2211.03568.pdf)
 
 - (arXiv 2022.11) ViT-CX: Causal **Explanation** of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2211.03064.pdf)
 
