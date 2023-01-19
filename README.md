@@ -145,9 +145,9 @@ Keep updated.
 
 - (arXiv 2023.1) , [[Paper]](), [[Code]]()
 
-- (arXiv 2023.1) , [[Paper]](), [[Code]]()
-
 - (arXiv 2023.1) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.1) DDS: Decoupled Dynamic **Scene-Graph Generation** Network, [[Paper]](https://arxiv.org/pdf/2301.07666.pdf), [[Code]]()
 
 - (arXiv 2023.1) **Token** Transformer: Can class token help window-based transformer build better **long-range interactions**? [[Paper]](https://arxiv.org/pdf/2211.06083.pdf)
 
