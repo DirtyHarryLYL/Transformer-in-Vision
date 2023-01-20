@@ -173,7 +173,39 @@ Keep updated.
 
 - (arXiv 2022.12) , [[Paper]](), [[Code]]()
 
+- (arXiv 2022.12) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.12) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.12) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.12) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.12) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.12) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.12) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.12) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.12) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.12) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.12) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.12) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.12) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.12) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.12) , [[Paper]](), [[Code]]()
+
 - (arXiv 2022.12) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2022.12) EVA: Exploring the Limits of **Masked Visual Representation** Learning at Scale, [[Paper]](https://arxiv.org/pdf/2211.07636.pdf), [[Code]](https://github.com/baaivision/EVA)
 
 - (arXiv 2022.12) OneFormer: One Transformer to Rule Universal Image **Segmentation**, [[Paper]](https://arxiv.org/pdf/2211.06220.pdf), [[Code]](https://github.com/SHI-Labs/OneFormer)
 
@@ -401,15 +433,47 @@ Keep updated.
 
 - (arXiv 2022.11) , [[Paper]](), [[Code]]()
 
-- (arXiv 2022.11) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.11) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.11) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.11) , [[Paper]](), [[Code]]()
-
 - (arXiv 2022.11) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2022.11) Demystify **Self-Attention** in Vision Transformers from a Semantic Perspective: Analysis and Application, [[Paper]](https://arxiv.org/pdf/2211.08543.pdf)
+
+- (arXiv 2022.11) SATVSR: Scenario Adaptive Transformer for Cross Scenarios **Video Super-Resolution**, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2211/2211.08703.pdf)
+
+- (arXiv 2022.11) TransCC: Transformer-based **Multiple Illuminant Color Constancy** Using Multitask Learning, [[Paper]](https://arxiv.org/pdf/2211.08772.pdf)
+
+- (arXiv 2022.11) Stare at What You See: **Masked Image Modeling** without Reconstruction, [[Paper]](https://arxiv.org/pdf/2211.08887.pdf), [[Code]](https://github.com/OpenPerceptionX/maskalign)
+
+- (arXiv 2022.11) HeatViT: Hardware-Efficient Adaptive **Token Pruning** for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2211.08110.pdf)
+
+- (arXiv 2022.11) Cross-domain Federated Adaptive **Prompt Tuning** for **CLIP**, [[Paper]](https://arxiv.org/pdf/2211.07864.pdf)
+
+- (arXiv 2022.11) YORO - Lightweight End to End **Visual Grounding**, [[Paper]](https://arxiv.org/pdf/2211.07912.pdf)
+
+- (arXiv 2022.11) **Knowledge Distillation** for Detection Transformer with Consistent Distillation Points Sampling, [[Paper]](https://arxiv.org/pdf/2211.08071.pdf)
+
+- (arXiv 2022.11) BiViT: Extremely **Compressed** **Binary** Vision Transformer, [[Paper]](https://arxiv.org/pdf/2211.07091.pdf)
+
+- (arXiv 2022.11) ContextCLIP: Contextual Alignment of **Image-Text** pairs on **CLIP** visual representations, [[Paper]](https://arxiv.org/pdf/2211.07122.pdf)
+
+- (arXiv 2022.11) Zero-shot Image **Captioning** by Anchor-augmented Vision-Language Space Alignment, [[Paper]](https://arxiv.org/pdf/2211.07275.pdf)
+
+- (arXiv 2022.11) Seeing Beyond the **Brain**: Conditional Diffusion Model with Sparse Masked Modeling for **Vision Decoding**, [[Paper]](https://arxiv.org/pdf/2211.06956.pdf), [[Project]](https://mind-vis.github.io/)
+
+- (arXiv 2022.11) Enhancing **Few-Shot Image Classification** with Cosine Transformer, [[Paper]](https://arxiv.org/pdf/2211.06828.pdf), [[Code]](https://github.com/vinuni-vishc/Few-Shot-Cosine-Transformer)
+
+- (arXiv 2022.11) SCOTCH and SODA: A Transformer **Video Shadow Detection** Framework, [[Paper]](https://arxiv.org/pdf/2211.06885.pdf)
+
+- (arXiv 2022.11) AU-Aware Vision Transformers for Biased **Facial Expression Recognition**, [[Paper]](https://arxiv.org/pdf/2211.06609.pdf)
+
+- (arXiv 2022.11) Fast Text-Conditional Discrete **Denoising** on Vector-Quantized Latent Spaces, [[Paper]](https://arxiv.org/pdf/2211.07292.pdf), [[Code]](https://github.com/dome272/Paella)
+
+- (arXiv 2022.11) Large-Scale Bidirectional Training for Zero-Shot Image **Captioning**, [[Paper]](https://arxiv.org/pdf/2211.06774.pdf)
+
+- (arXiv 2022.11) Grafting Pre-trained Models for Multimodal **Headline Generation**, [[Paper]](https://arxiv.org/pdf/2211.07210.pdf)
+
+- (arXiv 2022.11) CabViT: Cross **Attention** among Blocks for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2211.07198.pdf), [[Code]](https://github.com/hkzhang91/CabViT)
+
+- (arXiv 2022.11) **Composed Image Retrieval** with Text Feedback via Multi-grained Uncertainty Regularization, [[Paper]](https://arxiv.org/pdf/2211.07394.pdf)
 
 - (arXiv 2022.11) SSGVS: Semantic **Scene Graph-to-Video** Synthesis, [[Paper]](https://arxiv.org/pdf/2211.06119.pdf)
 
