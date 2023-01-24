@@ -145,9 +145,17 @@ Keep updated.
 
 - (arXiv 2023.1) , [[Paper]](), [[Code]]()
 
+- (arXiv 2023.1) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.1) , [[Paper]](), [[Code]]()
+
 - (arXiv 2023.1) , [[Paper]](), [[Code]]() -->
 
-- (arXiv 2023.1) DDS: Decoupled Dynamic **Scene-Graph Generation** Network, [[Paper]](https://arxiv.org/pdf/2301.07666.pdf), [[Code]]()
+- (arXiv 2023.1) InstructPix2Pix: Learning to Follow **Image Editing** Instructions, [[Paper]](https://arxiv.org/pdf/2211.09800.pdf), [[Code]](http://timothybrooks.com/instruct-pix2pix)
+
+- (arXiv 2023.1) OvarNet: Towards Open-vocabulary Object **Attribute Recognition**, [[Paper]](https://arxiv.org/pdf/2301.09506.pdf), [[Project]](https://kyanchen.github.io/OvarNet)
+
+- (arXiv 2023.1) DDS: Decoupled Dynamic **Scene-Graph Generation** Network, [[Paper]](https://arxiv.org/pdf/2301.07666.pdf)
 
 - (arXiv 2023.1) **Token** Transformer: Can class token help window-based transformer build better **long-range interactions**? [[Paper]](https://arxiv.org/pdf/2211.06083.pdf)
 
@@ -419,21 +427,21 @@ Keep updated.
 
 - (arXiv 2022.11) , [[Paper]](), [[Code]]()
 
-- (arXiv 2022.11) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.11) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.11) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.11) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.11) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.11) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.11) , [[Paper]](), [[Code]]()
-
 - (arXiv 2022.11) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2022.11) Towards All-in-one **Pre-training** via Maximizing **Multi-modal** Mutual Information, [[Paper]](https://arxiv.org/pdf/2211.09807.pdf), [[Code]](https://github.com/OpenGVLab/M3I-Pretraining)
+
+- (arXiv 2022.11) Uni-Perceiver v2: A **Generalist** Model for Large-Scale **Vision** and **Vision-Language** Tasks, [[Paper]](https://arxiv.org/pdf/2211.09808.pdf), [[Code]](https://github.com/fundamentalvision/Uni-Perceiver)
+
+- (arXiv 2022.11) D^3ETR: Decoder **Distillation** for **Detection** Transformer, [[Paper]](https://arxiv.org/pdf/2211.09768.pdf)
+
+- (arXiv 2022.11) **CAE** v2: Context Autoencoder with **CLIP** Target, [[Paper]](https://arxiv.org/pdf/2211.09799.pdf)
+
+- (arXiv 2022.11) Cross-Modal Adapter for **Text-Video Retrieval**, [[Paper]](https://arxiv.org/pdf/2211.09623.pdf), [[Code]](https://github.com/LeapLabTHU/Cross-Modal-Adapter)
+
+- (arXiv 2022.11) TOKEN **TURING MACHINES**, [[Paper]](https://arxiv.org/pdf/2211.09119.pdf)
+
+- (arXiv 2022.11) WILL LARGE-SCALE **GENERATIVE** MODELS CORRUPT **FUTURE DATASETS**? [[Paper]](https://arxiv.org/pdf/2211.08095.pdf), [[Code]](https://github.com/moskomule/dataset-contamination)
 
 - (arXiv 2022.11) Demystify **Self-Attention** in Vision Transformers from a Semantic Perspective: Analysis and Application, [[Paper]](https://arxiv.org/pdf/2211.08543.pdf)
 
