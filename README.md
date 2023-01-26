@@ -147,9 +147,9 @@ Keep updated.
 
 - (arXiv 2023.1) , [[Paper]](), [[Code]]()
 
-- (arXiv 2023.1) , [[Paper]](), [[Code]]()
-
 - (arXiv 2023.1) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.1) CPT-V: A Contrastive Approach to Post-Training **Quantization** of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2211.09643.pdf)
 
 - (arXiv 2023.1) InstructPix2Pix: Learning to Follow **Image Editing** Instructions, [[Paper]](https://arxiv.org/pdf/2211.09800.pdf), [[Code]](http://timothybrooks.com/instruct-pix2pix)
 
@@ -427,7 +427,37 @@ Keep updated.
 
 - (arXiv 2022.11) , [[Paper]](), [[Code]]()
 
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
 - (arXiv 2022.11) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2022.11) Listen, denoise, action! Audio-driven **motion synthesis** with diffusion models, [[Paper]](https://arxiv.org/pdf/2211.09707.pdf), [[Project]](https://www.speech.kth.se/research/listen-denoise-action/)
+
+- (arXiv 2022.11) ConStruct-VL: Data-Free Continual **Structured VL Concepts** Learning, [[Paper]](https://arxiv.org/pdf/2211.09790.pdf)
+
+- (arXiv 2022.11) How to **Fine-Tune** Vision Models with **SGD**, [[Paper]](https://arxiv.org/pdf/2211.09359.pdf)
+
+- (arXiv 2022.11) Progressive Tree-Structured Prototype Network for End-to-End Image **Captioning**, [[Paper]](https://arxiv.org/pdf/2211.09460.pdf), [[Code]](https://github.com/NovaMind-Z/PTSN)
+
+- (arXiv 2022.11) CapEnrich: Enriching **Caption** Semantics for Web Images via Cross-modal Pre-trained Knowledge, [[Paper]](https://arxiv.org/pdf/2211.09371.pdf), [[Code]]()
+
+- (arXiv 2022.11) Visual Commonsense-aware Representation Network for **Video Captioning**, [[Paper]](https://arxiv.org/pdf/2211.09469.pdf), [[Code]](https://github.com/zchoi/VCRN)
+
+- (arXiv 2022.11) Language Conditioned Spatial Relation Reasoning for **3D Object Grounding**, [[Paper]](https://arxiv.org/pdf/2211.09646.pdf), [[Code]](https://cshizhe.github.io/projects/vil3dref.html)
+
+- (arXiv 2022.11) HARDVS: Revisiting Human **Activity Recognition** with **Dynamic Vision Sensors**, [[Paper]](https://arxiv.org/pdf/2211.09648.pdf), [[Code]](https://github.com/Event-AHU/HARDVS)
 
 - (arXiv 2022.11) Towards All-in-one **Pre-training** via Maximizing **Multi-modal** Mutual Information, [[Paper]](https://arxiv.org/pdf/2211.09807.pdf), [[Code]](https://github.com/OpenGVLab/M3I-Pretraining)
 
