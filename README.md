@@ -65,6 +65,8 @@ Keep updated.
 
 - (arXiv 2023.1) ChatGPT is not all you need. A State of the Art Review of large Generative AI models, [[Paper]](https://arxiv.org/pdf/2301.04655.pdf)
 
+- (arXiv 2022.11) Vision Transformers in **Medical Imaging**: A Review, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2211/2211.10043.pdf)
+
 - (arXiv 2022.11) A survey on **knowledge**-enhanced **multimodal** learning, [[Paper]](https://arxiv.org/pdf/2211.12328.pdf)
 
 - (arXiv 2022.10) Vision-Language Pre-training: Basics, Recent Advances, and Future Trends, [[Paper]](https://arxiv.org/pdf/2210.09263.pdf)
@@ -145,9 +147,9 @@ Keep updated.
 
 - (arXiv 2023.1) , [[Paper]](), [[Code]]()
 
-- (arXiv 2023.1) , [[Paper]](), [[Code]]()
-
 - (arXiv 2023.1) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.1) Hypergraph Transformer for **Skeleton-based Action Recognition**, [[Paper]](https://arxiv.org/pdf/2211.09590.pdf)
 
 - (arXiv 2023.1) CPT-V: A Contrastive Approach to Post-Training **Quantization** of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2211.09643.pdf)
 
@@ -423,25 +425,25 @@ Keep updated.
 
 - (arXiv 2022.11) , [[Paper]](), [[Code]]()
 
-- (arXiv 2022.11) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.11) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.11) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.11) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.11) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.11) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.11) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.11) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.11) , [[Paper]](), [[Code]]()
-
 - (arXiv 2022.11) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2022.11) WEIGHTED **ENSEMBLE** **SELF-SUPERVISED** LEARNING, [[Paper]](https://arxiv.org/pdf/2211.09981.pdf), [[Code]]()
+
+- (arXiv 2022.11) BEVFormer v2: Adapting Modern Image Backbones to **Bird’s-Eye-View Recognition** via Perspective Supervision, [[Paper]](https://arxiv.org/pdf/2211.10439.pdf)
+
+- (arXiv 2022.11) Task Residual for Tuning **Vision-Language** Models, [[Paper]](https://arxiv.org/pdf/2211.10277.pdf), [[Code]](https://github.com/geekyutao/TaskRes)
+
+- (arXiv 2022.11) α DARTS Once More: Enhancing Differentiable **Architecture Search** by **Masked** Image Modeling, [[Paper]](https://arxiv.org/pdf/2211.10105.pdf)
+
+- (arXiv 2022.11) Delving into Transformer for Incremental Semantic **Segmentation**, [[Paper]](https://arxiv.org/pdf/2211.10253.pdf)
+
+- (arXiv 2022.11) DETRDistill: A Universal **Knowledge Distillation** Framework for **DETR**-families, [[Paper]](https://arxiv.org/pdf/2211.10156.pdf)
+
+- (arXiv 2022.11) PromptCap: Prompt-Guided Task-Aware Image **Captioning**, [[Paper]](https://arxiv.org/pdf/2211.09699.pdf)
+
+- (arXiv 2022.11) UNIFORMERV2: SPATIOTEMPORAL LEARNING BY ARMING IMAGE VITS WITH **VIDEO** UNIFORMER, [[Paper]](https://arxiv.org/pdf/2211.09552.pdf), [[Code]](https://github.com/OpenGVLab/UniFormerV2)
+
+- (arXiv 2022.11) **Masked** Reconstruction **Contrastive** Learning with Information Bottleneck Principle, [[Paper]](https://arxiv.org/pdf/2211.09013.pdf)
 
 - (arXiv 2022.11) Listen, denoise, action! Audio-driven **motion synthesis** with diffusion models, [[Paper]](https://arxiv.org/pdf/2211.09707.pdf), [[Project]](https://www.speech.kth.se/research/listen-denoise-action/)
 
