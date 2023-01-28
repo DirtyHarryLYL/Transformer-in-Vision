@@ -425,9 +425,69 @@ Keep updated.
 
 - (arXiv 2022.11) , [[Paper]](), [[Code]]()
 
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
 - (arXiv 2022.11) , [[Paper]](), [[Code]]() -->
 
-- (arXiv 2022.11) WEIGHTED **ENSEMBLE** **SELF-SUPERVISED** LEARNING, [[Paper]](https://arxiv.org/pdf/2211.09981.pdf), [[Code]]()
+- (arXiv 2022.11) LISA: Localized **Image Stylization** with Audio via Implicit Neural Representation, [[Paper]](https://arxiv.org/pdf/2211.11381.pdf)
+
+- (arXiv 2022.11) MagicVideo: Efficient **Video Generation** With Latent Diffusion Models, [[Paper]](https://arxiv.org/pdf/2211.11018.pdf), [[Code]](https://magicvideo.github.io/#)
+
+- (arXiv 2022.11) DreamArtist: Towards Controllable One-Shot **Text-to-Image** Generation via Contrastive Prompt-Tuning, [[Paper]](https://arxiv.org/pdf/2211.11337.pdf)
+
+- (arXiv 2022.11) Hybrid Transformer Based Feature Fusion for Self-Supervised **Monocular Depth Estimation**, [[Paper]](https://arxiv.org/pdf/2211.11066.pdf)
+
+- (arXiv 2022.11) Language in a Bottle: Language Model Guided Concept Bottlenecks for Interpretable **Image Classification**, [[Paper]](https://arxiv.org/pdf/2211.11158.pdf)
+
+- (arXiv 2022.11) Structure-Encoding Auxiliary Tasks for Improved Visual Representation in Vision-and-Language **Navigation**, [[Paper]](https://arxiv.org/pdf/2211.11116.pdf)
+
+- (arXiv 2022.11) You Need Multiple Exiting: Dynamic Early Exiting for **Accelerating** Unified Vision Language Model, [[Paper]](https://arxiv.org/pdf/2211.11152.pdf)
+
+- (arXiv 2022.11) Beyond Attentive Tokens: Incorporating Token Importance and Diversity for **Efficient** Vision Transformers, [[Paper]](https://arxiv.org/pdf/2211.11315.pdf)
+
+- (arXiv 2022.11) FlowLens: Seeing Beyond the **FoV** via Flow-guided **Clip**-Recurrent Transformer, [[Paper]](https://arxiv.org/pdf/2211.11293.pdf), [[Code]](https://github.com/MasterHow/FlowLens)
+
+- (arXiv 2022.11) PS-Transformer: Learning Sparse **Photometric Stereo** Network using Self-Attention Mechanism, [[Paper]](https://arxiv.org/pdf/2211.11386.pdf)
+
+- (arXiv 2022.11) On the Robustness, Generalization, and Forgetting of Shape-Texture Debiased **Continual Learning**, [[Paper]](https://arxiv.org/pdf/2211.11174.pdf)
+
+- (arXiv 2022.11) Vision Transformer with Super **Token Sampling**, [[Paper]](https://arxiv.org/pdf/2211.11167.pdf), [[Code]](https://github.com/hhb072/SViT)
+
+- (arXiv 2022.11) Detect Only What You Specify : Object **Detection** with Linguistic Target, [[Paper]](https://arxiv.org/pdf/2211.11572.pdf)
+
+- (arXiv 2022.11) Visual Programming: Compositional **visual reasoning** without training, [[Paper]](https://arxiv.org/pdf/2211.11559.pdf), [[Project]](https://prior.allenai.org/projects/visprog)
+
+- (arXiv 2022.11) ClipCrop: Conditioned **Cropping** Driven by **Vision-Language** Model, [[Paper]](https://arxiv.org/pdf/2211.11492.pdf)
+
+- (arXiv 2022.11) SMAUG: Sparse **Masked** Autoencoder for **Efficient** **Video-Language** Pre-training, [[Paper]](https://arxiv.org/pdf/2211.11446.pdf)
+
+- (arXiv 2022.11) **Blur Interpolation** Transformer for Real-World Motion from Blur, [[Paper]](https://arxiv.org/pdf/2211.11423.pdf)
+
+- (arXiv 2022.11) Mean Shift Mask Transformer for Unseen Object Instance **Segmentation**, [[Paper]](https://arxiv.org/pdf/2211.11679.pdf), [[Code]](https://github.com/YoungSean/UnseenObjectsWithMeanShift)
+
+- (arXiv 2022.11) PointCLIP V2: Adapting **CLIP** for Powerful **3D** Open-world Learning, [[Paper]](https://arxiv.org/pdf/2211.11682.pdf), [[Code]](https://github.com/yangyangyang127/PointCLIP_V2)
+
+- (arXiv 2022.11) Exploring Discrete **Diffusion** Models for Image **Captioning**, [[Paper]](https://arxiv.org/pdf/2211.11694.pdf), [[Code]](https://github.com/buxiangzhiren/DDCap)
+
+- (arXiv 2022.11) PERCEIVER-VL: **Efficient** **Vision-and-Language** Modeling with Iterative Latent Attention, [[Paper]](https://arxiv.org/pdf/2211.11701.pdf), [[Code]](https://github.com/zinengtang/Perceiver_VL)
+
+- (arXiv 2022.11) Multitask **Vision-Language** **Prompt** Tuning, [[Paper]](https://arxiv.org/pdf/2211.11720.pdf), [[Code]](https://github.com/sIncerass/MVLPT)
+
+- (arXiv 2022.11) Teaching **Structured** **Vision & Language** Concepts to Vision & Language Models, [[Paper]](https://arxiv.org/pdf/2211.11733.pdf)
+
+- (arXiv 2022.11) WEIGHTED **ENSEMBLE** **SELF-SUPERVISED** LEARNING, [[Paper]](https://arxiv.org/pdf/2211.09981.pdf)
 
 - (arXiv 2022.11) BEVFormer v2: Adapting Modern Image Backbones to **Bird’s-Eye-View Recognition** via Perspective Supervision, [[Paper]](https://arxiv.org/pdf/2211.10439.pdf)
 
