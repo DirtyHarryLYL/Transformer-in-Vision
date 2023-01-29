@@ -441,6 +441,46 @@ Keep updated.
 
 - (arXiv 2022.11) , [[Paper]](), [[Code]]() -->
 
+- (arXiv 2022.11) Event Transformer+. A multi-purpose solution for efficient **event data processing**, [[Paper]](https://arxiv.org/pdf/2211.12222.pdf)
+
+- (arXiv 2022.11) MagicPony: Learning Articulated **3D Animals** in the Wild, [[Paper]](https://arxiv.org/pdf/2211.12497.pdf), [[Project]](https://3dmagicpony.github.io/)
+
+- (arXiv 2022.11) Gated Class-Attention with Cascaded Feature Drift Compensation for Exemplar-free **Continual Learning** of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2211.12292.pdf), [[Code]](https://github.com/OcraM17/GCAB-CFDC)
+
+- (arXiv 2022.11) Expectation-Maximization Contrastive Learning for Compact **Video-and-Language** Representations, [[Paper]](https://arxiv.org/pdf/2211.11427.pdf), [[Code]](https://github.com/jpthu17/EMCL)
+
+- (arXiv 2022.11) N-Gram in Swin Transformers for Efficient Lightweight **Image Super-Resolution**, [[Paper]](https://arxiv.org/pdf/2211.11436.pdf)
+
+- (arXiv 2022.11) **Robotic** Skill Acquisition via Instruction Augmentation with Vision-Language Models, [[Paper]](https://arxiv.org/pdf/2211.11736.pdf), [[Code]](https://instructionaugmentation.github.io/)
+
+- (arXiv 2022.11) Peeling the Onion: Hierarchical Reduction of Data Redundancy for **Efficient** Vision Transformer **Training**, [[Paper]](https://arxiv.org/pdf/2211.10801.pdf), [[Code]](https://github.com/ZLKong/Tri-Level-ViT)
+
+- (arXiv 2022.11) Unifying **Vision-Language** Representation Space with Single-tower Transformer, [[Paper]](https://arxiv.org/pdf/2211.11153.pdf)
+
+- (arXiv 2022.11) DeepSolo: Let Transformer Decoder with Explicit Points Solo for **Text Spotting**, [[Paper]](https://arxiv.org/pdf/2211.10772.pdf)
+
+- (arXiv 2022.11) Castling-ViT: **Compressing Self-Attention** via Switching Towards Linear-Angular Attention During Vision Transformer Inference, [[Paper]](https://arxiv.org/pdf/2211.10526.pdf)
+
+- (arXiv 2022.11) CL-CrossVQA: A Continual Learning Benchmark for **Cross-Domain Visual Question Answering**, [[Paper]](https://arxiv.org/pdf/2211.10567.pdf)
+
+- (arXiv 2022.11) Normal Transformer: Extracting Surface Geometry from **LiDAR** Points Enhanced by Visual Semantics, [[Paper]](https://arxiv.org/pdf/2211.10580.pdf)
+
+- (arXiv 2022.11) A Unified Model for **Video** Understanding and Knowledge Embedding with Heterogeneous **Knowledge Graph** Dataset, [[Paper]](https://arxiv.org/pdf/2211.10624.pdf)
+
+- (arXiv 2022.11) Efficient **Video Representation** Learning via Masked Video Modeling with Motion-centric Token Selection, [[Paper]](https://arxiv.org/pdf/2211.10636.pdf)
+
+- (arXiv 2022.11) DiffStyler: Controllable Dual Diffusion for Text-Driven **Image Stylization**, [[Paper]](https://arxiv.org/pdf/2211.10682.pdf)
+
+- (arXiv 2022.11) TORE: Token Reduction for Efficient **Human Mesh Recovery** with Transformer, [[Paper]](https://arxiv.org/pdf/2211.10705.pdf)
+
+- (arXiv 2022.11) **Synthesizing** Coherent **Story** with Auto-Regressive Latent Diffusion Models, [[Paper]](https://arxiv.org/pdf/2211.10950.pdf), [[Code]](https://github.com/Flash-321/ARLDM)
+
+- (arXiv 2022.11) Are **Out-of-Distribution Detection** Methods Reliable?, [[Paper]](https://arxiv.org/pdf/2211.10892.pdf)
+
+- (arXiv 2022.11) GLT-T: Global-Local Transformer Voting for **3D Single Object Tracking** in Point Clouds, [[Paper]](https://arxiv.org/pdf/2211.10927.pdf), [[Code]](https://github.com/haooozi/GLT-T)
+
+- (arXiv 2022.11) CROSS-MODAL CONTRASTIVE LEARNING FOR ROBUST REASONING IN **VQA**, [[Paper]](https://arxiv.org/pdf/2211.11190.pdf), [[Code]](https://github.com/qizhust/cmcl_vqa_pl)
+
 - (arXiv 2022.11) LISA: Localized **Image Stylization** with Audio via Implicit Neural Representation, [[Paper]](https://arxiv.org/pdf/2211.11381.pdf)
 
 - (arXiv 2022.11) MagicVideo: Efficient **Video Generation** With Latent Diffusion Models, [[Paper]](https://arxiv.org/pdf/2211.11018.pdf), [[Code]](https://magicvideo.github.io/#)
