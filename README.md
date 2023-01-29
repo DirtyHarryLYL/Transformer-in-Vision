@@ -427,19 +427,19 @@ Keep updated.
 
 - (arXiv 2022.11) , [[Paper]](), [[Code]]()
 
-- (arXiv 2022.11) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.11) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.11) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.11) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.11) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.11) , [[Paper]](), [[Code]]()
-
 - (arXiv 2022.11) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2022.11) X^2-VLM: All-In-One Pre-trained Model For **Vision-Language** Tasks, [[Paper]](https://arxiv.org/pdf/2211.12402.pdf), [[Code]](github.com/zengyan-97/X2-VLM)
+
+- (arXiv 2022.11) Aligning Source Visual and Target Language Domains for Unpaired **Video Captioning**, [[Paper]](https://arxiv.org/pdf/2211.12148.pdf)
+
+- (arXiv 2022.11) On the Transferability of Visual Features in **Generalized Zero-Shot Learning**, [[Paper]](https://arxiv.org/pdf/2211.12494.pdf), [[Code]](https://github.com/uvavision/TV-GZSL)
+
+- (arXiv 2022.11) Generalizable Industrial Visual **Anomaly Detection** with Self-Induction Vision Transformer, [[Paper]](https://arxiv.org/pdf/2211.12311.pdf)
+
+- (arXiv 2022.11) Transformer Based Multi-Grained Features for Unsupervised **Person Re-Identification**, [[Paper]](https://arxiv.org/pdf/2211.12280.pdf), [[Code]](https://github.com/RikoLi/WACV23-workshop-TMGF)
+
+- (arXiv 2022.11) Efficient Frequency Domain-based Transformers for High-Quality Image **Deblurring**, [[Paper]](https://arxiv.org/pdf/2211.12250.pdf), [[Code]](https://github.com/kkkls/FFTformer)
 
 - (arXiv 2022.11) Event Transformer+. A multi-purpose solution for efficient **event data processing**, [[Paper]](https://arxiv.org/pdf/2211.12222.pdf)
 
