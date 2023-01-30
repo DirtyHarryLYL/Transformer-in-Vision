@@ -427,7 +427,39 @@ Keep updated.
 
 - (arXiv 2022.11) , [[Paper]](), [[Code]]()
 
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
+- (arXiv 2022.11) , [[Paper]](), [[Code]]()
+
 - (arXiv 2022.11) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2022.11) Teach-DETR: Better **Training** **DETR** with Teachers, [[Paper]](https://arxiv.org/pdf/2211.11953.pdf), [[Code]](https://github.com/LeonHLJ/Teach-DETR)
+
+- (arXiv 2022.11) Conv2Former: A Simple Transformer-Style **ConvNet** for Visual Recognition, [[Paper]](https://arxiv.org/pdf/2211.11943.pdf)
 
 - (arXiv 2022.11) X^2-VLM: All-In-One Pre-trained Model For **Vision-Language** Tasks, [[Paper]](https://arxiv.org/pdf/2211.12402.pdf), [[Code]](github.com/zengyan-97/X2-VLM)
 
