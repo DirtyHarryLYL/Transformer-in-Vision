@@ -147,7 +147,47 @@ Keep updated.
 
 - (arXiv 2023.1) , [[Paper]](), [[Code]]()
 
+- (arXiv 2023.1) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.1) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.1) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.1) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.1) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.1) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.1) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.1) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.1) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.1) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.1) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.1) , [[Paper]](), [[Code]]()
+
 - (arXiv 2023.1) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.1) Learning 6-DoF Fine-grained **Grasp Detection** Based on Part Affordance Grounding, [[Paper]](https://arxiv.org/pdf/2301.11564.pdf), [[Project]](https://sites.google.com/view/lang-shape)
+
+- (arXiv 2023.1) Multimodal Event Transformer for **Image-guided Story Ending Generation**, [[Paper]](https://arxiv.org/pdf/2301.11357.pdf)
+
+- (arXiv 2023.1) Style-Aware Contrastive Learning for Multi-Style Image **Captioning**, [[Paper]](https://arxiv.org/pdf/2301.11367.pdf)
+
+- (arXiv 2023.1) 3DShape2VecSet: A **3D Shape Representation** for Neural Fields and Generative Diffusion Models, [[Paper]](https://arxiv.org/pdf/2301.11445.pdf)
+
+- (arXiv 2023.1) Semi-Parametric **Video-Grounded Text Generation**, [[Paper]](https://arxiv.org/pdf/2301.11507.pdf)
+
+- (arXiv 2023.1) **Robust** Transformer with Locality Inductive Bias and Feature Normalization, [[Paper]](https://arxiv.org/pdf/2301.11553.pdf)
+
+- (arXiv 2023.1) LEVERAGING THE THIRD DIMENSION IN **CONTRASTIVE LEARNING**, [[Paper]](https://arxiv.org/pdf/2301.11790.pdf)
+
+- (arXiv 2023.1) Understanding **Self-Supervised** Pretraining with **Part**-Aware Representation Learning, [[Paper]](https://arxiv.org/pdf/2301.11915.pdf)
 
 - (arXiv 2023.1) Hypergraph Transformer for **Skeleton-based Action Recognition**, [[Paper]](https://arxiv.org/pdf/2211.09590.pdf)
 
@@ -437,25 +477,45 @@ Keep updated.
 
 - (arXiv 2022.11) , [[Paper]](), [[Code]]()
 
-- (arXiv 2022.11) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.11) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.11) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.11) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.11) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.11) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.11) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.11) , [[Paper]](), [[Code]]()
-
-- (arXiv 2022.11) , [[Paper]](), [[Code]]()
-
 - (arXiv 2022.11) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2022.11) Texts as Images in Prompt Tuning for **Multi-Label Image Recognition**, [[Paper]](https://arxiv.org/pdf/2211.12739.pdf), [[Code]](https://github.com/guozix/TaI-DPT)
+
+- (arXiv 2022.11) Tell Me What Happened: Unifying **Text-guided Video Completion** via Multimodal Masked Video Generation, [[Paper]](https://arxiv.org/pdf/2211.12824.pdf)
+
+- (arXiv 2022.11) InDiReCT: Language-Guided Zero-Shot Deep **Metric Learning** for Images, [[Paper]](https://arxiv.org/pdf/2211.12760.pdf)
+
+- (arXiv 2022.11) VoP: Text-Video Co-operative Prompt Tuning for **Cross-Modal Retrieval**, [[Paper]](https://arxiv.org/pdf/2211.12764.pdf), [[Code]](https://github.com/bighuang624/VoP)
+
+- (arXiv 2022.11) **Completing point cloud** from few points by Wasserstein GAN and Transformers, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2211/2211.12746.pdf), [[Code]](https://github.com/WxfQjh/Stability-point-recovery.git)
+
+- (arXiv 2022.11) Integrally Pre-Trained Transformer **Pyramid** Networks, [[Paper]](https://arxiv.org/pdf/2211.12735.pdf), [[Code]](https://github.com/sunsmarterjie/iTPN)
+
+- (arXiv 2022.11) Data Augmentation Vision Transformer for **Fine-grained Image Classification**, [[Paper]](https://arxiv.org/pdf/2211.12879.pdf)
+
+- (arXiv 2022.11) **DETR**s with Collaborative Hybrid Assignments **Training**, [[Paper]](https://arxiv.org/pdf/2211.12860.pdf), [[Code]](https://github.com/Sense-X/Co-DETR)
+
+- (arXiv 2022.11) Open-vocabulary **Attribute Detection**, [[Paper]](https://arxiv.org/pdf/2211.12914.pdf), [[Project]](https://ovad-benchmark.github.io/)
+
+- (arXiv 2022.11) Lite-Mono: A Lightweight CNN and Transformer Architecture for Self-Supervised **Monocular Depth Estimation**, [[Paper]](https://arxiv.org/pdf/2211.13202.pdf), [[Code]](https://github.com/noahzn/Lite-Mono)
+
+- (arXiv 2022.11) Inversion-Based **Creativity Transfer** with Diffusion Models, [[Paper]](https://arxiv.org/pdf/2211.13203.pdf), [[Code]](https://github.com/zyxElsa/creativity-transfer)
+
+- (arXiv 2022.11) CODA-Prompt: COntinual Decomposed Attention-based Prompting for Rehearsal-Free **Continual Learning**, [[Paper]](https://arxiv.org/pdf/2211.13218.pdf)
+
+- (arXiv 2022.11) SVFormer: Semi-supervised Video Transformer for **Action Recognition**, [[Paper]](https://arxiv.org/pdf/2211.13222.pdf), [[Code]](https://github.com/ChenHsing/SVFormer)
+
+- (arXiv 2022.11) Generalizable **Implicit Neural Representations** via Instance Pattern Composers, [[Paper]](https://arxiv.org/pdf/2211.13223.pdf)
+
+- (arXiv 2022.11) Improving **Visual-textual Sentiment Analysis** by Fusing Expert Features, [[Paper]](https://arxiv.org/pdf/2211.12981.pdf)
+
+- (arXiv 2022.11) **Self-Supervised** Learning based on Heat Equation, [[Paper]](https://arxiv.org/pdf/2211.13228.pdf)
+
+- (arXiv 2022.11) Peekaboo: **Text to Image** Diffusion Models are Zero-Shot Segmentors, [[Paper]](https://arxiv.org/pdf/2211.13224.pdf)
+
+- (arXiv 2022.11) Paint by Example: Exemplar-based **Image Editing** with Diffusion Models, [[Paper]](https://arxiv.org/pdf/2211.13227.pdf), [[Code]](https://github.com/Fantasy-Studio/Paint-by-Example)
+
+- (arXiv 2022.11) Human or Machine? **Turing Tests** for Vision and Language, [[Paper]](https://arxiv.org/pdf/2211.13087.pdf), [[Code]](https://tinyurl.com/8x8nha7p)
 
 - (arXiv 2022.11) Teach-DETR: Better **Training** **DETR** with Teachers, [[Paper]](https://arxiv.org/pdf/2211.11953.pdf), [[Code]](https://github.com/LeonHLJ/Teach-DETR)
 
