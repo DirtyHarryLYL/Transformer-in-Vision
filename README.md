@@ -153,25 +153,25 @@ Keep updated.
 
 - (arXiv 2023.1) , [[Paper]](), [[Code]]()
 
-- (arXiv 2023.1) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.1) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.1) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.1) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.1) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.1) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.1) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.1) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.1) , [[Paper]](), [[Code]]()
-
 - (arXiv 2023.1) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.1) Do Embodied Agents Dream of Pixelated Sheep?: **Embodied Decision Making** using Language Guided World Modelling, [[Paper]](https://arxiv.org/pdf/2301.12050.pdf), [[Project]](https://deckardagent.github.io/)
+
+- (arXiv 2023.1) GALIP: Generative Adversarial CLIPs for **Text-to-Image** Synthesis, [[Paper]](https://arxiv.org/pdf/2301.12959.pdf), [[Code]](https://github.com/tobran/GALIP)
+
+- (arXiv 2023.1) STAIR: Learning **Sparse** **Text and Image** Representation in Grounded Tokens, [[Paper]](https://arxiv.org/pdf/2301.13081.pdf)
+
+- (arXiv 2023.1) **Aerial** Image Object **Detection** With Vision Transformer Detector (ViTDet), [[Paper]](https://arxiv.org/ftp/arxiv/papers/2301/2301.12058.pdf)
+
+- (arXiv 2023.1) Towards Vision Transformer Unrolling Fixed-Point Algorithm: a Case Study on **Image Restoration**, [[Paper]](https://arxiv.org/pdf/2301.12332.pdf)
+
+- (arXiv 2023.1) Debiased Fine-Tuning for **Vision-language** Models by **Prompt** Regularization, [[Paper]](https://arxiv.org/pdf/2301.12429.pdf), [[Code]]()
+
+- (arXiv 2023.1) BLIP-2: Bootstrapping **Language-Image** Pre-training with **Frozen** Image Encoders and Large Language Models, [[Paper]](https://arxiv.org/pdf/2301.12597.pdf), [[Code]](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)
+
+- (arXiv 2023.1) Tagging before Alignment: Integrating Multi-Modal Tags for **Video-Text Retrieval**, [[Paper]](https://arxiv.org/pdf/2301.12644.pdf)
+
+- (arXiv 2023.1) SEAFORMER: SQUEEZE-ENHANCED AXIAL TRANSFORMER FOR MOBILE SEMANTIC **SEGMENTATION**, [[Paper]](https://arxiv.org/pdf/2301.13156.pdf), [[Code]](https://github.com/fudan-zvg/SeaFormer)
 
 - (arXiv 2023.1) Learning 6-DoF Fine-grained **Grasp Detection** Based on Part Affordance Grounding, [[Paper]](https://arxiv.org/pdf/2301.11564.pdf), [[Project]](https://sites.google.com/view/lang-shape)
 
