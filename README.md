@@ -135,6 +135,32 @@ Keep updated.
 
 ## Recent Papers
 
+### 2023.2
+
+<!-- - (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.2) , [[Paper]](), [[Code]]() -->
+
 ### 2023.1
 
 <!-- - (arXiv 2023.1) , [[Paper]](), [[Code]]()
@@ -147,13 +173,13 @@ Keep updated.
 
 - (arXiv 2023.1) , [[Paper]](), [[Code]]()
 
-- (arXiv 2023.1) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.1) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.1) , [[Paper]](), [[Code]]()
-
 - (arXiv 2023.1) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.1) Anchor-Based Adversarially Robust **Zero-Shot Learning** Driven by Language, [[Paper]](https://arxiv.org/pdf/2301.13096.pdf)
+
+- (arXiv 2023.1) Distilling Internet-Scale **Vision-Language** Models into **Embodied** Agents, [[Paper]](https://arxiv.org/pdf/2301.12507.pdf)
+
+- (arXiv 2023.1) 6-DoF Robotic **Grasping** with Transformer, [[Paper]](https://arxiv.org/pdf/2301.12476.pdf)
 
 - (arXiv 2023.1) Do Embodied Agents Dream of Pixelated Sheep?: **Embodied Decision Making** using Language Guided World Modelling, [[Paper]](https://arxiv.org/pdf/2301.12050.pdf), [[Project]](https://deckardagent.github.io/)
 
