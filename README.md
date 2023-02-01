@@ -173,7 +173,31 @@ Keep updated.
 
 - (arXiv 2023.1) , [[Paper]](), [[Code]]()
 
-- (arXiv 2023.1) , [[Paper]](), [[Code]]() -->
+- (arXiv 2023.1) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.1) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.1) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.1) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.1) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.1) , [[Paper]](), [[Code]]()
+ -->
+- (arXiv 2023.1) SDF-FORMER: **MONOCULAR SCENE RECONSTRUCTION** WITH 3D SDF TRANSFORMERS, [[Paper]](https://arxiv.org/pdf/2301.13510.pdf), [[Project]](https://weihaosky.github.io/sdfformer)
+
+- (arXiv 2023.1) Grounding Language Models to Images for **Multimodal Generation**, [[Paper]](https://arxiv.org/pdf/2301.13823.pdf)
+
+- (arXiv 2023.1) Pseudo 3D Perception Transformer with Multi-level Confidence Optimization for **Visual Commonsense Reasoning**, [[Paper]](https://arxiv.org/pdf/2301.13335.pdf)
+
+- (arXiv 2023.1) A Modular Multi-stage Lightweight Graph Transformer Network for **Human Pose and Shape Estimation** from 2D Human Pose, [[Paper]](https://arxiv.org/pdf/2301.13403.pdf)
+
+- (arXiv 2023.1) Priors are Powerful: Improving a Transformer for **Multi-camera 3D Detection** with 2D Priors, [[Paper]](https://arxiv.org/pdf/2301.13592.pdf)
+
+- (arXiv 2023.1) UPop: Unified and Progressive Pruning for **Compressing** **Vision-Language** Transformers, [[Paper]](https://arxiv.org/pdf/2301.13741.pdf)
+
+- (arXiv 2023.1) **Fairness**-aware Vision Transformer via Debiased Self-Attention, [[Paper]](https://arxiv.org/pdf/2301.13803.pdf)
 
 - (arXiv 2023.1) Anchor-Based Adversarially Robust **Zero-Shot Learning** Driven by Language, [[Paper]](https://arxiv.org/pdf/2301.13096.pdf)
 
