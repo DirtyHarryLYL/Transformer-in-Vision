@@ -147,19 +147,19 @@ Keep updated.
 
 - (arXiv 2023.2) , [[Paper]](), [[Code]]()
 
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
 - (arXiv 2023.2) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.2) The geometry of **hidden representations** of large transformer models, [[Paper]](https://arxiv.org/pdf/2302.00294.pdf), [[Code]]()
+
+- (arXiv 2023.2) **Debiasing** **Vision-Language** Models via Biased Prompts, [[Paper]](https://arxiv.org/pdf/2302.00070.pdf), [[Code]](https://github.com/chingyaoc/debias_vl)
+
+- (arXiv 2023.2) COMPOSITIONAL PROMPT TUNING WITH MOTION CUES FOR **OPEN-VOCABULARY VIDEO RELATION DETECTION**, [[Paper]](https://arxiv.org/pdf/2302.00268.pdf), [[Code]](https://github.com/Dawn-LX/OpenVoc-VidVRD)
+
+- (arXiv 2023.2) mPLUG-2: A Modularized **Multi-modal** Foundation Model Across Text, Image and Video, [[Paper]](https://arxiv.org/pdf/2302.00402.pdf), [[Code]](https://github.com/alibaba/AliceMind/tree/main/mPLUG)
+
+- (arXiv 2023.2) Transforming **CLIP** to an **Open-vocabulary Video Model** via Interpolated Weight Optimization, [[Paper]](https://arxiv.org/pdf/2302.00624.pdf)
+
+- (arXiv 2023.2) ADAPT: Action-aware Driving **Caption** Transformer, [[Paper]](https://arxiv.org/pdf/2302.00673.pdf), [[Code]](https://github.com/jxbbb/ADAPT)
 
 ### 2023.1
 
@@ -181,10 +181,10 @@ Keep updated.
 
 - (arXiv 2023.1) , [[Paper]](), [[Code]]()
 
-- (arXiv 2023.1) , [[Paper]](), [[Code]]()
+- (arXiv 2023.1) , [[Paper]](), [[Code]]() -->
 
-- (arXiv 2023.1) , [[Paper]](), [[Code]]()
- -->
+- (arXiv 2023.1) **Multi-video Moment Ranking** with Multimodal Clue, [[Paper]](https://arxiv.org/pdf/2301.13606.pdf)
+
 - (arXiv 2023.1) SDF-FORMER: **MONOCULAR SCENE RECONSTRUCTION** WITH 3D SDF TRANSFORMERS, [[Paper]](https://arxiv.org/pdf/2301.13510.pdf), [[Project]](https://weihaosky.github.io/sdfformer)
 
 - (arXiv 2023.1) Grounding Language Models to Images for **Multimodal Generation**, [[Paper]](https://arxiv.org/pdf/2301.13823.pdf)
