@@ -63,6 +63,8 @@ Keep updated.
 
 ## Survey
 
+- (arXiv 2023.2) A Survey on **Efficient Training** of Transformers, [[Paper]](https://arxiv.org/pdf/2302.01107.pdf)
+
 - (arXiv 2023.1) ChatGPT is not all you need. A State of the Art Review of large Generative AI models, [[Paper]](https://arxiv.org/pdf/2301.04655.pdf)
 
 - (arXiv 2022.11) Vision Transformers in **Medical Imaging**: A Review, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2211/2211.10043.pdf)
@@ -147,9 +149,45 @@ Keep updated.
 
 - (arXiv 2023.2) , [[Paper]](), [[Code]]()
 
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
 - (arXiv 2023.2) , [[Paper]](), [[Code]]() -->
 
-- (arXiv 2023.2) The geometry of **hidden representations** of large transformer models, [[Paper]](https://arxiv.org/pdf/2302.00294.pdf), [[Code]]()
+- (arXiv 2023.2) IC^3: Image Captioning by Committee Consensus, [[Paper]](https://arxiv.org/pdf/2302.01328.pdf), [[Code]](https://github.com/DavidMChan/caption-by-committee)
+
+- (arXiv 2023.2) Boosting Low-Data Instance **Segmentation** by Unsupervised Pre-training with Saliency Prompt, [[Paper]](https://arxiv.org/pdf/2302.01171.pdf)
+
+- (arXiv 2023.2) QR-CLIP: Introducing Explicit Open-World Knowledge for **Location and Time Reasoning**, [[Paper]](https://arxiv.org/pdf/2302.00952.pdf)
+
+- (arXiv 2023.2) Vision Transformer-based Feature Extraction for **Generalized Zero-Shot Learning**, [[Paper]](https://arxiv.org/pdf/2302.00875.pdf)
+
+- (arXiv 2023.2) **Multimodal** Chain-of-Thought **Reasoning** in Language Models, [[Paper]](https://arxiv.org/pdf/2302.00923.pdf), [[Code]](https://github.com/amazon-science/mm-cot)
+
+- (arXiv 2023.2) CLIPood: Generalizing **CLIP** to **Out-of-Distributions**, [[Paper]](https://arxiv.org/pdf/2302.00864.pdf)
+
+- (arXiv 2023.2) Language Quantized AutoEncoders: Towards Unsupervised **Text-Image** Alignment, [[Paper]](https://arxiv.org/pdf/2302.00902.pdf)
+
+- (arXiv 2023.2) The geometry of **hidden representations** of large transformer models, [[Paper]](https://arxiv.org/pdf/2302.00294.pdf)
 
 - (arXiv 2023.2) **Debiasing** **Vision-Language** Models via Biased Prompts, [[Paper]](https://arxiv.org/pdf/2302.00070.pdf), [[Code]](https://github.com/chingyaoc/debias_vl)
 
