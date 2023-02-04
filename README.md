@@ -219,7 +219,63 @@ Keep updated.
 
 - (arXiv 2023.1) , [[Paper]](), [[Code]]()
 
+- (arXiv 2023.1) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.1) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.1) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.1) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.1) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.1) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.1) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.1) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.1) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.1) , [[Paper]](), [[Code]]()
+
 - (arXiv 2023.1) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.1) Towards Robust **Video Instance Segmentation** with Temporal-Aware Transformer, [[Paper]](https://arxiv.org/pdf/2301.09416.pdf)
+
+- (arXiv 2023.1) Learning **Open-vocabulary Semantic Segmentation** Models From Natural Language Supervision, [[Paper]](https://arxiv.org/pdf/2301.09121.pdf), [[Project]](https://jazzcharles.github.io/OVSegmentor/)
+
+- (arXiv 2023.1) Summarize the Past to Predict the Future: Natural Language Descriptions of Context Boost Multimodal Object **Interaction Anticipation**, [[Paper]](https://arxiv.org/pdf/2301.09209.pdf), [[Code]](https://eth-ait.github.io/transfusion-proj/)
+
+- (arXiv 2023.1) Combined Use of Federated Learning and Image Encryption for **Privacy**-Preserving **Image Classification** with Vision Transformer, [[Paper]](https://arxiv.org/pdf/2301.09255.pdf)
+
+- (arXiv 2023.1) Slice Transformer and Self-supervised Learning for **6DoF Localization** in 3D Point Cloud Maps, [[Paper]](https://arxiv.org/pdf/2301.08957.pdf)
+
+- (arXiv 2023.1) IMPROVING ACCURACY OF **ZERO-SHOT ACTION RECOGNITION** WITH HANDCRAFTED FEATURES, [[Paper]](https://arxiv.org/pdf/2301.08874.pdf)
+
+- (arXiv 2023.1) Learning to View: Decision Transformers for **Active Object Detection**, [[Paper]](https://arxiv.org/pdf/2301.09544.pdf)
+
+- (arXiv 2023.1) Visual Semantic Relatedness Dataset for Image **Captioning**, [[Paper]](https://arxiv.org/pdf/2301.08784.pdf), [[Code]](https://github.com/ahmedssabir/Textual-Visual-Semantic-Dataset)
+
+- (arXiv 2023.1) VERSATILE NEURAL PROCESSES FOR LEARNING **IMPLICIT NEURAL REPRESENTATIONS**, [[Paper]](https://arxiv.org/pdf/2301.08883.pdf), [[Code]](https://github.com/ZongyuGuo/Versatile-NP)
+
+- (arXiv 2023.1) RangeViT: Towards Vision Transformers for **3D Semantic Segmentation** in Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2301.10222.pdf), [[Code]](https://github.com/valeoai/rangevit)
+
+- (arXiv 2023.1) Exploiting Optical Flow Guidance for Transformer-Based **Video Inpainting**, [[Paper]](https://arxiv.org/pdf/2301.10048.pdf)
+
+- (arXiv 2023.1) Image **Super-Resolution** using Efficient Striped Window Transformer, [[Paper]](https://arxiv.org/pdf/2301.09869.pdf), [[Code]](https://github.com/Fried-Rice-Lab/FriedRiceLab)
+
+- (arXiv 2023.1) **Out of Distribution** Performance of State of Art Vision Model, [[Paper]](https://arxiv.org/pdf/2301.10750.pdf), [[Code]](https://github.com/salman-lui/vision_course_project)
+
+- (arXiv 2023.1) Compact Transformer **Tracker** with Correlative Masked Modeling, [[Paper]](https://arxiv.org/pdf/2301.10938.pdf), [[Code]](https://github.com/HUSTDML/CTTrack)
+
+- (arXiv 2023.1) **Vision-Language** Models Performing Zero-Shot Tasks Exhibit **Gender**-based **Disparities**, [[Paper]](https://arxiv.org/pdf/2301.11100.pdf)
+
+- (arXiv 2023.1) Cut and Learn for **Unsupervised** Object **Detection** and Instance **Segmentation**, [[Paper]](https://arxiv.org/pdf/2301.11320.pdf), [[Code]](https://github.com/facebookresearch/CutLER)
+
+- (arXiv 2023.1) Explaining Visual **Biases** as Words by Generating Captions, [[Paper]](https://arxiv.org/pdf/2301.11104.pdf), [[Code]](https://github.com/alinlab/b2t)
+
+- (arXiv 2023.1) Revisiting **Temporal Modeling** for **CLIP**-based Image-to-Video Knowledge Transferring, [[Paper]](https://arxiv.org/pdf/2301.11116.pdf), [[Code]](https://github.com/farewellthree/STAN)
 
 - (arXiv 2023.1) **Multi-video Moment Ranking** with Multimodal Clue, [[Paper]](https://arxiv.org/pdf/2301.13606.pdf)
 
