@@ -65,7 +65,9 @@ Keep updated.
 
 - (arXiv 2023.2) A Survey on **Efficient Training** of Transformers, [[Paper]](https://arxiv.org/pdf/2302.01107.pdf)
 
-- (arXiv 2023.1) ChatGPT is not all you need. A State of the Art Review of large Generative AI models, [[Paper]](https://arxiv.org/pdf/2301.04655.pdf)
+- (arXiv 2023.1) ChatGPT is not all you need. A State of the Art Review of **large Generative AI models**, [[Paper]](https://arxiv.org/pdf/2301.04655.pdf)
+
+- (arXiv 2022.12) Transformers in **Action Recognition**: A Review on Temporal Modeling, [[Paper]](https://arxiv.org/pdf/2302.01921.pdf)
 
 - (arXiv 2022.11) Vision Transformers in **Medical Imaging**: A Review, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2211/2211.10043.pdf)
 
@@ -157,21 +159,21 @@ Keep updated.
 
 - (arXiv 2023.2) , [[Paper]](), [[Code]]()
 
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
 - (arXiv 2023.2) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.2) Learning a **Fourier Transform** for Linear Relative **Positional Encodings** in Transformers, [[Paper]](https://arxiv.org/pdf/2302.01925.pdf)
+
+- (arXiv 2023.2) EXPLICIT BOX DETECTION UNIFIES END-TO-END **MULTI-PERSON POSE ESTIMATION**, [[Paper]](http://my.sjtu.edu.cn/Task), [[Code]](https://github.com/IDEA-Research/ED-Pose)
+
+- (arXiv 2023.2) CFFT-GAN: Cross-domain Feature Fusion Transformer for Exemplar-based **Image Translation**, [[Paper]](https://arxiv.org/pdf/2302.01608.pdf)
+
+- (arXiv 2023.2) DEVICE: DEpth and VIsual ConcEpts Aware Transformer for **TextCaps**, [[Paper]](https://arxiv.org/pdf/2302.01540.pdf)
+
+- (arXiv 2023.2) CVTNet: A Cross-View Transformer Network for **Place Recognition** Using **LiDAR** Data, [[Paper]](https://arxiv.org/pdf/2302.01665.pdf), [[Code]](https://github.com/BIT-MJY/CVTNet)
+
+- (arXiv 2023.2) DilateFormer: **Multi-Scale Dilated** Transformer for Visual Recognition, [[Paper]](https://arxiv.org/pdf/2302.01791.pdf), [[Code]](https://github.com/JIAOJIAYUASD/dilateformer)
+
+- (arXiv 2023.2) HDFormer: High-order Directed Transformer for **3D Human Pose Estimation**, [[Paper]](https://arxiv.org/pdf/2302.01825.pdf), [[Code]](https://github.com/hyer/HDFormer)
 
 - (arXiv 2023.2) IC^3: Image Captioning by Committee Consensus, [[Paper]](https://arxiv.org/pdf/2302.01328.pdf), [[Code]](https://github.com/DavidMChan/caption-by-committee)
 
