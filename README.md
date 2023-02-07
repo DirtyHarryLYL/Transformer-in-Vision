@@ -63,6 +63,8 @@ Keep updated.
 
 ## Survey
 
+- (arXiv 2023.2) **Knowledge Distillation** in Vision Transformers: A Critical Review, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2302/2302.02108.pdf)
+
 - (arXiv 2023.2) A Survey on **Efficient Training** of Transformers, [[Paper]](https://arxiv.org/pdf/2302.01107.pdf)
 
 - (arXiv 2023.1) ChatGPT is not all you need. A State of the Art Review of **large Generative AI models**, [[Paper]](https://arxiv.org/pdf/2301.04655.pdf)
@@ -151,15 +153,45 @@ Keep updated.
 
 - (arXiv 2023.2) , [[Paper]](), [[Code]]()
 
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
 - (arXiv 2023.2) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.2) LAMPP: **Language Models** as Probabilistic Priors for **Perception** and **Action**, [[Paper]](https://arxiv.org/pdf/2302.02801.pdf)
+
+- (arXiv 2023.2) Zero-Shot **Robot Manipulation** from Passive Human Videos, [[Paper]](https://arxiv.org/pdf/2302.02011.pdf), [[Project]](https://sites.google.com/view/human-0shot-robot)
+
+- (arXiv 2023.2) MixFormer: End-to-End **Tracking** with Iterative Mixed Attention, [[Paper]](https://arxiv.org/pdf/2302.02814.pdf), [[Code]](https://github.com/MCG-NJU/MixFormer)
+
+- (arXiv 2023.2) LexLIP: Lexicon-Bottlenecked Language-Image Pre-Training for Large-Scale **Image-Text Retrieval**, [[Paper]](https://arxiv.org/pdf/2302.02908.pdf)
+
+- (arXiv 2023.2) V1T: large-scale **mouse V1 response prediction** using a Vision Transformer, [[Paper]](https://arxiv.org/pdf/2302.03023.pdf)
+
+- (arXiv 2023.2) AIM: ADAPTING **IMAGE MODELS** FOR EFFICIENT **VIDEO ACTION RECOGNITION**, [[Paper]](https://arxiv.org/pdf/2302.03024.pdf), [[Project]](https://adapt-image-models.github.io/)
+
+- (arXiv 2023.2) KDEformer: **Accelerating** Transformers via Kernel Density Estimation, [[Paper]](https://arxiv.org/pdf/2302.02451.pdf), [[Code]](https://github.com/majid-daliri/kdeformer)
+
+- (arXiv 2023.2) Semantic-Guided **Image Augmentation** with Pre-trained Models, [[Paper]](https://arxiv.org/pdf/2302.02070.pdf)
+
+- (arXiv 2023.2) X-ReID: Cross-Instance Transformer for Identity-Level **Person Re-Identification**, [[Paper]](https://arxiv.org/pdf/2302.02075.pdf)
+
+- (arXiv 2023.2) MOMA: **Distill** from Self-Supervised Teachers, [[Paper]](https://arxiv.org/pdf/2302.02089.pdf)
+
+- (arXiv 2023.2) Learning to Agree on Vision Attention for **Visual Commonsense Reasoning**, [[Paper]](https://arxiv.org/pdf/2302.02117.pdf)
+
+- (arXiv 2023.2) Efficient End-to-End **Video Question Answering** with Pyramidal Multimodal Transformer, [[Paper]](https://arxiv.org/pdf/2302.02136.pdf), [[Code]](https://github.com/Trunpm/PMT-AAAI23)
+
+- (arXiv 2023.2) LipFormer: Learning to **Lipread** Unseen Speakers based on Visual-Landmark Transformers, [[Paper]](https://arxiv.org/pdf/2302.02141.pdf)
+
+- (arXiv 2023.2) Oscillation-free **Quantization** for Low-bit Vision Transformers, [[Paper]](https://arxiv.org/pdf/2302.02210.pdf)
+
+- (arXiv 2023.2) Design Booster: A Text-Guided Diffusion Model for **Image Translation** with Spatial Layout Preservation, [[Paper]](https://arxiv.org/pdf/2302.02284.pdf)
+
+- (arXiv 2023.2) Contrast with Reconstruct: **Contrastive** **3D** Representation Learning Guided by Generative Pretraining, [[Paper]](https://arxiv.org/pdf/2302.02318.pdf), [[Code]](https://github.com/qizekun/ReCon)
+
+- (arXiv 2023.2) Leaving Reality to Imagination: **Robust** **Classification** via **Generated** Datasets, [[Paper]](https://arxiv.org/pdf/2302.02503.pdf), [[Code]](https://github.com/Hritikbansal/generative-robustness)
+
+- (arXiv 2023.2) CHiLS: Zero-Shot Image **Classification** with **Hierarchical** Label Sets, [[Paper]](https://arxiv.org/pdf/2302.02551.pdf), [[Code]](https://github.com/acmi-lab/CHILS)
+
+- (arXiv 2023.2) Zero-shot **Image-to-Image** Translation, [[Paper]](https://arxiv.org/pdf/2302.03027.pdf), [[Project]](https://pix2pixzero.github.io/)
 
 - (arXiv 2023.2) Learning a **Fourier Transform** for Linear Relative **Positional Encodings** in Transformers, [[Paper]](https://arxiv.org/pdf/2302.01925.pdf)
 
