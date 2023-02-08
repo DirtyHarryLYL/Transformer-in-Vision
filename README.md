@@ -153,7 +153,43 @@ Keep updated.
 
 - (arXiv 2023.2) , [[Paper]](), [[Code]]()
 
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
 - (arXiv 2023.2) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.2) OSRT: Omnidirectional **Image Super-Resolution** with Distortion-aware Transformer, [[Paper]](https://arxiv.org/pdf/2302.03453.pdf)
+
+- (arXiv 2023.2) Pic2Word: Mapping Pictures to Words for Zero-shot **Composed** **Image Retrieval**, [[Paper]](https://arxiv.org/pdf/2302.03084.pdf), [[Code]](https://github.com/google-research/composed_image_retrieval)
+
+- (arXiv 2023.2) SimCon Loss with Multiple Views for Text Supervised **Semantic Segmentation**, [[Paper]](https://arxiv.org/pdf/2302.03432.pdf)
+
+- (arXiv 2023.2) PhysFormer++: **Facial** Video-based **Physiological Measurement** with SlowFast Temporal Difference Transformer, [[Paper]](https://arxiv.org/pdf/2302.03548.pdf)
+
+- (arXiv 2023.2) Scaling **Self-Supervised** End-to-End **Driving** with Multi-View Attention Learning, [[Paper]](https://arxiv.org/pdf/2302.03198.pdf)
+
+- (arXiv 2023.2) HumanMAC: Masked Motion Completion for **Human Motion Prediction**, [[Paper]](https://arxiv.org/pdf/2302.03665.pdf), [[Project]](https://lhchen.top/Human-MAC/)
 
 - (arXiv 2023.2) LAMPP: **Language Models** as Probabilistic Priors for **Perception** and **Action**, [[Paper]](https://arxiv.org/pdf/2302.02801.pdf)
 
