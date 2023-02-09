@@ -167,17 +167,17 @@ Keep updated.
 
 - (arXiv 2023.2) , [[Paper]](), [[Code]]()
 
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
 - (arXiv 2023.2) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.2) **Adversarial Prompting** for Black Box Foundation Models, [[Paper]](https://arxiv.org/pdf/2302.04237.pdf)
+
+- (arXiv 2023.2) Understanding Why ViT **Trains** Badly on **Small Datasets**: An Intuitive Perspective, [[Paper]](https://arxiv.org/pdf/2302.03751.pdf), [[Code]](https://github.com/BoyuanJackChen/MiniProject2_VisTrans)
+
+- (arXiv 2023.2) CROSS-LAYER RETROSPECTIVE RETRIEVING VIA LAYER **ATTENTION**, [[Paper]](https://arxiv.org/pdf/2302.03985.pdf), [[Code]](https://github.com/joyfang1106/MRLA)
+
+- (arXiv 2023.2) Convolutional Neural Networks Trained to **Identify Words** Provide a Good Account of Visual Form Priming Effects, [[Paper]](https://arxiv.org/pdf/2302.03992.pdf)
+
+- (arXiv 2023.2) Zero-shot **Generation** of Coherent **Storybook** from Plain Text Story using Diffusion Models, [[Paper]](https://arxiv.org/pdf/2302.03900.pdf)
 
 - (arXiv 2023.2) OSRT: Omnidirectional **Image Super-Resolution** with Distortion-aware Transformer, [[Paper]](https://arxiv.org/pdf/2302.03453.pdf)
 
