@@ -167,7 +167,31 @@ Keep updated.
 
 - (arXiv 2023.2) , [[Paper]](), [[Code]]()
 
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
 - (arXiv 2023.2) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.2) Neural Congealing: **Aligning Images** to a Joint **Semantic Atlas**, [[Paper]](https://arxiv.org/pdf/2302.03956.pdf), [[Project]](https://neural-congealing.github.io/)
 
 - (arXiv 2023.2) **Adversarial Prompting** for Black Box Foundation Models, [[Paper]](https://arxiv.org/pdf/2302.04237.pdf)
 
