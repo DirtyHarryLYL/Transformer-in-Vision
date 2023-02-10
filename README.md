@@ -315,15 +315,15 @@ Keep updated.
 
 - (arXiv 2023.1) , [[Paper]](), [[Code]]()
 
-- (arXiv 2023.1) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.1) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.1) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.1) , [[Paper]](), [[Code]]()
-
 - (arXiv 2023.1) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.1) MULTI-TARGET MULTI-CAMERA **VEHICLE TRACKING** USING TRANSFORMER-BASED CAMERA LINK MODEL AND SPATIAL-TEMPORAL INFORMATION, [[Paper]](https://arxiv.org/pdf/2301.07805.pdf)
+
+- (arXiv 2023.1) ATMAN: **Understanding** Transformer Predictions Through Memory Efficient **Attention** Manipulation, [[Paper]](https://arxiv.org/pdf/2301.08110.pdf)
+
+- (arXiv 2023.1) DDS: Decoupled Dynamic **Scene-Graph Generation** Network, [[Paper]](https://arxiv.org/pdf/2301.07666.pdf), [[Code]]()
+
+- (arXiv 2023.1) Visual Writing Prompts: Character-Grounded **Story Generation** with Curated Image Sequences, [[Paper]](https://arxiv.org/pdf/2301.08571.pdf)
 
 - (arXiv 2023.1) **Image Memorability Prediction** with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2301.08647.pdf)
 
