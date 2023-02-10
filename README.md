@@ -177,19 +177,19 @@ Keep updated.
 
 - (arXiv 2023.2) , [[Paper]](), [[Code]]()
 
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
 - (arXiv 2023.2) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.2) Adapting **Pre-trained** Vision Transformers from **2D to 3D** through Weight Inflation Improves Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2302.04303.pdf), [[Code]](https://github.com/yuhui-zh15/TransSeg)
+
+- (arXiv 2023.2) Mitigating **Bias** in Visual Transformers via Targeted Alignment, [[Paper]](https://arxiv.org/pdf/2302.04358.pdf)
+
+- (arXiv 2023.2) IH-ViT: Vision Transformer-based **Integrated Circuit Appearance Defect Detection**, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2302/2302.04521.pdf)
+
+- (arXiv 2023.2) Re-ViLM: Retrieval-Augmented Visual Language Model for Zero and Few-Shot Image **Captioning**, [[Paper]](https://arxiv.org/pdf/2302.04858.pdf)
+
+- (arXiv 2023.2) Learning by Asking for **Embodied** Visual **Navigation** and **Task Completion**, [[Paper]](https://arxiv.org/pdf/2302.04865.pdf)
+
+- (arXiv 2023.2) **Reversible** Vision Transformers, [[Paper]](https://arxiv.org/pdf/2302.04869.pdf), [[Code1]](https://github.com/facebookresearch/slowfast), [[Code2]](https://github.com/karttikeya/minREV)
 
 - (arXiv 2023.2) Neural Congealing: **Aligning Images** to a Joint **Semantic Atlas**, [[Paper]](https://arxiv.org/pdf/2302.03956.pdf), [[Project]](https://neural-congealing.github.io/)
 
@@ -323,17 +323,17 @@ Keep updated.
 
 - (arXiv 2023.1) , [[Paper]](), [[Code]]()
 
-- (arXiv 2023.1) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.1) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.1) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.1) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.1) , [[Paper]](), [[Code]]()
-
 - (arXiv 2023.1) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.1) **Image Memorability Prediction** with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2301.08647.pdf)
+
+- (arXiv 2023.1) HOLISTICALLY **EXPLAINABLE** VISION TRANSFORMERS, [[Paper]](https://arxiv.org/pdf/2301.08669.pdf)
+
+- (arXiv 2023.1) FlatFormer: Flattened Window Attention for **Efficient** **Point Cloud** Transformer, [[Paper]](https://arxiv.org/pdf/2301.08739.pdf)
+
+- (arXiv 2023.1) LEGO-Net: Learning Regular **Rearrangements** of **Objects** in Rooms, [[Paper]](https://arxiv.org/pdf/2301.09629.pdf), [[Project]](https://ivl.cs.brown.edu/projects/lego-net)
+
+- (arXiv 2023.1) Zorro: the masked **multimodal** transformer, [[Paper]](https://arxiv.org/pdf/2301.09595.pdf)
 
 - (arXiv 2023.1) Towards Robust **Video Instance Segmentation** with Temporal-Aware Transformer, [[Paper]](https://arxiv.org/pdf/2301.09416.pdf)
 
