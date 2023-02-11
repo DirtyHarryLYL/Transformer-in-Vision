@@ -323,7 +323,39 @@ Keep updated.
 
 - (arXiv 2023.1) , [[Paper]](), [[Code]]()
 
+- (arXiv 2023.1) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.1) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.1) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.1) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.1) , [[Paper]](), [[Code]]()
+
 - (arXiv 2023.1) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.1) UATVR: Uncertainty-Adaptive **Text-Video Retrieval**, [[Paper]](https://arxiv.org/pdf/2301.06309.pdf)
+
+- (arXiv 2023.1) Learning Aligned Cross-modal Representations for **Referring Image Segmentation**, [[Paper]](https://arxiv.org/pdf/2301.06429.pdf)
+
+- (arXiv 2023.1) T2M-GPT: **Generating** Human **Motion** from Textual Descriptions with Discrete Representations, [[Paper]](https://arxiv.org/pdf/2301.06052.pdf), [[Project]](https://mael-zys.github.io/T2M-GPT/)
+
+- (arXiv 2023.1) DSVT: Dynamic **Sparse Voxel** Transformer with Rotated Sets, [[Paper]](https://arxiv.org/pdf/2301.06051.pdf), [[Code]](https://github.com/Haiyang-W/DSVT)
+
+- (arXiv 2023.1) CMAE-V: Contrastive Masked Autoencoders for **Video Action Recognition**, [[Paper]](https://arxiv.org/pdf/2301.06018.pdf)
+
+- (arXiv 2023.1) Generating Templated Caption for **Video Grounding**, [[Paper]](https://arxiv.org/pdf/2301.05997.pdf)
+
+- (arXiv 2023.1) Dyna-DepthFormer: Multi-frame Transformer for Self-Supervised **Depth Estimation** in Dynamic Scenes, [[Paper]](https://arxiv.org/pdf/2301.05871.pdf)
+
+- (arXiv 2023.1) SwinDepth: Unsupervised **Depth Estimation** using Monocular Sequences via Swin Transformer and Densely Cascaded Network, [[Paper]](https://arxiv.org/pdf/2301.06715.pdf)
+
+- (arXiv 2023.1) **CLIP**TER: Looking at the Bigger Picture in **Scene Text Recognition**, [[Paper]](https://arxiv.org/pdf/2301.07464.pdf)
+
+- (arXiv 2023.1) Temporal Perceiving **Video-Language** Pre-training, [[Paper]](https://arxiv.org/pdf/2301.07463.pdf)
+
+- (arXiv 2023.1) Joint Representation Learning for **Text** and 3D **Point Cloud**, [[Paper]](https://arxiv.org/pdf/2301.07584.pdf), [[Code]](https://github.com/LeapLabTHU/Text4Point)
 
 - (arXiv 2023.1) Effective End-to-End **Vision Language** Pretraining with Semantic Visual Loss, [[Paper]](https://arxiv.org/pdf/2301.07236.pdf)
 
