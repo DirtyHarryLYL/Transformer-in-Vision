@@ -315,7 +315,35 @@ Keep updated.
 
 - (arXiv 2023.1) , [[Paper]](), [[Code]]()
 
+- (arXiv 2023.1) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.1) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.1) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.1) , [[Paper]](), [[Code]]()
+
 - (arXiv 2023.1) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.1) Effective End-to-End **Vision Language** Pretraining with Semantic Visual Loss, [[Paper]](https://arxiv.org/pdf/2301.07236.pdf)
+
+- (arXiv 2023.1) PTA-Det: Point Transformer Associating Point cloud and Image for **3D Object Detection**, [[Paper]](https://arxiv.org/pdf/2301.07301.pdf)
+
+- (arXiv 2023.1) **Face Recognition** in the age of CLIP & Billion image datasets, [[Paper]](https://arxiv.org/pdf/2301.07315.pdf)
+
+- (arXiv 2023.1) HSTFormer: Hierarchical Spatial-Temporal Transformers for **3D Human Pose Estimation**, [[Paper]](https://arxiv.org/pdf/2301.07322.pdf), [[Code]](https://github.com/qianxiaoye825/HSTFormer)
+
+- (arXiv 2023.1) Towards Models that Can **See** and **Read**, [[Paper]](https://arxiv.org/pdf/2301.07389.pdf)
+
+- (arXiv 2023.1) **Embodied** Agents for Efficient Exploration and Smart Scene Description, [[Paper]](https://arxiv.org/pdf/2301.07150.pdf)
+
+- (arXiv 2023.1) **Self-Supervised Learning** from Images with a Joint-Embedding Predictive Architecture, [[Paper]](https://arxiv.org/pdf/2301.08243.pdf)
+
+- (arXiv 2023.1) Revisiting the Spatial and Temporal Modeling for **Few-shot Action Recognition**, [[Paper]](https://arxiv.org/pdf/2301.07944.pdf)
+
+- (arXiv 2023.1) Multimodal Video Adapter for Parameter Efficient **Video Text Retrieval**, [[Paper]](https://arxiv.org/pdf/2301.07868.pdf)
+
+- (arXiv 2023.1) **Self Supervision** Does Not Help Natural Language Supervision at Scale, [[Paper]](https://arxiv.org/pdf/2301.07836.pdf)
 
 - (arXiv 2023.1) MULTI-TARGET MULTI-CAMERA **VEHICLE TRACKING** USING TRANSFORMER-BASED CAMERA LINK MODEL AND SPATIAL-TEMPORAL INFORMATION, [[Paper]](https://arxiv.org/pdf/2301.07805.pdf)
 
