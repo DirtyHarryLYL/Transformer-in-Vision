@@ -325,7 +325,47 @@ Keep updated.
 
 - (arXiv 2023.1) , [[Paper]](), [[Code]]()
 
+- (arXiv 2023.1) , [[Paper]](), [[Code]]()
+
 - (arXiv 2023.1) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.1) **EXIF** as Language: Learning Cross-Modal Associations Between **Images and Camera Metadata**, [[Paper]](https://arxiv.org/pdf/2301.04647.pdf), [[Project]](https://hellomuffin.github.io/exif-as-language)
+
+- (arXiv 2023.1) Head-Free Lightweight **Semantic Segmentation** with Linear Transformer, [[Paper]](https://arxiv.org/pdf/2301.04648.pdf), [[Code]](https://github.com/dongbo811/AFFormer)
+
+- (arXiv 2023.1) Geometry-biased Transformers for **Novel View Synthesis**, [[Paper]](https://arxiv.org/pdf/2301.04650.pdf), [[Project]](https://mayankgrwl97.github.io/gbt)
+
+- (arXiv 2023.1) **Continual** **Few-Shot** Learning Using HyperTransformers, [[Paper]](https://arxiv.org/pdf/2301.04584.pdf)
+
+- (arXiv 2023.1) SEMPPL: PREDICTING **PSEUDO-LABELS** FOR BETTER **CONTRASTIVE** REPRESENTATIONS, [[Paper]](https://arxiv.org/pdf/2301.05158.pdf)
+
+- (arXiv 2023.1) Learning to **Summarize Videos** by Contrasting Clips, [[Paper]](https://arxiv.org/pdf/2301.05213.pdf)
+
+- (arXiv 2023.1) Guiding **Text-to-Image** **Diffusion** Model Towards Grounded Generation, [[Paper]](https://arxiv.org/pdf/2301.05221.pdf), [[Project]](https://lipurple.github.io/Grounded_Diffusion/)
+
+- (arXiv 2023.1) Domain Expansion of **Image Generators**, [[Paper]](https://arxiv.org/pdf/2301.05225.pdf), [[Code]](https://yotamnitzan.github.io/domain-expansion/)
+
+- (arXiv 2023.1) Scene-centric vs. Object-centric Image-Text **Cross-modal Retrieval**: A Reproducibility Study, [[Paper]](https://arxiv.org/pdf/2301.05174.pdf)
+
+- (arXiv 2023.1) Tracr: Compiled Transformers as a Laboratory for **Interpretability**, [[Paper]](https://arxiv.org/pdf/2301.05062.pdf), [[Code]](https://github.com/deepmind/tracr)
+
+- (arXiv 2023.1) **CLIP** the Gap: A Single **Domain Generalization** Approach for Object **Detection**, [[Paper]](https://arxiv.org/pdf/2301.05499.pdf)
+
+- (arXiv 2023.1) **Text to Point Cloud Localization** with Relation-Enhanced Transformer, [[Paper]](https://arxiv.org/pdf/2301.05372.pdf)
+
+- (arXiv 2023.1) GOHSP: A Unified Framework of Graph and Optimization-based Heterogeneous Structured **Pruning** for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2301.05345.pdf)
+
+- (arXiv 2023.1) Toward Building General Foundation Models for Language, Vision, and **Vision-Language** Understanding Tasks, [[Paper]](https://arxiv.org/pdf/2301.05065.pdf)
+
+- (arXiv 2023.1) ViTs for SITS: Vision Transformers for **Satellite Image Time Series**, [[Paper]](https://arxiv.org/pdf/2301.04944.pdf), [[Code]](https://github.com/michaeltrs/DeepSatModels)
+
+- (arXiv 2023.1) CLIP2Scene: Towards Label-efficient **3D Scene Understanding** by **CLIP**, [[Paper]](https://arxiv.org/pdf/2301.04926.pdf)
+
+- (arXiv 2023.1) A Large-Scale Outdoor Multi-modal **Dataset** and Benchmark for **Novel View Synthesis** and Implicit **Scene Reconstruction**, [[Paper]](https://arxiv.org/pdf/2301.06782.pdf), [[Project]](https://ommo.luchongshan.com/)
+
+- (arXiv 2023.1) USER: Unified Semantic Enhancement with Momentum Contrast for **Image-Text Retrieval**, [[Paper]](https://arxiv.org/pdf/2301.06844.pdf), [[Code]](https://github.com/zhangy0822/USER)
+
+- (arXiv 2023.1) SAT: Size-Aware Transformer for 3D **Point Cloud Semantic Segmentation**, [[Paper]](https://arxiv.org/pdf/2301.06869.pdf)
 
 - (arXiv 2023.1) **Masked** **Visual** Reconstruction in **Language** Semantic Space, [[Paper]](https://arxiv.org/pdf/2301.06958.pdf), [[Code]](https://github.com/hustvl/RILS)
 
