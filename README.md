@@ -325,15 +325,15 @@ Keep updated.
 
 - (arXiv 2023.1) , [[Paper]](), [[Code]]()
 
-- (arXiv 2023.1) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.1) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.1) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.1) , [[Paper]](), [[Code]]()
-
 - (arXiv 2023.1) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.1) **Masked** **Visual** Reconstruction in **Language** Semantic Space, [[Paper]](https://arxiv.org/pdf/2301.06958.pdf), [[Code]](https://github.com/hustvl/RILS)
+
+- (arXiv 2023.1) Vision Learners Meet Web **Image-Text** Pairs, [[Paper]](https://arxiv.org/pdf/2301.07088.pdf), [[Code]](https://huggingface.co/spaces/tennant/MUG_caption)
+
+- (arXiv 2023.1) GLIGEN: Open-Set Grounded **Text-to-Image** Generation, [[Paper]](https://arxiv.org/pdf/2301.07093.pdf), [[Project]](https://gligen.github.io/)
+
+- (arXiv 2023.1) **Learning** Customized Visual Models with **Retrieval**-Augmented **Knowledge**, [[Paper]](https://arxiv.org/pdf/2301.07094.pdf), [[Project]](https://react-vl.github.io/)
 
 - (arXiv 2023.1) UATVR: Uncertainty-Adaptive **Text-Video Retrieval**, [[Paper]](https://arxiv.org/pdf/2301.06309.pdf)
 
