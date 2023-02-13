@@ -169,15 +169,15 @@ Keep updated.
 
 - (arXiv 2023.2) , [[Paper]](), [[Code]]()
 
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
 - (arXiv 2023.2) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.2) Invariant **Slot Attention**: **Object Discovery** with Slot-Centric Reference Frames, [[Paper]](https://arxiv.org/pdf/2302.04973.pdf)
+
+- (arXiv 2023.2) IS MULTI-MODAL **VISION** SUPERVISION **BENEFICIAL** TO **LANGUAGE**? [[Paper]](https://arxiv.org/pdf/2302.05016.pdf)
+
+- (arXiv 2023.2) Data-Driven **Stochastic Motion Evaluation** and **Optimization** with Image by Spatially-Aligned Temporal Encoding, [[Paper]](https://arxiv.org/pdf/2302.05041.pdf)
+
+- (arXiv 2023.2) **Scaling** Vision Transformers to **22 Billion Parameters**, [[Paper]](https://arxiv.org/pdf/2302.05442.pdf)
 
 - (arXiv 2023.2) Adapting **Pre-trained** Vision Transformers from **2D to 3D** through Weight Inflation Improves Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2302.04303.pdf), [[Code]](https://github.com/yuhui-zh15/TransSeg)
 
