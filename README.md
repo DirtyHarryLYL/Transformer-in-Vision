@@ -325,9 +325,9 @@ Keep updated.
 
 - (arXiv 2023.1) , [[Paper]](), [[Code]]()
 
-- (arXiv 2023.1) , [[Paper]](), [[Code]]()
-
 - (arXiv 2023.1) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.1) AdaPoinTr: Diverse **Point Cloud Completion** with Adaptive Geometry-Aware Transformers, [[Paper]](https://arxiv.org/pdf/2301.04545.pdf), [[Code]](https://github.com/yuxumin/PoinTr)
 
 - (arXiv 2023.1) **EXIF** as Language: Learning Cross-Modal Associations Between **Images and Camera Metadata**, [[Paper]](https://arxiv.org/pdf/2301.04647.pdf), [[Project]](https://hellomuffin.github.io/exif-as-language)
 
