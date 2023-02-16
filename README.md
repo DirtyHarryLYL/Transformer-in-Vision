@@ -171,6 +171,42 @@ Keep updated.
 
 - (arXiv 2023.2) , [[Paper]](), [[Code]]() -->
 
+- (arXiv 2023.2) VQ3D: Learning a **3D**-Aware **Generative** Model on ImageNet, [[Paper]](https://arxiv.org/pdf/2302.06833.pdf), [[Project]](https://kylesargent.github.io/vq3d)
+
+- (arXiv 2023.2) UKnow: A Unified Knowledge Protocol for **Common-Sense Reasoning** and **Vision-Language** Pre-training, [[Paper]](https://arxiv.org/pdf/2302.06891.pdf), [[Code]](https://github.com/Gongggg/UKnow)
+
+- (arXiv 2023.2) A **THEORETICAL** UNDERSTANDING OF **SHALLOW** VISION TRANSFORMERS: LEARNING, GENERALIZATION, AND SAMPLE COMPLEXITY, [[Paper]](https://arxiv.org/pdf/2302.06015.pdf)
+
+- (arXiv 2023.2) A Simple Zero-shot Prompt Weighting Technique to Improve **Prompt** Ensembling in **Text-Image** Models, [[Paper]](https://arxiv.org/pdf/2302.06235.pdf)
+
+- (arXiv 2023.2) Generalized Few-Shot **Continual Learning** with Contrastive Mixture of Adapters, [[Paper]](https://arxiv.org/pdf/2302.05936.pdf), [[Code]](https://github.com/yawencui/CMoA)
+
+- (arXiv 2023.2) Actional Atomic-Concept Learning for Demystifying **Vision-Language Navigation**, [[Paper]](https://arxiv.org/pdf/2302.06072.pdf)
+
+- (arXiv 2023.2) Towards Local Visual Modeling for Image **Captioning**, [[Paper]](https://arxiv.org/pdf/2302.06098.pdf), [[Code]](https://github.com/xmu-xiaoma666/LSTNet)
+
+- (arXiv 2023.2) CLIP-RR: IMPROVED CLIP NETWORK FOR RELATION-FOCUSED **CROSS-MODAL INFORMATION RETRIEVAL**, [[Paper]](https://arxiv.org/pdf/2302.06350.pdf)
+
+- (arXiv 2023.2) **Anticipating** Next Active Objects for **Egocentric Videos**, [[Paper]](https://arxiv.org/pdf/2302.06358.pdf), [[Code]]()
+
+- (arXiv 2023.2) UniAdapter: Unified Parameter-Efficient Transfer Learning for **Cross-modal Modeling**, [[Paper]](https://arxiv.org/pdf/2302.06605.pdf), [[Code]](https://github.com/RERV/UniAdapter)
+
+- (arXiv 2023.2) TEAM **DETR**: GUIDE QUERIES AS A PROFESSIONAL TEAM IN DETECTION TRANSFORMERS, [[Paper]](https://arxiv.org/pdf/2302.07116.pdf), [[Code]](https://github.com/horrible-dong/TeamDETR)
+
+- (arXiv 2023.2) ConceptFusion: Open-set **Multimodal** **3D Mapping**, [[Paper]](https://arxiv.org/pdf/2302.07241.pdf), [[Project]](https://concept-fusion.github.io/)
+
+- (arXiv 2023.2) Team Triple-Check at Factify 2: Parameter-Efficient Large Foundation Models with Feature Representations for **Multi-Modal Fact Verification**, [[Paper]](https://arxiv.org/pdf/2302.07740.pdf), [[Code]](https://github.com/wwweiwei/Pre-CoFactv2-AAAI-2023)
+
+- (arXiv 2023.2) PolyFormer: Referring Image **Segmentation** as Sequential Polygon Generation, [[Paper]](https://arxiv.org/pdf/2302.07387.pdf)
+
+- (arXiv 2023.2) Pose-Oriented Transformer with Uncertainty-Guided Refinement for **2D-to-3D Human Pose Estimation**, [[Paper]](https://arxiv.org/pdf/2302.07408.pdf)
+
+- (arXiv 2023.2) TFormer: A Transmission-Friendly ViT Model for **IoT** Devices, [[Paper]](https://arxiv.org/pdf/2302.07734.pdf), [[Code]]()
+
+- (arXiv 2023.2) Tri-Perspective View for Vision-Based **3D Semantic Occupancy Prediction**, [[Paper]](https://arxiv.org/pdf/2302.07817.pdf), [[Code]](https://github.com/wzzheng/TPVFormer)
+
+- (arXiv 2023.2) Adding Conditional Control to **Text-to-Image Diffusion** Models, [[Paper]](https://arxiv.org/pdf/2302.05543.pdf), [[Code]](https://github.com/lllyasviel/ControlNet)
+
 - (arXiv 2023.2) Invariant **Slot Attention**: **Object Discovery** with Slot-Centric Reference Frames, [[Paper]](https://arxiv.org/pdf/2302.04973.pdf)
 
 - (arXiv 2023.2) IS MULTI-MODAL **VISION** SUPERVISION **BENEFICIAL** TO **LANGUAGE**? [[Paper]](https://arxiv.org/pdf/2302.05016.pdf)
