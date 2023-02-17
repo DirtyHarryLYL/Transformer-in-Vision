@@ -167,9 +167,9 @@ Keep updated.
 
 - (arXiv 2023.2) , [[Paper]](), [[Code]]()
 
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
 - (arXiv 2023.2) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.2) Robust Human **Motion Forecasting** using Transformer-based Model, [[Paper]](https://arxiv.org/pdf/2302.08274.pdf)
 
 - (arXiv 2023.2) VQ3D: Learning a **3D**-Aware **Generative** Model on ImageNet, [[Paper]](https://arxiv.org/pdf/2302.06833.pdf), [[Project]](https://kylesargent.github.io/vq3d)
 
