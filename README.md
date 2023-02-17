@@ -163,11 +163,11 @@ Keep updated.
 
 - (arXiv 2023.2) , [[Paper]](), [[Code]]()
 
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
 - (arXiv 2023.2) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.2) Efficient **3D Object Reconstruction** using Visual Transformers, [[Paper]](https://arxiv.org/pdf/2302.08474.pdf)
+
+- (arXiv 2023.2) Retrieval-augmented Image **Captioning**, [[Paper]](https://arxiv.org/pdf/2302.08268.pdf)
 
 - (arXiv 2023.2) Robust Human **Motion Forecasting** using Transformer-based Model, [[Paper]](https://arxiv.org/pdf/2302.08274.pdf)
 
