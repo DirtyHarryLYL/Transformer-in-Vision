@@ -161,9 +161,31 @@ Keep updated.
 
 - (arXiv 2023.2) , [[Paper]](), [[Code]]()
 
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
 - (arXiv 2023.2) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.2) **Video** Probabilistic **Diffusion** Models in Projected Latent Space, [[Paper]](https://arxiv.org/pdf/2302.07685.pdf)
+
+- (arXiv 2023.2) Dataset Interfaces: **Diagnosing Model Failures** Using Controllable Counterfactual Generation, [[Paper]](https://arxiv.org/pdf/2302.07865.pdf), [[Code]](https://github.com/MadryLab/dataset-interfaces)
+
+- (arXiv 2023.2) Learning to Substitute Ingredients in **Recipes**, [[Paper]](https://arxiv.org/pdf/2302.07960.pdf)
+
+- (arXiv 2023.2) **Energy** Transformer, [[Paper]](https://arxiv.org/pdf/2302.07253.pdf)
+
+- (arXiv 2023.2) Efficiency 360: **Efficient** Vision Transformers, [[Paper]](https://arxiv.org/pdf/2302.08374.pdf)
+
+- (arXiv 2023.2) A-la-carte **Prompt Tuning** (APT): Combining Distinct Data Via Composable ` Prompting, [[Paper]](https://arxiv.org/pdf/2302.07994.pdf)
+
+- (arXiv 2023.2) Effective Data **Augmentation** With **Diffusion** Models, [[Paper]](https://arxiv.org/pdf/2302.07944.pdf), [[Project]](https://btrabuc.co/da-fusion)
+
+- (arXiv 2023.2) PRedItOR: Text Guided **Image Editing** with Diffusion Prior, [[Paper]](https://arxiv.org/pdf/2302.07979.pdf)
+
+- (arXiv 2023.2) TcGAN: Semantic-Aware and Structure-Preserved GANs with Individual Vision Transformer for Fast Arbitrary **One-Shot Image Generation**, [[Paper]](https://arxiv.org/pdf/2302.08047.pdf)
+
+- (arXiv 2023.2) Hierarchical Cross-modal Transformer for **RGB-D Salient Object Detection**, [[Paper]](https://arxiv.org/pdf/2302.08052.pdf)
+
+- (arXiv 2023.2) MINOTAUR: Multi-task **Video Grounding** From Multimodal Queries, [[Paper]](https://arxiv.org/pdf/2302.08063.pdf)
+
+- (arXiv 2023.2) Towards **Efficient** Visual **Adaption** via Structural Re-parameterization, [[Paper]](https://arxiv.org/pdf/2302.08106.pdf), [[Code]](https://github.com/luogen1996/RepAdapter)
 
 - (arXiv 2023.2) Efficient **3D Object Reconstruction** using Visual Transformers, [[Paper]](https://arxiv.org/pdf/2302.08474.pdf)
 
