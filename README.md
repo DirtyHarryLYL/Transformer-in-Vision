@@ -161,7 +161,27 @@ Keep updated.
 
 - (arXiv 2023.2) , [[Paper]](), [[Code]]()
 
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
 - (arXiv 2023.2) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.2) MaskSketch: Unpaired Structure-guided Masked **Image Generation**, [[Paper]](https://arxiv.org/pdf/2302.05496.pdf)
+
+- (arXiv 2023.2) Single **Motion** **Diffusion**, [[Paper]](https://arxiv.org/pdf/2302.05905.pdf), [[Code]](https://sinmdm.github.io/SinMDM-page)
+
+- (arXiv 2023.2) Tri-Perspective View for Vision-Based **3D Semantic Occupancy Prediction**, [[Paper]](https://arxiv.org/pdf/2302.07817.pdf), [[Code]](https://github.com/wzzheng/TPVFormer)
+
+- (arXiv 2023.2) ANSEL Photobot: A **Robot** **Event Photographer** with Semantic Intelligence, [[Paper]](https://arxiv.org/pdf/2302.07931.pdf)
+
+- (arXiv 2023.2) ForceFormer: Exploring Social Force and Transformer for **Pedestrian Trajectory Prediction**, [[Paper]](https://arxiv.org/pdf/2302.07583.pdf)
 
 - (arXiv 2023.2) **Video** Probabilistic **Diffusion** Models in Projected Latent Space, [[Paper]](https://arxiv.org/pdf/2302.07685.pdf)
 
