@@ -63,6 +63,8 @@ Keep updated.
 
 ## Survey
 
+- (arXiv 2023.2) Transformer-based **Generative Adversarial Networks** in Computer Vision: A Comprehensive Survey, [[Paper]](https://arxiv.org/pdf/2302.08641.pdf)
+
 - (arXiv 2023.2) **Knowledge Distillation** in Vision Transformers: A Critical Review, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2302/2302.02108.pdf)
 
 - (arXiv 2023.2) A Survey on **Efficient Training** of Transformers, [[Paper]](https://arxiv.org/pdf/2302.01107.pdf)
@@ -165,13 +167,13 @@ Keep updated.
 
 - (arXiv 2023.2) , [[Paper]](), [[Code]]()
 
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
 - (arXiv 2023.2) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.2) **Fashion Image Retrieval** with Multi-Granular Alignment, [[Paper]](https://arxiv.org/pdf/2302.08902.pdf)
+
+- (arXiv 2023.2) LayoutDiffuse: Adapting Foundational Diffusion Models for **Layout-to-Image Generation**, [[Paper]](https://arxiv.org/pdf/2302.08908.pdf)
+
+- (arXiv 2023.2) CK-Transformer: Commonsense Knowledge Enhanced Transformers for **Referring Expression Comprehension**, [[Paper]](https://arxiv.org/pdf/2302.09027.pdf), [[Code]](https://github.com/FightingFighting/CK-Transformer)
 
 - (arXiv 2023.2) MaskSketch: Unpaired Structure-guided Masked **Image Generation**, [[Paper]](https://arxiv.org/pdf/2302.05496.pdf)
 
