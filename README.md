@@ -63,6 +63,8 @@ Keep updated.
 
 ## Survey
 
+- (arXiv 2023.2) Large-scale **Multi-Modal Pre-trained Models**: A Comprehensive Survey, [[Paper]](https://arxiv.org/pdf/2302.10035.pdf)
+
 - (arXiv 2023.2) Transformer-based **Generative Adversarial Networks** in Computer Vision: A Comprehensive Survey, [[Paper]](https://arxiv.org/pdf/2302.08641.pdf)
 
 - (arXiv 2023.2) **Knowledge Distillation** in Vision Transformers: A Critical Review, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2302/2302.02108.pdf)
@@ -167,7 +169,31 @@ Keep updated.
 
 - (arXiv 2023.2) , [[Paper]](), [[Code]]()
 
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
 - (arXiv 2023.2) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.2) ViTA: A Vision Transformer **Inference Accelerator** for **Edge** Applications, [[Paper]](https://arxiv.org/pdf/2302.09108.pdf)
+
+- (arXiv 2023.2) **Video Action Recognition** Collaborative Learning with Dynamics via PSO-ConvNet Transformer, [[Paper]](https://arxiv.org/pdf/2302.09187.pdf), [[Code]](https://github.com/leonlha/Video-Action-Recognition-via-PSO-ConvNet-Transformer-Collaborative-Learning-with-Dynamics)
+
+- (arXiv 2023.2) A Pilot **Evaluation** of ChatGPT and DALL-E 2 on **Decision Making** and **Spatial Reasoning**, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2302/2302.09068.pdf)
+
+- (arXiv 2023.2) StyLIP: Multi-Scale Style-Conditioned Prompt Learning for **CLIP**-based **Domain Generalization**, [[Paper]](https://arxiv.org/pdf/2302.09251.pdf)
+
+- (arXiv 2023.2) Meta Style Adversarial Training for Cross-Domain **Few-Shot** Learning, [[Paper]](https://arxiv.org/pdf/2302.09309.pdf)
+
+- (arXiv 2023.2) HYNETER: HYBRID NETWORK TRANSFORMER FOR OBJECT **DETECTION**, [[Paper]](https://arxiv.org/pdf/2302.09365.pdf)
+
+- (arXiv 2023.2) STOA-VLP: Spatial-Temporal Modeling of Object and Action for **Video-Language** Pre-training, [[Paper]](https://arxiv.org/pdf/2302.09736.pdf)
+
+- (arXiv 2023.2) Constraint and Union for Partially-Supervised **Temporal Sentence Grounding**, [[Paper]](https://arxiv.org/pdf/2302.09850.pdf)
+
+- (arXiv 2023.2) STB-VMM: Swin Transformer Based **Video Motion Magnification**, [[Paper]](https://arxiv.org/pdf/2302.10001.pdf)
 
 - (arXiv 2023.2) **Fashion Image Retrieval** with Multi-Granular Alignment, [[Paper]](https://arxiv.org/pdf/2302.08902.pdf)
 
