@@ -163,19 +163,19 @@ Keep updated.
 
 - (arXiv 2023.2) , [[Paper]](), [[Code]]()
 
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
 - (arXiv 2023.2) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.2) **Lightweight** Real-time Semantic **Segmentation** Network with Efficient Transformer and CNN, [[Paper]](https://arxiv.org/pdf/2302.10484.pdf), [[Code]](https://github.com/IVIPLab/LETNet)
+
+- (arXiv 2023.2) VIEWCO: DISCOVERING **TEXT-SUPERVISED** **SEGMENTATION** MASKS VIA MULTI-VIEW SEMANTIC CONSISTENCY, [[Paper]](https://arxiv.org/pdf/2302.10307.pdf), [[Code]](https://github.com/pzhren/ViewCo)
+
+- (arXiv 2023.2) CertViT: Certified **Robustness** of Pre-Trained Vision Transformers, [[Paper]](https://arxiv.org/pdf/2302.10287.pdf), [[Code]](https://github.com/sagarverma/transformer-lipschitz)
+
+- (arXiv 2023.2) Paparazzi: A Deep Dive into the Capabilities of Language and Vision Models for **Grounding Viewpoint Descriptions**, [[Paper]](https://arxiv.org/pdf/2302.10282.pdf)
+
+- (arXiv 2023.2) MaskedKD: Efficient **Distillation** of Vision Transformers with **Masked** Images, [[Paper]](https://arxiv.org/pdf/2302.10494.pdf)
+
+- (arXiv 2023.2) A General Visual Representation Guided Framework with Global Affinity for **Weakly Supervised Salient Object Detection**, [[Paper]](https://arxiv.org/pdf/2302.10697.pdf)
 
 - (arXiv 2023.2) ViTA: A Vision Transformer **Inference Accelerator** for **Edge** Applications, [[Paper]](https://arxiv.org/pdf/2302.09108.pdf)
 
