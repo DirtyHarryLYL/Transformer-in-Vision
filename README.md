@@ -5,6 +5,8 @@ Keep updated.
 
 ## Resource
 
+- **ChatGPT** for **Robotics**: Design Principles and Model Abilities, [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2023/02/ChatGPT___Robotics.pdf), [[Code]](https://github.com/microsoft/PromptCraft-Robotics)
+
 - DIFFUSIONDB [[Page]](https://poloclub.github.io/diffusiondb), [[Paper]](https://arxiv.org/pdf/2210.14896.pdf)
 
 - LAION-5B [[Page]](https://laion.ai/laion-5b-a-new-era-of-open-large-scale-multi-modal-datasets/), [[Paper]](https://arxiv.org/pdf/2210.08402.pdf)
