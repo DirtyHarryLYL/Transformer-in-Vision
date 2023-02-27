@@ -65,6 +65,10 @@ Keep updated.
 
 ## Survey
 
+- (arXiv 2023.2) TRANSFORMER-BASED **SENSOR FUSION** FOR **AUTONOMOUS DRIVING**: A SURVEY, [[Paper]](https://arxiv.org/pdf/2302.11481.pdf), [[Page]](https://github.com/ApoorvRoboticist/Transformers-Sensor-Fusion)
+
+- (arXiv 2023.2) Deep Learning for **Video-Text Retrieval**: a Review, [[Paper]](https://arxiv.org/pdf/2302.12552.pdf)
+
 - (arXiv 2023.2) Large-scale **Multi-Modal Pre-trained Models**: A Comprehensive Survey, [[Paper]](https://arxiv.org/pdf/2302.10035.pdf)
 
 - (arXiv 2023.2) Transformer-based **Generative Adversarial Networks** in Computer Vision: A Comprehensive Survey, [[Paper]](https://arxiv.org/pdf/2302.08641.pdf)
@@ -165,7 +169,47 @@ Keep updated.
 
 - (arXiv 2023.2) , [[Paper]](), [[Code]]()
 
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
+- (arXiv 2023.2) , [[Paper]](), [[Code]]()
+
 - (arXiv 2023.2) , [[Paper]](), [[Code]]() -->
+
+- (arXiv 2023.2) **Open-domain Visual Entity Recognition**: Towards Recognizing Millions of Wikipedia Entities, [[Paper]](https://arxiv.org/pdf/2302.11154.pdf), [[Code]]()
+
+- (arXiv 2023.2) KS-DETR: Knowledge Sharing in Attention Learning for **Detection** Transformer, [[Paper]](https://arxiv.org/pdf/2302.11208.pdf), [[Code]](https://github.com/edocanonymous/KS-DETR)
+
+- (arXiv 2023.2) HUMAN MOTIONFORMER: **TRANSFERRING** HUMAN **MOTIONS** WITH VISION TRANSFORMERS, [[Paper]](https://arxiv.org/pdf/2302.11306.pdf), [[Code]](https://github.com/KumapowerLIU/Human-MotionFormer)
+
+- (arXiv 2023.2) Aligning **Text-to-Image** Models using **Human Feedback**, [[Paper]](https://arxiv.org/pdf/2302.12192.pdf)
+
+- (arXiv 2023.2) Controlled and Conditional **Text to Image** Generation with Diffusion Prior, [[Paper]](https://arxiv.org/pdf/2302.11710.pdf)
+
+- (arXiv 2023.2) Can Pre-trained Vision and Language Models Answer **Visual Information-Seeking Questions**? [[Paper]](https://arxiv.org/pdf/2302.11713.pdf), [[Code]](https://open-vison-language.github.io/infoseek)
+
+- (arXiv 2023.2) OBJECT-CENTRIC **VIDEO PREDICTION** VIA DECOUPLING OF OBJECT DYNAMICS AND INTERACTIONS, [[Paper]](https://arxiv.org/pdf/2302.11850.pdf), [[Project]](https://sites.google.com/view/ocvp-vp)
+
+- (arXiv 2023.2) Distribution Normalization: An “Effortless” **Test-Time Augmentation** for Contrastively Learned **Visual-language** Models, [[Paper]](https://arxiv.org/pdf/2302.11084.pdf), [[Code]](https://github.com/fengyuli2002/distribution-normalization)
+
+- (arXiv 2023.2) Teaching **CLIP** to **Count** to Ten, [[Paper]](https://arxiv.org/pdf/2302.12066.pdf), [[Project]](https://teaching-clip-to-count.github.io/)
+
+- (arXiv 2023.2) Designing an Encoder for Fast Personalization of **Text-to-Image** Models, [[Paper]](https://arxiv.org/pdf/2302.12228.pdf), [[Project]](https://tuning-encoder.github.io/)
+
+- (arXiv 2023.2) Side Adapter Network for **Open-Vocabulary Semantic Segmentation**, [[Paper]](https://arxiv.org/pdf/2302.12242.pdf), [[Code]](https://github.com/MendelXu/SAN)
+
+- (arXiv 2023.2) Learning Visual Representations via **Language-Guided Sampling**, [[Paper]](https://arxiv.org/pdf/2302.12248.pdf)
+
+- (arXiv 2023.2) VoxFormer: Sparse Voxel Transformer for Camera-based **3D Semantic Scene Completion**, [[Paper]](https://arxiv.org/pdf/2302.12251.pdf), [[Code]](https://github.com/NVlabs/VoxFormer)
+
+- (arXiv 2023.2) Language-Driven Representation Learning for **Robotics**, [[Paper]](https://arxiv.org/pdf/2302.12766.pdf), [[Project]](https://sites.google.com/view/voltron-robotics)
+
+- (arXiv 2023.2) A Convolutional Vision Transformer for **Semantic Segmentation** of Side-Scan **Sonar** Data, [[Paper]](https://arxiv.org/pdf/2302.12416.pdf), [[Code]](https://github.com/hayatrajani/s3seg-vit)
 
 - (arXiv 2023.2) **Lightweight** Real-time Semantic **Segmentation** Network with Efficient Transformer and CNN, [[Paper]](https://arxiv.org/pdf/2302.10484.pdf), [[Code]](https://github.com/IVIPLab/LETNet)
 
