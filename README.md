@@ -181,7 +181,7 @@ Keep updated.
 
 - (arXiv 2023.2) , [[Paper]](), [[Code]]() -->
 
-- (arXiv 2023.2) **Open-domain Visual Entity Recognition**: Towards Recognizing Millions of Wikipedia Entities, [[Paper]](https://arxiv.org/pdf/2302.11154.pdf), [[Code]]()
+- (arXiv 2023.2) **Open-domain Visual Entity Recognition**: Towards Recognizing Millions of Wikipedia Entities, [[Paper]](https://arxiv.org/pdf/2302.11154.pdf)
 
 - (arXiv 2023.2) KS-DETR: Knowledge Sharing in Attention Learning for **Detection** Transformer, [[Paper]](https://arxiv.org/pdf/2302.11208.pdf), [[Code]](https://github.com/edocanonymous/KS-DETR)
 
