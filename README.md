@@ -1,7 +1,7 @@
 # Transformer-in-Vision
 Recent Transformer-based CV and related works. Welcome to comment/contribute!
 
-Keep updated.
+<!-- Keep updated. -->
 
 ## Resource
 
