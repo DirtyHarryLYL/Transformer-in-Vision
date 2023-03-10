@@ -1,5 +1,7 @@
 # Transformer-in-Vision
-Recent Transformer-based CV and related works. Welcome to comment/contribute!
+Recent Transformer-based CV and related works. Welcome to comment/contribute! 
+
+New Hope: [LLM-in-Vision](https://github.com/DirtyHarryLYL/LLM-in-Vision)
 
 <!-- Keep updated. -->
 
