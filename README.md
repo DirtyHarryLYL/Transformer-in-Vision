@@ -153,35 +153,11 @@ New Hope: [LLM-in-Vision](https://github.com/DirtyHarryLYL/LLM-in-Vision)
 
 ## Recent Papers
 
+### 2023.5
+
+- (arXiv 2023.5) Understanding Gaussian **Attention** Bias of Vision Transformers Using Effective Receptive Fields, [[Paper]](https://arxiv.org/pdf/2305.04722.pdf)
+
 ### 2023.2
-
-<!-- - (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.2) , [[Paper]](), [[Code]]()
-
-- (arXiv 2023.2) , [[Paper]](), [[Code]]() -->
 
 - (arXiv 2023.2) **Open-domain Visual Entity Recognition**: Towards Recognizing Millions of Wikipedia Entities, [[Paper]](https://arxiv.org/pdf/2302.11154.pdf)
 
