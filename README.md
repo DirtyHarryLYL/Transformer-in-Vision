@@ -157,6 +157,10 @@ New Hope: [LLM-in-Vision](https://github.com/DirtyHarryLYL/LLM-in-Vision)
 
 - (arXiv 2023.5) Understanding Gaussian **Attention** Bias of Vision Transformers Using Effective Receptive Fields, [[Paper]](https://arxiv.org/pdf/2305.04722.pdf)
 
+### 2023.3
+
+- (arXiv 2023.3) Query-Dependent **Video** Representation for **Moment Retrieval** and **Highlight Detection**, [[Paper]](https://arxiv.org/pdf/2303.13874.pdf), [[Code]](https://github.com/wjun0830/QD-DETR)
+
 ### 2023.2
 
 - (arXiv 2023.2) **Open-domain Visual Entity Recognition**: Towards Recognizing Millions of Wikipedia Entities, [[Paper]](https://arxiv.org/pdf/2302.11154.pdf)
