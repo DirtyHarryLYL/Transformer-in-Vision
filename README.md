@@ -1,7 +1,7 @@
 # Transformer-in-Vision
 Recent Transformer-based CV and related works. Welcome to comment/contribute! 
 
-New Hope: [LLM-in-Vision](https://github.com/DirtyHarryLYL/LLM-in-Vision)
+The transformer is a basic component, adopted in nearly all AI models. New Hope: [LLM-in-Vision](https://github.com/DirtyHarryLYL/LLM-in-Vision)
 
 <!-- Keep updated. -->
 
