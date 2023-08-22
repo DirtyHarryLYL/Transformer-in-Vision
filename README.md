@@ -1,9 +1,9 @@
 # Transformer-in-Vision
 Recent Transformer-based CV and related works. Welcome to comment/contribute! 
 
-The transformer is a basic component, adopted in nearly all AI models. New Hope: [LLM-in-Vision](https://github.com/DirtyHarryLYL/LLM-in-Vision)
+The transformer is now a basic component, adopted in nearly all AI models. Keep updated --> updated irregularly.
 
-<!-- Keep updated. -->
+New Hope: [LLM-in-Vision](https://github.com/DirtyHarryLYL/LLM-in-Vision)
 
 ## Resource
 
@@ -152,6 +152,10 @@ The transformer is a basic component, adopted in nearly all AI models. New Hope:
 - (arXiv 2020.1) **Transformers in Vision**: A Survey, [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
 
 ## Recent Papers
+
+### 2023.8
+
+- (arXiv 2023.8) VL-PET: Vision-and-Language Parameter-**Efficient Tuning** via Granularity Control, [[Paper]](https://arxiv.org/pdf/2308.09804), [[Project]](https://henryhzy.github.io/VL-PET/)
 
 ### 2023.5
 
