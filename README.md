@@ -153,6 +153,48 @@ New Hope: [LLM-in-Vision](https://github.com/DirtyHarryLYL/LLM-in-Vision)
 
 ## Recent Papers
 
+### 2026.10
+
+- (arXiv 2026.10) MJev-Spatial: System One Spatial Intelligence via Native Attention Matching, [[Paper]](https://arxiv.org/abs/2610.22276), [[Code]](https://github.com/Fr0zenCrane/MJev-Spatial)
+
+- (arXiv 2026.10) VideoJev: System One Model for Video Understanding and Interaction, [[Paper]](https://arxiv.org/abs/2610.18615), [[Code]](https://github.com/MCG-NJU/VideoJev)
+
+- (arXiv 2026.10) OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction, [[Paper]](https://arxiv.org/abs/2610.01762), [[Code]](https://github.com/MCG-NJU/OneStreamer)
+
+### 2026.7
+
+- (arXiv 2026.7) TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs, [[Paper]](https://arxiv.org/abs/2607.17423), [[Code]](https://github.com/MCG-NJU/TimeLens2)
+
+- (arXiv 2026.7) VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding, [[Paper]](https://arxiv.org/abs/2607.14935), [[Code]](https://github.com/MCG-NJU/VideoChat3)
+
+### 2026.6
+
+- (arXiv 2026.6) JoyAI-VL-Interaction: Real-Time Vision-Language Interaction Intelligence, [[Paper]](https://arxiv.org/abs/2606.14777), [[Code]](https://github.com/jd-opensource/JoyAI-VL-Interaction)
+
+### 2026.1
+
+- (ICML 2026; arXiv 2026.1) Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning, [[Paper]](https://arxiv.org/abs/2601.23224), [[Published]](https://proceedings.mlr.press/v306/zeng26y.html), [[Code]](https://github.com/MCG-NJU/Video-o3)
+
+### 2025.9
+
+- (ICML 2026; arXiv 2025.9) FreeRet: MLLMs as Training-Free Retrievers, [[Paper]](https://arxiv.org/abs/2509.24621), [[Published]](https://proceedings.mlr.press/v306/zhu26ba.html), [[Code]](https://github.com/MCG-NJU/FreeRet)
+
+### 2025.1
+
+- (SCIS 2026; arXiv 2025.1) Motion-Aware Generative Frame Interpolation, [[Paper]](https://arxiv.org/abs/2501.03699), [[Published]](https://link.springer.com/article/10.1007/s11432-025-4920-3), [[Code]](https://github.com/MCG-NJU/MoG-VFI)
+
+### 2024.8
+
+- (IJCV 2026; arXiv 2024.8) Efficient Test-Time Prompt Tuning for Vision-Language Models, [[Paper]](https://arxiv.org/abs/2408.05775), [[Published]](https://link.springer.com/article/10.1007/s11263-026-03019-3)
+
+### 2024.7
+
+- (NeurIPS 2024; arXiv 2024.7) AWT: Transferring Vision-Language Models via Augmentation, Weighting, and Transportation, [[Paper]](https://arxiv.org/abs/2407.04603), [[Published]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/2d4eaf042567f1c03c086103cc154c1f-Abstract-Conference.html), [[Code]](https://github.com/MCG-NJU/AWT)
+
+### 2024.3
+
+- (CVPR 2024; arXiv 2024.3) Dual DETRs for Multi-Label Temporal Action Detection, [[Paper]](https://arxiv.org/abs/2404.00653), [[Published]](https://openaccess.thecvf.com/content/CVPR2024/html/Zhu_Dual_DETRs_for_Multi-Label_Temporal_Action_Detection_CVPR_2024_paper.html)
+
 ### 2023.8
 
 - (arXiv 2023.8) VL-PET: Vision-and-Language Parameter-**Efficient Tuning** via Granularity Control, [[Paper]](https://arxiv.org/pdf/2308.09804), [[Project]](https://henryhzy.github.io/VL-PET/)
